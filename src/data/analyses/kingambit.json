@@ -1,0 +1,127 @@
+{
+  "id": 983,
+  "name": "kingambit",
+  "nameZh": "仆刀将军",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "<p>Kingambit shines as one of the tier's most dangerous sweepers thanks to its solid STAB combination, superb defensive typing, high Attack stat, access to Swords Dance, and incredible ability in Supreme Overlord. Its access to Sucker Punch allows it to compensate for its low Speed and serve as a potent revenge killer, picking off a wide range of faster targets such as <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. It can also customize its EV spread, item choice, and Tera type selection to tailor itself to what its team desires and overcome many would-be answers. For example, Tera Flying and Air Balloon improve Kingambit's matchup against Ground-types, Tera Fire and Lum Berry let it foil attempted burns from Will-O-Wisp, and Tera Ghost flips its Fighting weakness and turns the tables on Body Press <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>. Thanks to these traits and flexibility, Kingambit is welcomed by nearly every offensive archetype in the tier. However, it is heavily burdened by a crippling weakness to Fighting, as well as common attacking types like Fire and Ground. This leaves it struggling against common threats like Zamazenta and Great Tusk without Terastallizing, and plenty of Pokemon like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, Deoxys-S, and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> often slap on Fighting-type coverage to deal with it. Additionally, these Pokemon, as well as Corviknight and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, often utilize Tera Fighting specifically to turn the tables on Kingambit. Tera Fairy is also commonplace in the tier, as Pokemon like Gholdengo, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and Iron Moth sometimes utilize it in part to avoid being revenge killed by Kingambit's Dark-type attacks. Additionally, Kingambit's low Speed forces it to rely on Sucker Punch to deal with faster teams and play carefully around Encore from foes such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. Relying on Sucker Punch also makes Kingambit vulnerable to well-timed status moves such as Will-O-Wisp, Substitute, and recovery moves from Pokemon like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, Dragapult, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and Iron Moth. The ubiquity of priority moves, such as Raging Bolt's Thunderclap and Dragonite's Extreme Speed, is also an issue for Kingambit's Sucker Punch. On top of this, Kingambit lacks reliable recovery, and it struggles to fit all the moves it wants in one set to threaten targets like Great Tusk, opposing Kingambit, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Kingambit has a few other Tera types that it can make use of. Tera Grass flips the matchup against <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and lets Kingambit set up on Ground-types like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Tera Poison grants Kingambit a Fighting resistance while keeping its immunity to Toxic and has the benefit of absorbing Toxic Spikes for teams that are otherwise at a disadvantage against them. Black Belt can be used on Tera Fighting + Low Kick sets, with the boost in particular letting it 2HKO <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> with five Supreme Overlord boosts. Tera Blast is an option on Tera Flying variants that lets Kingambit smash through Great Tusk, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, Tera Fighting Dondozo, and even <a href=\"/dex/sv/pokemon/okidogi/ou/\" hreflang=\"en\">Okidogi</a> that would otherwise not mind Tera Blast Fairy variants, but it misses out on super effective coverage against <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and Tera Dark <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>. Clear Amulet is another item option to ignore <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>'s Intimidate and disrupt Parting Shot from Pecharunt to stop it from switching out. Thunder Wave can be used to cripple incoming switch-ins, such as Zamazenta and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and it synergizes well with Iron Head's chance to flinch.</p>",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "description": "<p>Its ability to immediately dent Fairy-types and Tera Fairy users such as <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and opposing Kingambit with Iron Head can be forgone for either Low Kick or Tera Blast Fairy. Low Kick gives Kingambit a non-Tera-reliant move to hit <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and opposing Kingambit super effectively while netting crucial benchmarks such as potentially OHKOing <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> at +2, especially because common Fighting-resistant Pokemon like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> want nothing to do with Kingambit; Low Kick should only be used on maximum Speed variants to try and hit opposing Kingambit first. While more Tera-reliant, Tera Blast Fairy hits <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, Hisuian Samurott, Tera Dark Pecharunt, and Tera Fighting <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> super effectively while still netting great neutral coverage against the whole metagame, including the aforementioned Fairy-types and other foes like Kingambit, when paired with its Dark-type STAB moves. Kowtow Cleave can also be dropped for either of the aforementioned coverage moves if need be, but it makes Kingambit struggle to beat neutral walls like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and, without committing to Tera Blast Fairy, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>. Leftovers takes further advantage of its defensive profile and works well with Sucker Punch, as foes attempting to play around it will just grant Kingambit more health. Leftovers is especially more effective on variants running the bulky EV spread. Lum Berry mainly prevents Kingambit from being shut down by a burn from the likes of <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, Alomomola, and Moltres. Black Glasses + Tera Dark should exclusively be used together with Kowtow Cleave, as these propel Kingambit's offensive pressure further; with five Supreme Overlord boosts under its belt, Kingambit can reach feats such as 2HKOing even Dondozo with Kowtow Cleave and OHKOing <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> through Multiscale with Sucker Punch at +2. Air Balloon allows Kingambit to set up on would-be checks in <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and most Great Tusk; become a sturdy switch-in to offensive threats like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and Dragonite that mostly rely on their Ground-type coverage to hit it; and gain an immunity to Spikes, which is one of the ways to limit Kingambit's health before it gets going. The latter reasoning thus makes Heavy-Duty Boots an appealing alternative option to combat entry hazards in general, especially on hazard-stacking teams that lack reliable hazard removers while aiming to play a longer game. Similar to Air Balloon, Shuca Berry can be used instead for its matchup against the aforementioned Ground-types and Ground coverage moves; it gives Kingambit more freedom to take on other attacks before if necessary and it hides Kingambit's item from the opponent at the cost of a complete immunity to Ground, even against Spikes. Tera Ghost flips its Fighting weakness, letting it go toe-to-toe against otherwise solid checks in IronPress users like Corviknight, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and Zamazenta more reliably, especially because it naturally puts fear in the likes of Dragapult and Gholdengo from trying to exploit its newfound Ghost weakness. Defensively, Tera Fairy also gives it an overall good defensive typing, notably letting it take on all-out attacking Zamazenta better while maintaining its Dark resistance against other foes like non-Iron Head Kingambit and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>. Tera Fighting can be used on Low Kick variants, boosting the move to pressure Ting-Lu, Dondozo, and Great Tusk hard. Tera Flying is an option for its complete immunity to Ground moves from checks like Great Tusk and Landorus-T, especially on sets without Air Balloon. Tera Fire provides a burn immunity from foes like Dragapult, Darkrai, and Moltres, even flipping its Fire weakness against the latter and other threats like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. An Adamant nature is preferred, with maximum Speed investment to Speed tie opposing Kingambit; going even further with a Jolly nature gives better odds in winning this interaction, which also helps in outspeeding most variants of Skarmory, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>. A bulkier EV spread further takes advantage of Kingambit's hit-taking abilities, remarkably reaching feats such as surviving +2 <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>'s Ivy Cudgel and two <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> Moonblasts while running just enough Speed for <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>.</p>\n<p>Kingambit's late-game potential and defensive utility make it a near staple on any offensive archetype, ranging from bulky to hyper offense, while still being capable of fitting on balance teams. Physically offensive teammates like Ogerpon-W, Zamazenta, Dragonite, and Swords Dance Iron Valiant are helpful to overwhelm shared checks like Zamazenta, Landorus-T, Moltres, and Dondozo. Simultaneously, special attackers like Calm Mind Iron Valiant, Gholdengo, Dragapult, Iron Moth, Kyurem, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> are similarly helpful to handle and pressure these checks, preventing them from getting free turns to set up or recover health. Additionally, their synergy doesn't stop there, as Zamazenta and some Iron Valiant variants appreciate Kingambit's ability to switch into and threaten Gholdengo and Galarian Slowking; Dragonite can take on Iron Moth and provide a Ground immunity against Landorus-T; Gholdengo can switch into and check Zamazenta for Kingambit; Dragapult can check Zamazenta and bring Kingambit safely via U-turn; and Kyurem and Raging Bolt can threaten and force damage, respectively, onto Kingambit's Ground-type checks in Landorus-T, Great Tusk, and Ting-Lu. Dark-type offensive threats in Darkrai and Hisuian Samurott, in particular, are notable in forming a Dark-type spam core together with Kingambit, which is capable of overwhelming Dark-resistant Pokemon like Zamazenta and Tera Fairy users like Gholdengo, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and Moltres together. Moreover, the aforementioned Hisuian Samurott helps chip foes into Kingambit's KO range with its entry hazards, whether it's softening walls like Ting-Lu or potential revenge killers like Ogerpon-W and Iron Moth into Sucker Punch range; thus, other hazard setters like Landorus-T, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and Ting-Lu are similarly valuable. Defensive pivots like Landorus-T, Zapdos, Pecharunt, and Galarian Slowking are common faces on bulky offense teams that help switch into threats like Cinderace, Landorus-T, Great Tusk, and Zamazenta for Kingambit and are great at bringing it in safely onto the field, especially with Intimidate and Parting Shot to ease its setup; in return, Kingambit helps check Darkrai, Gholdengo, and Dragapult for Galarian Slowking and Pecharunt. Other and more specific offensive playstyles like Sticky Web, dual screens, and the fringe Trick Room can also mesh well with Kingambit. Sticky Web from <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a> and <a href=\"/dex/sv/pokemon/araquanid/ou/\" hreflang=\"en\">Araquanid</a> compensates for Kingambit's low Speed against faster threats like Raging Bolt, Hisuian Samurott, and Great Tusk if Kingambit runs a Jolly nature, even making it less reliant on Sucker Punch mind games. Dual screens from <a href=\"/dex/sv/pokemon/ninetales-alola/ou/\" hreflang=\"en\">Alolan Ninetales</a> give Kingambit an easier time setting up and let it stomach even super effective hits from Iron Moth and Darkrai. Similar to Sticky Web, Trick Room set by teammates like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> can compensate for Kingambit's poor Speed tier, especially against fast foes like Iron Valiant and Encore Ogerpon-W. On balance teams, a sturdier defensive backbone with the likes of Skarmory, Corviknight, Clefable, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and Alomomola is similarly appreciated, as on top of switching into Kingambit's aforementioned checks and revenge killers, they can also set entry hazards and bring it in safely via slow pivots; Alomomola can also provide Kingambit with Wish support, while Gliscor and Clefable can further weaken walls with Knock Off. Outside of its utility set, Swords Dance Gliscor, in particular, is also a strong setup sweeper that complements Kingambit well.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Kowtow Cleave",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Kingambit",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Fairy",
+            "Dark",
+            "Fighting"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "description": "<p>中文配置：仆刀将军 || 招式：剑舞|突袭|仆刀/踢倒|铁头/踢倒 || 道具：吃剩的东西/黑色眼镜/气球 || 特性：大将 || 努力值：252 攻击 / 4 防御 / 252 速度 或 212 HP / 252 攻击 / 44 速度 || 性格：固执/爽朗 || 太晶属性：幽灵/恶/妖精</p>\n<p>凭借其技能池中剑舞、大将和属性一致招式突袭的组合，以及因太晶化而进一步强化的惊人防御面，仆刀将军无疑是环境中最致命、最具两极分化性的进攻威胁和终局清场手。突袭让仆刀将军有办法规避其一个问题，可以以低速来击败分级中更快的进攻威胁，迫使某些铁毒蛾、酋雷姆和厄诡椪-水井面具这样的宝可梦必须处于健康状态才能应对它。此外，其不可思议的属性组合和天然耐久不仅为它提供了多次上场和强化的机会，还允许仆刀将军Check常见的环境标配，如多龙巴鲁托、赛富豪和达克莱伊。仆刀将军的存在甚至迫使所有上述威胁进行调整并运行特定配置来击败它。仆刀或铁头中的任何一个都可以被踢倒替换，这让仆刀将军能效果绝佳地打击洗翠大剑鬼和对方的仆刀将军，同时达到关键的伤害阈值，例如无强化OHKO轰鸣月并在+2攻击时可能OHKO古鼎鹿，特别是因为常见的抗格斗宝可梦如伽勒尔呆呆王和桃歹郎完全不想与仆刀将军纠缠。然而，缺少仆刀会使仆刀将军难以击败像钢铠鸦、保姆曼波和闪电鸟这样的盾牌，而放弃铁头则让它被妖精属性和太晶妖精使用者如皮可西、赛富豪、火焰鸟和对面的仆刀将军完全挡下。踢倒只应用于满速度配置，以尝试先手击中对方的仆刀将军。吃剩的东西进一步利用了其防御面，并与突袭配合良好，因为试图围绕它周旋的对手只会给予仆刀将军更多回复。吃剩的东西在耐久配置上尤其有效。黑色眼镜 + 太晶恶应专门与仆刀一起使用，因为这些能进一步提升仆刀将军的进攻压力；在拥有5层大将加成的情况下，仆刀将军可以达成诸如即使是用仆刀2HKO吃吼霸，以及用突袭OHKO波荡水、轰擂金刚猩和在+2时穿透多重鳞片OHKO快龙等壮举。气球允许仆刀将军在原本的Check：土地云-灵兽和大多数雄伟牙面前强化；成为进攻威胁，如主要依靠地面属性补盲招式打击它的酋雷姆、轰鸣月和快龙的坚固换入；并获得对隐形岩的免疫，这是在仆刀将军启动前限制其HP的方法之一。因此，后一个理由使得厚底靴成为对抗场地伤害削弱具有吸引力的替代选项，特别是在缺乏可靠清除场地伤害削弱手段但旨在进行更长期对局的钉攻队上。木子果主要防止仆刀将军被多龙巴鲁托、达克莱伊、保姆曼波和火焰鸟等宝可梦的灼伤限制，但也可以帮助对抗赛富豪的电磁波和布莉姆温的蹭蹭脸颊。太晶幽灵将其格斗弱点转化为免疫，让它能够更可靠地与原本坚实的Check如使用铁壁扑击的钢铠鸦、盔甲鸟和藏玛然特正面交锋，特别是因为它天然地让多龙巴鲁托和赛富豪等宝可梦不敢尝试利用其新获得的幽灵属性弱点。太晶妖精赋予它一个整体良好的防御属性，显著地让它能更好地应对四攻藏玛然特，同时保持对其他敌人如非铁头仆刀将军、轰鸣月和玛狃拉的恶属性抗性。以过度依赖太晶化为代价，太晶妖精配置也可以运行太晶爆发来效果绝佳地打击藏玛然特和雄伟牙，并且与踢倒类似，重创诸如轰鸣月和洗翠大剑鬼等敌人；恶 + 妖精的组合也至少能有效果地打击环境中的大部分宝可梦。太晶火提供对来自多龙巴鲁托、达克莱伊和火焰鸟等敌人的灼伤免疫，甚至能将对后者以及其他威胁如闪焰王牌和铁毒蛾的火属性弱点转化为抗性。固执性格是首选，但爽朗性格可以与满速度努力值一起使用，以超过大多数盔甲鸟、西狮海壬和来悲粗茶，最坏情况下也能与对方的仆刀将军拼速。更耐久的努力值分配进一步利用了仆刀将军的承伤能力，关键地能够诸如承受+2攻击厄诡椪-水井面具的棘藤棒和两次铁武者的月亮之力等壮举，同时只投入足够的速度来超过幸福蛋。</p>\n<p>仆刀将军的终局潜力和防御效用使其成为任何进攻体系，从平衡攻到HO近乎必备的选择，同时仍然能够融入平衡队。物攻型队友，如厄诡椪-水井面具、藏玛然特、快龙和剑舞铁武者，有助于击溃共享的Check，如藏玛然特、土地云-灵兽、火焰鸟和吃吼霸。同时特攻手如冥想铁武者、赛富豪、多龙巴鲁托、铁毒蛾、酋雷姆和猛雷鼓，同样有助于处理和施压这些Check，防止它们获得免费回合来强化或回复HP。此外，它们的协同作用不止于此，因为藏玛然特和某些铁武者欣赏仆刀将军换场并威胁赛富豪和伽勒尔呆呆王的能力；快龙可以处理铁毒蛾并提供对土地云-灵兽的地面属性免疫；赛富豪可以为仆刀将军换入并Check藏玛然特；多龙巴鲁托可以Check藏玛然特并通过急速折返安全地带入仆刀将军；而酋雷姆和猛雷鼓可以分别威胁并迫使伤害施加到仆刀将军的地面属性Check，土地云-灵兽、雄伟牙和古鼎鹿上。特别是恶属性进攻威胁达克莱伊、轰鸣月和洗翠大剑鬼与仆刀将军形成恶属性联合核心方面值得注意，能够共同击溃抗恶宝可梦如藏玛然特和太晶妖精使用者如赛富豪、盐石巨灵和火焰鸟。此外，前述的洗翠大剑鬼通过其场地伤害削弱帮助将敌人消耗到仆刀将军的击杀范围内，无论是软化像古鼎鹿这样的盾牌，还是将潜在的复仇杀手如厄诡椪-水井面具和铁毒蛾消耗到突袭的范围内；因此，其他撒钉手，如土地云-灵兽、晶光花、代欧奇希斯-速度形态和古鼎鹿，同样有价值。防御型轮转选择，如土地云-灵兽、闪电鸟、桃歹郎和伽勒尔呆呆王，是平衡攻队上的常见面孔，它们帮助换入应对闪焰王牌、土地云-灵兽、雄伟牙和藏玛然特等威胁，并且非常擅长安全地将仆刀将军带上场，特别是通过威吓和抛下狠话来简化其强化；作为回报，仆刀将军帮助Check达克莱伊、赛富豪和多龙巴鲁托，以支援伽勒尔呆呆王和桃歹郎。其他更特定的进攻玩法，如黏黏网、双墙和较为冷门的戏法空间，也可以与仆刀将军很好地融合。来自蝶结萌虻和滴蛛霸的黏黏网弥补了仆刀将军对抗更快威胁如猛雷鼓、洗翠大剑鬼和雄伟牙时的低速问题——如果仆刀将军采用爽朗性格，甚至使其更少依赖突袭的心理博弈。来自阿罗拉九尾的双墙使仆刀将军更容易强化，并让它甚至能承受来自铁毒蛾、轰鸣月和达克莱伊的效果绝佳攻击。与黏黏网类似，由布莉姆温等队友开启的戏法空间可以弥补仆刀将军糟糕的速度线，特别是对抗像铁武者和携带再来一次的厄诡椪-水井面具这样的快速敌人。在平衡队上，同样欣赏更坚固的防御骨干包括盔甲鸟、钢铠鸦、皮可西、天蝎王和保姆曼波，因为除了换入应对仆刀将军的上述Check和复仇杀手外，它们还可以铺设场地伤害削弱并通过慢速轮转安全地带入它；保姆曼波还可以为仆刀将军提供祈愿支援，而天蝎王和皮可西可以通过拍落进一步削弱盾牌。除了其功能型配置外，剑舞天蝎王尤其也是一个强大的强化清场手，与仆刀将军相辅相成。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Kowtow Cleave",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Iron Head",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Kingambit",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Dark",
+            "Fairy"
+          ]
+        }
+      ]
+    }
+  ]
+}

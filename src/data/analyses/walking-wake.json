@@ -1,0 +1,162 @@
+{
+  "id": 1009,
+  "name": "walking-wake",
+  "nameZh": "波荡水",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Sun Wallbreaker",
+          "description": "<p>Choice Specs Walking Wake is a powerful wallbreaker and a staple on sun teams due to its signature Hydro Steam, Protosynthesis, unique offensive typing, and great offensive stats. Draco Meteor is a brutally powerful STAB move that synergizes wonderfully with Hydro Steam, capable of OHKOing Water-resistant Pokemon including the likes of <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, in addition to 2HKOing nearly every Pokemon in the metagame barring Fairy-types such as <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. A Fire coverage gives it a strong attack that takes advantage of the weather, guranteeing OHKOs on bulky variants of <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> that it otherwise couldn't; Flamethrower's less reliance on the weather makes it the better choice, but Weather Ball and its higher power is also a fine alternative. Dragon Pulse can be used in the last slot, which forgoes Draco Meteor's raw power for more consistency; however, Flip Turn allows Walking Wake to generate momentum for its team, taking advantage of switch-ins from the likes of <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, Primarina, and Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> to safely bring in its teammates. Knock Off is an alternative option that allows it to cripple the aforementioned checks, making them easier to overwhelm by itself. A Timid nature and 244 Special Attack EVs give Walking Wake a Speed boost from Protosynthesis while still maximizing its damage output, making it a potent late-game cleaner against offensive teams due to its power coupled with its heightened Speed, letting it outspeed and threaten would-be revenge killers like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Choice Scarf <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Alternatively, Walking Wake can sacrifice the Speed boost for even more power by fully investing in Special Attack, allowing it to break through the likes of Primarina through sheer strength; a Modest nature may also be considered to maximize Walking Wake's damage output, at the cost of being slower than <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and Enamorus. Tera Water boosts its Hydro Steam's power even further, bolstering its cleaning potential against offense while 2HKOing even resistant Pokemon such as <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> after Stealth Rock, and allows Walking Wake to 2HKO even <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> should it opt for a Special Attack boost; however, Tera Fairy could be considered as an alternative, granting it an immunity to Draco Meteor from Dragapult and opposing Walking Wake as well as a resistance to Kingambit's Sucker Punch. While Choice Specs is the prefered item due to the massive increase in damage that they offer, Mystic Water and Wise Glasses are alternatives that trade power for the flexibility to switch up moves.</p>\n<p>Walking Wake is a mainstay on sun teams, requiring either <a href=\"/dex/sv/pokemon/ninetales/ou/\" hreflang=\"en\">Ninetales</a> or <a href=\"/dex/sv/pokemon/torkoal/ou/\" hreflang=\"en\">Torkoal</a> to set the sun with Drought. Ninetales can further support Walking Wake with Encore to punish passive options and allow Walking Wake relatively safe entry and Healing Wish to provide Walking Wake with a second chance to wallbreak or sweep late-game. Torkoal, by comparison, can also set Stealth Rock, which makes defensively answering Walking Wake even more difficult, as checks such as Primarina would repeatedly have to sustain chip damage. <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> are also great teammates for Walking Wake, alleviating the issue of entry hazards limiting its longevity; Hatterene is also capable of forcing out checks such as Toxapex and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, while Great Tusk can check priority revenge killers such as <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and Kingambit. In return, Walking Wake can consistently KO or force out either Pokemon's checks, notably taking on <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> for Great Tusk and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> for Hatterene. <a href=\"/dex/sv/pokemon/lilligant-hisui/ou/\" hreflang=\"en\">Hisuian Lilligant</a> and <a href=\"/dex/sv/pokemon/venusaur/ou/\" hreflang=\"en\">Venusaur</a> can threaten Water-types such as Primarina and Ogerpon-W; both also appreciate Walking Wake blowing holes into the opposing team's defenses, giving them ample opportunity to run off with the game after their checks have been weakened. Lastly, Raging Bolt greatly enjoys Walking Wake's efficiency in dismantling its checks, notably Unaware <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, as doing so enables Raging Bolt to sweep more efficiently in mid- or late-game scenarios.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Hydro Steam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Weather Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dragon Pulse",
+                "type": null
+              },
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Walking Wake",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Boots Attacker",
+          "description": "<p>Walking Wake functions as a decently fast pivot that is able to unleash powerful STAB attacks, force progress on certain Pokemon via Knock Off, and pivot out of bad matchups with Flip Turn. Surf's higher damage output is more valuable against targets like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, which can absorb status effects and Knock Off but cannot reliably switch into Surf unless Terastallized. However, Scald still deals solid damage and can be used to potentially inflict burn, which can cripple certain foes looking to switch into a Water-type move such as <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, Choice Band <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and Assault Vest <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>. Knock Off allows Walking Wake to cripple certain defensive pivots with the switches it forces such as <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>. Knock Off also helps with removing Heavy-Duty Boots from Pokemon such as <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, which can be amazing for entry hazard-stacking structures. Flip Turn allows Walking Wake to keep up momentum versus Pokemon it has already left itemless, as well as chipping switch-ins such as Clefable. Tera Water enhances Walking Wake's damage output further, allowing it to achieve feats such as always OHKOing specially defensive Gliscor after Stealth Rock, always 2HKOing maximum HP Clefable, and more easily 2HKOing threats like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and maximum HP <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>. It can also be used to shed Walking Wake's Fairy and Dragon weaknesses in a pinch. Tera Fairy provides a crucial immunity to Dragon, which can help versus the plethora of relevant Dragon-types that threaten Walking Wake such as Dragapult, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/latios/ou/\" hreflang=\"en\">Latios</a>. Tera Steel can also be used as it provides a similar safety net against opposing Dragon-Types and a crucial resistance to Fairy-type moves such as <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>'s and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>'s Moonblast as well as <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>'s Freeze-Dry.</p>\n<p>Walking Wake finds itself at home on entry hazard-stacking teams, as its ability to forcefully remove Heavy-Duty Boots from some Pokemon is very much appreciated. Hence, Stealth Rock and Spikes-setting Pokemon pair very well with it, such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and Gliscor. Walking Wake's ability to force out and threaten common Knock Off absorbers, such as Gliscor and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, greatly benefits these Pokemon in return. Walking Wake is commonly answered by most Fairy-type Pokemon such as <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, Enamorus, and Primarina, so checks to these threats such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, Pecharunt, Galarian Slowking, and Corviknight are required; the latter three can help pivot in Walking Wake safely. Gholdengo is also an amazing partner, as it can block Defog and Rapid Spin for Walking Wake's teammates, allowing hazard pressure to remain. Other Rapid Spin blockers such as <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a> and Pecharunt are also relevant for this role. Dragapult is another threat to Walking Wake, so Pokemon such as the aforementioned Ting-Lu as well as other checks such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and Garganacl may be utilized. Pokemon commonly found on such archetypes that can check <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> such as Zamazenta and pivot <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> are amazing teammates to have. Ogerpon, in particular, forms a great offensive core with Walking Wake, threatening its checks such as Tera Water Garganacl, Alomomola, and Blissey while still keeping momentum with U-turn. Powerful wallbreakers such as Swords Dance Iron Valiant, Choice Band Zamazenta, and Dragapult also appreciate Walking Wake's ability to force progress against their checks such as Galarian Slowking.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Walking Wake",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Fairy",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Boots Attacker",
+          "description": "<p>Chinese Set: 厚底靴波荡水 || 道具：厚底靴 || 特性：古代活性 || 努力值：4防御/252特攻/252速度 || 太晶属性：水/妖精/钢 || 性格：胆小 || 招式：流星群|冲浪/热水|拍落|快速折返</p>\n<p>波荡水是一名出色的高速中转手，能够倾泻强力的属性一致招式、利用拍落推进游戏进程、并用快速折返从不利对位中脱身。冲浪的高额伤害在面对天蝎王、皮可西和盐石巨灵等敌人时更具优势，这些敌人能够承受异常状态和拍落，且若不进行太晶化就无法换入冲浪。不过热水也能造成可观伤害，还可能导致烧伤，这能够干扰试图换入水属性招式的敌人，像是轰擂金刚猩、讲究头带多龙巴鲁托和突击背心洗翠大剑鬼。拍落能使波荡水削弱换入的敌方盾牌，像是伽勒尔呆呆王、西狮海壬、突击背心保姆曼波和龙卷云-灵兽；还可以移除超坏星和幸福蛋等敌人的厚底靴，能够极大地帮助钉攻队。快速折返能使波荡水在面对已没有道具的敌人时赚取节奏，并磨损换入的皮可西。太晶水能使波荡水的伤害更上一层楼，使其OHKO被隐形岩伤害的特耐天蝎王，稳定2HKO满血皮可西，并能更轻松地2HKO藏玛然特和满血桃歹郎。太晶水也能消除波荡水的妖精属性和龙属性弱点。太晶仙提供了对龙属性的关键免疫，能够在与龙属性敌人对抗时提供帮助，像是多龙巴鲁托、猛雷鼓和拉帝欧斯。太晶钢也能改善龙属性对位，还能使波荡水抵抗妖精属性招式，例如眷恋云和铁武者的月亮之力，还有酋雷姆的冷冻干燥。</p>\n<p>波荡水十分适配钉攻队，其移除厚底靴的能力极受这类队伍的青睐。因此，能够设下隐形岩和撒菱的宝可梦，像是雄伟牙、巨锻匠、古鼎鹿和天蝎王能够与它配合默契。波荡水逼退敌人并威胁天蝎王和钢铠鸦等常见拍落承受者的能力则能很好地回报它们。波荡水难以处理大多数妖精属性敌人，像是布莉姆温、眷恋云和西狮海壬，因此能够check这些威胁的赛富豪、桃歹郎、伽勒尔呆呆王和钢铠鸦是必备的。后三者也可以帮助波荡水安全换入。赛富豪还能为其队友阻止清除浓雾和高速旋转，以便于维持钉子的压力。其他的反高速旋转手，像是来悲粗茶和桃歹郎也适合这一职务。多龙巴鲁托也是波荡水的威胁，因此前面提到的古鼎鹿和仆刀将军与盐石巨灵等check也具有价值。在这种队形中，能够check厄诡椪-水井面具的队友，像是藏玛然特和中转厄诡椪是出色的。厄诡椪还能与波荡水能组成出色的进攻轴，威胁其check例如太晶水盐石巨灵、保姆曼波和幸福蛋，同时能用急速折返赚取节奏。强力的破盾手，例如剑舞铁武者、讲究头带藏玛然特、多龙巴鲁托也欣赏波荡水强行削弱伽勒尔呆呆王等check。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Walking Wake",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Fairy",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ]
+}

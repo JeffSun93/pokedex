@@ -1,0 +1,196 @@
+{
+  "id": 990,
+  "name": "iron-treads",
+  "nameZh": "铁轍迹",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "description": "<p>Iron Treads functions as an excellent entry hazard control option, using its good Speed and access to Stealth Rock and Rapid Spin in order to effectively set and deny hazards while checking important Pokemon such as <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Knock Off can be used in order to remove important items such as Heavy-Duty Boots from would-be defensive switch-ins such as <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, while Ice Spinner is an option in order to hit Flying- and Grass-types that would otherwise switch in such as <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a> for super effective damage. An alternative EV spread of 248 HP / 252 SpD / 8 Spe with a Careful nature can be used as a more defensive utility piece, letting it better check Raging Bolt on some bulkier teams, with 8 Speed EVs allowing Iron Treads to outspeed the aforementioned Raging Bolt. Leftovers can be used to improve Iron Treads's longevity, allowing it to function as a utility piece better; alternatively, Air Balloon enables Iron Treads to switch into Ground-type attacks from foes such as Gliscor, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, Landorus-T, and Dragonite. Clear Amulet is another niche option to block Pecharunt's Parting Shot while also letting Iron Treads ignore Landorus-T's Intimidate. Assault Vest is a niche option that should only be used on teams where Stealth Rock from Iron Treads is not needed; this gives it the much-needed special bulk without compromising its offensive investment and letting it run both Knock Off + Ice Spinner simultaneously. Tera Ghost gives Iron Treads the ability to block Rapid Spin while also providing a useful Fighting immunity for foes such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and Great Tusk.</p>\n<p>Iron Treads fits primarily on bulkier offensive structures where its ability to set and remove entry hazards is greatly appreciated. As Iron Treads functions as an excellent check to Raging Bolt and, when holding an Air Balloon, <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, Pokemon that struggle against these such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and Zamazenta enjoy the defensive utility that Iron Treads provides, as well as its removal of hazards that allows them to come in more times in a game. In return, Zamazenta can break through foes such as <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Hisuian Samurott that Iron Treads could otherwise struggle with, while Hisuian Samurott can form a potent hazard stacking core with it, being able to consistently set Spikes. Iron Treads can also consistently remove hazards, meaning hazard-weak teammates such as Choice Scarf Enamorus and Choice Specs <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> appreciate Iron Treads greatly. In return, Enamorus can beat Fighting-types such as Zamazenta and Great Tusk that Iron Treads would otherwise struggle with, while Kyurem can more easily handle Ground-types such as Landorus-T and Gliscor for it. Iron Treads can often struggle to deal with defensive Flying- and Water-types such as Moltres, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>; Electric-types such as Raging Bolt and Zapdos can deal with them, with Iron Treads in exchange removing hazards for Raging Bolt and preventing Zapdos from being taken advantage of by opposing Raging Bolt. Iron Treads also is forced out by common Fire-types like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, meaning Fire-resistant teammates such as <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and Dragonite are appreciated. Iron Treads and Dragonite can attempt to overwhelm shared checks such as Moltres and Zapdos, with Iron Treads potentially being able to remove their Heavy-Duty Boots, allowing Dragonite to break through far more easily using the Stealth Rock that Iron Treads itself sets. On bulkier teams, Moltres can also be a good partner, as it provides Iron Treads with a good Great Tusk and Zamazenta switch-in, while <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> can also be an effective teammate in order to break through Fire-, Water-, and Ground-types such as Moltres, Great Tusk, Alomomola, Dondozo, and Gliscor for Iron Treads. In return, Iron Treads can remove hazards for the otherwise hazard-prone Ogerpon-W while helping it against Pecharunt, which could otherwise threaten it with Malignant Chain. Iron Treads also often finds itself vulnerable to Fighting-type attacks, meaning teammates such as Gholdengo and Pecharunt are enjoyed in order to answer foes such as Iron Valiant and Zamazenta, with Iron Treads in return beating Raging Bolt and opposing Gholdengo. On some fatter structures, Iron Treads enables teammates such as Alomomola to run items other than Heavy-Duty Boots, with Alomomola in return providing Wish support, helping Iron Treads's poor longevity.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Treads",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Lead",
+          "description": "<p>Iron Treads's solid Speed tier boosted by Quark Drive allows it to reliably set Stealth Rock as well as consistently use Rapid Spin. Acting as a fast lead with Booster Energy, Iron Treads can specialize in either physical attacks, with Ice Spinner as coverage to hit Flying-types like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, or special attacks like Steel Beam as a way to get off heavy damage on bulkier foes like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and potentially give a teammate a free switch-in by KOing itself, which also gives it another way to block Defog and Rapid Spin. A physical Iron Treads can use Earthquake to take on <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> to prevent it from boosting with Calm Mind, whereas Special Iron Treads can use Earth Power to stop <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> from blocking Rapid Spin. On either set, Iron Treads should always use a Speed-boosting nature to ensure a Speed boost from Quark Drive. Tera Ghost allows Iron Treads to block Rapid Spin from Great Tusk and opposing Iron Treads, as well as protect it from Fighting-type attacks from Pokemon such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> in a pinch.</p>\n<p>Lead Iron Treads's ability to set entry hazards and keep them off its own side make it an extremely useful trait on offensive teams, especially hazard-stack builds. Zamazenta is one of Iron Treads's premier teammates thanks to the latter's ability to handle many of Zamazenta's checks, walling Raging Bolt while shrugging off Fairy-type attacks from the likes of <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, enabling Zamazenta to act as a setup sweeper with more impunity. Iron Treads can support slower teams thanks to Booster Energy, dealing with faster threats such as <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> and chipping them down to be more easily cleaned up later by powerful teammates like Dragonite. On hazard-stack teams, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> can pile on additional chip damage with Spikes from Ceaseless Edge, and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and Pecharunt can both block hazard removal while handling faster threats that can exploit its weaknesses like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, building a core with Iron Treads that can keep pressure on enemy teams. These hazards support offensive teammates like Dragonite, Iron Valiant, Ogerpon-W, and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>, allowing them to break through opposing structures easier, and in turn, these teammates benefit strongly from Iron Treads's ability to keep entry hazards away with Rapid Spin, allowing them to get away with not running Heavy-Duty Boots. Iron Treads is also a great asset on rain teams, as it absorbs Electric-type moves to protect <a href=\"/dex/sv/pokemon/pelipper/ou/\" hreflang=\"en\">Pelipper</a> and acts as speed control for slower wallbreakers like Raging Bolt, outspeeding threats like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and opposing Raging Bolt that would give it trouble.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              },
+              {
+                "move": "Steel Beam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Treads",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "description": "<p>Chinese Set: 辅助铁辙迹 || 招式：隐形岩|地震|拍落/冰旋|高速旋转 || 道具：吃剩的东西/气球 || 特性：夸克充能 || 努力值：252 攻击/4 特防/252 速度 或 248 HP/252 特防/8 速度 || 性格：爽朗/慎重 || 太晶属性：幽灵</p>\n<p>辅助铁辙迹是出色的场地伤害控制手，利用其良好的速度与隐形岩和高速旋转，能有效布置与阻止场地伤害，同时Check猛雷鼓、伽勒尔呆呆王、桃歹郎和赛富豪等重要宝可梦。拍落可用于移除关键道具，例如可能换入的防御型宝可梦如火焰鸟和闪电鸟的厚底靴，而冰旋则是为效果拔群打击可能换入的飞行属性宝可梦如快龙、土地云-灵兽和天蝎王的选项。248 HP / 252 特防 / 8 速度的替代努力值分配搭配慎重性格可用作更偏防御的功用型单位，使其在某些耐久型队伍中更好地Check猛雷鼓，8点速度努力值让铁辙迹能超过前述的猛雷鼓。吃剩的东西可用于提升铁辙迹的续航，使其能更好地发挥功用型单位的作用；另一方面，气球使铁辙迹能换入天蝎王、雄伟牙、土地云-灵兽和快龙等对手的地面属性攻击。而清净坠饰是另一个特殊选项，可阻挡桃歹郎的抛下狠话，同时免疫土地云-灵兽的威吓。也可以选择突击背心以用于更好地应对赛富豪及其他特攻手，太晶幽灵赋予铁辙迹阻挡高速旋转的能力，并提供有用的格斗属性免疫以应对藏玛然特、铁武者和雄伟牙等对手。</p>\n<p>辅助铁辙迹主要适合平衡攻队，其布置与清除场地伤害的能力在此极大地发挥作用。由于铁辙迹能出色地Check猛雷鼓，且在持有气球时也能Check眷恋云，洗翠大剑鬼和藏玛然特等会被它们威胁的宝可梦因此欣赏铁辙迹，以及其清除场地伤害的能力也能提高队友换入的能力。作为回报，藏玛然特能突破铁辙迹难以应对的古鼎鹿和洗翠大剑鬼，而洗翠大剑鬼能够稳定撒菱，与它形成强力的钉攻核心。铁辙迹也能稳定清除场地伤害，这意味着讲究围巾眷恋云和讲究眼镜酋雷姆等弱场地伤害的队友极为青睐铁辙迹。作为回报，眷恋云能击败铁辙迹难以应对的藏玛然特和雄伟牙等格斗属性宝可梦，而酋雷姆能为它轻松处理土地云-灵兽和天蝎王等地面属性宝可梦。铁辙迹通常会被火焰鸟、钢铠鸦、保姆曼波和吃吼霸等防御型飞行属性与水属性宝可梦威胁；而猛雷鼓和闪电鸟等电属性队友能处理它们，而铁辙迹则为猛雷鼓清除场地伤害并防止闪电鸟被对方猛雷鼓利用。铁辙迹也常被闪焰王牌和铁毒蛾等常见火属性宝可梦逼退，这意味着它需要搭配西狮海壬、盐石巨灵和快龙抵抗火属性招式的队友。铁辙迹与快龙可尝试过劳火焰鸟和闪电鸟等共享Check，铁辙迹移除它们的厚底靴，使快龙能利用铁辙迹自身布置的隐形岩更轻松地突破。在较为重视联防的队伍中，火焰鸟也是优秀搭档，它是雄伟牙和藏玛然特良好的换入，而厄诡椪-水井面具也能成为有效队友，为铁辙迹突破火焰鸟、雄伟牙、保姆曼波、吃吼霸和天蝎王等火属性、水属性与地面属性宝可梦。作为回报，铁辙迹能为易受场地伤害影响的厄诡椪-水井面具清除场地伤害，并协助其对战桃歹郎，否则后者可能用邪毒锁链威胁它。铁辙迹也常易受格斗属性攻击威胁，这意味着赛富豪和桃歹郎等队友受欣赏以应对铁武者和藏玛然特等对手，而铁辙迹作为回报能击败猛雷鼓和对方赛富豪。在某些更偏耐久的队伍中，铁辙迹使保姆曼波等队友能携带厚底靴以外的道具，作为回报，保姆曼波可传递许愿，弥补铁辙迹贫瘠的续航。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Treads",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Lead",
+          "description": "<p>Chinese Set: 首发铁辙迹 || 招式：隐形岩|铁蹄光线|大地之力|高速旋转 || 道具：驱劲能量 || 特性：夸克充能 || 努力值：252 特攻/4 特防/252 速度 || 性格：胆小 || 太晶属性：幽灵</p>\n<p>铁辙迹凭借其速度、隐形岩以及用高速旋转清除像晶光花和代欧奇希斯-速度形态这类对手首发设置场地伤害的能力，在钉攻环境中扮演着重要角色，是攻队的优秀首发。它的钢属性可以挡住晶光花的晶光转转，并且它自然快过土地云-T，后者可以使用挑衅来阻止较慢的首发宝可梦设置危害。携带大地之力的特攻配置可以让铁辙迹击倒晶光花而不会触发毒满地，而铁蹄光线的反伤效果则可以阻止雄伟牙的高速旋转、钢铠鸦的清除浓雾，并为队友提供安全的入场机会，同时能威胁布莉姆温，使其不能换入阻挡隐形岩。伏特替换也是一个选择，可以在不自杀的情况下安全地引入队友。驱劲能量的速度提升可以让铁辙迹在面对代欧奇希斯-速度形态时先手设置隐形岩，提供更多使用高速旋转的机会，并使其能够击杀各种原本比它快的宝可梦，特别是闪焰王牌，后者否则可能会在铁辙迹攻击前使用换场。逃脱按钮是一个选项，可以在牺牲钉攻内战MU的情况下，为队伍提供额外的节奏。太晶幽灵可以阻止雄伟牙和对面的铁辙迹使用高速旋转来保持己方场地伤害，并使铁辙迹免疫原本会击倒它的格斗属性招式，包括藏玛然特和铁武者的近身战。</p>\n<p>铁辙迹是进攻型队伍的绝佳队友，例如晴天和雨天队伍，它可以通过清除和设置场地伤害或中转来支持各种清场手。它也能check缺乏气象球的猛雷鼓。像赛富豪和多龙巴鲁托这样的幽灵属性宝可梦提供了高速旋转免疫，增强了队伍的钉攻优势，同时也check铁壁藏玛然特，一个危险的清场手，很容易以铁辙迹为起点强化。除了这些幽灵属性宝可梦之外，快过雄伟牙的妖精、草和水属性宝可梦，包括铁武者、君主蛇和厄诡椪-水井面具，可以迫使雄伟牙不太晶化就无法高速旋转，而且它们也欣赏铁辙迹清钉能力，因为它们大多不会携带厚底靴。仆刀将军也是一个好队友，它是HO队伍的主力，并且欣赏铁辙迹为队友的进攻提供的便利，让仆刀将军能够在后期收割。携带拍落的强化清场手，如铁武者和厄诡椪-水井面具，可以通过移除厚底靴和吃剩的东西等道具来增加隐形岩的伤害，以协助队友突破像吃吼霸和盐石巨灵这样的物盾。当携带逃脱按钮时，铁辙迹在雨天队伍中表现出色，check猛雷鼓和多龙巴鲁托，并确保大嘴鸥和戽斗尖梭可以安全换入，充分利用有限的雨天回合。它在晴天队伍中也可以扮演类似的角色，check猛雷鼓和铁武者，同时弥补煤炭龟掉节奏的劣势，还是第二个清钉手。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Steel Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rapid Spin",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Treads",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ]
+}

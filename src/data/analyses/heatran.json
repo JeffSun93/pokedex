@@ -1,0 +1,212 @@
+{
+  "id": 485,
+  "name": "heatran",
+  "nameZh": "席多蓝恩",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "description": "<p>Heatran is a fearsome wallbreaker capable of easily shutting down defensive teams, leveraging its defensive profile to find multiple opportunities to switch in and wreak havoc. Magma Storm is a powerful Fire-type STAB move that can trap Pokemon like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>. Earth Power allows Heatran to hit Fire-types that would otherwise resist Magma Storm such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a>, and opposing Leftovers Heatran. Taunt completely shuts down recovery from defensive Pokemon that would otherwise withstand its offensive assault such as <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and Blissey, and it allows Heatran to beat each of these Pokemon 1-on-1 in tandem with Magma Storm. Stealth Rock can be considered in the last slot, as Heatran's consistency in forcing switches can give it a free turn to set up Stealth Rock; however, Will-O-Wisp can be used to hinder switch-ins such as <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> that would otherwise freely switch in against Heatran. A Timid nature lets Heatran outspeed and threaten Choice Band <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, in addition to quickly burning Adamant Dragonite with Will-O-Wisp, though a Modest nature could be considered to guarantee an OHKO on bulky <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> variants. Tera Grass flips Heatran's matchup against Water- and Ground-types such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and synergizes very well with Flash Fire; Tera Ghost grants Heatran a crucial Fighting immunity that can help against <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, in addition to blocking Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Leftovers provides Heatran with passive recovery and allows it to stick around over the course of the match; Air Balloon could also be used to provide Heatran with a temporary Ground immunity, letting it safely switch into Landorus-T and opposing Heatran.</p>\n<p>Heatran fits primarily on offense and bulky offense teams where it excels in ripping apart defensive cores for its teammates to exploit. Special sweepers such as <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> greatly enjoy Heatran trapping and removing their checks, particularly Blissey. In return, Primarina discourages Ground-type switch-ins such as Landorus-T and Ting-Lu, while Raging Bolt can force out Water-types like <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> and Hisuian Samurott. Rillaboom is another fantastic teammate for Heatran that not only provides it with extra passive recovery and more resistance against Earthquake but can form a formidable offensive core with it, with Rillaboom capable of handling Ground- and Water-types such as Great Tusk and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Heatran taking advantage of Rillaboom's switch-ins like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Skeledirge, alongside setting Stealth Rock to spread chip damage for both itself and Rillaboom. Additionally, some of Rillaboom's teammates like <a href=\"/dex/sv/pokemon/hawlucha/ou/\" hreflang=\"en\">Hawlucha</a> and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> appreciate Heatran removing their checks via Magma Storm, allowing them to more easily sweep late-game, while both Pokemon can force out Ground- and Fighting-types like Great Tusk and Zamazenta. Lastly, Heatran enjoys Rapid Spin support from Great Tusk removing entry hazards that cut into its longevity, and it also enjoys having a check to Dragonite. In exchange, Heatran can easily switch in on and threaten Pokemon such as <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and Calm Mind <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> that Great Tusk struggles against.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Heatran",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Specially Defensive",
+          "description": "<p>Specially defensive Heatran is a useful glue Pokemon that can stallbreak, set entry hazards, spread status, and check notable special attackers like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Magma Storm in conjunction with Taunt lets Heatran one-on-one walls like Galarian Slowking, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, trapping and preventing them from pivoting and healing in the process. Lava Plume gives it a more reliable STAB move that can cripple checks and would-be switchins like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>. Earth Power is a much-needed coverage move to hit Pokemon like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Toxapex, and opposing Heatran super effectively. Taunt has the added benefit of preventing setup from both slower hazard setters like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Ting-Lu and slower setup sweepers like Terastallized <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. Stealth Rock is an extremely good fit since Heatran threatens common forms of hazard removal like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and prevents <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> from switching. It is also able to punish Hatterene from switching in to deflect Stealth Rock back with Magic Bounce since it is unable to hit Heatran back for any notable damage. If there's another Stealth Rock setter on the team, Will-O-Wisp can be used as a way to spread burns, particularly on sets that forgo Lava Plume, and it most notably lets Heatran neutralize Kingambit safely by bypassing its Sucker Punch. Will-O-Wisp also pairs with Magma Storm quite nicely by stacking up further chip damage. 40 Speed EVs allow Heatran to outspeed Adamant Kingambit so it can secure a Magma Storm or Will-O-Wisp on it before it can retaliate. 4 Defense EVs guarantees Heatran will live an Earthquake from <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. Leftovers gives Heatran much-needed longevity, but Air Balloon is also a good choice to allow Heatran to come in on Ground-types such as <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and Clodsire, especially as they might not have the move to pop the item; makes Heatran immune to Spikes, allowing it to come in much more safely against hazard stacking teams; lets Heatran emergency check Dragonite, non-Close Combat Great Tusk, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Flash Fire gives Heatran a Fire-type immunity to check Iron Moth and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and letting it better handle even the occasional Fire coverage from Dragonite, Kyurem, and, with Air Balloon, Enamorus and its Earth Power. Flame Body threatens burns against contact attackers such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>. Tera Grass allows Heatran to remove its weaknesses to Water- and Ground-type attacks so it can wall Water-types like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and Ogerpon-W and Ground-types like Clodsire, Ting-Lu, and Gliscor. Tera Grass also works well with Flash Fire to mitigate its newfound Fire weakness. Tera Ghost is used to remove its weakness to Fighting-type attacks so it can wall <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, particulary punshing if it runs Flame Body. Tera Ghost also gives it a Normal immunity, preventing Great Tusk from using Rapid Spin on it to remove its Stealth Rock and, if paired with Air Balloon, outright walling Dragonite if its only attacks are Extreme Speed and Earthquake or Fire Punch. Tera Fairy is also worth mentioning as a niche option to check physical attackers like Zamazenta without the Dark weakness from foes like Meowscarada and Hisuian Samurott.</p>\n<p>Heatran is best used on Grassy Terrain bulky offense teams that appreciate its ability to check Fire-types while also being a great progress maker itself. Rillaboom is by far its best teammate, as they both have near-perfect synergy with each other; Rillaboom's Grassy Terrain not only provides additional recovery for it on top of Leftovers, it also weakens Earthquake from common Ground-types like Gliscor and Landorus-T. Rillaboom itself also threatens the Water- and Ground-types that constantly give Heatran trouble, like Gliscor, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and Ogerpon-W, and brings in Heatran safely on its checks like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> and Corviknight with U-turn. In return, Heatran is able to check Fire-types Rillaboom doesn't want to face, like <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> and opposing Heatran. Great Tusk is another stellar teammate since Heatran is extremely weak to entry hazards, so its hazard removal support is much appreciated. Hatterene is a teammate that can prevent hazards from being set up altogether thanks to Magic Bounce and wall Gliscor in Grassy Terrain, which is super useful since Heatran often struggles to check numerous threats consistently when Spikes are on the field. Grassy Terrain sweepers like <a href=\"/dex/sv/pokemon/hawlucha/ou/\" hreflang=\"en\">Hawlucha</a>, Ogerpon-W, and Raging Bolt love Heatran's ability to wear down bulkier Pokemon like Skeledirge, Galarian Slowking, Dondozo, and Ting-Lu so they can clean up late-game. On bulkier teams, Alomomola is a fitting teammate for it since its Wish support allows Heatran to stay alive for a prolonged period of time, and its typing checks common physical Water-types like <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> and Hisuian Samurott. Spikers like Hisuian Samurott, Gliscor, and Ting-Lu all work well with Heatran since they have good synergy typing-wise and their Spikes increases the potency of Magma Storm + Will-O-Wisp pressure. They can also form a hazard stacking core together with Stealth Rock Heatran.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              },
+              {
+                "move": "Lava Plume",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Heatran",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "description": "<p>Chinese Set: 进攻型席多蓝恩 || 招式：熔岩风暴 | 大地之力 | 挑衅 | 隐形岩/磷火 || 道具：吃剩的东西/气球 || 特性：引火 || 太晶属性：草/幽灵 || 努力值：252 特攻 / 4 特防 / 252 速度 || 性格：胆小/慎重</p>\n<p>席多蓝恩是令人畏惧的破盾手，凭借其防御能力可多次换入并大肆破坏耐久型队伍。熔岩风暴是强力的火属性一致招式，能捕获幸福蛋和超坏星。大地之力可打击抵抗熔岩风暴的耐久型火属性宝可梦，比如骨纹巨声鳄、破空焰，以及对方的吃剩的东西席多蓝恩。挑衅彻底封锁伽勒尔呆呆王和幸福蛋等防御型宝可梦的回复手段，使其难以承受席多蓝恩的进攻，并配合熔岩风暴在单挑时击败它们。最后一格可考虑隐形岩，利用席多蓝恩逼换的稳定性获得大量设置机会；但鬼火也能削弱轰鸣月和古鼎鹿等可以自由换入的对手。胆小性格让席多蓝恩超速并威胁讲究头带轰擂金刚猩，同时先手用磷火灼伤固执快龙；慎重性格则可确保OHKO耐久型仆刀将军。太晶草扭转对洗翠大剑鬼和土地云-灵兽等水、地面属性宝可梦的对位劣势，并与引火特性高度协同；太晶幽灵则赋予格斗免疫，便于应对藏玛然特，同时阻挡雄伟牙和铁辙迹的高速旋转。吃剩的东西提供被动回复，让席多蓝恩在对局中可以持续站场；气球则赋予临时地面属性招式免疫，使其能安全换入破空焰和对手的席多蓝恩。</p>\n<p>席多蓝恩主要适合攻队和平衡攻队，擅长撕裂防御核心并为队友创造机会。西狮海壬和猛雷鼓等特攻清场手极度青睐席多蓝恩捕获并移除幸福蛋等Check的能力。作为回报，西狮海壬可以有效威慑土地云-灵兽和古鼎鹿等地面属性宝可梦，而猛雷鼓能逼退戽斗尖梭和洗翠大剑鬼等水属性宝可梦。轰擂金刚猩是席多蓝恩的绝佳搭档，不仅提供额外被动回复和抗地震的能力，还能形成强大进攻核心：轰擂金刚猩应对雄伟牙和厄诡椪-水井面具等地面、水属性宝可梦，席多蓝恩则利用其引诱的钢铠鸦和骨纹巨声鳄，并设置隐形岩逐步削弱对方的宝可梦。此外，摔角鹰人和布莉姆温等轰擂金刚猩的队友也欣赏席多蓝恩通过熔岩风暴移除Check的能力，使其更轻松在后期清场，双方还能共同逼退雄伟牙和藏玛然特等地面、格斗属性威胁。最后，席多蓝恩依赖雄伟牙的高速旋转清除削减续航的场地伤害，并需要快龙Check。作为回报，席多蓝恩能轻松换入并威胁雄伟牙难以应对的魔幻假面喵、玛狃拉和冥想铁武者。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Heatran",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Specially Defensive",
+          "description": "<p>Chinese Set: 特耐席多蓝恩 || 招式：熔岩风暴 | 大地之力 | 挑衅/鬼火 | 隐形岩/鬼火 || 道具：吃剩的东西/气球 || 特性：引火/火焰之躯 || 太晶属性：草/幽灵 || 努力值：252 HP / 4 防御 / 212 特防 / 40 速度 || 性格：冷静</p>\n<p>特殊防御型席多蓝恩是一支极具价值的粘合剂，同时能够消耗对手、设置钉子、散布异常状态，并Check赛富豪、布莉姆温、火神蛾和伽勒尔呆呆王等常见特攻手。大地之力是不可或缺的补盲招式，可效果绝佳地打击对手的席多蓝恩、超坏星、骨纹巨声鳄。挑衅用于封锁超坏星、土王和太晶化骨纹巨声鳄等盾牌回复的企图，阻止伽勒尔呆呆王用冷笑话逃脱熔岩风暴的抓人效果，并防止皮可西、古鼎鹿等低速出钉手以及太晶化后的仆刀将军、西狮海壬等低速强化清场手的企图。隐形岩与席多蓝恩出色的特殊耐久高度契合，它能用强力的熔岩风暴威胁清除浓雾钢铠鸦、阻止高速旋转雄伟牙换入，维持场地伤害。席多蓝恩还能惩罚布莉姆温试图用魔法镜反弹隐形岩的行为，因后者无法对其造成可观伤害。鬼火可以更好地Check轰鸣月、快龙和洗翠大剑鬼等经常换入的物理威胁，反复削弱土王、古鼎鹿和吃吼霸等盾牌，并安全地瘫痪仆刀将军并绕过其突袭。鬼火与熔岩风暴相辅相成，削弱随时间累积。4点防御努力值配合最大HP确保席多蓝恩能硬吃土王的地震。40点速度努力值让席多蓝恩超速固执性格的仆刀将军，在其用仆刀或踢倒复仇前使用熔岩风暴或鬼火。吃剩的东西为席多蓝恩提供回复，在需持续Check多个特攻威胁的对局中尤为实用。然而气球也是优秀选择，可让席多蓝恩换入无补盲的天蝎王、土王，乃至无龙属性招式的破空焰，将其转化为抓人或设置隐形岩的机会。气球还赋予席多蓝恩对撒菱的免疫，使其在面对堆钉队伍时更安全换入，并能在紧急情况下用鬼火Check快龙与健美雄伟牙。引火通常是首选特性，赋予火属性免疫以更好地Check火神蛾与无地震的破空焰；但火焰之躯也颇具可行性，可灼伤玛狃拉、魔幻假面喵和轰擂金刚猩等接触类攻击手。太晶草消除水与地面弱点，使席多蓝恩能阻挡吃吼霸、厄诡椪-水井面具等水属性，以及土王、古鼎鹿、天蝎王等地面属性宝可梦。太晶草与引火配合还能缓解新获得的火属性弱点。太晶幽灵消除格斗弱点，使席多蓝恩能阻挡藏玛然特。太晶幽灵还赋予一般属性免疫，阻止雄伟牙用高速旋转清除其隐形岩；若搭配气球，甚至能完全阻挡仅携带神速、地震或火焰拳的快龙。太晶妖精作为冷门选项值得一提，可更好地Check轰鸣月与破空焰等物理龙属性宝可梦。并能免于来自魔幻假面喵和洗翠大剑鬼的恶属性弱点。</p>\n<p>席多蓝恩最适合青草场地平衡攻队，这些队伍欣赏其在Check火属性宝可梦的同时也能作为优秀的推进者的能力。轰擂金刚猩是其最佳队友，二者拥有近乎完美的协同：轰擂金刚猩的青草场地不仅叠加吃剩的东西提供额外回复，还能削弱天蝎王、土地云-灵兽等常见地面属性宝可梦的地震。轰擂金刚猩本身威胁持续困扰席多蓝恩的水与地面属性，如天蝎王、保姆曼波和厄诡椪-水井面具，并用急速折返安全带入席多蓝恩应对以盔甲鸟、钢铠鸦等Check。作为回报，席多蓝恩能Check轰擂金刚猩不愿面对的火属性宝可梦，如火神蛾、骨纹巨声鳄和对手席多蓝恩。雄伟牙是另一位常见队友，由于席多蓝恩十分害怕场地伤害，其清钉能力备受其青睐。布莉姆温可凭借魔法镜从源头上阻止钉子，并在青草场地下可以阻挡天蝎王，这对席多蓝恩在撒菱在场上时难以持续Check多个威胁时尤为关键。摔角鹰人、厄诡椪-水井面具和猛雷鼓等青草场地清场手青睐席多蓝恩削弱骨纹巨声鳄、伽勒尔呆呆王、吃吼霸和古鼎鹿等耐久型宝可梦的能力，以便在后期清场。在更偏受的队伍中，保姆曼波是合适搭档，其祈愿支持让席多蓝恩长时间存活，其属性也能Check戽斗尖梭与洗翠大剑鬼等常见物攻水属性宝可梦。洗翠大剑鬼、天蝎王和古鼎鹿等撒菱使用者与席多蓝恩属性协同良好，其撒菱增强熔岩风暴+鬼火的压力。它们还能与隐形岩席多蓝恩组成堆钉核心。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Magma Storm",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Heatran",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ]
+}

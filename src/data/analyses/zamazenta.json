@@ -1,0 +1,266 @@
+{
+  "id": 889,
+  "name": "zamazenta",
+  "nameZh": "藏玛然特",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "<p>Zamazenta is the tier's most consistent glue piece and wincon. Its natural bulk alongside a valuable typing, which can be boosted further by Dauntless Shield, let it take on many manner of offensive threats like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, some <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> sets, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> if necessary. It boasts an excellent Speed tier, letting it outspeed most unboosted foes naturally and fulfill a niche as a team's main form of speed controls well. All of these combined with its ability to set up with Iron Defense + Body Press and the immense number of viable Tera types to beat its supposed counterplay lets it sweep teams easily, particularly making it a nightmare for offensive teams to deal with. It also possesses a nuclear Close Combat alongside incredible coverage options, letting it run all-out attacking offensive sets with a boosting item to become an exceptional wallbreaker, capable of 2HKOing even checks like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> with the proper move. A set with Heavy-Duty Boots can be used to blend in longevity without being too passive for bulkier playstyles, providing Zamazenta more ample opportunities to wear down the opposition slowly throughout the course of the game. However, Zamazenta dislikes chip damage from entry hazards when lacking Heavy-Duty Boots and adverse contact effects like Rocky Helmet from Hatterene, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, Static from <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and Flame Body from Moltres, especially as the latter two can render it useless. It also can't carry all the coverage and Tera type it needs, as the aforementioned Zapdos and Moltres as well as other foes like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and Hatterene capable of checking some of its sets. Bulky Ghost-types such as <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>, and Gholdengo are also huge hindrances, particularly for IronPress sets, with even common Pokemon like Kingambit, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and Dragonite capable of running Tera Ghost viably as well to improve their matchup against it. This becomes a bigger issue with common teams running some of the aforementioned Pokemon together, which makes Zamazenta less likely to perform well. Additionally, common occurence of faster threats such as <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Booster Energy <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and Choice Scarf users such as <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and Gholdengo threaten can limit, cripple, or revenge kill it.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Tera Stellar can be a useful alternative on Life Orb sets, offering boosted flexibility, such as netting a surprise OHKO against <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, a 2HKO against <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> with Close Combat, and a 2HKO against defensive <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> with Crunch. Tera Ghost allows Iron Defense Zamazenta to hard check opposing Iron Defense Zamazenta as well as allowing it both spinblocking capabilities and an immunity to <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed. Zamazenta is able to run a Reflect + Light Screen set rather effectively, taking advantage of its naturally high Speed and bulk. Dual screens Zamazenta is typically reserved for hyper offense teams. This set typically favors Steel Beam as one of its last two moveslots to quickly get in a teammate, but it can optionally run Close Combat or Heavy Slam for additional chip damage or Roar to prevent foes from setting up. Assault Vest Zamazenta behaves similarly to Heavy-Duty Boots Zamazenta and can be paired with a reliable spinner such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> to more easily take special attacks from <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a> while minimizing its exposure to entry hazard chip damage. Clear Amulet + Howl is another set that allows Zamazenta to ignore <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>'s Intimidate while setting up with Howl. Clear Amulet has the added utility of blocking Parting Shot from <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and preventing the Speed drop from Sticky Web. Tera Steel  gives Zamazenta an immunity to Pecharunt's Malignant Chain and can be coupled with Iron Head to hit <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and Tera Fairy Dragonite harder. Protective Pads prevents Zamazenta from being chipped via Rocky Helmet from foes such as Corviknight and Pecharunt as well as Rough Skin from <a href=\"/dex/sv/pokemon/garchomp/ou/\" hreflang=\"en\">Garchomp</a>, while protecting both its Speed and offensive potential from Static and Flame Body,  respectively. Lum Berry offers a one-time cure to harmful status effects for sets that are lacking Rest.</p>",
+      "movesets": [
+        {
+          "name": "IronPress",
+          "description": "<p>Zamazenta presents itself as both a defensive backbone and an offensive sweeper with the combination of Iron Defense and Body Press, utilizing its massive bulk and Speed to threaten physical attackers like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>. Crunch is required in order to deal damage to Ghost-types like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>; it also hits <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. The final moveslot can be customized to enhance Zamazenta's sweeping capabilities. Roar lets it phaze other phazers like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> as well as other Iron Defense users like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and opposing Zamazenta. Roar also lets Zamazenta become a emergency check against potent sweepers like Ogerpon-W and Kingambit, with the added bonus of remove Booster Energy's boost from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Bulk Up Great Tusk. It particularly works on entry hazard-stacking teams, letting Zamazenta wear down checks like <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Rest alongside Chesto Berry lets Zamazenta gain back its health instantly while removing any status inflicted beforehand, letting Zamazenta play much more aggressively against foes that rely on slowly wearing it down such as Toxic <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Substitute is used to avoid status like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>'s Will-O-Wisp; it also has the added bonus of blocking <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>'s Salt Cure and sponging Future Sight from Galarian Slowking, making Zamazenta even harder to deal damage to. Heavy Slam is used to deal damage to Fairy-types like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, which would otherwise be extremely difficult for Zamazenta to get past. Stone Edge is another option to deal heavy damage to Moltes, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>. Leftovers is used to let Zamazenta have solid passive recovery, making it hard to wear down quickly. The given EV spread allows Zamazenta to outspeed Adamant <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> after a Dragon Dance while putting the rest into its HP and Defense. Alternatively, a spread of 4 Atk / 252 Def / 252 Spe with a Jolly nature can be used alongside Roar to at worst Speed tie with opposing Zamazenta, letting it phaze them first, while also maximizing the power of Body Press. 124 Atk EVs can also be used to 2HKO offensive Gholdengo with Crunch. Tera Fire is used to be immune to burns from Dragapult and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and gain resistances to Clefable's and Iron Valiant's Moonblasts, as well as Gholdengo's Make It Rain and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>'s Ice Beam. Tera Dark is used to power up Crunch, letting it 2HKO Galarian Slowking and 2HKO offensive Gholdengo, while also gaining an immunity to <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>'s Psycho Boost and Galarian Slowking's Future Sight. Tera Steel is used alongside Heavy Slam to OHKO Enamorus and let Zamazenta resist attacks like Enamorus's Moonblast, Tornadus-T's Bleakwind Storm, and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>'s Future Sight. Tera Electric can be used to let Zamazenta fully take advantage of Zapdos, as it becomes immune to Thunder Wave, while still resisting Gholdengo's Make It Rain and Tornadus-T's Bleakwind Storm.</p>\n<p>Zamazenta works primarily on bulky offense and hyper offense teams, as these teams appreciate both its defensive utility as well as its sweeping capabilities. Physical attackers like Dragonite, Ogerpon-W, and Kingambit are used to overwhelm <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and Galarian Weezing in both Ogerpon-W's and Dragonite's cases and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> in Kingambit's case. These teammates also notably provide their own defensive utility, with Dragonite checking <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and Ceruledge, Ogerpon-W being able to switch into <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, and especially Kingambit handling Pecharunt and Gholdengo with its Ghost resistance. Other Dark-types like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> help pressure Ghost- and Psychic-types for Zamazenta to sweep effectively. Zamazenta is greatly chipped by entry hazards, which can cut into its longevity even with Leftovers over longer games. Thus, Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> are greatly appreciated, and they also notably can threaten Pecharunt and Gholdengo. Iron Treads can handle strong special attackers like Zapdos and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> much better, but Great Tusk's physical bulk helps Zamazenta preserve Dauntless Shield against greater threats such as Kingambit and Dragonite. Strong special attackers like Tornadus-T and Raging Bolt pair well to get rid of physical walls like Moltres, Clefable, and Dondozo, while Zamazenta threatens special tanks like Ting-Lu and Garganacl, with both the combination of Zamazenta and either Raging Bolt or Tornadus-T helping overwhelm Galarian Slowking and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>. On hyper offense, leads such as <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, Deoxys-S, and Hisuian Samurott are able to set hazards for Zamazenta to 2HKO physical tanks or Fighting-resistant foes such as defensive Great Tusk and Primarina with a +2 Body Press after one layer of Spikes. On bulky offense, specially defensive tanks like Galarian Slowking and Ting-Lu are able to keep Zamazenta safe from strong special attackers like Deoxys-S and Iron Moth. Galarian Slowking can switch in and handle Fairy-types like Clefable while also threatening Poison-types like Pecharunt and Galarian Weezing; Zamazenta, in return, threatens out Dark-types like Kingambit and Hisuian Samurott. Ting-Lu can be a solid blanket check against Zapdos while setting its own hazards, wearing down Ghost-types with Ruination, and removing the need to phaze with Zamazenta with Whirlwind, while Zamazenta can threaten Kyurem, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and Ogerpon-W.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Rest",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Zamazenta",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire",
+            "Dark",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Boots Attacker",
+          "description": "<p>With an outstanding Speed tier, fantastic natural bulk and the raw power to match, all-out attacking Heavy-Duty Boots Zamazenta is one of the tier's best natural forms of speed control for bulkier teamstyles while still being a great one-time check to some of the tier's most dominant physical threats like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, especially with Dauntless Shield. A powerful Close Combat is backed up by Crunch to hit Ghost- and Psychic-types such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Stone Edge lets Zamazenta importantly deal massive damage to <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> while ignoring their Flame Body and Static, along with securing a 2HKO on specially defensive <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a>. Heavy Slam hits Fairy-types like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, while Ice Fang is its strongest move against <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, coming with the additional benefit of comfortably 2HKOing <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Roar allows Zamazenta to phaze setup sweepers like Gliscor, Dragonite, and Terastallized Kingambit looking to use it as setup fodder and works well with the entry hazards that the balance teams it fits love to set. Psychic Fangs is a niche option that allows for Zamazenta to hit both <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> while improving its matchup against dual screens hyper offense teams. Heavy-Duty Boots allows for Zamazenta to switch in safely regardless of entry hazards and fully leverage its bulk, allowing for it to come in multiple times over the course of a game. An alternative spread of 88 HP / 252 Atk / 168 Spe, again with a Jolly nature, allows for Zamazenta to still outrun +1 Adamant Dragonite, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> while improving its bulk. This HP investment notably allows for Zamazenta to live <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>'s Moonblast, but the lack of Speed is detrimental for the matchup against opposing Zamazenta. Tera Dark boosts the power of Crunch, which allows Zamazenta to overwhelm would-be checks like Gholdengo and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> more easily. The Psychic immunity is also handy against revenge killers like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. Tera Steel is selected to flip Zamazenta's matchup against Fairy-, Psychic-, and Flying-type attacks from Pokemon like Iron Valiant, Enamorus, Galarian Slowking, and Tera Blast Flying Dragonite while also turning Heavy Slam into a powerful STAB option that cleanly OHKOes both Iron Valiant and Enamorus and providing Zamazenta with an immunity to Toxic from Galarian Slowking. Tera Stellar can instead be considered as an option that gives a one-time boost to all of its moves; this boost is strong enough to allow for Zamazenta to OHKO offensive <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and a slightly chipped Ogerpon-W with Close Combat, while also giving it 2HKOs on both <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/pelipper/ou/\" hreflang=\"en\">Pelipper</a> with Close Combat and Stone Edge, respectively. This also gives Zamazenta a one-time nuke to break through weakened checks like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. However, this comes at the expense of Tera Stellar having no defensive value. Tera Fighting is a more niche option without any defensive merit that Zamazenta can opt to run, only boosting its Close Combat but crucially letting it 2HKO Skarmory after Stealth Rock.</p>\n<p>Zamazenta is a great fit for both balance and offense teams lacking speed control while giving these builds a check to Dark-types like Kingambit, Weavile, <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, and Darkrai. It appreciates entry hazard support to take full advantage of the switches it forces, pairing well with hazard setters such as Skarmory, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and Gliscor on balance and Landorus-T and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> on offense. Zamazenta's ability to check both Weavile and Meowscarada pairs particularly well with Pokemon like Gliscor and Landorus-T; Zamazenta's lack of recovery means that it struggles to switch in consistently on these Pokemon though. This makes bulky pivots like Galarian Slowking and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> much appreciated to allow it safe entry onto the field, the former also providing a much-needed switch-in to Moonblast from Iron Valiant and Enamorus. Galarian Slowking in particular forms a potent combination with Zamazenta, as Zamazenta's Close Combat dissuades Dark- and Steel-types like Ting-Lu and Kingambit from switching into Galarian Slowking's Future Sight, while common switch-ins to Zamazenta such as Gliscor, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Skarmory cannot safely come in and take both hits. Although Zamazenta's Speed tier is impressive by OU standards, it is still outsped by Dragapult, Deoxys-S, and Choice Scarf users like Enamorus and Gholdengo, which are able to threaten it with heavy damage; priority attackers that can revenge kill these faster threats are therefore much appreciated. Kingambit in particular is a strong partner that can switch into Dragapult and Gholdengo and threaten both of these targets along with Deoxys-S with Sucker Punch, while Weavile cannot freely switch into these threats but is able to provide an alternative form of speed control that can also threaten Dragapult and Choice Scarf Enamorus with Ice Shard. With Booster Energy, Iron Valiant is also able to outspeed and threaten Zamazenta with Moonblast; Gholdengo makes for a solid check to Iron Valiant, also being able to come in on Galarian Slowking and Clefable that would live a hit and threaten Zamazenta back. In turn, Gholdengo appreciates Zamazenta's ability to threaten many of its common checks like Kingambit, Weavile, and Meowscarada. <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> also makes for a great partner to pick off Deoxys-S and Iron Valiant with Grassy Glide while weakening shared checks like Skarmory and Corviknight with Knock Off to allow for Zamazenta to freely attack them without taking Rocky Helmet damage. Rillaboom's Grassy Terrain is particularly useful for providing Zamazenta with recovery to help maintain its longevity; Alomomola can similarly help to alleviate this issue by providing Wish support while also appreciating Zamazenta's ability to check Ogerpon-W. Zamazenta is walled by Gliscor and Clodsire without the appropriate coverage, and so switch-ins to these Pokemon such as Gliscor itself and Clefable on balance and Hatterene on offense make valuable partners, along with powerful attackers like Weavile and Meowscarada to directly threaten them out. Zamazenta pressures some of the tier's common physical walls like Great Tusk, Landorus-T, and Skarmory; teammates like Kingambit and Weavile appreciate its ability to weaken these targets.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              },
+              {
+                "move": "Roar",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Zamazenta",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dark",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Offensive Attacker",
+          "description": "<p>Offensive Zamazenta is a powerful wallbreaker in OU, utilizing its high Speed and great bulk to revenge kill a variety of attackers such as <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Crunch hits Dark-weak foes such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> for large damage, being able to 2HKO the former two while 3HKOing the latter. Heavy Slam can hit Fairy-types such as <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> that might otherwise be able to take Zamazenta's attacks and respond back. Stone Edge can hit Flying-types such as <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> and especially <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> that Zamazenta may not want to use contact moves against for large damage, whereas Ice Fang hits <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> for 4x super effective damage while still hitting other Flying-types such as Zapdos for good damage. Life Orb allows Zamazenta to switch up moves while 2HKOing the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and Gholdengo with Close Combat and Crunch, respectively, whereas Choice Band allows Zamazenta to 3HKO <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and OHKO Ogerpon-W with Close Combat while also incurring no recoil to do so. Expert Belt can be used to still allow Zamazenta to deal large damage to the likes of Galarian Slowking, Zapdos, and Hatterene while not having a negative secondary effect. However, it comes at the cost of doing less damage against walls such as <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Great Tusk, and it fails to get the 2HKO on defensive Gholdengo. A Jolly nature allows Zamazenta to outspeed the likes of Darkrai and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, while an Adamant nature allows it to have a very high chance to OHKO <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Calm Mind Hatterene if it is running Choice Band. Tera Dark supercharges the power of Crunch, allowing Choice Band Zamazenta to 2HKO bulky Pecharunt and OHKO <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Tera Dark also gives Zamazenta an immunity to <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>'s Psycho Boost and Galarian Slowking's Future Sight, as well as allowing it to retain its resistance to <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>'s Sucker Punch. Tera Steel allows Zamazenta to OHKO Clefable with Heavy Slam while also resisting Moonblast and Psycho Boost from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Deoxys-S. It also allows Zamazenta to become immune to Pecharunt's Malignant Chain, which forces Pecharunt variants without Foul Play to use Parting Shot more often, which Zamazenta's teammates can take advantage of. Tera Fighting is an option that drastically boosts the power of Close Combat, letting Life Orb sets to 2HKO Corviknight, Choice Band sets to 2HKO <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and, with an Adamant nature, even Dondozo with Leftovers.</p>\n<p>Zamazenta fits on a wide variety of teams, ranging from offense to balance. Ghost-types such as defensive Gholdengo, Pecharunt, and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a> are a big pain for Zamazenta, as while they don't appreciate Crunch, they can switch in easily on any other of its moves. Therefore, Pokemon such as Kingambit, Darkrai, and Choice Scarf Gholdengo are great partners for it, as they can scare out these Ghost-types. Zamazenta can struggle quite a bit with entry hazards, so hazard removal such as <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, Great Tusk, Cinderace, and Corviknight can help alleviate this issue, with the latter two also helping get Zamazenta in with U-turn to start wallbreaking. Similarly, hazard support from options such as Ting-Lu and Landorus-T is heavily appreciated, as they can chip down Pokemon such as Corviknight and opposing Landorus-T that might try to answer Zamazenta. Steel-types such as Gholdengo and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> are great partners for Zamazenta, as they can scare out common Psychic- and Fairy-types that might threaten it out such as Galarian Slowking and Iron Valiant, while in return Zamazenta can help take on Pokemon such as Kingambit and Ting-Lu that they might struggle with. Pivot Pokemon such as Galarian Slowking, Alomomola, and Moltres are great partners, as they allow Zamazenta to get in safely without having to take damage. Additionally, Galarian Slowking can provide Future Sight support to help Zamazenta break defensive cores, Alomomola can keep Zamazenta healthy with Wish or help with Fairy-types such as Iron Valiant if it is running Assault Vest, and Moltres can help against common physical attackers such as Dragonite and Great Tusk that Zamazenta may not be able to immediately threaten. If Zamazenta is not running Ice Fang, then Gliscor and Landorus-T are an immense pain for it; therefore, Pokemon such as Weavile and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> that can threaten them for massive damage are heavily appreciated, and they can take on Pokemon such as Zapdos and Dragonite that Zamazenta may struggle with. Zamazenta can have difficulty against bulkier teams that contain the likes of Alomomola and Pecharunt, as they can typically take its attacks well enough and threaten it back with solid damage; therefore, Pokemon such as Ogerpon-W, Gliscor, and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> can help break these bulkier teams. Ogerpon-W in particular can take advantage of Pokemon such as Dondozo and Alomomola that handle Zamazenta while also helping overwhelm shared checks such as Pecharunt and Zapdos.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Zamazenta",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dark",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Attacker",
+          "description": "<p>Chinese Set: 藏玛然特 || 招式：近身战｜咬碎｜重磅冲撞｜尖石攻击/冰冻牙 || 道具：生命宝珠/讲究头带 || 特性：不屈之盾 || 努力值：252攻击/4特防/252速度 || 性格：爽朗/固执 || 太晶属性：恶/钢</p>\n<p>进攻型藏玛然特是OU环境中强大的破盾手，利用其高速度与出色耐久复仇击杀众多攻击手例如达克莱伊、厄诡椪-水井面具和闪焰王牌。咬碎能重创弱恶属性的对手诸如赛富豪、伽勒尔呆呆王和桃歹郎，能够2HKO前两者并3HKO后者。重磅冲撞可打击妖精属性宝可梦例如布莉姆温、皮可西和伽勒尔双弹瓦斯，否则这些宝可梦可能承受住藏玛然特的攻击并进行反击。尖石攻击能打击飞行属性宝可梦例如闪电鸟，尤其是火焰鸟，因为藏玛然特不希望对这些目标使用接触类招式；而冰冻牙则能对土地云-灵兽、烈咬陆鲨和快龙造成4倍效果绝佳的伤害，同时仍能对闪电鸟等其他飞行属性宝可梦造成可观伤害。生命宝珠允许藏玛然任意切换招式并分别用近身战和咬碎2HKO雄伟牙和赛富豪等目标；而讲究头带则能让藏玛然特用近身战3HKO吃吼霸并OHKO厄诡椪-水井面具且不会受到反伤。达人带也可选用，既能对伽勒尔呆呆王、闪电鸟和布莉姆温等目标造成大量伤害，又不会产生负面副作用，但代价是对钢铠鸦和雄伟牙等盾牌的伤害降低且无法2HKO防御型赛富豪。爽朗性格使藏玛然特能超速达克莱伊和玛狃拉等对手，而固执性格在携带讲究头带时则有极高概率OHKO 古鼎鹿和冥想布莉姆温。太晶恶能增强咬碎的威力，使讲究头带藏玛然特能够2HKO耐久型的桃歹郎并OHKO多龙巴鲁托。太晶恶还让藏玛然特免疫代欧奇希斯-速度形态的精神增压和伽勒尔呆呆王的预知未来，同时保持对仆刀将军击掌奇袭的抗性。太晶钢使藏玛然特能用重磅冲撞OHKO皮可西，同时抵抗铁武者的月亮之力和代欧奇希斯-速度形态的精神增压。它还让藏玛然特免疫桃歹郎的邪毒锁链，这会迫使不带欺诈的桃歹郎更频繁使用抛下狠话，藏玛然特的队友可借此机会获利。</p>\n<p>藏玛然特适配从强攻到平衡等多种队伍类型。例如防御型赛富豪、桃歹郎和来悲粗茶等幽灵属性宝可梦对藏玛然特而言非常棘手，因为它们虽不愿承受咬碎的攻击却能轻易切换抵挡其他任何招式。因此，仆刀将军、达克莱伊和讲究围巾赛富豪等宝可梦是它的优秀队友，它们能威慑这些幽灵属性宝可梦。藏玛然特较为忌惮场地伤害，故铁辙迹、雄伟牙、闪焰王牌和钢铠鸦等清钉手能帮助缓解此问题，后两者还能通过急速折返将藏玛然特安全换上场以开展破盾工作。同样地，古鼎鹿和土地云-灵兽等提供的钉子支援也极具价值，它们能消耗试图对手应对藏玛然特的钢铠鸦和土地云-灵兽等宝可梦。赛富豪和席多蓝恩等钢属性宝可梦是藏玛然特的优秀队友，能威慑常见的超能力和妖精属性威胁例如伽勒尔呆呆王和铁武者；作为回报，藏玛然特能帮助处理仆刀将军和古鼎鹿等它们难以应对的宝可梦。伽勒尔呆呆王、保姆曼波和火焰鸟等轮转手是绝佳搭档，能让藏玛然特无伤安全上场。此外，伽勒尔呆呆王能通过预知未来支援藏玛然特突破防御核心；保姆曼波可通过祈愿维持藏玛然特的HP，或在携带突击背心时协助处理铁武者等妖精属性宝可梦；火焰鸟则能应对快龙和雄伟牙等藏玛然特可能无法立即威胁的常见物攻手。若藏玛然特未携带冰冻牙，土地云-灵兽和烈咬陆鲨会对它造成巨大麻烦；因此，能重创它们的玛狃拉和酋雷姆等宝可梦极具价值，且它们还能处理闪电鸟和快龙等藏玛然特难以应对的宝可梦。藏玛然特难以对抗包含保姆曼波和桃歹郎等宝可梦的受队，因为这些宝可梦通常能较好承受它的攻击并以可观伤害反击；故厄诡椪-水井面具、土地云-灵兽和西狮海壬等宝可梦可帮助突破这些受队。厄诡椪-水井面具尤其能利用吃吼霸和保姆曼波等应对藏玛然特的宝可梦，同时协助突破桃歹郎和闪电鸟等共同Check。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              },
+              {
+                "move": "Ice Fang",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Zamazenta",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dark",
+            "Steel"
+          ]
+        },
+        {
+          "name": "IronPress",
+          "description": "<p>Chinese set: 铁壁扑击藏玛然特||道具: 吃剩的东西 / 零余果||特性: 不屈之盾||努力值: 252 HP / 88 防御 / 168 速度||太晶属性: 火 / 恶 / 钢||性格: 爽朗||招式: 铁壁|扑击|咬碎|吼叫 / 睡觉 / 替身 / 重磅冲撞</p>\n<p>铁壁+扑击的组合使得藏玛然特同时担任防御中流砥柱和攻向清场手, 利用其惊人的耐久和速度以威胁仆刀将军、厄诡椪-水井面具、雄伟牙等物攻手。咬碎能打击赛富豪、多龙巴鲁托、苍炎刃鬼等幽灵属性宝可梦以及伽勒尔呆呆王, 因而成为了必带的招式。最后一个格子则可以携带不同的招式以增强藏玛然特的清场能力。吼叫强迫古鼎鹿等其他强制退场手以及钢铠鸦、对手的藏玛然特等铁壁使用者下场。吼叫还能紧急地check厄诡椪-水井面具、仆刀将军等危险清场手。除此之外, 吼叫还能移除铁武者、健美雄伟牙的驱劲能量带来的强化。尤其是在钉队中, 吼叫能让藏玛然特削弱眷恋云等check。睡觉+零余果的组合能让藏玛然特立刻回到健康状态, 同时移除之前得到的其他异常状态,使藏玛然特更好地应对剧毒天蝎王等依赖于慢慢削弱它的对手。替身可用来避免闪焰王牌的磷火以及其他异常状态。它同时也可封锁盐石巨灵的盐腌并接下伽勒尔呆呆王的预知未来, 使得对方更难对藏玛然特造成伤害。重磅冲撞用来打击皮可西、布莉姆温、伽勒尔双弹瓦斯等藏玛然特本来难以打击的妖精属性宝可梦。尖石攻击是另一个选择, 它能有力打击火焰鸟、闪电鸟、龙卷云-灵兽。吃剩的东西使藏玛然特有了稳定的被动回复, 使其难以被快速削弱。上文给出的努力值分配使藏玛然特超速龙舞过一次的固执快龙, 同时将剩余努力值分配到HP、防御上。作为替代选项, 4 攻击 / 252 防御 / 252 速度加上爽朗性格可以与吼叫搭配, 使藏玛然特最差也能与对手的藏玛然特拼速, 以便先手将其吼叫下场。也可采用124攻击让咬碎2HKO进攻型赛富豪。太晶火属性可以免疫来自多龙巴鲁托的灼伤, 并抵抗皮可西和铁武者的月亮之力,外加赛富豪的淘金潮和酋雷姆的冰冻光束。太晶恶属性能增强咬碎的威力, 以2HKO呆呆王和进攻型赛富豪, 同时免疫代欧奇希斯-速度形态的精神突进和伽勒尔呆呆王的预知未来。太晶钢属性重磅冲撞可以OHKO眷恋云, 并抵抗它的月亮之力、龙卷云-灵兽的枯叶风暴和铁头壳的预知未来。太晶电属性则能安全以闪电鸟为起点, 因其能免疫电磁波, 也能抵抗赛富豪的淘金潮和龙卷云-灵兽的枯叶风暴。\n藏玛然特基本上为平衡攻队、HO队效力, 因为这些队伍重视它的防御效用和推队能力。快龙、厄诡椪-水井面具、仆刀将军能解决桃歹郎、伽勒尔双弹瓦斯, 它可与厄诡椪-水井面具或快龙共同过劳伽勒尔双弹瓦斯, 而与仆刀将军可共同过劳土地云-灵兽。这些队友也有显著的防御效用, 快龙能check铁毒蛾、苍炎刃鬼, 而厄诡椪-水井面具能对保姆曼波、吃吼霸换入。尤其是仆刀将军, 它能解决桃歹郎、赛富豪并抵抗它们的幽灵属性招式。其他恶属性宝可梦如洗翠大剑鬼和达克莱伊能向幽灵属性和超能力属性的宝可梦施压, 帮助藏玛然特有效地清场。藏玛然特会被钉子严重磨损, 这在长对局中会严重影响它的续航, 即使有吃剩的东西提供的回复。因此, 藏玛然特十分重视雄伟牙、铁辙迹等除钉手, 它们还能关键地威胁桃歹郎和赛富豪。铁辙迹可更好地解决闪电鸟、猛雷鼓等特攻手, 但雄伟牙的物耐可以帮助藏玛然特保留不屈之盾, 以对着仆刀将军、快龙等更大的威胁触发它。强力的特攻手如龙卷云-灵兽、猛雷鼓与藏玛然特配对以帮助它击败火焰鸟、皮可西、吃吼霸等物盾。同时, 藏玛然特可威胁古鼎鹿、盐石巨灵等特盾。无论是龙卷云-灵兽还是猛雷鼓都能帮藏玛然特解决伽勒尔呆呆王和西狮海壬。在HO队中晶光花、代欧奇希斯-速度形态、洗翠大剑鬼等队友可撒钉, 帮助藏玛然特在铁壁一次后2HKO踩过一层撒菱的雄伟牙等物盾, 或西狮海壬等抵抗格斗属性招式的宝可梦。在平衡攻队中, 伽勒尔呆呆王、古鼎鹿等特盾能为藏玛然特挡住代欧奇希斯-速度形态、铁毒蛾等强力特攻手。伽勒尔呆呆王还能换挡皮可西等妖精属性宝可梦, 也可对桃歹郎、伽勒尔双弹瓦斯造成威胁。作为回报, 藏玛然特可逼换仆刀将军、洗翠大剑鬼等恶属性宝可梦。古鼎鹿可以完挡闪电鸟, 也能撒出钉子, 并利用大灾难削弱幽灵属性宝可梦。它的吹飞还能帮助藏玛然特强制让对手下场。藏玛然特则能威胁酋雷姆、玛狃拉、厄诡椪-水井面具。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Iron Defense",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Crunch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Rest",
+                "type": null
+              },
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Heavy Slam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Zamazenta",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire",
+            "Dark",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": 937,
+  "name": "ceruledge",
+  "nameZh": "苍炎刃鬼",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "description": "<p>With Swords Dance, Weak Armor, and an excellent STAB combination, Ceruledge is a solid setup sweeper and late-game cleaner. Bitter Blade's additional benefit of allowing Ceruledge to recover HP lets it survive revenge killing attempts and gives it even more setup opportunities. Shadow Sneak allows Ceruledge to finish off faster and weakened foes like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> if Weak Armor hasn't been activated yet. Poltergeist gives Ceruledge a powerful STAB move that hits <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and neutral foes like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Close Combat complements its STAB moves to hit <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, which would otherwise wall it, while giving it a strong nuke against <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. Tera Blast Fairy is an option to hit foes like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and Dragonite super effectively. Solar Blade with Tera Grass can be used on sun teams to hit checks such as Alomomola and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. If Ceruledge opts to run a Jolly nature, it can outspeed <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> as well as, after a Weak Armor boost, +1 <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, but it causes Ceruledge to miss out on KOs Adamant would otherwise net such as guaranteed OHKOing Garganacl with a +2 Close Combat. Life Orb augments Ceruledge's damage output while also working well with Bitter Blade to offset the recoil; in particular, this lets Ceruledge threaten OHKOs against the likes of <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> with +2 Poltergeist. Focus Sash allows Ceruledge to withstand attacks from faster foes such as Great Tusk, Ogerpon-W, and Zamazenta, as well as revenge killing attempts from <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and combines with Weak Armor to outspeed the aforementioned physical attackers on the next turn. Air Balloon and Heavy-Duty Boots are other options that make Ceruledge less reliant on keeping entry hazards off the field, with Air Balloon often forcing Pokemon like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and Great Tusk to hit Ceruledge with U-turn and Ice Spinner respectively, activating Ceruledge's Weak Armor in the process. Tera Ghost enhances the strength of Poltergeist and Shadow Sneak while also allowing Ceruledge to remove its weaknesses to Water- and Ground-type attacks from common foes such as Ogerpon-W and Great Tusk. When running Close Combat, Tera Fighting is recommended to enhance its power, notably letting Ceruledge secure an OHKO on Ting-Lu after a Swords Dance. Tera Fighting also grants Ceruledge a Dark resistance, allowing it to turn the tables on Dark-type foes like Kingambit and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>.</p>\n<p>Ceruledge's offensive tools means it best fits on hyper offense teams where it finds its home as a sweeper that appreciates entry hazards and the presence of other sweepers such as Dragonite, Zamazenta, Gholdengo, and Darkrai. Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> are excellent partners; both offer reliable hazard control to keep Ceruledge's Focus Sash intact, while Ceruledge can eliminate their common checks. Ceruledge also pairs well with hazard setters such as <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> and Hisuian Samurott, which can allow Ceruledge to secure KOs it would fall short of, especially when utilizing a Jolly nature, such as OHKOing Ting-Lu and Garganacl with a +2 non-Tera Fighting Close Combat. Additionally, Ceruledge can deny Rapid Spin from opposing Iron Treads and Great Tusk while threatening <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. Ceruledge generally appreciates special sweepers such as Calm Mind Iron Valiant and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, threatening its checks and counters such as Garganacl and Dragonite. In return, Ceruledge can handle <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, which would otherwise deny a sweep from these special sweepers. Ceruledge is also a consideration on sun teams alongside a setter in <a href=\"/dex/sv/pokemon/ninetales/ou/\" hreflang=\"en\">Ninetales</a> or <a href=\"/dex/sv/pokemon/torkoal/ou/\" hreflang=\"en\">Torkoal</a>, since Ceruledge becomes extremely threatening with sun-boosted Bitter Blade paired with Solar Blade, the latter of which rips apart its usual checks in Great Tusk and Alomomola. <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> and Ceruledge form a nearly unwallable duo, as Walking Wake can deal heavy damage to Pokemon that would otherwise wall Ceruledge like Dragonite and Zamazenta. Other sun partners such as <a href=\"/dex/sv/pokemon/slither-wing/ou/\" hreflang=\"en\">Slither Wing</a> and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> provide pivoting and other utility that can support a Ceruledge sweep. Another hyper offense archetype Ceruledge can fit on is Sticky Web teams with setters like <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a> and <a href=\"/dex/sv/pokemon/araquanid/ou/\" hreflang=\"en\">Araquanid</a>. On these teams, Ceruledge acts as a spinblocker and sweeper that pairs excellently with its previously mentioned teammates.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bitter Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ceruledge",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "description": "<p>Ceruledge is a terrifying sweeper, particularly good against balance teams, with Bulk Up, the longevity from Bitter Blade, and a unique set of traits catered to take advantage of common balance team staples such as <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Shadow Sneak allows Ceruledge to pick off faster targets like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. Taunt shuts down status moves that would otherwise deny a Ceruledge sweep, such as <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>'s Toxic, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>'s and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>'s Roar, and Alomomola's Tickle. It also denies recovery from Garganacl and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>. With Covert Cloak, powerful secondary effects from moves such as Pecharunt's Malignant Chain, Garganacl's Salt Cure, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>'s Psychic Noise and Nuzzle, and, after Ceruledge has Terastallized, Alomomola's Scald are nullified, making it more difficult to wear down Ceruledge. Tera Bug lets Ceruledge take on Ground-types such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and Gliscor while not being weak to their common coverage options. Flash Fire further complements Tera Bug, nullifying its Fire weakness and most sources of burn that would otherwise cripple a Terastallized Ceruledge. The given EV spread lets Ceruledge outspeed Gliscor while maximizing special bulk to complement Bulk Up's Defense boosting.</p>\n<p>Ceruledge is commonly found on hyper offense teams, most notably Aurora Veil teams that have a poor matchup into balance teams. Ceruledge itself is a great support for these hyper offense teams because with Taunt, it denies Defog attempts from <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. With Aurora Veil, Ceruledge is given opportunities to get multiple boosts. Special attackers such as <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and Deoxys-S can apply pressure to <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, which would give Ceruledge trouble. Entry hazard control, provided by the likes of Great Tusk, Iron Treads, and Hatterene, is required to ensure Ceruledge does not get worn down by hazards. In return, Ceruledge can defeat Alomomola, which walls Great Tusk and Iron Treads, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, which gives Hatterene trouble. Other physical attackers, such as Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and Swords Dance Gliscor and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, complement Ceruledge's balance-breaking capabilities by threatening checks to Ceruledge. Dragonite's Multiscale and set variety make it strong into offensive Pokemon that Ceruledge struggles against. It can set up on Ogerpon-W, and both Tera Normal Extreme Speed and Scale Shot variants are exceptional at cleaning up offensive teams. Tera Blast sets, though, have the strongest synergy with Ceruledge, as they are able to surprise threats like Zamazenta. Kyurem can threaten Dragonite and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> with its powerful Icicle Spear, especially after a Dragon Dance boost. Gliscor can take on <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> and Landorus-T, and Ogerpon-W can also break Glimmora while taking on Dondozo with its Grass-type attacks. In return, they all appreciate Ceruledge's ability to beat their checks, such as Gliscor, Garganacl, and Pecharunt. Zamazenta provides speed control, outrunning most of the metagame bar Dragapult and Deoxys-S, allowing it to threaten Darkrai and Ogerpon-W. In return, Ceruledge is a check to Pecharunt and Alomomola, both of which Zamazenta is walled by. Additionally, Knock Off support from the aforementioned Great Tusk, Ogerpon-W, and Gliscor is appreciated to remove Rocky Helmet from Landorus-T and Alomomola that would wear down Ceruledge.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bitter Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ceruledge",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Bug"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "description": "<p>Chinese Set: 剑舞苍炎刃鬼||招式：剑舞|悔念剑|影子偷袭|灵骚/近身战||道具：气势披带||特性：碎裂铠甲||努力值：252 攻击 / 4 特防 / 252 速度||性格：爽朗 / 固执||太晶属性：幽灵 / 格斗</p>\n<p>凭借剑舞、碎裂铠甲和优秀的属性一致招式组合，苍炎刃鬼成为一个爆发型的强化清场手和终盘收割者。剑舞使苍炎刃鬼能够达到多种伤害阈值，例如用悔念剑OHKO厄诡椪-水井面具和用影子偷袭OHKO多龙巴鲁托。悔念剑是一个无缺点的可靠属性一致选择，还具有让苍炎刃鬼回复HP的额外好处，使其能够承受对手尝试复仇杀的行为，并获得更多强化机会。影子偷袭允许苍炎刃鬼在碎裂铠甲尚未激活时收拾掉更快的残血对手，如厄诡椪-水井面具和多龙巴鲁托。灵骚为苍炎刃鬼提供了强大的属性一致招式，使其无需强化即可OHKO伽勒尔呆呆王和进攻型赛富豪；此外，+2攻击时的灵骚极有可能OHKO大多数配置的酋雷姆和桃歹郎配。近身战是一个强力的补盲选择，与悔念剑和影子偷袭组合为苍炎刃鬼提供了完美的环境打击面，使其能够打击会阻挡它的洗翠大剑鬼、轰鸣月和盐石巨灵。在晴天队中，苍炎刃鬼应携带日光刃并太晶草属性，以摧毁其常规Check如保姆曼波和吃吼霸。如果苍炎刃鬼选择爽朗性格，它可以超过赛富豪的速度，并在碎裂铠甲提升后超过+1速度的铁武者和轰鸣月，但这会导致苍炎刃鬼错过固执性格本可获得的KO，例如用+2攻击近身战OHKO盐石巨灵。太晶幽灵增强灵骚和影子偷袭的威力，同时允许苍炎刃鬼消除其对来自雄伟牙、厄诡椪-水井面具和晶光花等常见对手的水属性和地面属性攻击的弱点。当携带近身战时，推荐太晶格斗以增强其威力，使苍炎刃鬼在剑舞后确保OHKO古鼎鹿。太晶格斗还赋予苍炎刃鬼岩石和恶属性抗性，使其能够扭转对仆刀将军和洗翠大剑鬼等恶属性对手的对局，同时减少所受隐形岩的伤害。</p>\n<p>苍炎刃鬼的进攻招式意味着它最适合加入HO队伍，作为清场手欣赏场地伤害及其他清场手如轰鸣月、赛富豪和达克莱伊。雄伟牙和铁辙迹是优秀的搭档；两者都提供可靠的场地控制以保持苍炎刃鬼的气势披带完好，而苍炎刃鬼可以清除它们的常见Check。苍炎刃鬼还与晶光花和洗翠大剑鬼等撒钉手搭配良好，这些撒钉手可以使苍炎刃鬼确保原本无法达成的KO，特别是在使用爽朗性格时，例如用+2攻击非太晶格斗近身战OHKO古鼎鹿和盐石巨灵。此外，苍炎刃鬼可以阻挡对方铁辙迹和雄伟牙的高速旋转，同时威胁钢铠鸦。苍炎刃鬼通常欣赏特殊清场手如冥想铁武者和猛雷鼓，它们威胁其Check和Counter如盐石巨灵和快龙。作为回报，苍炎刃鬼可以处理会阻止这些特殊清场手清场的幸福蛋和伽勒尔呆呆王。苍炎刃鬼也可考虑加入晴天队，与九尾或煤炭龟等设置者搭档，因为苍炎刃鬼在晴天加持的悔念剑与日光刃组合下变得极具威胁，后者能撕裂其常规Check雄伟牙和保姆曼波。波荡水与苍炎刃鬼组成几乎无法阻挡的二人组，因为波荡水可以对阻挡苍炎刃鬼的快龙和藏玛然特等宝可梦造成重创。其他晴天搭档如爬地翅和布莉姆温提供轮转和其他效用，可以支持苍炎刃鬼的清场。另一个苍炎刃鬼可以融入的HO体系是与蝶结萌虻和滴蛛霸等黏黏网设置者组成的黏黏网队伍。在这些队伍中，苍炎刃鬼充当反扫钉手和清场手，与前述队友完美搭配。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bitter Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Poltergeist",
+                "type": null
+              },
+              {
+                "move": "Close Combat",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ceruledge",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "description": "<p>Chinese set: 健美苍炎刃鬼||道具: 密探斗篷||特性: 引火||太晶属性: 虫||努力值: 252 HP / 172 特防 / 84 速度||性格: 慎重||招式: 健美|悔念剑|影子偷袭|挑衅</p>\n<p>苍炎刃鬼是可怕的推队手, 对于平衡队更是如此。健美能同时提升其耐久和力度, 独特的配置使其能在面对盐石巨灵、保姆曼波等普通平衡队的核心时处于优势地位。悔念剑使得未强化的苍炎刃鬼能消耗对方并维持其在整局游戏中的健康。影子偷袭允许苍炎刃鬼处理多龙巴鲁托、代欧奇希斯-速度形态等高速对手。挑衅能封住对手的变化招式, 如天蝎王的剧毒、藏玛然特和火焰鸟的吼叫, 以及保姆曼波的挠痒等。这些招式可能会阻止苍炎刃鬼推队。它还能阻止盐石巨灵、桃歹郎等对手的回复行为。携带密探斗篷可以无视强力的附加效果, 如桃歹郎的邪毒锁链、盐石巨灵的盐腌、布莉姆温的精神噪音和蹭蹭脸颊, 还能在苍炎刃鬼太晶化之后无视保姆曼波热水的灼伤, 让其更难处理苍炎刃鬼。太晶虫属性让苍炎刃鬼能够应对雄伟牙、铁辙迹和天蝎王, 同时还不弱它们常见的补盲招式。引火通过免疫火属性弱点进一步完善了太晶虫属性, 同时其也能防住大部分导致灼伤的招式, 从而防止了太晶化之后的苍炎刃鬼被削弱。给出的努力值分配能让苍炎刃鬼超速天蝎王, 同时也能最大化其特防来为苍炎刃鬼强化物防做补充。</p>\n<p>健美苍炎刃鬼经常在HO队伍中发挥作用, 特别是难以应对平衡队的极光幕队伍。携带挑衅的苍炎刃鬼对上述HO队有很大作用, 因其能阻止对手伽勒尔双弹瓦斯或钢铠鸦使用清除浓雾。有着极光幕的加持，苍炎刃鬼有机会进行多段强化。达克莱伊、代欧奇希斯-速度形态能向吃吼霸、土地云-灵兽施压, 否则这两只宝可梦能给苍炎刃鬼带来麻烦。来自雄伟牙、铁辙迹、布莉姆温的清钉能保证苍炎刃鬼不被钉子削弱。作为回报，苍炎刃鬼可以打击能挡住雄伟牙和铁辙迹的保姆曼波，还有能给布莉姆温带来麻烦的伽勒尔呆呆王。其他的物攻手，如龙之舞快龙、酋雷姆、剑舞天蝎王和厄诡椪-水井面具，能通过威胁苍炎刃鬼的check以加强其突破平衡队的能力。快龙的多重鳞片和其多样的配置让它在面对苍炎刃鬼难以解决的攻向宝可梦时非常强力。它可以在厄诡椪-水井面具面前强化，并且太晶一般+神速和鳞射这两种配置都能较好地清理攻队。尽管如此, 太晶爆发配置的快龙与苍炎刃鬼契合度最高, 因为其能出其不意地打击藏玛然特等威胁。酋雷姆可以使用其强力的招式, 冰锥, 威胁快龙、闪电鸟, 在龙之舞一次之后更是如此。天蝎王可以解决晶光花和土地云-灵兽形态。厄诡椪也可以突破晶光花，同使用其草属性攻击威胁吃吼霸。作为回报, 苍炎刃鬼可以解决它们的check，如天蝎王、盐石巨灵和桃歹郎，这种能力为它们所感激。藏玛然特能提供控速，因其能超速除代欧奇希斯-速度形态和多龙巴鲁托之外的整个环境，允许它威胁达克莱伊和厄诡椪-水井面具。作为回报，苍炎刃鬼可以check能挡住藏玛然特的桃歹郎和保姆曼波。额外地，来自前文提到的雄伟牙、厄诡椪-水井面具、天蝎王的拍落支持受到重视，它们能拍掉土地云-灵兽和保姆曼波的凸凸头盔, 以防止苍炎刃鬼被削弱。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Bulk Up",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Bitter Blade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Sneak",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Taunt",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ceruledge",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Bug"
+          ]
+        }
+      ]
+    }
+  ]
+}

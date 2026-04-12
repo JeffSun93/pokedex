@@ -1,0 +1,458 @@
+{
+  "id": 858,
+  "name": "hatterene",
+  "nameZh": "布莉姆温",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pain Split",
+          "description": "<p>With the combination of Magic Bounce, good physical bulk, and utility options such as Pain Split to stick around longer, Hatterene provides key entry hazard control while checking important threats like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. Psychic Noise is used to block recovery attempts from walls like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, threaten foes through Substitute like Zamazenta and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and temporarily inhibit <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>'s Poison Heal. Draining Kiss is additional recovery and meaningfully chips Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, as well as Dragon-types like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Pain Split allows Hatterene to both gain back health and wear down high-HP walls like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and Ting-Lu while chipping foes like <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> that it can otherwise struggle to damage. Nuzzle lets Hatterene spread paralysis against foes that would otherwise have an easy time switching in like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, giving its teammates more opportunities to capitalize. It also deters sweepers like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Dragonite from setting up in front of it. Rocky Helmet allows Hatterene to punish Rapid Spin attempts from Great Tusk and Iron Treads, and it can also punish Hisuian Samurott's Ceaseless Edge and U-turn from pivots like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Leftovers can also be used to gain additional longevity, making Hatterene even more difficult to take out. Tera Water gives Hatterene an easier matchup against Cinderace while turning its Steel-type weakness into a resistance against Gholdengo and Iron Crown, with the added bonus of letting it more reliably take on <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> and hit it with Nuzzle. 52 Speed EVs are to outspeed Garganacl and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, letting Hatterene use Psychic Noise effectively to block their recovery attempts.</p>\n<p>Hatterene is used on bulky offense and offense teams as an entry hazard control option while improving the matchup against specific foes like Zamazenta. Teammates weak to hazards like Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and non–Heavy-Duty Boots Dragonite appreciate Hatterene being solid hazard control, while Hatterene benefits from their offensive and defensive capabilities like threatening Iron Treads. Assault Vest Tornadus-T is an exceptional partner, aiding Hatterene against threats like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, Gholdengo, and Choice Specs <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Tornadus-T notably helps against Great Tusk, which Hatterene has issues taking repeated hits from. <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> provides a useful switch-in against <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a>, Iron Moth, and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> while also setting its own hazards, with Hatterene in return taking on Zamazenta and Ting-Lu. Both Assault Vest Tornadus-T and Heatran are also able to pressure Hatterene's checks like Galarian Slowking and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. Iron Moth is another teammate that greatly threatens Steel-types like Gholdengo while also absorbing Toxic Spikes that can immensely limit Hatterene's longevity. In return, Hatterene helps keep hazards off the field for Iron Moth. Hatterene struggles to get past Steel-types like Iron Treads, Heatran, and <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, as they are able to threaten it and still set Stealth Rock after it is KOed. Thus, strong Fighting- and Ground-types like Zamazenta, Great Tusk, and Ting-Lu are helpful to maintain hazard superiority. Zamazenta notably appreciates Hatterene for providing a solid Psychic-type switch-in against Deoxys-S and can also run non–Heavy-Duty Boots sets more freely, while Zamazenta can handle Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Ghost-types like Gholdengo and Pecharunt pose a similar threat to Hatterene, so Dark-types like Kingambit and Darkrai are useful to threaten immense damage onto them, while the Dark-types benefit from Hatterene staving off non–Heavy Slam Zamazenta. Additional hazard control options like Great Tusk and Cinderace are heavily appreciated to relieve pressure on Hatterene against certain hazard setters like Hisuian Samurott. Moreover, they also help against Gholdengo and Galarian Slowking, which Hatterene struggles to get past and is threatened by. Ogerpon-W pressures Hatterene's checks like Galarian Slowking and Gholdengo with Knock Off, sets hazards, and pivots Hatterene in with U-turn. Hatterene, in turn, checks physical walls like <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> and Zamazenta, keeps hazards off for Ogerpon-W, and paralyzes faster threats like Cinderace for it to take advantage of.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "description": "<p>With Magic Bounce and the potential for it to snowball out of control with Calm Mind while keeping itself healthy with Draining Kiss, Hatterene makes a great addition to offensive teams looking for a special sweeper and hazard control in one. Its solid defensive stats grant it great matchups against <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and non-Heavy Slam <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and Magic Bounce's additional utility lets Hatterene block disruptive moves like Encore from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, Taunt from <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, Whirlwind from Ting-Lu, and Toxic from <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, making it an even more potent setup sweeper. Psychic Noise is a strong option to punish walls like Gliscor, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, looking to recover in the face of Hatterene. Psyshock targets specially defensive walls on their weaker side, allowing it to break through <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Clodsire while dealing with opposing setup sweepers that boost their Special Defense such as Tera Fairy <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Alternatively, Stored Power lacks the immediate power of Psyshock but can scale heavily with multiple Calm Minds to allow Hatterene to muscle past even Unaware targets like <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a>, Clodsire, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, along with also helping to win the one-on-one against other special setup sweepers in a similar manner to Psyshock. Unfortunately, its STAB combination leaves Hatterene walled by common Steel-types like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, Heatran, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, while the low base power of Draining Kiss allows for <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> to easily stomach a boosted hit. Mystical Fire is a great coverage option that targets Steel-types, in particular helping to weaken Gholdengo's attacks, although this leaves Hatterene unable to hit Heatran; Nuzzle can alternatively be used to spread paralysis onto common switch-ins like Kingambit, Gholdengo, Heatran, and Skeledirge. Leftovers is Hatterene's best option to greatly improve its staying power, allowing it to set up more easily and switch in multiple times over the course of a game to block hazards. On Grassy Terrain teams and particularly with Stored Power, Grassy Seed can be considered to give Hatterene a better chance at immediately sweeping at the expense of being worse at coming in repeatedly, though Leftovers is still a viable option on these builds. The given spread runs enough Speed EVs to outspeed base 35s Pokemon like Garganacl and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, allowing for Hatterene to use a boosted attack before the latter can remove its boosts with Haze, with the remaining EVs invested to maximize physical defense. This allows for Hatterene to dodge the 2HKO from <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>'s Pyro Ball for instance. An alternative spread of 252 HP / 232 Def / 24 Spe can be considered on Nuzzle variants, as the Speed is less necessary when it is able to paralyze foes and so more physical bulk can be invested instead; this spread runs enough Speed to outpace a paralyzed Adamant Kingambit. Tera Water is a great neutral defensive typing that grants Hatterene a resistance to Steel-type attacks from Kingambit and Gholdengo along with allowing it to stay in on Water- and Fire-type attacks from Pokemon like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> while still maintaining its matchup against Great Tusk.</p>\n<p>Calm Mind Hatterene is a great pick on offense teams that appreciate the support against entry hazards, particularly for bulkier offense builds without a dedicated hazard setting lead. One particular form of bulky offense that Hatterene thrives on is Grassy Terrain with <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, with the additional passive recovery from the Terrain being much appreciated to help boost Hatterene's longevity further. In return, Hatterene can keep hazards clear from the field, allowing for teammates like Heatran, Raging Bolt, and Rillaboom itself to opt not to run Heavy-Duty Boots without fearing hazard damage racking up over time. Hatterene fits on far more than Terrain offense though, finding a home on even hyper offense teams alongside hazard setters like <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, and some of its best partners on both bulky offense and hyper offense are offensive hazard-weak Pokemon that would sooner run a boosting item than Heavy-Duty Boots; prime examples of this are Raging Bolt and Ogerpon-W. Though Hatterene has ways of dealing with some of its more problematic matchups, Kingambit and Gholdengo are always an issue for their ability to shrug off its STAB attacks and threaten it with their own; bulky, offensive switch-ins to the former like Great Tusk and Zamazenta can alleviate this issue without dropping offensive pressure, while Kingambit itself can make a strong partner for its ability to come in on Gholdengo along with other Ghost- and Poison-type moves from foes like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Galarian Slowking, the latter of which being one of Hatterene's most prevalent checks with its high Special Defense and resistance to Draining Kiss. In return for Kingambit's positive matchups against these targets, Hatterene resists Fighting-type attacks from Great Tusk, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and Iron Valiant that would typically be directed towards Kingambit. One Pokemon that Hatterene struggles to break through is Heatran, as it takes negligible damage from even a boosted Draining Kiss and can negate Hatterene's Leftovers recovery with Magma Storm's passive damage. If Hatterene has Tera available and has already boosted with multiple Calm Minds as Heatran enters the field, the matchup swings in Hatterene's favour, but Hatterene is notably unable to come in directly on Heatran to prevent it from setting up Stealth Rock. Offensive partners like Hisuian Samurott and Zamazenta can be used as switch-ins to Magma Storm, able to threaten the opposing Heatran out. Although Hatterene is usually sufficient in keeping hazards off of its side of the field, on top of the aforementioned Stealth Rock Heatran matchup, opposing Hisuian Samurott are able to put hazards up with Ceaseless Edge despite losing to Hatterene itself. This makes alternative forms of hazard removal such as Great Tusk and Iron Treads good partners to Hatterene, as they can provide key relief in these matchups for hazard-weak teams that would otherwise be overly reliant on Hatterene.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mystical Fire",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Healing Wish",
+          "description": "<p>Through a coveted combination of Healing Wish, an elite ability in Magic Bounce, and good defensive typing to check foes like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and non-Heavy Slam <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, Hatterene can support its teammates in a way that cannot be fully replicated by anything else. Healing Wish is crucial, as it allows Hatterene to enable support its teammates and give them a second life to put in work; because Hatterene is often paired with sweepers and Terrain or weather setters that enable them, this is often a perfectly acceptable trade to pivot them in safely. Psychic Noise notably lets Hatterene significantly chip bulky foes like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, preventing them from recovering their health. Nuzzle ensures that Hatterene remains far from passive by paralyzing anything bar Ground-types and Electric-types; even <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and opposing Hatterene, which are safe from paralysis from Thunder Wave, are crippled if hit by Nuzzle. Mystical Fire, however, complements Hatterene's STAB moves well by hitting Steel-types super effectively; it also always lowers the opponent's Special Attack, giving it some added utility against threats that can boost their Special Attack like Calm Mind <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Eject Button lets Hatterene act as a pivot, particularly because it complements Magic Bounce perfectly; Hatterene's mere presence on a team will deter opponents from setting entry hazards and using status moves, letting it take on an attack and bring a teammate in safely. Eject Button also has the added benefit of turning the tables on U-turn and Volt Switch users, getting a free momentum while denying their own switch. However, Custap Berry is also an option to take advantage of its propensity to be at low health, compensating for its lack of Speed to gain a free turn against even faster foes. 52 Speed EVs allow Hatterene to outpace base 35s Pokemon like <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> and Garganacl. Tera Steel allows Hatterene to handle Fairy-type attacks from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> more easily so it can punish them with Nuzzle and turns Hatterene's Poison weakness into an immunity, allowing it to take on <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and spinblock <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>. Steel's powerful defensive profile also expands the number of threats Hatterene can safely use Healing Wish against in a pinch, such as Iron Head <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and Galarian Slowking; though very situational, other Tera types like Dark and Flying can accomplish similar goals against different threats like Gholdengo and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> for the former and Great Tusk and Heavy Slam Zamazenta for the latter.</p>\n<p>Healing Wish Hatterene's ability to enable multiple free switches for its teammates makes it a strong choice for offensive teams—particularly teams vulnerable to entry hazards—that need to maximize a limited number of turns. Healing Wish Hatterene is almost mandatory on sun teams, which are often so vulnerable to hazards that its Magic Bounce serves as a strong secondary or even tertiary countermeasure against them; Fire-types such as <a href=\"/dex/sv/pokemon/torkoal/ou/\" hreflang=\"en\">Torkoal</a> and <a href=\"/dex/sv/pokemon/ninetales/ou/\" hreflang=\"en\">Ninetales</a> are especially weak to entry hazards, but even powerful attackers like Choice Specs <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, Black Glasses and Air Balloon Kingambit, and Life Orb <a href=\"/dex/sv/pokemon/venusaur/ou/\" hreflang=\"en\">Venusaur</a> and <a href=\"/dex/sv/pokemon/lilligant-hisui/ou/\" hreflang=\"en\">Hisuian Lilligant</a> can be worn down very quickly with hazard chip. Many of these are also answers to traditional Hatterene checks; powerful offensive threats like Choice Specs Walking Wake and offensive Great Tusk can collectively overwhelm Hatterene checks like Gholdengo, Galarian Slowking, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, which gives Hatterene plenty of opportunities to switch in on a neutral attack and either pivot out with Eject Button or use Healing Wish. Sun teams also greatly appreciate Hatterene's ability to give Torkoal an extra chance to support its team with Drought through Healing Wish, further enable these aforementioned offensive threats with Healing Wish, or spread paralysis with Nuzzle. Hatterene is also useful on rain teams for similar reasons; <a href=\"/dex/sv/pokemon/pelipper/ou/\" hreflang=\"en\">Pelipper</a> greatly appreciates extra opportunities to set Drizzle up through Eject Button or Healing Wish, and teammates like <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> and Raging Bolt appreciate both Hatterene's ability to deny hazards to keep them healthy and the many safe switches it can enable. Hatterene is also a staple on Psychic Terrain teams, which appreciate its ability to give <a href=\"/dex/sv/pokemon/indeedee/ou/\" hreflang=\"en\">Indeedee</a> an extra chance to set up Psychic Terrain or to safely pivot in sweepers like Shell Smash <a href=\"/dex/sv/pokemon/polteageist/ou/\" hreflang=\"en\">Polteageist</a>, offensive <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and Booster Energy <a href=\"/dex/sv/pokemon/iron-boulder/ou/\" hreflang=\"en\">Iron Boulder</a> and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> while wasting as few precious Psychic Terrain turns as possible.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Mystical Fire",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Steel"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "description": "<p>Thanks to its solid bulk, good offensive presence and an amazing ability in Magic Bounce, Assault Vest Hatterene makes for a valuable addition to offense teams, preventing entry hazards from going up while simultaneously checking dangerous offensive threats such as <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. Psyshock is preferred over Psychic thanks to it being able to OHKO <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, doing significantly more damage to the common <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, forcing <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> out, and dealing more damage to Calm Mind sweepers that might attempt to set up on Hatterene, such as <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>. Draining Kiss provides immense utility for Hatterene, giving it valuable recovery and allowing it to be able to trade hits with and potentially beat threats such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> one-on-one. Mystical Fire allows Hatterene to punish Steel-types that may attempt to switch into it, such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, notably 2HKOing all of them, while the guaranteed Special Attack drops can help it deal with strong special attackers like opposing Hatterene that it may otherwise struggle with. Nuzzle allows Hatterene to bring massive utility to its team by being able to consistently paralyze foes, notably also affecting opposing Hatterene and Gholdengo. Alternatively, Future Sight allows for a better matchup against defensive teams, putting pressure on bulky targets that might not be able to effectively tank a Future Sight in combination with attacks from Hatterene's teammates. Another option is Psychic Noise, as it is consistently strong with the added benefit of cutting recovery from the targets, potentially preventing foes such as <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> from walling Hatterene. The given EV spread lets Hatterene outspeed Garganacl and maximizes its offensive prowess while also allowing it to take a +1 Speed Booster Energy Iron Moth's Sludge Wave and OHKO it back as well as survive two Protosynthesis-boosted Raging Bolt Thunderbolts and two Ice Beams from Choice Specs Kyurem. Tera Water and Tera Steel are simply good defensive typings that help Hatterene check threats that might carry Steel- or Poison-type coverage; Tera Water is great for foes such as Iron Moth, <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> while keeping its ability to check Great Tusk and Zamazenta, while Tera Steel brings an immunity to Toxic Spikes and helps Hatterene deal with threats such as <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, Galarian Slowking, and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> better.</p>\n<p>Hatterene fits best on offense teams that are looking for a way to keep entry hazards off their side of the field without needing to rely on removal like Rapid Spin or Defog, and it can provide the team with a way of paralyzing threats or pressuring foes with Future Sight. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, which is unable to equip Heavy-Duty Boots, appreciates Hatterene's ability to keep hazards off the field while at the same time helping deal with threats such as <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and Galarian Slowking that might give Hatterene trouble. Raging Bolt also benefits from hazards being kept off and Hatterene's ability to handle <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Kyurem in a pinch. Zamazenta makes for an incredible partner due to it being capable of handling Kingambit, which can otherwise beat Hatterene with ease, and appreciating hazards being kept away by Hatterene. This allows it to forgo Heavy-Duty Boots in favor of items such as Leftovers and, if running Rest, Chesto Berry, all while providing much-needed speed control due to Hatterene being very slow. Great Tusk benefits from Hatterene being capable of handling threats such as Kyurem and Iron Valiant while itself providing the team with an extra safety measure against hazards thanks to its access to Rapid Spin. This may help massively against teams with <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and Mold Breaker <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a> as their hazard setters, as Great Tusk is simultaneously capable of checking them and other threats such as Kingambit. Alternatively, Cinderace is a good option for hazard control, being noticeably faster than Great Tusk, threatening foes like Gholdengo, Tinkaton, and Iron Crown with Pyro Ball, and returning hazards that might have slipped through Hatterene's Magic Bounce with Court Change. Kingambit is also a great partner, being able to deal with Gholdengo and Galarian Slowking for Hatterene and help check opposing Kingambit if running Low Kick. In addition, Kingambit massively appreciates Hatterene's Nuzzle potentially paralyzing threats Kingambit struggles against such as Iron Valiant and Ogerpon-W while Hatterene itself can check foes like Zamazenta. Dragon Dance Kyurem is another excellent teammate, as it often has to forgo Heavy-Duty Boots in order to run other items and thus is very weak to hazards which can be kept away by Hatterene's Magic Bounce. <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> is worth considering as well thanks to its very high Speed, allowing it to provide speed control, and ability to pressure Gholdengo. Furthermore, Dragapult can cripple threatening physical attackers like Great Tusk, Ogerpon-W, and Heavy Slam Zamazenta, which can muscle through Hatterene if not careful, with Will-O-Wisp while also being able to bring Hatterene into the field with U-turn.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mystical Fire",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Trick Room",
+          "description": "<p>Trick Room Hatterene's primary goal is to set up Trick Room to enable its slow, powerful teammates while keeping them healthy and pivoting via Healing Wish. Its main attribute is access to Magic Bounce, which is useful against entry hazard setters like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> as well as ways to stop Trick Room like Taunt from <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Psychic Noise is preferred thanks to being able to heal block defensive walls like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>. Both Tera Water and Tera Steel share the benefit of saving Hatterene from Steel-type moves like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>'s Iron Head, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>'s Make it Rain, and most importantly <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>'s Tachyon Cutter, which can bypass its Focus Sash. Tera Water has the added benefit of maintaining its neutrality against strong attacks like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>'s Headlong Rush and Landorus-T's Earthquake while resisting <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>'s Pyro Ball. Tera Steel, on the other hand, can save Hatterene against Pokemon like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> if Focus Sash is no longer intact, as well as the common lead <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>. Focus Sash ensures that Hatterene always lives a hit, allowing it to set Trick Room reliably.</p>\n<p>This Hatterene set is an essential member of Trick Room teams, since it compresses hazard denial while also extending the life of its members with Healing Wish. There's no greater partner for Hatterene than <a href=\"/dex/sv/pokemon/ursaluna/ou/\" hreflang=\"en\">Ursaluna</a>, which uses its slow speed and Guts boosted attacks to decimate the opposition including would-be offensive checks like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> as well as foes like Ting-Lu and Iron Crown that Hatterene has a harder time against. Ursaluna's decaying health from Flame Orb also benefits greatly from a second life via Healing Wish. <a href=\"/dex/sv/pokemon/cresselia/ou/\" hreflang=\"en\">Cresselia</a> is a secondary Trick Room setter and can also support the team with Lunar Dance. Trick Room teams struggle with priority, as it bypasses Hatterene's Trick Room. Trick Room teams can use the aforementioned Ursaluna and <a href=\"/dex/sv/pokemon/iron-hands/ou/\" hreflang=\"en\">Iron Hands</a> to tank common priority moves like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed or Kingambit's Sucker Punch; as a bonus, Ursaluna is immune to <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>'s Thunderclap, while Iron Hands is resistant to it. <a href=\"/dex/sv/pokemon/enamorus-therian/ou/\" hreflang=\"en\">Enamorus-T</a> is scared of Thunderclap, but it can still take on Extreme Speed and Sucker Punch with no trouble. Offensive teams can make use of Landorus-T, which punishes contact moves with Rocky Helmet while also having the ability to set up hazards and bring Hatterene and its allies in with U-turn. The biggest annoyance for Hatterene is not a Pokemon, but a move, Protect, because it can stall out the limited Trick Room turns, making its efforts useless. Gliscor, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> are all common users of the move, and the three of them take advantage of healing abilities, items, and moves to run out Trick Room's timer. Steel-types like Iron Crown, Kingambit, and Gholdengo also completely wall Hatterene and OHKO it with STAB moves. On full Trick Room teams, the slow, deadly Iron Hands can threaten Alomomola, Kyurem, and Kingambit, while Gliscor has to be very careful around Ice Punch. Enamorus-T is also a great choice, since it's a massive wallbreaker that can break Steel-types with Earth Power while threatening Gliscor, Alomomola, and Kyurem with powerful Fairy-type STAB moves. Kingambit is grateful for having Hatterene's support, since Healing Wish can let Kingambit purify burns from Will-O-Wisp users like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Cinderace and fully concentrate on breaking. Sucker Punch also means Kingambit can be threatening in and out of Trick Room. This set is not exclusive to full Trick Room teams though, as hyper offense teams often find use of having Hatterene alongside another Trick Room partner to mess with other hyper offense teams trying to outpace each other. Great Tusk can threaten Gliscor while forming a hazard removal duo, easing the stress of Hatterene in denying hazards. This is especially important against <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, which has the unique distinction of having Ceaseless Edge, putting Spikes without caring for Magic Bounce and potentially messing with its Focus Sash and setting up of Trick Room. Ogerpon-W and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> are good partners for Hatterene on hyper offense; Ogerpon-W likes Healing Wish, since its mandatory mask means it's vulnerable to hazards and status, while threatening Alomomola and Gliscor with STAB moves and Kyurem with Play Rough, while Iron Valiant is another great option due to its access to Encore, locking these Pokemon into Protect, allowing it to grab a turn to set up, and it is also quadruple resistant to Dark-types meaning it can potentially get in and punish Hisuian Samurott for using Ceaseless Edge.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "description": "<p>Chinese Set: 突击背心布莉姆温||招式：精神冲击|吸取之吻|魔法火焰|蹭蹭脸颊/预知未来/精神噪音||道具：突击背心||特性：魔法镜||努力值：252 HP / 128 特攻 / 104 特防 / 24 速度||个体值：0 攻击||性格：大胆||太晶属性：水 / 钢</p>\n<p>凭借其坚实的耐久、良好的进攻存在感以及魔法镜这一卓越特性，突击背心布莉姆温成为进攻队伍的宝贵补充，能防止场地伤害的铺设，同时Check猛雷鼓、铁武者和酋雷姆等危险的进攻威胁。精神冲击相比精神强念更受青睐，因为它能OHKO铁毒蛾，对常见的伽勒尔呆呆王造成更高伤害，逼退幸福蛋，并对可能试图在布莉姆温面前强化的冥想清场手如西狮海壬和来悲粗茶造成更多伤害。吸取之吻为布莉姆温提供了巨大的效用，赋予其宝贵的回复能力，使其能够与雄伟牙、藏玛然特和快龙等威胁单挑时击败它们。魔法火焰允许布莉姆温惩罚可能试图换入的钢属性宝可梦，如赛富豪、钢铠鸦和仆刀将军，并且2HKO他们。降低特攻效果可以帮助它应对其他本来难以处理的特殊攻击手，如对方布莉姆温。蹭蹭脸颊通过能有效麻痹对手，为布莉姆温的队伍带来巨大效用，还能影响对方布莉姆温和赛富豪。另一方面，预知未来允许其对防御队伍有更好的对局，对可能无法有效承受预知未来与布莉姆温队友攻击组合的耐久目标施加压力。另一个选项是精神噪音，因为它威力稳定，并有切断目标回复的额外好处， 防止盐石巨灵和吃吼霸等对手阻挡布莉姆温。努力值分配最大化布莉姆温的进攻能力，同时允许其在紧急情况下Check铁毒蛾等威胁，布莉姆温能够承受一次+1攻击的污泥波并回击，以及在讲究眼镜酋雷姆的两发冰冻光束和两发猛雷鼓触发古代活性后的十万伏特中存活；速度努力值确保布莉姆温在用蹭蹭脸颊麻痹固执仆刀将军后能够超速它。太晶水和太晶钢是良好的防御属性，帮助布莉姆温Check可能携带钢或毒属性补盲招式的宝可梦；太晶水对铁毒蛾、波荡水和闪焰王牌等对手效果出色，而太晶钢带来对毒菱的免疫，并帮助布莉姆温更好地应对铁头壳、伽勒尔呆呆王和晶光花等威胁。</p>\n<p>布莉姆温最适合加入那些需要防止场地伤害而不携带高速旋转或清除浓雾等清除手段的进攻队伍，它能提供麻痹威胁或用预知未来施压对手。无法携带厚底靴的厄诡椪-水井面具欣赏布莉姆温保持无场地伤害的能力，同时帮助处理可能给布莉姆温带来麻烦的火焰鸟和伽勒尔呆呆王等威胁。猛雷鼓也受益于场地伤害被限制以及布莉姆温在紧急情况下处理古鼎鹿和酋雷姆的能力。藏玛然特是一个非常优秀的搭档，因为它能够处理仆刀将军（否则仆刀将军可以轻松击败布莉姆温），并欣赏布莉姆温反弹场地伤害。这允许它放弃厚底靴而选择吃剩的东西等道具，如果携带睡觉的话也可以是零余果，同时提供急需的速度控制，因为布莉姆温速度非常慢。雄伟牙受益于布莉姆温能够处理酋雷姆和铁武者等威胁，而自身通过高速旋转为队伍提供额外的清除场地伤害。这可能对拥有洗翠大剑鬼、铁辙迹和破格巨锻匠作为撒钉手的队伍有巨大帮助，因为雄伟牙同时能够Check它们和仆刀将军等其他威胁。另一方面，闪焰王牌是场地伤害控制的一个好选择，速度明显快于雄伟牙，用闪焰高威胁赛富豪、巨锻匠和铁头壳等对手，并用换场弹回可能绕过布莉姆温魔法镜的场地伤害。仆刀将军也是一个伟大的搭档，能够为布莉姆温处理赛富豪和伽勒尔呆呆王，并在携带踢倒时帮助Check对方仆刀将军。此外，仆刀将军极大地欣赏布莉姆温的蹭蹭脸颊麻痹其难以应对的威胁，如铁武者和厄诡椪-水井面具，而布莉姆温自身可以Check藏玛然特等对手。龙之舞酋雷姆是另一个优秀的队友，因为它经常必须放弃厚底靴以携带其他道具，因此非常弱于场地伤害，而这些伤害可以被布莉姆温的魔法镜阻止。多龙巴鲁托也值得考虑， 由于其极高的速度，允许它提供速度控制，以及对赛富豪施压的能力。此外，多龙巴鲁托可以用磷火削弱物理攻击手，如雄伟牙、厄诡椪-水井面具和重磅冲撞藏玛然特（如果不小心这些宝可梦可能强行突破布莉姆温），同时还能用急速折返将布莉姆温换上场。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mystical Fire",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "description": "<p>Chinese Set: 布莉姆温 || 招式：冥想|吸取之吻|精神噪音/精神冲击|魔法火焰/碰碰脸颊 || 道具：吃剩的东西 || 特性：魔法镜 || 努力值：252 HP/204 防御/52 速度 || 性格：大胆 || 太晶属性：水</p>\n<p>凭借魔法镜特性，以及冥想强化滚雪球并用吸取之吻维持自身HP的潜力，布莉姆温成为寻找特攻清场手与场地伤害控制一体化的进攻队伍的绝佳补充。坚固的防御能力使其能对抗雄伟牙、古鼎鹿和非重磅冲撞藏玛然特，而魔法镜则可反弹铁武者和厄诡椪-水井面具的再来一次、土地云-灵兽和席多蓝恩的挑衅，以及古鼎鹿的吹飞和天蝎王、土王的剧毒，成为更强力的强化清场手。精神噪音是打击天蝎王、盐石巨灵和皮可西等盾牌的强力选择，阻止它们回复。精神冲击针对特防盾牌较弱的防御，使其能突破幸福蛋、伽勒尔呆呆王和土王，同时应对像太晶妖精猛雷鼓这类提升特防的强化型清场手。辅助力量虽缺乏精神冲击的即时威力，但可通过多次冥想大幅提升伤害，使布莉姆温即使能强行突破像骨纹巨声鳄、土王和吃吼霸这样的纯朴目标，同时也能以类似精神冲击的方式帮助在一对一中战胜其他特攻强化型清场手。不幸的是，其属性一致组合使布莉姆温被赛富豪、席多蓝恩和铁辙迹等常见钢属性宝可梦完全阻挡，而吸取之吻的低基础威力允许仆刀将军轻松承受强化后的攻击。魔法火焰是优秀的补盲选择，能针对钢属性宝可梦，特别有助于削弱赛富豪的特攻，但这会使布莉姆温无法打击席多蓝恩；碰碰脸颊可作为替代使用，将麻痹状态散布给像仆刀将军、赛富豪、席多蓝恩和骨纹巨声鳄这样的常见换入。吃剩的东西是布莉姆温的最佳道具选择，能极大提升其持续作战能力，并允许其在一局对战中多次换入以阻挡场地伤害；在青草场地队伍中，特别是搭配辅助力量时，可考虑青草种子以给予布莉姆温立即清场的更好机会，但代价是续航变差，不过吃剩的东西在这些队伍中仍是可行选项。该努力值分配提供了足够的速度努力值以超过35速度种族值的盐石巨灵和超坏星，使布莉姆温能在超坏星用黑雾清除其能力提升前使用强化后的攻击，剩余努力值投入以最大化物理防御，使布莉姆温避免被闪焰王牌的火球2HKO。大胆性格的252 HP / 232 防御 / 24 速度替代分配可考虑用于碰碰脸颊布莉姆温，因为当它能麻痹对手时速度需求降低，因此可投入更多物理耐久；不过其仍然投入了足够努力值以超速麻痹后的固执性格仆刀将军。太晶水是优秀的防御属性，赋予布莉姆温对仆刀将军和赛富豪钢属性招式的抗性，同时允许其留在场上承受洗翠大剑鬼和铁毒蛾的水属性和火属性攻击，并保留对位雄伟牙的优势。</p>\n<p>冥想布莉姆温是进攻队伍的绝佳选择，这些队伍欣赏其反钉能力，特别是对于没有专职撒钉首发的平衡攻队。布莉姆温在其中表现出色的一种特定平衡攻是与轰擂金刚猩的青草场地配合，场地提供的额外被动回复极大有助于进一步提升布莉姆温的续航能力。作为回报，布莉姆温能保持场地干净，使像席多蓝恩、猛雷鼓和轰擂金刚猩本身这样的队友可以选择不携带厚底靴，而无需担心场地伤害随时间累积。不过布莉姆温的适用性远不止于场地进攻队，它甚至在有晶光花等撒钉手的高速进攻队中也能找到位置，其在平衡攻和HO的一些最佳队友是那些可摆脱厚底靴选择增伤道具的进攻型宝可梦；这方面的典型例子是猛雷鼓和厄诡椪-水井面具。尽管布莉姆温有方法处理其部分较棘手的对局，但仆刀将军和赛富豪始终是问题，因为它们能轻易抵挡其属性一致招式并用自身招式威胁它；能换入前者的耐久型打手如雄伟牙和藏玛然特可缓解此问题并保持进攻压力，而仆刀将军本身可成为强大搭档，因其能换入赛富豪以及其他对手如多龙巴鲁托和伽勒尔呆呆王的幽灵属性和毒属性招式，后者凭借其高特防和对吸取之吻的抗性成为布莉姆温最大的Check之一。作为对仆刀将军对抗这些目标的回报，布莉姆温抵抗通常针对仆刀将军的来自雄伟牙、盔甲鸟和铁武者的格斗属性攻击。布莉姆温难以突破的一个宝可梦是席多蓝恩，因为它即使从强化后的吸取之吻中受到的伤害也微乎其微，并能通过熔岩风暴的持续伤害抵消布莉姆温的吃剩的东西回复；若布莉姆温太晶化可用且已在席多蓝恩上场前通过多次冥想强化，则局势对布莉姆温有利，但不幸的是布莉姆温无法直接换入席多蓝恩以阻止其布置隐形岩。洗翠大剑鬼和藏玛然特等进攻型搭档可用作熔岩风暴的换入选择，能威胁对方席多蓝恩下场，且后者欣赏布莉姆温引诱席多蓝恩上场并戳破潜在气球的能力。虽然布莉姆温通常足以保持己方场地无场地伤害，但除前述隐形岩席多蓝恩对局外，对方洗翠大剑鬼能够通过秘剑・千重涛布置场地伤害，尽管其本身会输给布莉姆温。这使得雄伟牙和铁辙迹等替代性反钉手段成为布莉姆温的优秀搭档，因为它们能在这些对局中为易受场地伤害影响的队伍提供关键缓解，否则这些队伍会过度依赖布莉姆温。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mystical Fire",
+                "type": null
+              },
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Healing Wish",
+          "description": "<p>Chinese Set: 布莉姆温||招式：治愈之愿|精神噪音|魔法闪耀|蹭蹭脸颊/魔法火焰||道具：逃脱按钮||特性：魔法镜||努力值：252 HP / 204 防御 / 52 速度||性格：大胆||太晶属性：钢</p>\n<p>凭借治愈之愿、顶级特性魔法镜、足以check雄伟牙和非重磅冲撞藏玛然特的优秀防御属性，布莉姆温能以独一无二的方式支援队友。治愈之愿至关重要，因为它让布莉姆温牺牲自己来完全回复一名队友的HP并治愈所有异常状态；由于布莉姆温常与清场手以及为它们提供场地或天气的宝可梦搭配，这是一个完全可以接受的交易，以便安全地将它们轮换上场。精神噪音可以削弱如天蝎王、盐石巨灵和皮可西等关键的盾牌阻止它们回复。蹭蹭脸颊通过麻痹地面属性和电属性以外的任何目标，确保布莉姆温不那么被动；即使是能免疫电磁波麻痹的赛富豪和对方布莉姆温，若被蹭蹭脸颊命中也会陷入瘫痪。而魔法火焰通过效果绝佳地打击钢属性宝可梦，很好地补充了布莉姆温的打击面；它还必定降低对手的特攻，这为应对能提升自身特攻的威胁如蝶舞火神蛾和冥想猛雷鼓提供了一些额外的效用。逃脱按钮与魔法镜完美互补；布莉姆温在队中的存在本身就会威慑对手不敢设置场地伤害或使用变化类招式，并且从对手的攻击中存活下来并触发逃脱按钮，从而安全地轮转一名队友上场。逃脱按钮还有一个额外的好处，即能扭转对阵急速折返和伏特替换使用者的局面，获得一次免费换人同时阻止对手的轮转。不过也可以携带释陀果，在低HP时触发，面对高速对手时弥补自身低速缺陷。52速度努力值让布莉姆温能快过速度种族值为35的超坏星和盐石巨灵。太晶钢让布莉姆温能更轻松地处理来自铁臂膀和眷恋云的妖精属性招式，从而能用蹭蹭脸颊惩罚它们，并将布莉姆温毒属性弱点转化为免疫，使其能够反制晶光花的晶光转转。钢属性强大的防御面也扩大了布莉姆温在紧要关头能安全使用治愈之愿应对的威胁范围，例如使用铁头的仆刀将军、酋雷姆和伽勒尔呆呆王；其他太晶属性如恶和飞行虽然过于针对，但也能针对不同威胁获得同样效果，前者针对赛富豪和多龙巴鲁托，后者针对雄伟牙和重磅冲撞藏玛然特。</p>\n<p>治愈之愿布莉姆温能为队友提供多次免费上场机会的能力，使其成为攻击型队伍，尤其是那些弱钉的队伍，在需要最大化有限回合数时的强力选择。治愈之愿布莉姆温在晴天队中几乎是必备的，晴天队通常非常弱钉，因此布莉姆温是必备的，其魔法镜可作为场地伤害的强力次级甚至三级对策；火属性宝可梦如煤炭龟和九尾尤其弱于场地伤害，不过其他强力的攻击手如讲究头带轰鸣月、讲究眼镜波荡水、黑色眼镜和气球仆刀将军，以及生命宝珠妙蛙花和洗翠裙儿小姐，也会因入场伤害的削弱而迅速被消耗。这些宝可梦中有许多也是传统布莉姆温Check的答案；强力的进攻威胁如讲究眼镜波荡水、讲究头带轰鸣月、攻击型雄伟牙可以共同压制布莉姆温的Check，例如赛富豪、伽勒尔呆呆王和席多蓝恩，这为布莉姆温提供了大量在有效果的攻击上换入，并通过逃脱按钮轮转下场或使用治愈之愿的机会。晴天队也非常欣赏布莉姆温通过治愈之愿给予煤炭龟额外机会以其日照特性支援队伍的能力，通过治愈之愿进一步赋能上述打手，或通过蹭蹭脸颊散布麻痹。由于类似原因，布莉姆温在雨天队中也很有用；大嘴鸥非常欣赏通过逃脱按钮或治愈之愿获得额外机会来开启降雨，而队友如戽斗尖梭和猛雷鼓则同时欣赏布莉姆温阻止场地伤害以保持它们HP健康的能力，以及它能提供的多次安全上场机会。布莉姆温也是精神场地队伍的中流砥柱，这类队伍欣赏它给予爱管侍额外机会布置精神场地，或能安全中转换入清场手如蝶舞火神蛾、破壳怖思壶、攻击型代欧奇希斯-速度形态、以及驱劲能量铁包袱和铁头壳上场的能力，同时尽可能少地浪费宝贵的精神场地回合。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              },
+              {
+                "move": "Mystical Fire",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Steel"
+          ]
+        },
+        {
+          "name": "Trick Room",
+          "description": "<p>Chinese Set: 戏法空间布莉姆温 || 招式：戏法空间|精神噪音|魔法闪耀|治愈之愿 || 道具：气势披带 || 特性：魔法镜 || 努力值：252 HP/4 防御/252 特攻 || 性格：冷静 || 太晶属性：水/钢 || 个体值：0 攻击/0 速度</p>\n<p>戏法空间布莉姆温的主要目标是开启戏法空间，为它速度缓慢但威力强大的队友创造输出环境，同时通过治愈之愿维持队友状态并进行轮转。它的核心优势在于魔法镜特性，能有效反制像古鼎鹿这样的撒钉手，以及土地云-灵兽与厄诡椪-水井面具用以阻止戏法空间的挑衅等招式。精神噪音是优选招式，可封锁天蝎王和皮可西等盾牌回复。太晶水与太晶钢均能帮助布莉姆温抵御钢属性招式，如仆刀将军的铁头、赛富豪的淘金潮，以及最关键的铁头壳的迅子利刃——后者可无视其气势披带。太晶水的额外优势在于对雄伟牙的突飞猛扑与土地云-灵兽的地震等强力攻击保持中性抗性，同时能抵抗闪焰王牌的火焰球。另一方面，若气势披带已失效，太晶钢可使布莉姆温在面对铁毒蛾、伽勒尔呆呆王及常见首发晶光花时得以存活。气势披带确保布莉姆温总能承受一次攻击，从而稳定开启戏法空间。</p>\n<p>该布莉姆温配置是戏法空间队的重要成员，既能减少对手的撒钉机会，又能通过治愈之愿延长队友作战时间。月月熊是布莉姆温的最佳搭档，其低速与毅力加成的攻击能摧毁藏玛然特等潜在进攻Check，以及布莉姆温难以处理的古鼎鹿与铁头壳。月月熊因火焰宝珠持续损失的HP也可通过治愈之愿获得第二次生命而极大受益。克雷色利亚作为第二个戏法空间手，还能通过新月舞为队伍提供支援。戏法空间队易受先制招式压制，因其可无视戏法空间。队伍可选用前述月月熊与铁臂膀承受快龙的神速、仆刀将军的突袭等常见优先招式；月月熊免疫猛雷鼓的迅雷，铁臂膀则抵抗该招式。眷恋云-灵兽虽畏惧迅雷，但仍能轻松应对神速与突袭。进攻型队伍可搭配土地云-灵兽，其凸凸头盔能惩罚接触类招式，同时具备撒钉能力，并通过急速折换入布莉姆温及其队友。布莉姆温的最大威胁并非宝可梦，而是招式守住——其可通过消耗有限戏法空间回合令布莉姆温的努力无效化。天蝎王、保姆曼波与酋雷姆均为常见使用者，三者利用回复招式、道具与招式拖延戏法空间回合。铁头壳、仆刀将军与赛富豪等钢属性宝可梦能完全阻挡布莉姆温，并以属性一致招式将其OHKO。在重空间队中，低速高攻的铁臂膀可威胁保姆曼波、酋雷姆与仆刀将军，而天蝎王需谨慎应对冰冻拳。眷恋云-灵兽亦是绝佳选择，作为强力破盾手，其大地之力可突破钢属性宝可梦，强力的妖精属性属性一致招式则压制天蝎王、保姆曼波与酋雷姆。仆刀将军尤其受益于布莉姆温的支援：治愈之愿可净化多龙巴鲁托与闪焰王牌等磷火使用者造成的灼伤，使其专注突破；突袭更令仆刀将军在戏法空间内外均具威胁。该配置亦非纯戏法空间队专属——HO常将布莉姆温与另一戏法空间搭档联用，干扰其他竞速的HO队伍。雄伟牙能威慑天蝎王，并与布莉姆温组成清钉组合，缓解其反制撒钉的压力。此点对抗洗翠大剑鬼时尤为关键：其专属招式秘剑・千重涛可无视魔法镜布撒隐形岩，可能破坏气势披带并干扰戏法空间开启。厄诡椪-水井面具与铁武者是布莉姆温在HO中的优秀队友：厄诡椪-水井面具依赖治愈之愿弥补携带面具导致的弱钉与状态弱点，同时以属性一致招式压制保姆曼波与天蝎王，以嬉闹反制酋雷姆；铁武者则凭借挑衅将对手锁入守住，争取强化回合，其四倍抗恶属性更可上场惩罚使用秘剑・千重涛的洗翠大剑鬼。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Trick Room",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Healing Wish",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "description": "<p>Chinese Set: 分担痛楚（防御型）布莉姆温 || 道具：凸凸头盔 / 吃剩的东西 || 特性：魔法镜 || 努力值：252 HP / 204 防御 / 52 速度 || 太晶属性：水 || 性格：大胆 || 招式：精神噪音 | 吸取之吻 | 分担痛楚 | 蹭蹭脸颊</p>\n<p>凭借着魔法镜、优秀的物理耐久以及分担痛楚等实用招式带来的更长留场时间，布莉姆温能够提供关键的场地伤害控制，同时Check藏玛然特、雄伟牙以及代欧奇希斯-速度型态等重要威胁。精神噪音用于阻止皮可西与盐石巨灵等盾牌的回复，同时能够穿透替身对藏玛然特和铁毒蛾等对手构成威胁，并暂时性限制天蝎王的毒疗。吸取之吻提供额外回复，并有效削弱古鼎鹿和洗翠大剑鬼等恶属性宝可梦以及快龙和猛雷鼓等龙属性宝可梦。分担痛楚使布莉姆温能够在回复的同时消耗吉利蛋与古鼎鹿等高HP盾牌，也能削弱如铁辙迹与伽勒尔呆呆王等等它本难以造成伤害的对手。蹭蹭脸颊让布莉姆温能对赛富豪以及铁头壳等原先能够轻松换入的对手施加麻痹，为队友创造更多机会。同时也能防止如快龙和厄诡椪-水井面具等清场手在其面前强化。凸凸头盔使布莉姆温能够惩罚雄伟牙与铁辙迹的高速旋转，也可以反制洗翠大剑鬼的秘剑千重涛和土地云-灵兽与闪焰王牌等中转的急速折返。吃剩的东西则可以提供额外的续航力，使布莉姆温更难以被击败。太晶水让布莉姆温在面对闪焰王牌时获得更好的对位，同时将原先的钢属性弱点转变为抗性，以便应对赛富豪与铁头壳，也让它能够更稳定的应付波荡水，并利用蹭蹭脸颊施加麻痹。52点的速度努力值分配则让布莉姆温能够超速盐石巨灵与超坏星，从而有效地用精神噪音封锁它们的回复。</p>\n<p>布莉姆温常作为场地伤害控制的选择进入平衡攻或攻队中，同时也能改善队伍面对藏玛然特等特定对手时的对位。突击背心龙卷云-灵兽、酋雷姆以及未携带厚底靴的快龙等等弱钉的队友相当欣赏布莉姆温可靠的场地伤害控制能力，而布莉姆温也受益于它们对铁辙迹施加压力等等来自攻守两端的贡献。突击背心龙卷云-灵兽是它绝佳的队友，能够帮忙布莉姆温应对诸如达克莱伊、赛富豪和讲究眼镜多龙巴鲁托等威胁。同时，由于布莉姆温难以反复承受雄伟牙的攻击，因此龙卷云-灵兽的协助也尤其重要。席多蓝恩则关键地能够换入巨钳螳螂、铁毒蛾与桃歹郎，并设置场地伤害，而布莉姆温则反过来帮忙处理藏玛然特与古鼎鹿。此外，突击背心龙卷云-灵兽与席多蓝恩也都能对伽勒尔呆呆王以及钢铠鸦等能够Check布莉姆温的宝可梦施加压力。铁毒蛾则是它另外一位强力的队友，它能够对赛富豪等钢属性宝可梦施压，并吸收能大幅限制布莉姆温续航能力的毒菱。反之，布莉姆温也能帮铁毒蛾维持场上不被设置场地伤害。然而布莉姆温难以突破如铁辙迹、席多蓝恩以及巨锻匠等钢属性宝可梦，它们都能对布莉姆温构成威胁，并在布莉姆温被击倒后布置隐形岩。因此，藏玛然特、雄伟牙与古鼎鹿等强力的格斗属性或地面属性宝可梦对于维持钉子优势也至关重要。藏玛然特尤其受惠于面对代欧奇希斯-速度形态时布莉姆温所提供的超能属性的稳定换入，并能够更自由的选择非厚底靴的配置，藏玛然特则能帮忙应对仆刀将军等钢属性宝可梦。赛富豪与桃歹郎等幽灵属性宝可梦也同样能威胁到布莉姆温，而仆刀将军和达克莱伊等恶属性队友则能对它们造成巨大伤害并构成其威胁，同时，这些恶属性宝可梦也同样能受益于布莉姆温对未携带重磅冲撞的藏玛然特的牵制。雄伟牙与闪焰王牌等额外的场地伤害控制手也相当重要，它们能够分担布莉姆温在面对洗翠大剑鬼等出钉手时的压力，并协助应对赛富豪以及伽勒尔呆呆王等布莉姆温难以突破的威胁。厄诡椪-水井面具则能以拍落对伽勒尔呆呆王与赛富豪等布莉姆温的Check施压、设置场地伤害并透过急速折返将布莉姆温轮转上场。而布莉姆温可以反过来Check伽勒尔双弹瓦斯和藏玛然特等物理盾牌，为厄诡椪-水井面具维持场上不被设置场地伤害，并麻痹闪焰王牌等更为高速的威胁，使厄诡椪-水井面具有更多机会发挥。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Pain Split",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Nuzzle",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Hatterene",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water"
+          ]
+        }
+      ]
+    }
+  ]
+}

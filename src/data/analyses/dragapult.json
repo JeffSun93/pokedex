@@ -1,0 +1,332 @@
+{
+  "id": 887,
+  "name": "dragapult",
+  "nameZh": "多龙巴鲁托",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Boots Pivot",
+          "description": "<p>Dragapult's supportive capabilities provide it a unique role in SV OU as the fastest user of both status moves and U-turn in the tier. Dragon Darts can deal massive damage to special walls like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and Calm Mind users like <a href=\"/dex/sv/pokemon/latios/ou/\" hreflang=\"en\">Latios</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and its multi-hit property makes it more threatening versus <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Draco Meteor is an alternative Dragon-type STAB move that allows Dragapult to 2HKO <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and heavily injure more physically defensive Pokemon like <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>. Hex is used over Shadow Ball to complement Dragapult's ability to spread status, but it also allows Dragapult to punish <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> attempting to absorb status for its team, and unboosted Hex is still strong enough to 2HKO both <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>. Will-O-Wisp can be used to burn physical attackers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, Dragonite, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Thunder Wave, on the other hand, can paralyze fast Pokemon like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a> for Dragapult's teammates to take advantage of. Lastly Dragapult has the fastest U-turn in the tier, which allows it to quickly pivot and keep momentum for its teammates while also hitting Dark-types like <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>. Depending on the choice of moves taken, the EVs should be set to either 4 Attack and a Naive nature for Dragon Darts or 4 Special Defense and a Timid nature for Draco Meteor. Infiltrator is the preferred ability, as it allows Dragapult to both hit and cripple foes regardless of if they are behind a Substitute, like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, or screens, like <a href=\"/dex/sv/pokemon/moltres-galar/ou/\" hreflang=\"en\">Galarian Moltres</a>. For Terastallization options, Tera Ghost allows Dragapult to boost Hex to scary levels of damage, as it cleanly 2HKOes specially defensive Gliscor, OHKOes <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a> after Stealth Rock damage, and 2HKOes a statused Iron Defense Zamazenta. Tera Fairy, on the other hand, lets it withstand Dark-type moves, most commonly Kingambit's Kowtow Cleave and Zamazenta's Crunch, and also gives it an immunity to Dragon-type moves from threats like Kyurem, Dragonite, and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, potentially getting off a status move or strong Dragon-type attack in return. Tera Steel keeps the Dragon-type resistance but lets Dragapult take a Moonblast from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> while also letting it shrug off Ice-type attacks from <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and the aforementioned Kyurem.</p>\n<p>This set finds itself on balance and bulky balance teams as a support Pokemon, especially on Heavy-Duty Boots-spam structures, supporting its teammates and acting as speed control. Dragapult invites in Pokemon like Tyranitar and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, letting it use U-turn to bring in answers like Ogerpon-W to wreak havoc. Dragapult can also U-turn on Ting-Lu, allowing it to bring in Weavile or Kyurem and make progress. Dragapult is a frail Pokemon incapable of taking more than one hit from almost anything in the tier, so having defensive partners able to switch in hard on its threats is much appreciated. <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> checks Kingambit and has slow pivoting with U-turn, letting Dragapult get back on the field safely. <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> can make Dragapult even harder to switch into with Future Sight, which can be good to bait Dark-types like Kingambit or Hisuian Samurott and threaten them with status. Galarian Slowking can bring Dragapult in with Chilly Reception while checking Fairy-types like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and Iron Valiant. <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> has both Salt Cure and Stealth Rock to add on to the passive damage pressure, but it also helps Dragapult by taking on Ghost-type moves from Pecharunt and opposing Dragapult. Entry hazard setters help to stack up chip damage due to the many switches that Dragapult forces. Hisuian Samurott in particular has Knock Off to remove Leftovers from Ting-Lu and Heavy-Duty Boots from Great Tusk, allowing Will-O-Wisp's damage to not go unnoticed. Ting-Lu also has hazards, walls <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, Gholdengo, and Darkrai, and can chip down switch-ins like Hisuian Samurott and Gliscor to help Dragapult sweep; Dragapult has natural synergy as the spinblocker of the team. Offensive Pokemon also like Will-O-Wisp support, as setup sweepers like Kingambit benefit from Great Tusk and Zamazenta being burned, Kyurem benefits from Zamazenta being crippled, and Gholdengo can turn the tables against Ting-Lu thanks to reduced Earthquake damage. Packing Thunder Wave can mean the world for slower wallbreakers like Ogerpon-W, Kyurem, and <a href=\"/dex/sv/pokemon/hoopa-unbound/ou/\" hreflang=\"en\">Hoopa-U</a>. Ogerpon-W can wipe problem matchups like Darkrai and Tornadus-T, Kyurem can demolish Ting-Lu and can now outspeed a paralyzed Iron Valiant, and Hoopa-U's coverage becomes nightmarish once fast U-turn users like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and opposing Dragapult can no longer outspeed it Dragapult lacks instantaneous wallbreaking power against defensive Pokemon, relying on status and Hex for damage. Garganacl is therefore Dragapult's biggest counter, as it takes pitiful damage from any of its moves. Therefore, Pokemon such as Gliscor, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and Great Tusk that can switch in and threaten out Garganacl are great partners, with the former two being able to mitigate its Salt Cure damage and the latter being able to get up Stealth Rock in its face. Bulky Fairy-types like Clefable and Primarina can take hits and eliminate Dragapult with Moonblast, so pairing it with strong wallbreakers like Ogerpon-W and Gholdengo can help versus these foes. Zamazenta is an amazing partner, since it can hit Garganacl, <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, and Ting-Lu with Close Combat while also providing backup speed control for Dark-type threats like Weavile and Darkrai. Pairing Dragapult with other status spreaders, like Gliscor, Moltres, and Galarian Slowking, can boost Hex's damage output in the long run. <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> is another status spreader that can support Dragapult with Wish, allowing Dragapult to stay healthy in longer games where its defensive qualities may be required.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "description": "<p>Equipped with Choice Specs, Dragapult combines its great Speed and lethal STAB combination with the high Base Power of Draco Meteor and the disruptive nature of Shadow Ball's Special Defense drops to become one of OU's premier wallbreakers. Flamethrower targets <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, the only OU Pokemon that resists both of Dragapult's STAB moves, and OHKOes the likes of <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a> and offensive <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Fire Blast may be used instead to ensure OHKOs against offensive Kingambit and bulky <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> while further pressuring <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and bulky variants of Iron Treads at the cost of accuracy. U-turn allows Dragapult to safely pivot on predicted switches, easing the need of prediction while chipping at the likes of <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> in the process. A Timid nature allows Dragapult to get the jump on <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and +1 Adamant <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, as well as Speed tie with opposing Dragapult; a Modest nature may be considered to enhance Dragapult's wallbreaking power, with Draco Meteor netting OHKOs against the likes of <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Infiltrator proves effective against Substitute users such as <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, both of which Dragapult threatens to KO with Draco Meteor, as well as against Aurora Veil and dual screens teams, which often use Pokemon like Darkrai and offensive <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> which can't stand Dragapult's attacks. Clear Body may also be used as a countermeasure against <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>'s Parting Shot, as well as Sticky Web teams, which often feature Pokemon such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> that are greatly threatened by Dragapult. Tera Ghost boosts Dragapult's Shadow Ball, netting 2HKOs against <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Assault Vest Tornadus-T after Stealth Rock, while also removing its weaknesses to attacks such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>'s Moonblast and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>'s Ice Shard. Similarly, Tera Dragon boosts Dragapult's Draco Meteor, allowing it to 2HKO <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and heavily chip at Ting-Lu, while removing its weaknesses to Kingambit's Sucker Punch, Darkrai's Dark Pulse, and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>'s Shadow Sneak.</p>\n<p>Choice Specs Dragapult often finds itself on bulky offense and offense teams where its wallbreaking prowess and speed control shine. Ogerpon-W appreciates Dragapult's ability to scare Dragon-types such as <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Kyurem, and <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>; in turn, it aids Dragapult against specially defensive walls such as Ting-Lu, Blissey, and Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, with both being able to bring each other safely on the field with U-turn. Similarly, Kingambit appreciates Dragapult pressuring physical walls such as <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, Great Tusk, and Zamazenta, while it assists Dragapult against opposing Ghost-types such as Gholdengo and Pecharunt when Dragapult is locked into an undesirable move and against Tera Fairy Garganacl, which can take on both of Dragapult's STAB moves. Great Tusk, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and Corviknight aid against Kingambit, which may use a Choice-locked Dragapult as an opportunity to set up, and they can either remove or prevent entry hazards from being set up and weakening Dragapult, thanks to Rapid Spin, Taunt, and Defog, respectively. Furthermore, Great Tusk and Landorus-T provide Stealth Rock support to chip foes such as Assault Vest Tornadus-T and Enamorus to put them in range of Dragapult's attacks, while Landorus-T and Corviknight can act as pivots with U-turn to bring Dragapult safely on the field. <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> can deal with Fairy-types such as Clefable and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> looking to exploit Dragapult being locked into Draco Meteor. Iron Valiant aids Dragapult against Dark-types such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, Ting-Lu, and Kingambit, as well as weakening shared checks such as Primarina and Assault Vest Tornadus-T. With Booster Energy, Iron Valiant is also able to provide extra speed control alongside Dragapult, particularly outpacing foes faster than Dragapult such as <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, Choice Scarf Gholdengo, and +1 Kyurem.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Dragon"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "description": "<p>Dragapult acts as a great offensive pivot for bulky offense and balance teams that rely on maintaining momentum and immediate power for their progress making. Its amazing Speed tier, the second fastest relevant Pokemon behind only <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, makes it one of the best users of Choice Band, hitting foes for great neutral damage thanks to its hard-to-resist STAB moves. Tera Blast Ghost lets it make use of a reliable and powerful physical Ghost-type move, 2HKOing otherwise problematic Steel- and Fairy-types such as <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> after Stealth Rock Damage, and to create win-win scenarios thanks to the pivoting effect of its strong U-turn forcing progress even against bulkier cores and punishing Dark-types such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> with heavy chip damage, especially if Spikes are up. Sucker Punch lets it revenge kill offensive threats like Deoxys-S and opposing Dragapult while being handy to pick off weakened boosted foes like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Will-O-Wisp permanently neutralizes a common switch-in in Kingambit and lets it emergency check foes like IronPress <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and Terastallized Dragonite. Phantom Force gives it a decent STAB move without relying too much on Terastallization. Clear Body allows Dragapult to ignore <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>'s Intimidate and match up better against Sticky Web teams, though Infiltrator is still a valid alternative to threaten dual screens hyper offense teams and Substitute users like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Tera Dragon over Tera Ghost with Phantom Force over Tera Blast is a notable option to rely less on Terastallization in exchange for a worse Ghost-type move; this takes advantage of Dragon Darts's power and reliability to reach feats such as 2HKOing Ting-Lu after Stealth Rock while also shedding its Dark weakness from the likes of Kingambit and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>.</p>\n<p>Dragapult has great synergy with bulky VoltTurn cores, which allow Dragapult to easily get on and off the field and repeatedly scare out offensive threats such as Iron Moth, <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and Darkrai. Landorus-T and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> are pivots that pair well with Dragapult, with the former switching well into Kingambit, <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, and Zamazenta trying to revenge kill Dragapult while denying hazards from Pokemon such as <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and opposing Landorus-T with Taunt, and the latter's Knock Off variants removing Heavy-Duty Boots off of physical walls Dragapult might struggle with like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. They, alongside the likes of Garganacl, Clefable, and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, also provide entry hazards, putting foes like <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a>, Darkrai, opposing Hisuian Samurott, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> in range of an OHKO and Skarmory, Corviknight, offensive <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Alomomola in range of a 2HKO; Garganacl in particular is noteworthy for its ability to deal effectively with opposing Dragapult, as well as absorbing status that would otherwise severely limit Dragapult's effectiveness like burn from Alomomola, paralysis from Clefable, and Toxic from Gliscor. Rapid Spin support from the likes of Great Tusk, which also deals with Kingambit, or Magic Bounce support from <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, which has a great matchup into Ting-Lu and Zamazenta variants lacking Heavy Slam and can absorb status, also benefits Dragapult. Corviknight is another good pivot, providing a Kingambit check for bulkier structures and reliably removing hazards against teams without Gholdengo with Defog. Finally, Future Sight from Iron Crown, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, or the previously mentioned Hatterene helps overwhelm defensive cores that rely on different Pokemon to take on physical and special attacks like Galarian Slowking + Alomomola or Corviknight, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> + Dondozo, and Iron Crown + Landorus-T. Iron Crown brings to the table fast pivoting and a strong offensive profile to better deal with Clefable while not letting Kingambit or <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> switch in for free. In contrast, Galarian Slowking has slow pivoting and great longevity thanks to Regenerator. Similarly, offensive overlap with threats like Dragonite, Zamazenta, and Hisuian Samurott can be very effective at muscling past shared checks like Skarmory, Clefable, Zamazenta, Dondozo, and Alomomola with repeated pressure.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Phantom Force",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Mixed Offensive",
+          "description": "<p>Mixed offensive Dragapult uses its unique STAB combination and mixed attacking power to break through many common cores while still acting as great speed control for teams due to naturally outspeeding the entire unboosted metagame apart from <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. Life Orb gives Dragapult's Shadow Ball an extremely high chance to 2HKO defensive <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Dragon Darts can 2HKO specially defensive Pokemon such as <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. Draco Meteor does large amounts of damage to Pokemon like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> that could otherwise stomach Dragapult's attacks; for example, it OHKOes Great Tusk. Fire Blast targets Steel-types such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a> that might otherwise be able to take Dragapult's STAB attacks. Will-O-Wisp can cripple Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Kingambit that might switch into Dragapult's attacks easily; it also defensively helps Dragapult's teammates against Pokemon such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Clear Body can allow Dragapult to completely ignore Sticky Web, Intimidate from <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and Parting Shot from <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, whereas Infiltrator helps Dragapult against dual screens while allowing it to hit Substitute <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Tera Dragon boosts the power of both Dragon Darts and Draco Meteor, allowing Dragapult to OHKO Multiscale <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> with Dragon Darts as well as OHKO Ogerpon-W and 2HKO Iron Defense Zamazenta with Draco Meteor. It also sheds Dragapult of its Dark weakness, allowing it to take unboosted Kingambit's Sucker Punch from full HP.</p>\n<p>Mixed offensive Dragapult fits best on hyper offense and offense teams, which appreciate its high Speed and wallbreaking prowess. Dark-types such as Kingambit and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> appreciate Dragapult's power while also being able to take on Pokemon that might be able to revenge kill Dragapult like Choice Scarf <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and opposing Kingambit. Gholdengo and Kingambit can help against <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, Tera Fairy Garganacl, and <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a>, which can stomach Dragapult's attacks, and in return, they appreciate Dragapult's ability to threaten the likes of <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and Great Tusk. Gholdengo in particular can also stomach Moonblast from Enamorus and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> that try to revenge kill Dragapult. Entry hazard setters such as Ting-Lu, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, and Landorus-T are great partners for Dragapult, as the damage from hazards can chip common answers into KO range of its attacks. Dragapult struggles immensely with entry hazards, as they further cut into its limited longevity; as a result, hazard removal options like Iron Treads, Great Tusk, and Glimmora pair nicely with it, allowing it to get in more often in order to wallbreak. Pokemon that can take on Ting-Lu such as Ogerpon-W and Zamazenta are incredibly valuable for Dragapult, as Ting-Lu otherwise hard walls this set. Ogerpon-W can also help take on Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and Garganacl, while Dragapult in return can help take on Dragonite, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and Pecharunt, which trouble Ogerpon-W. Pokemon such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and non-Dazzling Gleam Iron Moth that can struggle with Dragon-types like Raging Bolt and Dragonite immensely appreciate Dragapult threatening them. Iron Valiant is an excellent partner for Dragapult, as it can not only weaken Ting-Lu but can also take on Kingambit, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, which may try to revenge kill Dragapult with their priority moves. In return, Dragapult can take on Pokemon such as Galarian Slowking, Gholdengo, and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> that might wall Iron Valiant.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dragon"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Mixed Offensive",
+          "description": "<p>Chinese set:双刀多龙巴鲁托||招式：龙箭|流星群|影子球|大字爆炎/磷火||道具：生命宝珠||太晶属性：龙||特性：恒净之躯/穿透||性格：天真||努力值：4攻击/252特攻/252速度</p>\n<p>混合进攻型多龙巴鲁托凭借独特的属性一致组合与双刀输出能力，能突破许多常见战术核心，同时因其速度超越除代欧奇希斯-速度形态外所有未强化宝可梦，成为队伍极佳的速度控制者。生命宝珠使暗影球对防御型伽勒尔呆呆王的2HKO几率大幅提升。龙箭可击穿幸福蛋与土王等特防型宝可梦。流星群能对藏玛然特、雄伟牙与盐石巨灵等原本能硬抗多龙巴鲁托攻击的宝可梦造成巨额伤害，例如直接OHKO雄伟牙。大字爆炎针对仆刀将军、铁辙迹、钢铠鸦与巨锻匠等可能抵挡多龙巴鲁托属性一致招式的钢属性宝可梦。磷火可残废经常换入抵挡多龙巴鲁托攻击的古鼎鹿与仆刀将军，同时为队友提供防御支援，协助应对厄诡椪-水井面具等威胁。恒净之躯使多龙巴鲁托完全无视黏黏网、土地云-灵兽的威吓与桃歹郎的抛下狠话，而穿透特性则助力对抗双墙阵容，并能击中替身状态的铁毒蛾与眷恋云。太晶龙同步强化龙箭与流星群的威力，使多龙巴鲁托能以龙箭OHKO多重鳞片快龙，并以流星群OHKO厄诡椪-水井面具、2HKO铁壁藏玛然特，同时消除恶属性弱点，使其能满HP状态下承受无强化仆刀将军的突袭。</p>\n<p>混合进攻型多龙巴鲁托最适合HO与攻队，这类队伍高度依赖其高速与破盾强度。仆刀将军与达克莱伊等恶属性宝可梦既能借助多龙巴鲁托的火力压制，又能处理可能威胁多龙巴鲁托的讲究围巾赛富豪与敌方仆刀将军。赛富豪与仆刀将军可协防皮可西、太晶妖精盐石巨灵与超坏星等能抵挡多龙巴鲁托攻击的宝可梦，反之它们也受益于多龙巴鲁托对闪焰王牌与雄伟牙等目标的威胁能力，并且赛富豪尤能承受试图击杀多龙巴鲁托的眷恋云与铁武者施展的月亮之力。古鼎鹿、晶光花与土地云-灵兽等撒钉手是多龙巴鲁托的优质搭档，check可将常见应对者压至其招式斩杀线。由于多龙巴鲁托极易受钉耗削弱续航，铁辙迹、雄伟牙与晶光花等除钉手与之形成互补，通过保障上场频率强化其破盾功能。能反制古鼎鹿的厄诡椪-水井面具与藏玛然特对此配置价值极高，否则古鼎鹿将形成绝对封锁，前者还能处理突击背心保姆曼波、西狮海壬与盐石巨灵，而多龙巴鲁托则可以应对困扰厄诡椪-水井面具的快龙、猛雷鼓、酋雷姆与桃歹郎。受猛雷鼓与快龙等龙属性压制的洗翠大剑鬼与非魔法闪耀铁毒蛾，也会因多龙巴鲁托对龙属性的威慑力而获益。铁武者作为绝佳搭档，既能削弱古鼎鹿，又能处理试图以先制招式复仇杀多龙巴鲁托的仆刀将军、洗翠大剑鬼与玛狃拉；多龙巴鲁托则为之攻克可能阻挡铁武者的伽勒尔呆呆王、赛富豪与火焰鸟。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Blast",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dragon"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "description": "<p>Chinese Set: 讲究头带多龙巴鲁托 || 招式：龙箭|太晶爆发|急速折返|电光一闪 || 特性：恒净之躯 || 努力值：252 攻击 / 4 防御 / 252 速度 || 性格：爽朗 || 太晶属性：幽灵</p>\n<p>多龙巴鲁托是平衡攻与平衡队中一名优秀的攻击型轮转手，这些队伍依赖维持节奏与即时火力来创造进攻机会。其惊人的速度种族值，使其成为仅次于代欧奇希斯-速度形态的环境中第二快宝可梦，这使其成为讲究头带的最佳使用者之一，凭借其难以抵抗的属性一致招式能对对手造成巨大的有效果打击。幽灵属性太晶爆发让它能利用可靠且强力的物理幽灵属性招式，在隐形岩削弱后2HKO原本棘手的钢属性与妖精属性宝可梦，如皮可西和钢铠鸦，并凭借其强力急速折返的轮转效果创造优势局面，即使面对更偏耐久的阵容也能强制推进，并用重创惩罚恶属性宝可梦如仆刀将军和古鼎鹿，尤其是在有撒菱时。用太晶龙替代太晶鬼，并用潜灵奇袭替代太晶爆发，是一个值得注意的选择，这能减少对太晶化的依赖，但代价是使用更差的幽灵属性招式；太晶龙龙箭能OHKO伽勒尔呆呆王、达克莱伊、洗翠的大剑鬼以及携带气势披带的晶光花等宝可梦，并在仅有少量先前蹭血的情况下2HKO中性目标如雄伟牙、吃吼霸和保姆曼波，同时还能摆脱其恶属性弱点。电光一闪完善了多龙巴鲁托的招式组合，使其获得先制招式来收割残血对手或其他先制招式使用者，不过其他选项包括突袭，用于对有效果的目标造成更强伤害并获得对抗对手多龙巴鲁托的优势，或者携带潜灵奇袭以降低对太晶的依赖。恒净之躯是首选特性，因为它允许多龙巴鲁托无视土地云-灵兽的威吓特性以及黏黏网，不过穿透特性仍然是一个有效的替代选择，用以无视双墙并威胁携带替身的西狮海壬、眷恋云和酋雷姆。</p>\n<p>多龙巴鲁托与耐久型游击核心配合极佳，这些核心能让多龙巴鲁托轻松上下场，并反复逼退攻击型威胁，如魔幻假面喵、波荡水、酋雷姆、铁毒蛾、铁头壳、赛富豪和达克莱伊。土地云-灵兽和洗翠的大剑鬼是与多龙巴鲁托配合良好的轮转手，前者能可靠换挡试图复仇杀多龙巴鲁托的仆刀将军、闪焰王牌、轰鸣月和藏玛然特，并用挑衅阻止宝可梦如盔甲鸟、晶光花、盐石巨灵和对手土地云-灵兽布置场地伤害；后者可携带拍落移除多龙巴鲁托可能难以应对的物理盾牌，如保姆曼波和吃吼霸的厚底靴。它们，以及像盐石巨灵、皮可西和天蝎王这样的宝可梦，也能提供场地伤害支援，将厄诡椪、达克莱伊、对手的洗翠的大剑鬼和铁武者等对手打入OHKO斩杀线，并将盔甲鸟、钢铠鸦、攻击型雄伟牙和保姆曼波打入2HKO斩杀线；盐石巨灵尤其值得注意，因为它能有效处理对手的多龙巴鲁托，并能吸收会严重限制多龙巴鲁托的异常状态，如来自保姆曼波的灼伤、来自皮可西的麻痹以及来自天蝎王的中毒。雄伟牙可以处理仆刀将军，布莉姆温可以对抗古鼎鹿和缺少重磅冲撞的藏玛然特，并反弹异常状态，它们能通过高速旋转或魔法镜清钉使多龙巴鲁托受益。钢铠鸦是另一个优秀的轮转手，在更偏耐久的队伍结构作为仆刀将军的check，并能用铁壁处理轰鸣月等可以超速多龙巴鲁托的清场手，或在使用清除浓雾清理场地伤害，前提是对方没有赛富豪。最后，来自铁头壳、伽勒尔呆呆王或前述布莉姆温的预知未来有助于压垮那些依赖不同宝可梦来承受物理与特殊攻击的防御核心，如伽勒尔呆呆王+保姆曼波或钢铠鸦、幸福蛋+吃吼霸，以及铁头壳+土地云-灵兽的组合。铁头壳具备高速轮转能力和一定输出，以更好地处理皮可西、首发晶光花和酋雷姆，同时不让仆刀将军或席多蓝恩安全换入。相比之下，伽勒尔呆呆王拥有慢速轮转和再生力提供的极佳续航。类似地，多龙巴鲁托与快龙、藏玛然特和洗翠大剑鬼等威胁形成进攻冗余，用力度高效突破共同的check，如盔甲鸟、皮可西、藏玛然特、吃吼霸和保姆曼波。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Quick Attack",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Pivot",
+          "description": "<p>Chinese Set: 中转多龙巴鲁托 || 招式：龙箭/流星群|祸不单行|磷火/电磁波|急速折返 || 特性：穿透 || 努力值：76 攻击 / 180 特攻 / 252 速度 或 252 特攻 / 4 特防 / 252 速度 || 性格：急躁/胆小 || 太晶属性：妖精/幽灵</p>\n<p>多龙巴鲁托是OU环境中最优秀的轮转手之一，其高额的基础速度种族值使其能够周旋于较慢的威胁之间，散布异常状态并在整个对局中造成可观的伤害。龙箭是一个强力的属性一致招式，能打击分级中的关键目标，如轰鸣月、猛雷鼓和快龙，所分配的攻击努力值足以确保OHKO被隐形岩削弱的酋雷姆。另一方面，流星群可与满特攻努力值分配配合使用，使其能够稳定OHKO波荡水和破空焰，同时增幅祸不单行以2HKO满HP的赛富豪，但流星群带来的特攻下降会使其容易被当作强化垫脚石，且此配置对提升特防的清场手如猛雷鼓和火神蛾时威力较弱。磷火和电磁波都是极佳的选择，它们使祸不单行威力翻倍，与多龙巴鲁托的其余招式配合极佳；磷火将多龙巴鲁托转变为一名出色的高速Check，能够超速并削弱物理威胁，如藏玛然特、雄伟牙和仆刀将军，同时还能削弱试图换入的古鼎鹿和土王；而电磁波则能减缓火神蛾等目标的速度，帮助队友更轻松地处理它们。太晶妖精是一个优秀的防御选项，它将多龙巴鲁托的龙属性弱点转化为免疫，同时赋予恶属性抗性以抵抗来自仆刀将军和达克莱伊的攻击；而太晶幽灵则能增强祸不单行的威力，同时仍抵消其对妖精和龙属性的弱点，以帮助阻挡眷恋云和对手多龙巴鲁托的复仇杀。</p>\n<p>厚底靴多龙巴鲁托是平衡队的绝佳选择，与耐久型撒钉手如盔甲鸟、天蝎王和古鼎鹿协同良好，它们能协助消耗被其迫使上场的换入者。作为回报，多龙巴鲁托有助于弥补耐久型队伍速度控制的缺乏，且不介意己方的场地状态。拍落使用者如魔幻假面喵和玛狃拉在这些平衡结构中是多龙巴鲁托坚实的搭档，通过移除对手的厚底靴，使多龙巴鲁托的逼换更有意义，同时为多龙巴鲁托提供安全换入计划其自身Check的机会，使这些队伍能更好地施压对手的盔甲鸟和钢铠鸦。平衡攻队伍也受益于多龙巴鲁托作为速度控制形式的存在，它通过伤害和异常状态消耗防御核心；仆刀将军尤其是一个恐怖的终局清场手，它欣赏多龙巴鲁托为其削弱队伍以便清扫的能力，鬼火多龙巴鲁托能够削弱其物理Check如雄伟牙、藏玛然特和盔甲鸟，而电磁波配置则能减缓那些原本能超速仆刀将军的威胁，如火神蛾、闪焰王牌和席多蓝恩。反过来，多龙巴鲁托会引诱对手的仆刀将军上场，后者抵抗其属性一致招式且仅受其状态招式威胁，因此像盔甲鸟和雄伟牙这样坚实的换入应对手段通常受到欢迎，以防止对手获得过多的自由回合。猛雷鼓尤其是一个强大的搭档，在平衡攻队伍中与中转多龙巴鲁托搭档，享受其支援以帮助突破古鼎鹿、土王和特防型天蝎王。厚底靴多龙巴鲁托也难以独自突破更耐久的Check如超坏星和皮可西，因此能利用它们获得强化机会的搭档如仆刀将军和赛富豪是优秀的选择。由于多龙巴鲁托的速度在OU环境中几乎无与伦比，对手需使用铁磐岩和铁武者等驱劲能量以及更快的代欧奇希斯-速度形态来复仇杀它，因此能处理这些威胁的防御型队友受到重视；伽勒尔呆呆王是一个优秀的耐久型轮转手，能应对后两者，并能使用冷笑话在承受攻击后安全换入多龙巴鲁托，而天蝎王和盔甲鸟都是坚实的铁磐岩Check，能够击败它或迫使它换下并失去其速度提升，让多龙巴鲁托在后续对局中能超速它。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Darts",
+                "type": null
+              },
+              {
+                "move": "Draco Meteor",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragapult",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ]
+}

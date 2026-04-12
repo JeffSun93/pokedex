@@ -1,0 +1,200 @@
+{
+  "id": 815,
+  "name": "cinderace",
+  "nameZh": "闪焰王牌",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive Pivot",
+          "description": "<p>With its good Speed tier and high-powered moves complemented by Libero, Cinderace can leverage its offensive moveset to function as an effective pivot and attacker. U-Turn allows Cinderace to pivot out of disadvantageous matchups and deal chip damage, breaking <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>’s Multiscale and helping against some Fire-resistant Pokemon like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/sv/pokemon/latios/ou/\" hreflang=\"en\">Latios</a>. Court Change gives Cinderace valuable utility, switching entry hazards to the opposing side of the field and enabling its hazard-weak teammates to enter the field multiple times as well as swapping Aurora Veil from opposing <a href=\"/dex/sv/pokemon/ninetales-alola/ou/\" hreflang=\"en\">Alolan Ninetales</a>. For its last move, Cinderace has multiple options to help round out its coverage. Sucker Punch is a powerful priority move that targets <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and chipped sweepers such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Gunk Shot snipes Fairy-types that may attempt to handle Cinderace such as <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> while hitting <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> hard. High Jump Kick 2HKOs <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> while also OHKOing <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. Tera Fire is used to power up Cinderace’s Pyro Ball, 2HKOing <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> after Stealth Rock damage and OHKOing bulky variants of <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. It also helps retain STAB for Pyro Ball even when Cinderace uses another attack. However, Terastriallization renders Libero null for Cinderace’s non-Fire attacks, so it should be used with caution.</p>\n<p>Offensive pivot Cinderace fits on a variety of teams from offense, bulky offense, and even balance, where its combination of speed, coverage, and utility is highly valued. Cinderace’s greatest boon is its ability to provide reliable entry hazard control in front of Gholdengo while being an offensive threat in its own right, helping teammates vulnerable to hazards such as Kyurem and Life Orb Nasty Plot <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a> enter the field more easily. Kyurem and Tornadus-T place immense offensive pressure on Cinderace’s checks such as <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>; in turn, they highly appreciate not being chipped by hazards so they can continue to operate over longer games. Other wallbreakers that appreciate the Water and Dragon-Types that Cinderace lures in include <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Primarina, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>; Cinderace also helps them enter the field safely. Cinderace struggles with physically defensive Pokemon able to tank its attacks such as Zamazenta, Alomomola, and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, so teammates that can handle them such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, Gholdengo, and Raging Bolt are highly valued. Ogerpon-W stands out as a particularly strong partner, as it can completely block Water-type attacks aimed at Cinderace with Water Absorb and force progress with its strong attacks and utility, while Cinderace can help transfer hazards away and bring it in via U-turn. Gholdengo helps check Zamazenta and Pecharunt with an immunity to their primary attacks while blocking hazard removal attempts from Great Tusk, Iron Treads, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> after hazards are transferred. Raging Bolt threatens bulky Water types with its powerful Electric-type attacks, while Cinderace can help pivot it in and act as an emergency switch-in to Fairy-types. Cinderace also loves being paired with other pivots such as <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Landorus-T, as they can form pivoting cores that can help sustain offensive pressure together on their respective checks.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Pyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Court Change",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "High Jump Kick",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Cinderace",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Bulky Pivot",
+          "description": "<p>When combining its good Speed with HP investment, Cinderace becomes one of OU's better pivots, able to check threats such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/scizor/ou/\" hreflang=\"en\">Scizor</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. U-turn allows Cinderace to chip foes and capitalize on switch-ins to bring in its teammates safely as well as greatly damage foes Cinderace might lose to in one-on-one scenarios, such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>. Cinderace provides utility to its team with Court Change, temporarily clearing the field of entry hazards as well as the opposing team's Aurora Veil. Will-O-Wisp cripples Pokemon such as <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> that otherwise do not mind Cinderace's Pyro Ball or U-turn and deters slower physical setup sweepers such as Dragon Dance <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> from trying to set up in front of Cinderace. With 32 Atk EVs, Cinderace's Pyro Ball OHKOes offensive variants of Gholdengo and threatens 2HKOs against <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> when boosted by Blaze. Tera Fire powers up Pyro Ball, allowing it to OHKO Kingambit and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> while also OHKOing Ogerpon-W and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> with Blaze active. Tera Flying is an alternative that grants Cinderace with an immunity to Ground-type attacks such as Landorus-T and Dragonite's Earthquake, Great Tusk's Headlong Rush, and Enamorus's Earth Power, allowing it to potentially get an extra turn against them to further weaken them with Pyro Ball or cripple them with Will-O-Wisp; Tera Flying also grants Cinderace with a resistance to <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>'s Body Press that potentially allows it to cripple Zamazenta with Will-O-Wisp. Similarly, Tera Ghost provides an immunity to Zamazenta's Body Press, as well as to <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> and Great Tusk's Rapid Spin, blocking their attempts to remove entry hazards, and to Extreme Speed from Dragonite looking to revenge kill Cinderace. Heavy-Duty Boots is key in its role as a pivot, allowing Cinderace to remain healthy when hazards are up and switch in multiple times per game.</p>\n<p>Cinderace finds itself fitting well in bulky offense and balance teams, particularly those looking to make use of its ability to alleviate the pressure of entry hazards. Ogerpon-W can assist Cinderace against the Ground- and Water-types that trouble it such as Landorus-T, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> as well as Pokemon like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>; remove Rocky Helmet from the likes of <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> of <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a> so Cinderace can use U-turn against them without taking chip damage; and run U-turn itself, allowing it to form a pivoting core with Cinderace. Similarly, Kyurem threatens the aforementioned Ground- and Water-types, as well as Zapdos, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and Pecharunt. In return, Cinderace is able to bring it in safely with U-turn, threaten Steel-types such as <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> and Scizor that may annoy Kyurem, and keep entry hazards off the field so Kyurem can opt for items other than Heavy-Duty Boots. Raging Bolt and Zapdos threaten the likes of Alomomola, Dondozo, and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> while also forming pivoting cores with Cinderace when running Volt Switch or U-turn in Zapdos's case helping it overwhelm the Ground-types like Landorus-T and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> that try to check both; Zapdos is also able to take on Great Tusk. Galarian Slowking appreciates Cinderace's ability to threaten Kingambit, Gholdengo, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> while helping against Pecharunt and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> as well as crippling physical walls like Alomomola, Moltres, and Zapdos with Toxic. Galarian Slowking's Future Sight and Cinderace's Pyro Ball complement each other to put pressure on the opposing team, as physical walls such as Dondozo and Pecharunt do not want to get hit by Future Sight while the likes of Gholdengo, Kingambit, and Iron Crown that usually do not mind Future Sight, do not want to take on Pyro Ball. Physically defensive and Shuca Berry variants of Galarian Slowking may lure in Gliscor, Landorus-T, and Great Tusk and hit them with either Ice Beam or Psychic Noise, getting rid of them and opening up a path for Cinderace to more easily weaken the opposing team. Assault Vest Alomomola may assist Cinderace by serving as a sponge for special attacks such as those from <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> and Choice Specs <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, as well as taking on Moltres, Heatran, and Landorus-T that annoy Cinderace. Ting-Lu deals with Dragapult, Raging Bolt, Pecharunt, and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> while pressuring Garganacl against which Cinderace finds itself helpless. Due to Court Change being ineffective when both sides of the field have entry hazards, teammates like Great Tusk and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> may provide extra measures to help clear them; Great Tusk also serves as a check to Raging Bolt and Tera Fire Kingambit, while Corviknight provides assurance against the likes of Great Tusk and Zamazenta variants lacking Roar. Dragapult can assist Cinderace against Zamazenta, Great Tusk, and Pecharunt, while Cinderace can threaten Kingambit, and help weaken shared checks such as Ting-Lu and Primarina; additionally, it can form a pivoting core with Cinderace when running U-turn.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Pyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Court Change",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Cinderace",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire",
+            "Flying",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Bulky Pivot",
+          "description": "<p>Chinese Set: 闪焰王牌||招式：火焰球|急速折返|换场|鬼火|| 道具：厚底靴 || 特性：猛火 || 努力值：224HP/32攻击/252速度 ||性格：爽朗 || 太晶属性：火/飞行/幽灵\n利用良好的速度与HP投入，闪焰王牌成为了OU中优秀的轮转手之一，能够Check赛富豪、巨钳螳螂和仆刀将军等威胁。急速折返使得闪焰王牌可以消耗对手，并抓住对手换人的机会安全换入队友，同时也能重创闪焰王牌在一对一情况下可能不敌的对手如厄诡椪-水井面具和洗翠大剑鬼。闪焰王牌通过换场为队伍提供辅助，能暂时清除场上的钉子以及对手的极光幕。鬼火能重创像土地云-灵兽这样通常不畏惧闪焰王牌火焰球或急速折返的宝可梦，并能威慑速度较慢的物理强化手如龙舞快龙和酋雷姆农，阻止它们在闪焰王牌面前尝试强化。32点攻击努力值确保闪焰王牌的火焰球能够OHKO进攻配置的赛富豪，并在猛火触发时2HKO雄伟牙和闪电鸟。太晶火能增强火焰球的威力，使其能够OHKO仆刀将军和眷恋云，同时在猛火激活时也能OHKO厄诡椪-水井面具和伽勒尔呆呆王。太晶飞行是另一个选择，它赋予闪焰王牌对地面属性招式的免疫，例如土地云-灵兽和快龙的地震、雄伟牙的突飞猛扑以及眷恋云的大地之力，这使它有可能获得额外的回合来用火焰球进一步削弱它们或用鬼火重创它们；太晶飞行还让闪焰王牌获得对藏玛然特的扑击的抗性，这可能使其有机会用鬼火重创藏玛然特。类似地，太晶幽灵提供了对藏玛然特扑击的免疫，同时也免疫铁辙迹和雄伟牙的高速旋转，阻挡它们清除钉子，并能免疫快龙试图复仇杀闪焰王牌的神速。厚底靴在其轮转手角色中至关重要，允许闪焰王牌在场地状态存在时保持健康，并每局比赛多次换入。</p>\n<p>闪焰王牌能很好地融入需要进攻组件的平衡受队和平衡队，特别是那些希望利用其能力来缓解钉子压力的队伍。厄诡椪-水井面具能协助闪焰王牌对抗使其陷入困境的地面属性和水属性宝可梦如土地云-灵兽、天蝎王、保姆曼波和吃吼霸，以及像盐石巨灵、苍炎刃鬼和席多蓝恩这样的宝可梦；它还能移除来自桃歹郎或蜜集大蛇等宝可梦的凸凸头盔，使闪焰王牌可以对其使用急速折返而不受消耗伤害；并且它自身也能携带急速折返，使其能与闪焰王牌形成轮转核心。同样地，酋雷姆可以威胁上述的地面属性和水属性宝可梦，以及闪电鸟、猛雷鼓和桃歹郎。作为回报，闪焰王牌能用急速折返将其安全地换入，威胁可能烦扰酋雷姆的钢属性宝可梦，如铁头壳和巨钳螳螂，并保持场地没有钉子，使酋雷姆可以选择厚底靴以外的道具。猛雷鼓和闪电鸟可以威胁诸如保姆曼波、吃吼霸和火焰鸟之类的宝可梦，同时在携带伏特替换（或闪电鸟的急速折返）时与闪焰王牌形成轮转核心，帮助其压倒试图check它们的地面属性宝可梦如土地云-灵兽和古鼎鹿；闪电鸟也能处理雄伟牙。伽勒尔呆呆王欣赏闪焰王牌威胁仆刀将军、赛富豪和玛狃拉的能力，同时帮助闪焰王牌对抗桃歹郎和西狮海壬，并能用剧毒重创物理盾牌，如保姆曼波、火焰鸟和闪电鸟。伽勒尔呆呆王的预知未来和闪焰王牌的火焰球相辅相成，共同向对手施加压力，因为像吃吼霸和桃歹郎这样的物理盾牌不希望受到预知未来的攻击，而通常不在意预知未来的赛富豪、仆刀将军和铁头壳则不愿承受火焰球。物耐型或沙鳞果配置的伽勒尔呆呆王可能会引诱天蝎王、土地云-灵兽和雄伟牙并用冰冻光束或精神噪音攻击它们，从而为闪焰王牌扫清道路，使其更容易削弱对手队伍。突击背心保姆曼波可以通过充当特殊攻击的吸收者来协助闪焰王牌，例如，它可以吸收来自波荡水或讲究眼镜多龙巴鲁托的攻击，并能处理烦扰闪焰王牌的火焰鸟、席多蓝恩和土地云-灵兽。古鼎鹿处理多龙巴鲁托、猛雷鼓、桃歹郎和晶光花，同时向闪焰王牌无法应对的盐石巨灵施加压力。由于当双方场地都有钉子时换场会失效，像雄伟牙和钢铠鸦这样的队友可以提供额外措施来帮助清除它们；雄伟牙还可以作为猛雷鼓和太晶火仆刀将军的Check，而钢铠鸦则能可靠地应对雄伟牙和缺乏吼叫的藏玛然特配置。多龙巴鲁托可以帮助闪焰王牌对抗藏玛然特、雄伟牙和桃歹郎，而闪焰王牌可以威胁仆刀将军，并帮助削弱共同的check如古鼎鹿和西狮海壬；此外，当多龙巴鲁托携带急速折返时，它可以与闪焰王牌形成轮转核心。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Pyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Court Change",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Cinderace",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire",
+            "Flying",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Offensive Pivot",
+          "description": "<p>Chinese set: 进攻型中转闪焰王牌||道具：厚底靴||特性：自由者||个体值：252攻击/4特防/252速度||太晶属性：火||性格：爽朗||招式：火焰球|急速折返|换场|突袭/飞膝踢/垃圾射击\n凭借其出色的速度线和高威力招式，闪焰王牌能有效发挥游击与攻击手的作用。闪焰弹可在对手受到少量消耗伤害后，OHKO未投入HP努力值的铁辙迹和仆刀将军。急速折返让闪焰王牌能在不利对局中灵活换下并造成伤害，破坏快龙的多重鳞片，同时打击一些抵抗火属性的宝可梦如洗翠大剑鬼、班基拉斯和拉帝欧斯。换场为闪焰王牌提供了宝贵的辅助能力，能将己方场地伤害转移至对手侧，使我方弱钉队友能多次安全上场，并能交换对手阿罗拉九尾的极光幕。在最后一个招式选择上，闪焰王牌有多种选项以完善其打击面。突袭是强力的先制招式，能针对代欧奇希斯-速度形态、多龙巴鲁托以及被削弱的的强化型宝可梦如铁毒蛾。垃圾射击可诱杀试图应对闪焰王牌的妖精属性宝可梦，如西狮海壬和皮可西，同时重创火焰鸟。飞膝踢能2HKO雄伟牙和盐石巨灵，并OHKO酋雷姆。自由者特性让闪焰王牌能最大化其进攻能力，改变自身属性并为首次使用的非火属性攻击提供属性一致加成。太晶火用于强化闪焰王牌的火焰弹，2HKO受到隐形岩削弱的藏玛然特，并OHKO耐久配置的赛富豪和铁辙迹。该太晶属性还能确保闪焰王牌在使用其他属性招式后，仍保持火焰球的属性一致加成。但需注意，太晶化会使自由者特性失效。</p>\n<p>进攻型中转闪焰王牌能适配多种队伍体系，无论是攻队、平衡攻队还是平衡队都高度重视其速度、打击面与功能性的结合。它最大的优势在于既能对赛富豪稳定扫钉，自身又具备进攻威胁，从而帮助弱钉队友如酋雷姆与生命宝珠诡计龙卷云-灵兽更安全上场。两者能对闪焰王牌的check保姆曼波、雄伟牙、土地云-灵兽施加巨大压力；反过来，这些队友也需要闪焰王牌以避免受场地伤害削弱，以延长续航。其他青睐闪焰王牌吸引水和龙属性宝可梦的破盾手，如轰擂金刚猩、猛雷鼓、铁武者、西狮海壬和眷恋云，同样受益于其提供的安全上场机会。闪焰王牌难以突破坚固的物盾，如藏玛然特、保姆曼波和桃歹郎，因此需要搭配能处理这些宝可梦的队友，如厄诡椪-水井面具、赛富豪和猛雷鼓。厄诡椪-水井面具尤为突出，其储水特性可完全阻挡对闪焰王牌使用的水属性攻击，并通过强力招式与功能性招式打开局面，而闪焰王牌则能扫钉并通过急速折返带它上场。赛富豪能免疫藏玛然特与桃歹郎的主要攻击招式，并在完成转移场地伤害后封锁雄伟牙、铁辙迹和钢铠鸦的除钉招式。猛雷鼓可以强力电属性招式威胁水属性盾牌，闪焰王牌则通过游击轮转为其创造上场机会，并充当妖精属性对手的紧急换入。闪焰王牌还适合与其他轮转手如闪电鸟、烈腿蝗、伽勒尔呆呆王、土地云-灵兽组成游击体系，通过持续施压突破各自check。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Pyro Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Court Change",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sucker Punch",
+                "type": null
+              },
+              {
+                "move": "High Jump Kick",
+                "type": null
+              },
+              {
+                "move": "Gunk Shot",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Cinderace",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire"
+          ]
+        }
+      ]
+    }
+  ]
+}

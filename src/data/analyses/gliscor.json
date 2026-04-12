@@ -1,0 +1,226 @@
+{
+  "id": 472,
+  "name": "gliscor",
+  "nameZh": "天蝎王",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "<p>Gliscor is one of the metagame's most defining Pokemon, able to support its team with its bevy of utility options, including acting as one of the tier's premier entry hazard setters and Knock Off users. It can also take over games with its Swords Dance set. Gliscor possesses incredible longevity due to the valuable Poison Heal and a typing that grants it resilience against all entry hazards; when complemented by its solid bulk, this also gives Gliscor the ability to check common faces like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and remain unbothered by prevalent walls like <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Moreover, once Toxic Orb is triggered, it can shrug off status attempts from Pokemon like <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> as well as become a reliable Knock Off absorber against the likes of <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, and opposing Gliscor. All of these attributes combined give it ample opportunities to set up or disrupt the opposition and outlast its offensive checks and entry hazard removers, with its Swords Dance set also capable of exploiting otherwise stalemate situations against foes like Clefable and opposing Gliscor. Thus, Gliscor is a menace against slower playstyles while simultaneously being a valuable asset for them due to its remarkable role compression, defensive utility, and progress-making capability. Unfortunately, its typing also lends it weaknesses to common threats, such as Water-types like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, Ice-types like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and even other threats like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> that frequently run Ice-type coverage to exploit its debilitating weakness. Ogerpon-W, Darkrai, and Great Tusk in particular are Knock Off users that Gliscor subsequently cannot safely absorb the move from. Similarly, the prominence of other entry hazard removers doesn't help Gliscor's case either; <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> and its Neutralizing Gas can turn Gliscor's Poison Heal into a liability, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> doesn't mind any of Gliscor's utility moves and can beat even the Swords Dance set one-on-one with Iron Defense, and the likes of <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> and the aforementioned Great Tusk can pressure Gliscor with their Ice-type coverage short-term as well. Thus, Gliscor heavily relies on Terastallization to do most of its jobs effectively, even more notably for Swords Dance variants before it can clean late-game effectively. Gliscor's middling special bulk can also be quite exploitable by wallbreakers like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Choice Specs <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and Nasty Plot <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> even while invested. This is especially true against the fast-paced offensive playstyles that stack setup sweepers together, as Gliscor can get overwhelmed easily with the repeated pressure. Gliscor's lack of immediate and reliable recovery, especially as the tier's setup sweepers can easily take advantage of predicted Protect turns by setting up, makes this more of an issue.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>A double dance set with both Swords Dance + Agility can be used alongside Earthquake and Facade on hyper offense teams that utilize dual screens, as it provides Gliscor with multiple setup opportunities and compensates for the lack of extra survivability granted by Protect; the Speed boost from Agility in particular lets it outrun offensive threats like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> that can revenge kill it or otherwise prevent it from sweeping. Tera Blast Fairy can be used as the coverage of choice alongside Earthquake on the Swords Dance set, as it provides Gliscor with a solid secondary STAB move alongside the defensive advantages of Tera Fairy; Tera Blast Fairy pressures <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> while still hitting most Ground-resistant targets like Ogerpon-W and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> hard, especially as it's complemented by its boosted Earthquake that handles Fairy-resistant targets like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. The newfound typing lets it take on foes like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Ice Spinner <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Ogerpon-W more comfortably. Similarly, Ice Fang is an option alongside Earthquake on the Swords Dance set for near-perfect coverage in just two moves; the move is particularly used for opposing Gliscor, but it's also handy to cover other Ground-resistant Pokemon like Dragonite, <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>. Substitute is an option with maximum Speed investment on Toxic variants to stall out poison turns more easily in conjunction with Protect, particularly letting it beat slower foes like Hydrapple, Great Tusk, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> one-on-one that can otherwise dent it quite hard. Toxic Spikes is a niche entry hazard over Spikes or Stealth Rock, specifically used to debilitate highly offensive teams filled with setup sweepers like Zamazenta, Ogerpon-W, Iron Valiant, and Great Tusk, as they tend to not switch around often for its other hazards to be as valuable. Dual Wingbeat gives Swords Dance Gliscor a solid and non-Tera reliant STAB move, notably hitting the likes of Hydrapple, Ogerpon-W, Great Tusk, and Zamazenta.</p>",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "description": "<p>Facade takes advantage of Gliscor's Poison Heal to give it a strong neutral attack against common foes like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Knock Off allows it to force progress early-game, crippling many manner of foes like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, Zapdos, and Terastallized <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> while giving it the coverage to hit Facade-immune targets like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. However, particularly on teams with sufficient Knock Off users, Earthquake can be used for a solid STAB option that can immediately dent <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> at the cost of being completely walled by Air Balloon Pecharunt and Gholdengo if running it alongside Facade. Protect provides it with the free turn of Poison Heal recovery and Toxic Orb activation, but it's also helpful to scout for double switches and Choice item users like Gholdengo, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. On top of further boosting its Facade, Gliscor greatly appreciates Tera Normal's immunity to Ghost-type attacks, most notably Hex from Dragapult and Gholdengo looking to turn Gliscor's Poison Heal into a liability. Its neutral typing against most threats is also helpful to handle foes like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and offensive Knock Off users like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, non-Close Combat <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Darkrai better. While less effective, other Tera types can be considered to cover various threats as necessary. Tera Dark provides a crucial immunity to Psychic Noise from foes like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/hoopa-unbound/ou/\" hreflang=\"en\">Hoopa-U</a> while still letting it take on Hex users like Dragapult and Gholdengo, with the added benefit of boosting its Knock Off. Tera Fairy is an overall strong and neutral defensive typing that notably grants it a Dark resistance and Dragon immunity, being handy against foes like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and Dragapult. Tera Water flips Gliscor's matchup against Ice- and Water-types such as Weavile and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> defensively while letting it take on Fire-type Pokemon like Iron Moth and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> more comfortably as well. Tera Dragon's Water resistance is also an option to match up better against Ogerpon-W while similarly resisting the Fire-types moves from the aforementioned Fire-types. A specially defensive spread allows Gliscor to better handle common offensive threats like Iron Valiant, Dragapult, Raging Bolt, and Iron Moth, with the 36 Defense EVs letting it comfortably survive Ogerpon-W's Ivy Cudgel from full health. Gliscor can opt for more Speed investment at the cost of bulk, such as running 244 HP / 168 SpD / 96 Spe to outrun Raging Bolt. Going all the way with 244 HP / 12 Atk / 252 Spe and a Jolly nature is a nicher option to Speed tie Kyurem and get the jump on <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, Great Tusk, and Hisuian Samurott at the cost of even lesser bulk, notably being easier to be overwhelmed by foes like Iron Valiant and Iron Moth. A physically defensive spread of 244 HP / 252 Def / 12 SpD with an Impish gives Gliscor the ability to better handle foes like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, Cinderace, and Great Tusk.</p>\n<p>Swords Dance Gliscor best fits on teams that need to break balance structures, most prominently teams that utilize multiple Heavy-Duty Boots users. Gliscor enjoys being a part of Spikes-stacking teams that need guaranteed progress against opposing Heavy-Duty Boots spam teams, which Spikes-stacking teams usually lose to. As a result, Ting-Lu and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> are great teammates, as they can set up entry hazards and directly complement Gliscor defensively. Gholdengo also pairs well, preventing Defog and hindering the removal of hazards. However, Gliscor's lack of Toxic or hazards makes it exert less pressure long-term, prevents it from placing opposing Pokemon on a timer such as Ting-Lu and Great Tusk, and means it cannot punish any switch-ins to it with a Toxic. Teammates such as Weavile and Choice Specs Dragapult help Gliscor's lack of pressure with great upfront damage. Swords Dance Gliscor is also unable to deal with the common Iron Defense Skarmory on balance teams or muscle through common defensive walls such as Dondozo and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>; however, access to Knock Off allows it remove their items at the very least, which could be helpful in the long run for Gliscor's teammates. Teammates such as Cinderace and <a href=\"/dex/sv/pokemon/rotom-wash/ou/\" hreflang=\"en\">Rotom-W</a> are great with Swords Dance Gliscor, as they can beat the fatter Pokemon that Gliscor is unable to muscle through, such as the aforementioned Skarmory, Ting-Lu, and Corviknight. Gholdengo and Ogerpon-W are also good options, as they are able to turn threats such as Skarmory and Dondozo into setup fodder.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Facade",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gliscor",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal"
+          ]
+        },
+        {
+          "name": "Utility",
+          "description": "<p>Gliscor can set multiple layers of Spikes throughout a game, making it the preferred entry hazard to run, but it can also serve as a good Stealth Rock setter for offensive teams that aren't reliant on stacking multiple entry hazards to force progress or teams that prefers a different Spiker instead. Knock Off most notably removes Heavy-Duty Boots from a litany of Pokemon that include the likes of <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> to render them vulnerable to Gliscor's entry hazards. Earthquake boasts solid coverage by preventing <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> from removing Gliscor's entry hazards, flipping an otherwise losing matchup against <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, letting Gliscor check <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, preventing <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> from using Gliscor as setup fodder, and even pressuring Toxic-immune foes like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. These moves have good synergy together, as Knock Off can pop Air Balloon from an opposing <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, Gholdengo, Kingambit, or <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> to pressure them with Earthquake thereafter. Toxic covers a huge slew of matchups, as it racks up enormous amounts of passive damage against <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> lacking Substitute or Rest, walls like Ting-Lu and Alomomola, entry hazard removal like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and threats like Kyurem and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> attempting to switch in. U-turn allows Gliscor to serve as a bulky pivot, allowing it to gain momentum against predicted switches into opposing Gliscor, defensive Gholdengo, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>; this option excels on bulky offense teams, since Gliscor can pivot powerful wallbreakers in against these defensive answers. Protect is a versatile tool on Gliscor by allowing it to safely activate its Toxic Orb, gain free passive healing from Poison Heal thereafter, rack up free Toxic damage, and even scout options from Choice item users like Kyurem, Gholdengo, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Though Gliscor's typing is extremely good defensively, Tera Water flips its Ice and Water weaknesses against foes like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, Ice Spinner <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, and Tera Fairy assists it against Dark-type attacks like Kingambit's Sucker Punch and Dragon-type attacks like Dragapult's and Raging Bolt's Draco Meteor. Tera Dragon is a solid Water-resistant option to resist Ogerpon-W's STAB moves, and Tera Ghost is worth considering to allow Gliscor to spinblock against opposing Great Tusk and Iron Treads while serving as an answer to IronPress Zamazenta and Tera Normal Dragonite. Tera Dark is yet another strong alternative, as it provides Gliscor with all of an immunity to Psychic Noise, a resistance to Hex from the likes of Dragapult and Gholdengo, and STAB on Knock Off. A specially defensive spread with a Careful nature lets Gliscor handle <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Iron Moth, and Raging Bolt quite effectively while effectively walling <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, Clefable, and Pecharunt, with 36 Defense EVs allowing Gliscor to survive Ogerpon-W's Ivy Cudgel from full HP. If it is being used as a team's dedicated Raging Bolt answer, Gliscor can opt to run a spread of 244 HP / 168 SpD / 96 Speed alongside Toxic or Earthquake to outspeed Raging Bolt and pressure it. Alternatively, a physically defensive spread with an Impish nature serves Gliscor better against Cinderace, Great Tusk, Kingambit, and Zamazenta.</p>\n<p>Gliscor works best on bulky balance and stall teams. <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> is an exceptional partner for Gliscor; it can check physical attackers like Weavile and most Dragonite sets with an Iron Defense set. On stall teams, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> is a mandatory teammate, as it can stomach extremely powerful special attacks from Kyurem, Raging Bolt, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and Iron Moth and greatly benefits from Gliscor's Toxic to wear the former three down even more quickly. Blissey and Ting-Lu can also opt to run Stealth Rock, making it extremely easy for Gliscor to run Spikes. Both Blissey and Ting-Lu also benefit greatly from Gliscor's ability to stomach Fighting-type attacks from Zamazenta and Iron Valiant, and their special bulk allows Gliscor to run a physically defensive spread to better check Kingambit. Galarian Weezing is another phenomenal partner for Gliscor; Neutralizing Gas turns Gliscor's stalemate matchups against Magic Guard Clefable poisoned by Toxic and opposing Gliscor into favorable ones with a single well-timed switch into Galarian Weezing. Galarian Weezing also cripples physical attackers like Ogerpon-W and Weavile with Will-O-Wisp and can even status the likes of <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and Gholdengo in a pinch, while Gliscor can handle Ground-types like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and Iron Treads that can severely threaten Galarian Weezing. Because opposing Galarian Weezing can also be problematic for Gliscor, it appreciates teammates like Moltres and Gholdengo that can switch into Galarian Weezing. Gliscor is threatened by physical boosters like Dragonite, Kingambit, Swords Dance Weavile, and Swords Dance Gliscor; <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> does an excellent job at keeping these attackers at bay thanks to Unaware and Curse. <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> is another excellent teammate for Gliscor; it helps check Walking Wake and can run Toxic Spikes or Toxic, letting Gliscor more easily forego Toxic itself. Gliscor's support is also invaluable for offensive staples on balance teams like Weavile, Darkrai, <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a>, and Walking Wake; all of these attackers benefit from Gliscor's entry hazards, especially alongside Gliscor's or even their own Knock Off support; if Gliscor parters with Pokemon that can use Knock Off themselves, then it can drop the move more freely. On more offensively-leaning teams, Gliscor's reliability as an entry hazard setter and Knock Off user, as well as its pivoting capabilities with U-turn, can support late-game sweeps for Zamazenta and Dragon Dance Dragonite, which appreciate the long-term progress Gliscor can force against the likes of Moltres, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and some Gholdengo variants. In return, Dragonite can effectively check Ogerpon-W for Gliscor, while Zamazenta can outspeed and threaten the likes of Ogerpon-W, Kyurem, Darkrai, and Weavile. Gliscor is greatly threatened by extremely powerful special attackers like Kyurem and Walking Wake, so bulky pivots like Galarian Slowking and Assault Vest Alomomola are solid teammates on balance teams that can check these and safely pivot Gliscor in. Galarian Slowking in particular forces even more chip damage onto the opposing team with Future Sight and Toxic. Gholdengo can also serve as an effective Kyurem check in a pinch. Dondozo and Curse Garganacl completely wall Gliscor and use it as setup fodder, so teammates that can pressure it, such as Ogerpon-W, Raging Bolt, and Kyurem, make for strong teammates on balance teams. Pecharunt is also an excellent teammate, especially for Gliscor sets that forego Toxic, that can check physical attackers like Ogerpon-W and Dragon Dance Dragonite while simultaneously pressuring Dondozo. In return, Gliscor puts a lot of pressure on Ting-Lu, which Pecharunt appreciates.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gliscor",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Swords Dance",
+          "description": "<p>Chinese Set: 天蝎王 || 招式：剑舞|硬撑|地震/拍落|守住 || 道具：剧毒宝珠 || 特性：毒疗 || 努力值：244 HP/248 防御/16 特防 或 244 HP/36 防御/228 特防 || 性格：淘气/慎重 || 太晶属性：一般</p>\n<p>剑舞天蝎王凭借其出色的耐久能在整场对局中轻松建立优势，它能在对方天蝎王及其他被动型宝可梦如皮可西、土王和超坏星面前使用剑舞，从而施加进攻压力。天蝎王因永久处于中毒状态能稳定使用硬撑，此招式可突破厄诡椪-水井面具、保姆曼波和快龙等宝可梦。剑舞天蝎王能威胁像皮可西这类常见的拍落吸收者，尤其是在厚底靴泛滥的队伍中，因此它可改用拍落以惩罚不同对手，特别是易受场地伤害影响的宝可梦如闪电鸟、火焰鸟和吃吼霸。钢属性的仆刀将军和巨锻匠虽抵抗硬撑+拍落的组合，但是它们无法反复承受通常用以辅助天蝎王的场地伤害。不过，地震可用以直接打击猛雷鼓、铁毒蛾和前文的钢属性宝可梦，代价是会被气球桃歹郎和赛富豪完挡。除了增强硬撑威力外，太晶一般还能免疫幽灵属性招式，主要是多龙巴鲁托和赛富豪可利用天蝎王中毒的祸不单行。其不错的中性抗性也能处理酋雷姆以及玛狃拉等进攻型拍落使用者、未携带近身战的雄伟牙、达克莱伊。其他太晶属性也可考虑但没那么有效：太晶妖精是一个优秀的防御属性，提供恶属性抗性和龙属性免疫，可处理洗翠大剑鬼和多龙巴鲁托。太晶水从防御层面扭转了天蝎王与玛狃拉和刺龙王等冰属性与水属性宝可梦的对位，并可以火属性的铁毒蛾闪焰王牌为起点。太晶龙提供的水属性抗性则可处理厄诡椪-水井面具，并抵抗前文提到的火属性招式。特防型努力值分配允许天蝎王处理铁武者、多龙巴鲁托、猛雷鼓和铁毒蛾，防御端投入36点努力值可在满HP时承受厄诡椪-水井面具的棘藤棒。不过，物防型努力值分配则可更好地挡下土地云-灵兽、闪焰王牌和雄伟牙。采用244HP/12攻击/252速度配合爽朗性格的极速分配也是可行的，能与酋雷姆拼速并超速土地云-灵兽、雄伟牙与洗翠大剑鬼。</p>\n<p>剑舞天蝎王最适合需要突破平衡队结构的队伍，尤其是那些有多个厚底靴使用者的队伍。天蝎王乐于成为钉攻队的一员，天蝎王可对厚底靴泛滥的队伍建立优势，而钉攻队通常难以应对此类MU。因此，古鼎鹿与盔甲鸟是极佳的队友，它们能布置场地伤害型招式并在防御端帮助天蝎王。赛富豪也是优秀搭档，能防止清除浓雾阻碍清钉。然而，天蝎王缺乏剧毒或场地伤害招式使其长期施压能力不足，无法快速削弱古鼎鹿与雄伟牙，也意味着它无法用剧毒惩罚任何换入的宝可梦。玛狃拉与讲究眼镜多龙巴鲁托等队友能通过强大的直接伤害弥补天蝎王输出不足的缺点。剑舞天蝎王同样无法应对平衡队中常见的铁壁盔甲鸟或突破吃吼霸与钢铠鸦等常见防御型盾牌；但拍落至少能移除它们的道具，这让天蝎王的队友可在长线中建立优势。闪焰王牌与洛托姆-清洗等队友与剑舞天蝎王配合良好，因为它们能击败天蝎王无法突破的耐久型宝可梦，如前述的盔甲鸟、古鼎鹿与钢铠鸟。赛富豪与厄诡椪-水井面具也是不错的选择，它们能将盔甲鸟与吃吼霸等威胁转变为强化起点。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Swords Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Facade",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gliscor",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Utility",
+          "description": "<p>Chinese Set: 天蝎王||招式：撒菱/隐形岩|拍落/地震|剧毒/拍落/急速折返|守住||道具：剧毒宝珠||特性：毒疗||努力值：244 HP / 36 防御 / 228 特防 或 244 HP / 252 防御 / 12 特防||性格：慎重 / 淘气||太晶属性：水 / 妖精</p>\n<p>天蝎王是顶级的防御型宝可梦；一旦它的剧毒宝珠激活，通过毒疗获得的续航、对后续异常状态效果的免疫、对场地伤害的抵抗以及优秀的防御属性组合使其极难被击倒，同时天蝎王本身还通过撒菱、道具移除和剧毒伤害对对手造成巨大的消耗。一旦剧毒宝珠激活，它可以反复换入承受来自巨锻匠和对方天蝎王针对其依赖道具的队友的拍落。天蝎王可以在一局游戏中铺设多层撒菱，但它也可以作为不依赖堆积多层场地伤害来推进的进攻队伍中的可靠隐形岩使用者。拍落最主要的作用是移除众多宝可梦的厚底靴，包括保姆曼波、酋雷姆和古鼎鹿等，使它们容易受到天蝎王场地伤害的影响。地震可提供可靠的打击面：阻止铁辙迹和闪焰王牌清除天蝎王的场地伤害、扭转对阵伽勒尔双弹瓦斯的劣势对局、让天蝎王能够Check猛雷鼓和铁毒蛾、防止仆刀将军和赛富豪将天蝎王作为强化契机、甚至对伽勒尔呆呆王和土王等免疫剧毒的对手施加压力。这些招式有良好的协同作用，因为拍落可以击破对方巨锻匠、赛富豪、仆刀将军或桃歹郎的气球，随后用地震施加压力。剧毒可扭转大量的对局，因为它对缺乏替身或睡觉的藏玛然特、古鼎鹿和保姆曼波等盾牌、雄伟牙等扫钉手、以及试图换入的酋雷姆和厄诡椪-水井面具等威胁能积累巨额削弱伤害。急速折返允许天蝎王充当耐久型轮转手，使其能够在预测到对手换入对方天蝎王、防御型赛富豪和皮可西时获取节奏；这个选项在平衡攻队中表现出色，因为天蝎王可以将强大的破盾手轮转上场应对这些盾牌。守住是天蝎王的多功能招式，使其能够安全激活剧毒宝珠、随后安全获得毒疗的被动回复、积累剧毒伤害、甚至侦察酋雷姆、赛富豪和多龙巴鲁托等讲究道具使用者的锁招。虽然天蝎王的属性防御性已经极好，但太晶水仍可扭转其对玛狃拉、冰旋快龙和波荡水等对手的冰和水属性弱点，而太晶妖精则帮助其抵抗仆刀将军的突袭等恶属性攻击以及多龙巴鲁托和猛雷鼓的流星群等龙属性攻击。太晶龙是一个可靠的抗水选项，用于抵抗厄诡椪-水井面具的属性一致招式，而太晶幽灵值得考虑，使天蝎王能够阻挡对方雄伟牙和铁辙迹的扫钉，同时作为铁壁加扑击藏玛然特和太晶一般快龙的应对手段。太晶恶是另一个强大的替代选择，因为它为天蝎王提供对预知未来的免疫、对多龙巴鲁托祸不单行的抗性以及拍落的属性一致加成。特防向的努力值分配配合慎重性格让天蝎王能够有效处理铁武者、铁毒蛾和猛雷鼓，同时有效阻挡火焰鸟、皮可西和桃歹郎，36点防御努力值允许天蝎王在满HP时承受厄诡椪-水井面具的棘藤棒。如果它被用作队伍专门的猛雷鼓check，天蝎王可以选择244点HP、168点特防、96点速度的努力值分配配合剧毒或地震以超过猛雷鼓的速度并对其施加压力。另一方面，物防向的努力值分配配合淘气性格让天蝎王能更好地应对闪焰王牌、雄伟牙、仆刀将军和藏玛然特。</p>\n<p>天蝎王在平衡受队和受队中表现最佳。钢铠鸦是天蝎王的出色搭档；它可以通过铁壁配置Check玛狃拉和大多数配置的快龙。在受队中，幸福蛋是必备队友，因为它能够承受来自酋雷姆、猛雷鼓、达克莱伊和铁毒蛾的极其强大的特殊攻击，并且极大地受益于天蝎王的剧毒，可以更快地消耗前三者。幸福蛋和古鼎鹿也可以选择携带隐形岩，这使得天蝎王可以轻松选择撒菱。幸福蛋和古鼎鹿都极大地受益于天蝎王承受藏玛然特和铁武者格斗属性攻击的能力，而它们的特殊耐久允许天蝎王选择物防向的努力值分配以更好地Check仆刀将军。伽勒尔双弹瓦斯是天蝎王的另一个绝佳搭档；伽勒尔双弹瓦斯通过一次恰到好处的换入，用化学变化气体将天蝎王与中毒的魔法防守皮可西和对方天蝎王的僵局对局转变为有利对局。伽勒尔双弹瓦斯还用鬼磷火削弱厄诡椪-水井面具和玛狃拉等物理攻击手，甚至可以在紧急情况下对盐石巨灵和赛富豪施加异常状态，而天蝎王可以处理严重威胁伽勒尔双弹瓦斯的地面属性宝可梦，如土地云-灵兽和铁辙迹。因为对方伽勒尔双弹瓦斯也可能对天蝎王构成问题，它欣赏像火焰鸟和赛富豪这样可以换入伽勒尔双弹瓦斯的队友。天蝎王受到快龙、仆刀将军、剑舞玛狃拉和剑舞天蝎王等物理强化者的威胁；吃吼霸凭借纯朴和诅咒在遏制这些攻击者方面做得非常好。超坏星是天蝎王的另一个优秀队友；它帮助Check波荡水，并且可以携带毒菱或剧毒，让天蝎王更容易放弃剧毒本身。天蝎王的支持对于平衡队上的进攻核心如玛狃拉、达克莱伊、烈腿蝗和波荡水也是无价的；所有这些攻击者都受益于天蝎王的场地伤害，尤其是与天蝎王甚至与它们自己的拍落支持相结合；如果天蝎王与能够自己使用拍落的宝可梦搭档，那么它可以更自由地放弃该招式。在更倾向于进攻的队伍上，因为天蝎王作为场地伤害设置者和拍落使用者的可靠性，以及其与急速折返的轮转能力，它可以支持藏玛然特和龙之舞快龙的终盘清场，它们欣赏天蝎王能够对火焰鸟、闪电鸟和一些赛富豪配置造成的长期消耗。作为回报，快龙可以有效地为天蝎王Check厄诡椪-水井面具，而藏玛然特可以超速并威胁厄诡椪-水井面具、酋雷姆、达克莱伊和玛狃拉等目标。天蝎王受到极其强大的特殊攻击手如酋雷姆和波荡水的严重威胁，因此像伽勒尔呆呆王和突击背心保姆曼波这样的耐久型轮转手是平衡队上可靠的队友，可以Check这些并安全轮转天蝎王上场。伽勒尔呆呆王特别通过预知未来和剧毒对对方队伍造成更多消耗伤害。赛富豪也可以在紧急情况下作为有效的酋雷姆Check。吃吼霸和诅咒盐石巨灵能够完全阻挡天蝎王并将其作为强化契机，因此可以对其施加压力的队友，如厄诡椪-水井面具、猛雷鼓和酋雷姆成为平衡队上的强大队友。桃歹郎也是一个优秀的队友，特别是对于放弃剧毒的天蝎王，可以Check厄诡椪-水井面具和龙舞快龙等物理攻击手，同时压制吃吼霸。作为回报，天蝎王可对古鼎鹿施加很大压力，这是桃歹郎所欣赏的。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Toxic",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gliscor",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ]
+    }
+  ]
+}

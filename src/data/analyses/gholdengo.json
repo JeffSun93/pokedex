@@ -1,0 +1,410 @@
+{
+  "id": 1000,
+  "name": "gholdengo",
+  "nameZh": "赛富豪",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "<p>With an excellent typing, moveset, and ability, Gholdengo stands out as an incredibly valuable Pokemon that can act as both a defensive and offensive glue on virtually any team style from hyper offense to balance. Its typing allows Gholdengo to check numerous relevant threats such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Good as Gold allows it to take on status users like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, phazers like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and Encore or Taunt from foes like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, Iron Valiant, and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>; both of these combined also makes Gholdengo one of the sturdiest methods to stop entry hazard removal, as it prevents some of the most common formes in <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>'s Defog, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>'s Mortal Spin, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>'s Rapid Spin. Gholdengo's moveset also gives it many options; Nasty Plot allows it to act as a wincon and wallbreaker, letting it overwhelm foes with excellent coverage and the longevity provided via Recover. It is also an excellent status spreader with Thunder Wave, giving Gholdengo a way to cripple faster foes such as Zamazenta, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, synergizing well with its Hex. Choice Scarf patches up its middling Speed and lets it act as a team's speed control, which also lets it run Trick to cripple setup sweepers like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and Zamazenta as well as defensive switch-ins against bulkier teams. Gholdengo, however, suffers from an awkward Speed tier without a Choice Scarf, as it is slower than many relevant threats such as Darkrai, Kyurem, <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, and Great Tusk. It also often invites in common Pokemon that can threaten it directly such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and special walls such as Ting-Lu, Assault Vest <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> can give it trouble.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Covert Cloak is an option to take on <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>'s Salt Cure and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>'s Nuzzle, as well as avoid the Defense drop from <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>'s Crunch. Ability Shield lets Gholdengo ignore <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>'s Neutralizing Gas, allowing Good as Gold to continue blocking Defog. Thunder Wave is an option on Choice Scarf sets in order to surprise and cripple threats such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>. Choice Specs can be used to wallbreak while still having the utility of Trick, with the immediate power boost letting it 2HKO <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> with Focus Blast after Stealth Rock, although this set is notably held back by Gholdengo's Speed. Salac Berry fixes the Speed issue on Nasty Plot Gholdengo in a pinch and allow a potential sweep late-game. Red Card takes advantage of its bulk to act as a one-time phazer against boosted threats such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. Eject Pack allows Gholdengo to pivot once after using Make It Rain, providing team support by keeping up momentum. Custap Berry is another option to mitigate its Speed issue, and it can be used to surprise foes and hit back against would-be revenge killers like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Iron Valiant.</p>",
+      "movesets": [
+        {
+          "name": "Offensive Nasty Plot",
+          "description": "<p>Thanks to Good as Gold and excellent defensive typing that lets it set up on Pokemon like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, Nasty Plot Gholdengo is a premier wallbreaker in the metagame. Shadow Ball gives it a no-drawback and spammable STAB move to hit most foes neutrally, particularly valuable against opposing Gholdengo. Make it Rain's sheer power is great against <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> while hitting neutral threats like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> hard. Thunderbolt takes care of <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Dazzling Gleam hits foes like Hisuian Samurott, Ting-Lu, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> reliably while being a solid STAB move when paired with Tera Fairy. Focus Blast hits the many Dark-types in the tier; it notably targets <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> while hitting Ting-Lu and Hisuian Samurott harder than Dazzling Gleam. Recover gives Gholdengo a way to stay in the battle for longer, particularly against chip damage like Garganacl's Salt Cure, and leverage its defensive utility against the aforementioned threats. Psyshock turns it into a stallbreaker, as it is useful for breaking through special walls that would otherwise contest with Gholdengo, like Calm Mind <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. The Ground immunity granted by Air Balloon allows Gholdengo to set up in the face of <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, spinblock Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, become a sturdier switch-in against foes like Kyurem and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and avoid damage from Spikes. Metal Coat alongside Tera Steel can be used on Make It Rain variants to propel its power to overwhelm checks like Ting-Lu and even OHKO resistant ones like bulky Kingambit and Moltres at +2. On bulkier teams that lack any entry hazard removal, Heavy-Duty Boots can be used instead due to Air Balloon's temporary immunity to Spikes being less appealing with Gholdengo's necessity to switch around more often. Shuca Berry is an option to lure in Ground-type revenge killers like Great Tusk and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> to flip the matchup against them; the lack of immunity over Air Balloon is made up for Gholdengo's freedom to take on other attacks early in the game as well as hiding Gholdengo's item from the opponent. Gholdengo can make great use of a wide variety of Tera types, both for offensive and defensive purposes: Tera Fairy boosts Dazzling Gleam and gives it a sudden resistance to Dark, potentially mitigating the damage from moves like Knock Off, Crunch, and Sucker Punch from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Zamazenta, and Kingambit, respectively. Tera Fighting is an option to boost its Focus Blast, notably having good odds to OHKO Ting-Lu at +2, while also providing a Dark resistance similar to Tera Fairy.</p>\n<p>Any team can make great use of Gholdengo’s ability to spinblock and prevent Defog, but an offensive team would make the best use of its wallbreaking power. Offensive hazard-stacking cores featuring Pokemon such as <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> can use Gholdengo’s help to keep the pressure on, with Gholdengo in return preventing foes from removing said hazards easily. Powerful wallbreakers like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> provide support for Gholdengo to whittle down defensive cores together. Without using Tera, Gholdengo struggles against the Dark-types and Ghost-types that are so common in the tier, such as Kingambit, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Having teammates that can check them, like Zamazenta, <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, and Hisuian Samurott give Gholdengo some extra protection and a way to strike back against them. Even if it's using Air Balloon, having another Ground-immune Pokemon, such as Gliscor or <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, is extremely helpful to mitigate that weakness. Gholdengo is vulnerable to fast threats such as Dragapult, <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>. Having some form speed control on the team, such as Choice Scarf Enamorus and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> or priority users like Weavile and Raging Bolt, to counteract these threats is extremely valuable.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Make It Rain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              },
+              {
+                "move": "Thunderbolt",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Steel",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Bulky Nasty Plot",
+          "description": "<p>Defensive Gholdengo can serve as a bulky spinblocker and powerful setup sweeper in long matches. Its bulk, typing, and access to reliable recovery give it multiple opportunities to pivot into various defensive Pokemon such as <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and make it a more reliable check to key offensive Pokemon such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>. It can use its increased bulk to more safely set up a Nasty Plot while sustaining itself with Recover. Gholdengo possesses near perfect coverage with its STAB attacks, making it very difficult to respond to. Dazzling Gleam is an option over Make It Rain, as it deals high damage to Dark-types such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> after a Nasty Plot boost. 60 Speed EVs allow Gholdengo to outspeed Jolly Kingambit and <a href=\"/dex/sv/pokemon/azumarill/ou/\" hreflang=\"en\">Azumarill</a>, as well as uninvested <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>; alternatively, 92 Speed EVs can allow Gholdengo to also outspeed uninvested <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> at the cost of losing a noticeable amount of bulk. Air Balloon allows Gholdengo to avoid taking Spikes damage and Ground-type attacks from prominent Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and Gliscor, letting it setup on these Pokemon and more safely pivot into Rapid Spin users such as the aforementioned Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Heavy-Duty Boots can be used instead to more reliably mitigate entry hazard damage and more frequently pivot into various defensive Pokemon such as Skarmory even after it has taken damage. Rocky Helmet is a solid alternative to these items that can effectively punish physical attackers like Zamazenta, which is forced to commit to using Crunch against Gholdengo, and force it out due to the threat of significant chip damage. On offensive Grassy Terrain teams with <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, Grassy Seed can be used to give it setup opportunities against foes like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> as well as take on the likes of <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and Zamazenta more comfortably. Gholdengo is a fantastic Terastallization candidate in most matches, as it greatly benefits from neutralizing all of its weaknesses to gain a crucial free turn to setup a Nasty Plot or heal itself with Recover. Tera Fairy gives Gholdengo a better matchup against various Dark-types such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> and boosts the power of Dazzling Gleam. Tera Water improves Gholdengo's matchups against <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> as well as providing a good defensive typing against much of the metagame. Tera Flying is an alternative option that lets it completely dominate Ground-types such as Great Tusk, Gliscor, and Ting-Lu.</p>\n<p>Gholdengo fits quite well on bulky offense and balance teams as a spinblocker. Therefore, Spikes setters such as Ting-Lu, Gliscor, and Skarmory, as well as Stealth Rock setters such as Great Tusk, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and Landorus-T greatly appreciate Gholdengo's ability to block most forms of hazard removal. Offensive teammates also appreciate Gholdengo's presence due to its strong defensive profile and ability to absorb status moves. Kingambit in particular greatly benefits from Gholdengo's ability to block status moves and check Pokemon it struggles against such as Zamazenta and Iron Valiant and can capitalize on Gholdengo luring and weakening its other checks such as Great Tusk. Iron Valiant similarly benefits from Gholdengo's ability to check Hatterene, and it can lure and weaken key checks to Gholdengo such as <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> with Psyshock. Gholdengo often struggles against offensive teams due to its poor matchup against many key threats such as <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, Kingambit, and Iron Moth. Great Tusk and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> can help alleviate pressure by dealing with Kingambit while simultaneously benefiting from Gholdengo's defensive profile against faster special attackers such as <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Ting-Lu and Clodsire can handle the special attackers that give Gholdengo trouble, such as <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and accentuate Gholdengo's threat level with entry hazards. While Gholdengo is excellent at keeping entry hazards on the field, it can often struggle against opposing entry hazard setters such as Ting-Lu, Hisuian Samurott, and Clodsire, particularly if it is unable to Terastallize. Therefore, hazard removal support from Great Tusk is beneficial.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Water"
+          ]
+        },
+        {
+          "name": "Thunder Wave + Hex",
+          "description": "<p>Hex Gholdengo is a powerful support Pokemon and paralysis spreader. Thunder Wave cripples many Pokemon Gholdengo typically struggles with such as <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> while also being useful against Pokemon Gholdengo is tasked with handling, such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. It can then follow up with a powerful Hex on subsequent switch-ins. Make It Rain is the preferred option in the last slot to hit specially frail Ground-types, such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> for high damage. Dazzling Gleam still hits Great Tusk for good damage while also hitting other Pokemon such as Hisuian Samurott quite hard. Focus Blast is another option that can be used in the last slot, as it is Gholdengo's strongest move against <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, Hisuian Samurott, and Darkrai, OHKOing the latter two after minor chip damage. 60 Speed EVs allow Gholdengo to outspeed Jolly Kingambit and uninvested Landorus-T. Air Balloon allows Gholdengo to avoid Ground-type moves, letting it more reliably spinblock Great Tusk, as well as check <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Leftovers is also an option, as Gholdengo can force a good amount of switches, granting it more residual healing. Rocky Helmet greatly improves Gholdengo's matchup against Zamazenta, which is forced to use Crunch to meaningfully damage Gholdengo and as such takes significant chip damage. Colbur Berry can also be considered, as it allows Gholdengo to more effectively lure in and paralyze Dark-types such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and Darkrai while also making it a more reliable answer to Swords Dance Iron Valiant. On teams without hazard removal, Heavy Duty-Boots is also an option to avoid entry hazard damage. Gholdengo can be an effective Tera candidate in order to check a wider range of threats with Thunder Wave. Tera Fairy allows Gholdengo to better check utility <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and resist Dark-type moves from Pokemon such as Weavile and Darkrai, allowing it to get off a crucial Thunder Wave against them while also being helpful against Garganacl by lowering Salt Cure damage. Tera Fairy also has the added benefit of boosting Dazzling Gleam's damage, giving it remarkable odds to OHKO Hisuian Samurott and Great Tusk. Alternatively, Tera Water improves Gholdengo's matchup against Fire-types such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and Cinderace.</p>\n<p>Gholdengo is an effective option on teams looking for a bulky spinblocker and paralysis support. Hazard setters such as Landorus-T, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, and <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a> all benefit from its ability to block removal from the likes of <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Great Tusk. Kingambit greatly benefits from Gholdengo's presence due to it checking Zamazenta and spreading paralysis, allowing Kingambit to outspeed and KO targets such as Darkrai, Weavile, and opposing Kingambit. Darkrai similarly appreciates Gholdengo's ability to paralyze Zamazenta, Iron Valiant, and Iron Moth, allowing it to more effectively sweep in the late-game. Iron Valiant also enjoys Gholdengo's presence to handle <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and Zamazenta, as well as its ability to spread paralysis to make Iron Valiant less reliant on Booster Energy to revenge kill Pokemon such as Darkrai. Garganacl appreciates Gholdengo's ability to spinblock its Stealth Rock and handle Pokemon it struggles against, such as Galarian Slowking and Encore users such as <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> and Iron Valiant. In turn, Garganacl aids Gholdengo against Fire-types it may struggle against such as Iron Moth, as well as opposing Ghost-types such as Dragapult. As this Gholdengo set is not running a boosting move, it can struggle to make progress against certain Pokemon, particularly bulky Ground- and Electric-types such as Ting-Lu, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. As such, it appreciates partners that can handle these types of Pokemon. Great Tusk is an excellent partner, as it can undo any hazards Ting-Lu or Iron Treads set up, switch into Raging Bolt's Electric-type moves, and deal good damage to all three with Headlong Rush. It is also effective against other Pokemon Gholdengo may struggle with such as Kingambit. Darkrai can lure and deal heavy damage to Ground-types such as Ting-Lu and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> with its Nasty Plot-boosted Ice Beam, making it easier for Gholdengo to break through them later. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> can easily break past Ground-types with Ivy Cudgel and is effective at luring in and KOing Raging Bolt with Play Rough. It also appreciates Gholdengo's ability to handle Zamazenta and paralyze faster targets such as Darkrai. As Gholdengo's bulk is middling, it can be prone to being overwhelmed by faster threats such as Darkrai and Iron Moth. Dragonite and Raging Bolt can revenge kill these Pokemon with their powerful Extreme Speed and Thunderclap, respectively, while also being able to weaken Ground-types that may switch into Gholdengo with Ice Spinner and Draco Meteor, respectively. Similarly, Zamazenta can also use these Pokemon as an entry point to set up and sweep with Iron Defense. Dragonite and Zamazenta appreciate Gholdengo's ability to handle their checks such as <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, while Raging Bolt appreciates Gholdengo's ability to weaken Ground-type such as Ting-Lu and Great Tusk. As any status will boost Hex's power, Gholdengo appreciates support from other status spreaders. <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> can help by spreading burns with Flame Body on Pokemon that typically annoy Gholdengo such Great Tusk and Kingambit while also checking Fire-types like Cinderace. <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> is similarly effective at spreading Toxic against Ground- and Electric-types such as Ting-Lu and Raging Bolt, while also completely walling Clodsire. In turn, Gholdengo helps Gliscor maintain its Spikes on the field.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Water"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "description": "<p>Choice Scarf Gholdengo is a great speed control option in the tier capable of outrunning and revenge killing premier offensive threats like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Choice Specs <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>. Shadow Ball allows it to threaten foes like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and Dragapult, while Make It Rain, with its high Base Power, not only becomes challenging to switch into but also enables Gholdengo to effectively revenge kill Pokemon like Enamorus. Trick is a good utility move that allows it to Choice-lock Pokemon like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, hampering their effectiveness. Focus Blast enables Gholdengo to hit Dark-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and Ting-Lu. Alternatively, Nasty Plot can be used to turn Gholdengo into a potent late-game cleaner once it has successfully used Trick to get rid of its Choice Scarf. In another vein, Recover can be utilized to keep Gholdengo healthy, especially against bulkier foes, once it has used Trick, allowing it to check them more consistently. Tera Fighting gives Gholdengo a resistance to Dark-type moves, most notably Sucker Punch from Kingambit, and it gives Focus Blast a STAB boost. Tera Ghost boosts the power of its spammable Shadow Ball, letting it clean up late-game more easily; similarly, Tera Steel can be used to better sweep through weakened foes with Make It Rain.</p>\n<p>Gholdengo fits well on bulky offense and balance teams, where it functions as a great revenge killer. Teammates that benefit from Gholdengo's presence include Pokemon that appreciate its ability to handle fast and strong offensive threats. For instance, setup sweepers like Calm Mind <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and Bulk Up <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> can capitalize on Gholdengo's ability to revenge kill and weaken opposing threats like Dragapult and Choice Specs Enamorus, creating opportunities for Gholdengo's partners to set up and sweep. Great Tusk's access to Rapid Spin also synergizes well with Gholdengo, which is punished by Spikes, so getting rid of them gives Gholdengo more opportunities to switch in. Entry hazard setters like Gliscor, Skarmory, and Ting-Lu also benefit from Gholdengo's ability to serve as an emergency spinblocker. Due to its vulnerability to Dark-type Pokemon like Kingambit and Hisuian Samurott, exacerbated by its reliance on the inaccurate Focus Blast and the inherent risk of being Choice-locked, Gholdengo greatly benefits from the support of teammates that check the aforementioned foes, such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>. <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> also deserves a special mention as a teammate, as its Grassy Terrain weakens the super effective Earthquake, in addition to acting as a check to foes like Ting-Lu. In return, Gholdengo helps Rillaboom by handling threats that would otherwise be problematic for the latter, such as <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Skarmory.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "description": "<p>Chinese Set: 防御型赛富豪 || 招式：诡计|暗影球|自我再生|淘金潮/魔法闪耀 || 道具：气球/厚底靴 || 特性：黄金之躯 || 努力值：252 HP/196 防御/60 速度 || 性格：大胆 || 太晶属性：妖精/飞行</p>\n<p>防御型赛富豪能在持久战中充当耐久型反扫钉手与强力的强化型清场手。其耐久、属性组合与可靠的回复手段使它有多次机会轮转上场对抗各种防御型宝可梦，如盔甲鸟、钢铠鸦、伽勒尔呆呆王和皮可西，并使其成为铁武者、布莉姆温和藏玛然特等关键进攻宝可梦的更可靠Check。它可利用提升的耐久更安全地进行诡计强化，同时用自我再生维持状态。赛富豪凭借其属性一致招式拥有近乎完美的打击面，令对手极难应对。魔法闪耀可替代淘金潮，因为在诡计强化后它能对洗翠大剑鬼、仆刀将军和轰鸣月等恶属性宝可梦造成高额伤害。60速度努力值使赛富豪能超过爽朗性格的仆刀将军和玛力露丽，以及无速度努力值 投入的土地云-灵兽；另一方面，92速度努力值能让赛富豪同时超过无速度投入的天蝎王，但代价是损失显著的耐久。气球使赛富豪能避免受到撒菱伤害以及来自雄伟牙和天蝎王等热门宝可梦的地面属性攻击，让它能在这些宝可梦面前强化，并更安全地轮转上场应对如上文提及的雄伟牙和铁辙迹等清除浓雾使用者。另一方面，厚底靴可用于更可靠地减轻场地伤害的损伤，并更频繁地轮转上场对抗各种耐久型宝可梦，如即使已受过伤仍能应对的盔甲鸟。赛富豪在多数对局中都是极佳的太晶化候选者，因为它能极大受益于其所有弱点的消除，从而获得关键的无代价回合进行诡计强化或用自我再生回复。太晶妖精可以更好地应对轰鸣月、玛狃拉和魔幻假面喵等各类恶属性宝可梦，并增强魔法闪耀的威力。太晶飞行让它能完全压制雄伟牙、天蝎王和古鼎鹿等地面属性宝可梦。太晶水是另一种选择，能改善赛富豪与席多蓝恩、闪焰王牌和火神蛾的对位，以及与戽斗尖梭和波荡水等水属性宝可梦的对位。</p>\n<p>赛富豪能很好地融入平衡攻与平衡队，担任反扫钉手角色。因此，古鼎鹿、天蝎王和盔甲鸟等隐形岩撒手，以及雄伟牙、盐石巨灵和土地云-灵兽等隐形岩撒手，都非常欣赏赛富豪阻挡大多数场地伤害清除手段的能力。进攻型队友也因赛富豪强大的防御面与吸收异常状态招式的能力而欣赏它的存在。仆刀将军尤其受益于赛富豪阻挡异常状态招式并Check像藏玛然特和铁武者这类它难以应对的宝可梦的能力，并能利用赛富豪引诱并削弱其其他Check如雄伟牙来创造机会。铁武者同样受益于赛富豪Check布莉姆温的能力，并且它能用精神冲击引诱并削弱赛富豪的关键Check如土王和火神蛾。赛富豪常在对阵攻队时陷入苦战，因为它弱于火神蛾、破空焰、达克莱伊、仆刀将军和轰鸣月等许多关键威胁。雄伟牙和吃吼霸可通过应对仆刀将军和破空焰来帮助缓解压力，同时赛富豪能帮它们对抗像酋雷姆和眷恋云等高速特攻手。古鼎鹿和土王能处理给赛富豪带来麻烦的特攻手，如火神蛾和多龙巴鲁托，并通过场地伤害辅助赛富豪输出。虽然赛富豪极其擅长反扫钉，但它常难以对抗对方的撒钉手，如古鼎鹿、洗翠大剑鬼和土王，尤其是在它无法进行太晶化时。因此，它需要雄伟牙帮助清钉。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Flying"
+          ]
+        },
+        {
+          "name": "Hex",
+          "description": "<p>Chinese Set: 祸不单行（赛富豪） || 招式：祸不单行 | 电磁波 | 自我再生 | 淘金潮 / 魔法闪耀 || 道具：气球 / 吃剩的东西 || 特性：黄金之躯 || 太晶属性：妖精 / 水 || 努力值：252 HP / 196 防御 / 60 速度 || 性格：大胆</p>\n<p>祸不单行赛富豪是一名强大的辅助宝可梦和麻痹传播者。电磁波能削弱赛富豪通常难以应对的宝可梦，如洗翠大剑鬼、破空焰和闪焰王牌，同时对赛富豪需要处理的藏玛然特和铁武者等目标也极为有效，随后可通过强力的祸不单行打击换入的对手。淘金潮是最后一招的首选，能对特防脆弱的地面属性宝可梦，如雄伟牙、土地云-灵兽和盐石巨灵造成高额伤害。魔法闪耀同样能有效打击雄伟牙，同时重创洗翠大剑鬼和轰鸣月等宝可梦。真气弹是另一可选招式，对仆刀将军和洗翠大剑鬼的威力最高，有较高概率OHKO两者，但其较低的命中率使其相比淘金潮或魔法闪耀不够可靠。60点速度努力值使赛富豪能超速爽朗性格的仆刀将军和未投入速度努力值的土地云-灵兽。赛富豪的道具选择较为灵活。气球使其免疫地面属性招式，得以更可靠地反制雄伟牙的清钉企图，并Check快龙和酋雷姆。吃剩的东西也是可行选择，赛富豪能迫使对手频繁换人，从而获得更多被动回复。刺耳果也可作为考虑，使赛富豪更有效地引诱并麻痹玛狃拉和达克莱伊等恶属性宝可梦，同时更可靠地应对剑舞铁武者。在缺乏清除钉子手段的队伍中，厚底靴也是选择之一，以避免场地伤害。赛富豪是太晶化的优秀候选，能通过电磁波Check更多的威胁。太晶妖精使其更好地应对辅助型多龙巴鲁托，并抵抗轰鸣月、玛狃拉和达克莱伊等宝可梦的恶属性招式，从而成功施加关键的电磁波。太晶妖精还能提升魔法闪耀的威力，足以OHKO洗翠大剑鬼和雄伟牙，同时降低盐石巨灵的盐腌伤害。或者，太晶水改善赛富豪对破空焰和闪焰王牌等火属性宝可梦的MU。</p>\n<p>赛富豪适合需要耐久型反清钉手和麻痹辅助的队伍。土地云-灵兽、古鼎鹿、晶光花和蝶结萌虻等撒钉手均受益于赛富豪阻挡钢铠鸦和雄伟牙等宝可梦的场地清理。仆刀将军极大地受益于赛富豪Check藏玛然特和传播麻痹的能力，使其能超速并KO达克莱伊、玛狃拉和敌方仆刀将军等目标。达克莱伊同样欣赏赛富豪麻痹藏玛然特、铁武者和铁毒蛾的能力，使其在后期更有效地清场。铁武者也青睐赛富豪处理伽勒尔呆呆王和藏玛然特，以及通过麻痹减少对驱劲能量的依赖，从而更轻松地复仇杀达克莱伊等宝可梦。盐石巨灵欣赏赛富豪反制扫钉并应对其难以处理的伽勒尔呆呆王和厄诡椪及再来一次使用者如铁武者等的能力。作为回报，盐石巨灵帮助赛富豪对抗破空焰和闪焰王牌等火属性宝可梦，以及多龙巴鲁托等幽灵属性对手。由于此赛富豪配置不携带强化招式，难以突破某些宝可梦，尤其是耐久型的地面和电属性宝可梦如古鼎鹿、铁辙迹和猛雷鼓。因此，它需要能处理这些宝可梦的队友。雄伟牙是极佳的伙伴，能清除古鼎鹿或铁辙迹设置的场地伤害，换入应对猛雷鼓的电属性招式，并以突飞猛扑对三者造成可观伤害，同时有效对抗赛富豪难以处理的破空焰和仆刀将军。达克莱伊可通过诡计强化的冰冻光束引诱并重创古鼎鹿和土王等地面属性宝可梦，为赛富豪后续突破铺路。厄诡椪-水井面具能以棘藤棒轻松突破地面属性宝可梦，引诱并用嬉闹KO猛雷鼓，同时欣赏赛富豪处理藏玛然特和麻痹达克莱伊及轰鸣月等高速目标的能力。由于赛富豪的耐久一般，容易被达克莱伊、轰鸣月和铁毒蛾等高速威胁击败。快龙和猛雷鼓能以强力的神速和迅雷复仇杀这些宝可梦，并分别通过冰旋和流星群削弱换入赛富豪的地面属性宝可梦。藏玛然特也能利用这些宝可梦作为跳板，通过铁壁进行强化清场。快龙和藏玛然特欣赏赛富豪应对眷恋云和盔甲鸟等它们的Check的能力，而猛雷鼓则依赖赛富豪削弱古鼎鹿和雄伟牙等地面属性宝可梦。由于任何异常状态都能提升祸不单行的威力，赛富豪青睐其他异常状态传播者的帮助。火焰鸟通过火焰之躯传播灼伤，削弱困扰赛富豪的雄伟牙和仆刀将军，同时Check破空焰和闪焰王牌等火属性宝可梦。天蝎王同样擅长对古鼎鹿和猛雷鼓等地面和电属性宝可梦施加剧毒，同时能完挡土王。作为回报，赛富豪可以帮助防止天蝎王的撒菱被清除。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              },
+              {
+                "move": "Dazzling Gleam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Water"
+          ]
+        },
+        {
+          "name": "Offensive Nasty Plot",
+          "description": "<p>Chinese Set: 进攻型诡计赛富豪 || 招式：诡计|暗影球|淘金潮|自我再生/精神冲击/真气弹 || 特性：黄金之躯 || 努力值：252 特攻 / 4 特防 / 252 速度 || 性格：胆小 || 太晶属性：妖精/钢/格斗</p>\n<p>凭借其黄金之躯特性以及出色的防御属性组合——使其能在眷恋云和皮可西等宝可梦面前强化——诡计赛富豪是SV OU中顶级的破盾手。虽然自我再生给予赛富豪延长续航的手段，但它也可以选择一系列补盲招式以提供更多破盾选择。精神冲击可用于突破那些会给赛富豪带来麻烦的特防盾牌，如幸福蛋和土王；而真气弹能打击分级中众多的恶属性宝可梦，如达克莱伊、轰鸣月和仆刀将军。自我再生通常用于更偏耐久的队伍，而精神冲击和真气弹则对偏进攻的队伍更为有用。赛富豪能极好地利用多种太晶属性，无论是为了攻击还是防御目的。太晶妖精或格斗赋予其对恶属性的突然抵抗，可能减轻来自雄伟牙的拍落和藏玛然特的咬碎等招式的伤害。太晶妖精额外赋予其对龙属性的免疫，而太晶格斗则为真气弹提供属性一致加成。太晶钢可以增强淘金潮的威力，同时减轻来自多龙巴鲁托等宝可梦的恶属性和幽灵属性招式的伤害。</p>\n<p>得益于黄金之躯特性，任何队伍都能充分利用赛富豪反扫钉和阻止清除浓雾的能力，但进攻型队伍能最好地利用其破盾威力。包含晶光花、古鼎鹿、盔甲鸟和代欧奇希斯-速度形态等宝可梦的攻向堆钉核心可以利用赛富豪的帮助来持续施压。利用赛富豪迫使对手换人所创造机会的强大宝可梦，如玛狃拉和携带撒菱的魔幻假面喵，以及其他诡计破盾手如达克莱伊，可帮助赛富豪削弱防御核心。此外，其他使用拍落等辅助招式削弱共享盾牌的特攻手，以及那些能够吸收拍落的宝可梦，如天蝎王、盔甲鸟、钢铠鸦和皮可西，与赛富豪反制一切清钉手段的特点配合良好。在不使用太晶的情况下，赛富豪难以应对分级中泛滥的恶属性宝可梦，如仆刀将军、轰鸣月和洗翠大剑鬼。拥有抵抗恶属性攻击的队友，如藏玛然特和眷恋云，能为赛富豪提供额外保护并赋予其反击它们的手段。即使携带气球，拥有另一只免疫地面属性的宝可梦，如天蝎王或龙卷云-灵兽，对于减轻该弱点也极为有帮助。赛富豪的速度与OU分级的其他宝可梦相比仍略有不足，容易受到多龙巴鲁托、波荡水和玛狃拉等快速威胁的打击。在队伍中配备一些速度控制手段，如讲究围巾眷恋云或魔幻假面喵，或诸如玛狃拉的冰砾和猛雷鼓的迅雷等先制招式来反制这些威胁，是极其宝贵的。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              },
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Steel",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "description": "<p>Chinese Set: 讲究围巾赛富豪 || 招式：暗影球|淘金潮|戏法|真气弹/诡计/自我再生 || 道具：讲究围巾 || 特性：黄金之躯 || 努力值：252特攻/4特防/252速度 || 性格：胆小 || 太晶属性：格斗/飞行</p>\n<p>讲究围巾赛富豪在当前分级中是一个出色的速度控制手段，能够超速并复仇杀像多龙巴鲁托、讲究眼镜眷恋云和酋雷姆这样的顶级进攻威胁。暗影球使它能够威胁像伽勒尔呆呆王、盔甲鸟和多龙巴鲁托这样的对手，而高威力的淘金潮不仅让对手难以换入，还使赛富豪成功复仇杀像酋雷姆和眷恋云这样的宝可梦。戏法是一个优秀的辅助招式，能让它锁招古鼎鹿、天蝎王和铝钢桥龙等对手，从而削弱它们的辅助能力。真气弹使赛富豪能够打击像仆刀将军、洗翠大剑鬼和古鼎鹿这样的恶属性宝可梦。另一方面，诡计可以在赛富豪成功使用戏法摆脱讲究围巾后，将其转变为强大的终局清场手。此外，自我再生可在使用戏法后用来维持赛富豪的HP，特别是在面对更耐久型的对手时，使其能更稳定地Check它们。太晶格斗赋予赛富豪对恶属性招式的抗性，最关键的是能抵挡仆刀将军的突袭，同时它为真气弹提供了属性一致加成。另一方面，太晶飞行可用于帮助赛富豪对抗像雄伟牙和天蝎王这样的地面属性宝可梦。</p>\n<p>赛富豪能很好地融入平衡攻和平衡队，在其中扮演优秀的复仇杀手。能与赛富豪配合良好的队友，包括那些青睐它处理高速强力进攻威胁能力的宝可梦。例如，冥想猛雷鼓和健美雄伟牙等强化型清场手，可以利用赛富豪复仇杀和削弱像多龙巴鲁托和讲究眼镜眷恋云等对手的能力，为赛富豪的队友创造强化与清场的机会。雄伟牙的高速旋转也与赛富豪有良好配合，因为赛富豪会受到撒菱伤害，清除撒菱能为赛富豪提供更多换上场机会。赛富豪还能作为应急反扫钉手，这正是天蝎王、盔甲鸟和古鼎鹿等撒钉手所青睐的。此外，天蝎王和雄伟牙都有助于Check破空焰，这是一个赛富豪难以应付的对手。由于赛富豪容易受到像仆刀将军和洗翠大剑鬼这类恶属性宝可梦的威胁，加之命中率不稳定的真气弹以及锁招的固有特定，它极大地依赖上述对手的Check，例如藏玛然特和铁武者。轰擂金刚猩也值得一提，因为它的青草场地能削弱效果绝佳的地震，同时它还能Check像古鼎鹿这样的对手。反过来，赛富豪通过处理对轰擂金刚猩不利的威胁，如盔甲鸟，来帮助它。破空焰也是赛富豪非常优秀的队友，因为它青睐赛富豪惩罚超坏星和吃吼霸等被动check。同时它也为赛富豪check仆刀将军和进攻型火属性宝可梦，如火神蛾和闪焰王牌。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Make It Rain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              },
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Gholdengo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Flying"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 146,
+  "name": "moltres",
+  "nameZh": "火焰鸟",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Defensive",
+          "description": "<p>Moltres is an excellent defensive Pokemon, using its typing and ability to punish a multitude of physical attackers in the tier, threatening a burn with Flame Body to stop pivoting from U-turn or reliably walling the likes of <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> lacking Stone Edge, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. U-turn turns Moltres into a pivot, letting it get in teammates safely, keep up momentum, and chip down switch-ins like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Will-O-Wisp reliably cripples physical attackers like Kingambit, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and Dragonite, even bypassing the former's Sucker Punch, and slowly chips down walls like Alomomola, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Roar prevents Moltres from being used as setup fodder, especially by Tera Fire foes like Zamazenta, Kingambit, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and special attackers like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, as well as being a good way to deal passive damage if entry hazards are up. Hurricane immediately threatens foes like Great Tusk, Zamazenta, and Ogerpon-W while 2HKOing physically defensive Alomomola and even bulky <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Scorching Sands can be used to hit foes like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Garganacl, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, and the aforementioned Fire-types and Tera Fire users while fishing for burns in general. Tera Fairy is a solid defensive typing that notably gives Moltres a good matchup against foes like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> while maintaining its positive matchup versus Zamazenta and Great Tusk. Tera Grass flips Moltres's Water and Electric weaknesses, letting it take on various hits from the likes of Ogerpon-W and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> while being able to safely phaze Calm Mind <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and Raging Bolt. Terastallization in general allows Moltres to ease its weakness to Knock Off and Stealth Rock, letting it not fear huge chip damage from them. 12 Speed EVs allow Moltres to outspeed Jolly Kingambit.</p>\n<p>Moltres is a great fit on offensive teams and more bulky teams. Its great typing and its ability to spread burn help its teammates against prominent physical attackers. Partners like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Kingambit appreciate it being able to check threats like Great Tusk and opposing Kingambit, while Clefable and Kingambit are able to switch into threats to Moltres, such as Weavile. Offensive partners like Ogerpon-W and Zamazenta appreciate Moltres's pivoting, forcing in Pokemon like Garganacl and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, which have bad matchups against the aforementioned teammates. Zamazenta is also able to check Ogerpon-W with its ability's initial Defense boost. <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and Weavile are also potent offensive partners, being able to amend Moltres's bad matchups such as <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and Galarian Slowking by threatening huge damage on both targets. Threats to Moltres are potent attackers such as Primarina and Ogerpon-W. A partner like Galarian Slowking works well with Moltres, as it enjoys burns allowing it to switch into physical attackers, such as a burned Zamazenta, as well as being able to switch into attacks from Primarina. Offensive threats like <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> and Dragapult can check Ogerpon-W, either helping in taking attacks, revenge killing, or crippling it with status. Defensive partners such as Gliscor, Great Tusk, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> can switch into Knock Off for Moltres, with Gliscor itself being able to use Knock Off and set Spikes, which pairs well with Roar variants of Moltres. Great Tusk and Corviknight offer entry hazard removal. Ground-types like <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> and Ting-Lu are able to cover Moltres's bad matchups against Electric-types like Raging Bolt and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, as well as providing hazards, which make Moltres's phazing more of a threat.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              },
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Hurricane",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Moltres",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Grass"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": null
+}

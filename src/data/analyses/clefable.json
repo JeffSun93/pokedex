@@ -1,0 +1,248 @@
+{
+  "id": 36,
+  "name": "clefable",
+  "nameZh": "皮可西",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Utility",
+          "description": "<p>Leveraging its passable bulk, amazing typing, solid movepool, a  fantastic ability in Magic Guard, Clefable establishes its niche in the OU tier as a solid glue on bulkier team compositions, which appreciate its amazing role compression. Clefable maximizes its physical bulk to handle a myriad of physical attackers and passive Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Clefable is an effective Stealth Rock user, as it threatens Great Tusk from spinning. Thunder Wave cripples threats like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>. Knock Off removes Heavy-Duty Boots to enable Clefable's Stealth Rock and teammates' Spikes. While Moonlight is usually preferred as Clefable's recovery, Wish and Protect can be used over Moonlight and Stealth Rock, respectively, if Clefable's team already has another Stealth Rock user. Leftovers longevity is always appreciated, but Sticky Barb is an option to incapacitate foes like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Gliscor, especially because its Knock Off can make sure Sticky Barb can be transferred to them. Rocky Helmet is also an option to spread chip damage against physical attackers, especially U-turn from Corviknight and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> as well as Great Tusk and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>. Clefable uses Tera Water and Tera Steel to absorb Steel-type attacks in a pinch like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>'s Iron Head, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>'s Make It Rain, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>'s Steel Beam. Tera Water is preferred due to its good matchups into the physical attackers Clefable aims to check, letting Clefable switch into <a href=\"/dex/sv/pokemon/barraskewda/ou/\" hreflang=\"en\">Barraskewda</a> and Cinderace while granting a good neutral defensive typing. Tera Steel can also be used to become immune to Poison-type attacks like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>'s Sludge Bomb, but it loses key matchups like Cinderace, Great Tusk, and Landorus-T. Tera Ghost is also a decent pick, as it preserves Clefable’s good matchups into Fighting-types while also letting it spinblock, but it has a worse matchup against Knock Off users. It's worth noting that Clefable prefers not to Terastallize unless it absolutely needs to, as its base typing is incredibly valuable.</p>\n<p>Clefable fits on balance and stall teams that appreciate its role compression and typing. Teammates like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, Gliscor, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> love Clefable’s ability to remove Heavy-Duty Boots with Knock Off and enable their entry hazards. Gliscor, in particular, is a phenomenal teammate. The two are effective walls that cover each other’s physical weaknesses; Clefable can switch into Knock Off from threats that Gliscor cannot handle, namely <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, Great Tusk, Hisuian Samurott, and Weavile, threatening them out with Moonblast. In return, Gliscor can set Spikes, which when combined with Clefable’s Stealth Rock and the pair’s access to Knock Off, forms a potent hazard-stacking core. Galarian Slowking is similarly a good partner, as Clefable can handle many of the aforementioned Dark-types that threaten it. In return Galarian Slowking is an amazing special wall that switches into many strong special attacks that would threaten Clefable, such as Iron Moth's Sludge Wave and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>'s Moonblast. It can also spread Toxic, which allows Clefable to stay in against physical attackers more comfortably. However, Chilly Reception weakening recovery from Moonlight means that this is typically best paired with Wish and Protect. Offensive partners can compensate for Clefable's lack of offensive pressure, with Weavile and Meowscarada in particular can remove Heavy-Duty Boots so Clefable's Stealth Rock can start racking up damage. <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Gholdengo are also effective partners, as they pressure or cripple common Pokemon that annoy Clefable and can also spinblock Great Tusk and Iron Treads. In return, Clefable switches into and threatens Dark-types while also forcing out Garganacl. Kingambit is a phenomenal partner, as it threatens common answers to Clefable such as Clodsire, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, Galarian Slowking, and Gholdengo. <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> pressures Iron Treads, Kingambit, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a> while equally enjoying Clefable handling Great Tusk and pestering Dragapult. <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> is also a decent partner, as it likes Clefable's ability to check and pressure Dragon-types.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Clefable",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "description": "<p>Clefable can function as a great sweeper, as it uses its good bulk, fantastic typing, and useful ability to find itself opportunities to set up. Moonblast can potentially drop the Special Attack of opposing Pokemon like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, making Clefable harder to break. Moonlight is required to give Clefable a healing option, since it is not very fast and is going to take hits while setting up. The last move on this set is variable; since Moonblast hits a lot of the tier neutrally, Knock Off can be used to make progress against Pokemon that might not be threatened by even a boosted Clefable like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>. This also means that Clefable can always make progress even if there is not a clear opportunity for it to set up. Alternatively, Flamethrower is a great option mainly to hit <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, which can take Moonblast easily and either set up alongside Clefable or threaten it with Make It Rain. It also hits many Steel-types that might pose a threat to Clefable like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>. Ice Beam can also be run in the last slot to deal with <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Clefable can also explore other options like Thunder Wave to cripple <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and Iron Crown on the switch. Magic Guard lets Clefable switch in consistently against entry hazard-stacking teams and set up in front of status users that would cripple it otherwise. Sticky Barb limits <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> once it has consumed its Booster Energy, and it can be transferred to Pokemon like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and even Gliscor if Clefable is running Knock Off. However, the longevity provided by Leftovers is usually preferred. Tera Fire flips the script against Steel-types and makes it easier for Clefable to set up against Pokemon like Gholdengo and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>. Tera Water keeps its resistance to Steel for Pokemon like Kingambit and the aforementioned Gholdengo while giving it valuable resistances to strong moves like Waking Wake's Hydro Steam; however, Tera Water makes Clefable worse against <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and losing the resistance to Dark- and Fighting-type moves is relevant versus the likes of Kingambit and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>. Tera Steel has great use when facing Galarian Slowking and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, although Clefable has to be careful of Ground- and Fire-types, like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> or <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, that the Tera Water variant would be safer against.</p>\n<p>Clefable fits on balance teams that rely mainly on passive damage to make progress, letting it perform the role of wincon once the opposing team is weakened. Thus, Gliscor is a great partner, since it can soften the opposing team via entry hazards, Knock Off, and even status. Gliscor also is a great Knock Off absorber in situations where Clefable doesn't want to lose its item. <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> can set up Spikes for Clefable to take advantage of, and it can deal with Pokemon that give Clefable trouble like Swords Dance Gliscor and Kingambit. Many common Pokemon outspeed and threaten Clefable with super effective damage like Kingambit, Gholdengo, and Iron Moth, and it isn't strong enough to threaten a KO back without a significant number of Calm Mind boosts. <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Moltres are tremendous partners for Clefable, since they deal with all the aforementioned Pokemon and help further via hazards and burns, respectively, while also enjoying the presence of Clefable on their team as a status absorber and late-game wincon where it thrives. Clefable also functions really well alongside <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, which can deal with strong physical attackers like Kingambit, while Clefable absorbs passive damage that can weaken Dondozo like Salt Cure and poison. Clefable's ability to ignore passive damage makes it a great teammate, as it can absorb status like Will-O-Wisp from <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Toxic from Gliscor that might ruin some of its partners like Zamazenta. Also, Clefable's ability to absorb Knock Off is really useful against Pokemon like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and being able to completely ignore Salt Cure's effect is fantastic for teammates like Corviknight and Gholdengo. Clefable's stats aren't high enough for it to find easy windows to set up against offensive teams filled with Pokemon that pressure it, like Ogerpon-W, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, making it burn its Moonlight PP rather quickly. Thus, Clefable enjoys the presence of Pokemon that can check dangerous wallbreakers, such as Ting-Lu and Clodsire helping against Raging Bolt and Corviknight dealing with Landorus-T. Clefable is also held back by the presence of Galarian Slowking, which can take Clefable's hits with ease and pivot into another threat with Chilly Reception and create momentum; this also limits Moonlight's healing. Since Galarian Slowking often uses Clefable as an entry point, Pokemon that can take advantage of its presence like Ting-Lu, Gholdengo, and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> are great partners. Lastly, Clefable is pretty slow, making it susceptible to status moves that might ruin its setup like Encore from Ogerpon-W, Trick from Gholdengo, and Taunt from Landorus-T; thus, Clefable enjoys paralysis from reliable spreaders like <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> and Gholdengo and strong speed control provided by Pokemon like Dragapult, Zamazenta, Darkrai, and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>. All the previously mentioned support Pokemon benefit from Clefable providing a reliable way to wrap up games.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Flamethrower",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Clefable",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire",
+            "Water",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Unaware",
+          "description": "<p>Unaware Clefable is an excellent stopgap to many dangerous setup sweepers, such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, halting them in their tracks and sometimes even acting as a wincon in its own right. While other Unaware Pokemon can potentially fill these needs, Clefable stands out with its solid Fairy typing, diverse range of utility options, and surprise factor. Calm Mind is used to beef up Clefable’s Special Defense, which lets it easily handle opposing special attackers without a super effective move such as <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. It also powers up Moonblast to more forcefully scare out opposing threats and even offer the upside of a sweep. Thunder Wave can provide useful speed control for Clefable’s teammates, especially slow wallbreakers such as Raging Bolt and Swords Dance <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and give it a key advantage in late-game one-on-one matchups. Alternatively, Knock Off can advance an entry hazard stack team’s win condition and is better against <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Stealth Rock is another possible utility option for teams that struggle to fit it anywhere else. A standard maximum Defense spread helps Clefable survive common attacks such as offensive <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>’s Headlong Rush and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>'s Ivy Cudgel. For those looking for a riskier spread, an alternative of 252 HP / 176 Def / 80 Spe and a Bold nature can be used. This allows Clefable to outspeed base 110 Speed Pokemon such as Ogerpon-W and <a href=\"/dex/sv/pokemon/latios/ou/\" hreflang=\"en\">Latios</a> after paralysis and potential KO them, which limits how much moves like Encore and Psychic Noise hinder Clefable. However, the drop in bulk is extremely noticeable and makes Clefable unable to switch into as many threats, such as having very high odds of being 2HKOed by Great Tusk's Headlong Rush. If Clefable is meant to predominantly tackle the opponent's wincons, Tera Water is preferred to help against Nasty Plot Gholdengo, as well as resist Ogerpon-W's Ivy Cudgel and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>’s Hydro Steam in a pinch. Alternatively, for teams looking to more aggressively leverage the sweeping potential of Unaware Clefable, Tera Poison is preferred to make Clefable it immune to incoming poison that would otherwise put it on a timer as well as maintain a key Fighting resistance that allows it to beat Zamazenta. Tera Steel is a third option to provide it with an immunity to poison while also gaining a resistance to moves such as Psychic Noise, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>'s Ice Beam and Icicle Spear, and Gliscor's Facade.</p>\n<p>Unaware Clefable fits best on bulkier teams that provide entry hazard support, form good defensive cores with Clefable, and appreciate a hard stop to various opposing threats. Gliscor, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> are all teammates great at putting up hazards against balance teams, and they appreciate the ability of Unaware Clefable to check opposing setup sweepers long-term. Unlike Magic Guard variants, Unaware Clefable hates incoming Knock Off, as taking hazard damage greatly limits its ability to check various threats, so Gliscor and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> can be good at helping absorb these. Teammates that focus on removing hazards, such as Corviknight, Great Tusk, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, can help as well. Furthermore, with how threatening <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and Iron Defense + Body Press Zamazenta are, teams that struggle with these and other setup threats will generally appreciate Unaware Clefable being able to shut them down. However, Clefable still has to watch out for Adamant Tera Blast Flying from Dragonite and Zamazenta sets with Steel-type coverage. Other pokemon with super effective coverage also threaten Clefable, such as Gholdengo, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. Clefable has to heavily fear opposing Pokemon that can poison it, such as <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, so teammates that don't fear poison such as Corviknight, Galarian Slowking, and Garganacl are appreciated. Another approach is to use Tera Poison or Tera Steel to turn the tables on these threats, potentially even using them as setup fodder. Gliscor is a particular standout answer to Unaware Clefable, as it threatens Clefable with Toxic, beats both Tera Poison and Tera Steel sets with Earthquake, cares little about Thunder Wave and Knock Off, and can generally heal up Moonblast damage without too much difficulty. Consequently, teammates such as Ogerpon-W, Kyurem, Darkrai, and Swords Dance Gliscor that can pressure Gliscor are appreciated. When attempting to act as a wincon, Unaware Clefable greatly fears Encore from Pokemon such as Ogerpon-W, Dragonite, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, and Iron Valiant; Psychic Noise from Latios, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> can also nastily prevent Clefable from healing up. Teammates such as Corviknight, Ting-Lu, and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> that can switch into these moves are appreciated to maintain Clefable's longevity.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Clefable",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Water",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "description": "<p>中文配置：皮可西||招式：冥想|月亮之力|月光|喷射火焰/拍落||道具：吃剩的东西/附着针||特性：魔法防守||努力值：252 HP / 252 防御 / 4 特防||个体值：0 攻击||性格：大胆||太晶属性：火/水/钢</p>\n<p>皮可西可以作为一个优秀的清场手，它利用自身良好的耐久、出色的属性组合和有用的特性来寻找强化的机会。月亮之力有可能降低对手宝可梦如西狮海壬的特攻，使得皮可西更难被突破。月光是必需的，它为皮可西提供了回复手段，因为它速度并不快且在强化过程中会承受攻击。这个配置的最后一个招式是可变的；喷射火焰是一个很好的选择，主要用于打击赛富豪，因为后者可以轻松承受月亮之力并要么与皮可西同时强化，要么用淘金潮威胁它。它也能打击许多可能对皮可西构成威胁的钢属性宝可梦，如仆刀将军、铁头壳、铁辙迹和巨锻匠。由于月亮之力对分级中很多宝可梦都只能造成有效果的伤害，可以选择使用拍落来代替喷射火焰，以便对那些可能不受月亮之力与喷射火焰组合威胁的宝可梦如伽勒尔呆呆王取得进展。这意味着即使没有明确的强化机会，皮可西也能始终创造收益。冰冻光束也可以放在最后一个招式来应对天蝎王。虽然非常小众，皮可西也可以探索其他选项，例如用魅诱之声代替月亮之力来应对替身使用者如酋雷姆，或者用电磁波来削弱切换上场的伽勒尔呆呆王和铁头壳。魔法防守让皮可西可以稳定地换场应对钉攻队，并在通常会削弱它的状态使用者面前强化。附着针可以在轰鸣月消耗了其驱劲能量后限制它，并且如果皮可西携带拍落，它可以被传递到像钢铠鸦、剑舞铁武者甚至天蝎王这样的宝可梦身上。然而，吃剩的东西提供的续航通常更受青睐。太晶火扭转了对钢属性宝可梦的局势，并使皮可西更容易在赛富豪和火焰鸟等宝可梦面前强化。太晶水保持了对钢属性如仆刀将军和前述的赛富豪的抗性，同时赋予了它对强力招式如波荡水的水蒸气宝贵的抗性；然而，太晶水使皮可西对阵厄诡椪-水井面具时更差，并且失去对恶和格斗属性招式的抗性在面对轰鸣月和藏玛然特等宝可梦会变得力不从心。太晶钢在面对伽勒尔呆呆王和桃歹郎时非常有用，尽管皮可西必须小心地面和火属性宝可梦，如雄伟牙或闪焰王牌，而这些是太晶水变种能更安全应对的。</p>\n<p>皮可西适合主要依靠消耗伤害来取得进展的平衡队，使其能够在对手队伍被削弱后扮演取胜点的角色。因此，天蝎王是一个伟大的伙伴，因为它可以通过场地伤害削弱、拍落甚至状态来削弱对手队伍。在天蝎王不想失去其道具的情况下，它也是一个伟大的拍落吸收者。盔甲鸟可以为皮可西撒出隐形岩供其利用，并且它可以处理给皮可西带来麻烦的宝可梦，如剑舞天蝎王。许多常见宝可梦速度超过皮可西并用效果绝佳的伤害威胁它，如仆刀将军、赛富豪和铁毒蛾，而皮可西在没有多次冥想强化的情况下不够强大以威胁反杀。火焰鸟和古鼎鹿是皮可西的巨大助力，因为它们处理了所有上述宝可梦，并分别通过灼伤和场地伤害进一步提供帮助，同时也享受皮可西作为状态吸收者和终局取胜点存在于队伍中。皮可西也与吃吼霸协同作用非常好，后者可以处理强大的物理攻击手如仆刀将军，而皮可西吸收可能削弱吃吼霸的消耗伤害，如盐腌和中毒。皮可西无视消耗伤害的能力使其成为一个伟大的队友，因为它可以吸收状态，如多龙巴鲁托的磷火和天蝎王的剧毒，这些可能会破坏它的一些队友如藏玛然特。此外，皮可西吸收拍落的能力对像轰鸣月这样的宝可梦非常有用，并且能够完全无视盐腌的效果对于像赛富豪和钢铠鸦这样的队友来说非常棒。皮可西的种族值不够高，难以在充满对其施加压力的宝可梦如厄诡椪-水井面具、土地云-灵兽和猛雷鼓的进攻队中找到轻松的强化窗口，这使得它的月光PP消耗得相当快。因此，皮可西欣赏那些能够Check危险破盾手的宝可梦的存在，例如古鼎鹿和土王帮助应对猛雷鼓，钢铠鸦处理土地云-灵兽之形。皮可西也受到伽勒尔呆呆王存在的阻碍，后者可以轻松承受皮可西的攻击，并通过冷笑话轮转到另一个威胁并创造节奏；这也限制了月光的回复。由于伽勒尔呆呆王经常利用皮可西作为切入点，能够利用其存在的宝可梦如赛富豪、达克莱伊和洗翠大剑鬼是优秀的伙伴。最后，皮可西速度相当慢，使其容易受到可能破坏其强化的状态招式影响，如厄诡椪-水井面具的再来一次、赛富豪的戏法和土地云-灵兽的挑衅；因此，皮可西享受来自闪电鸟和赛富豪等队友可靠地散播麻痹，以及由多龙巴鲁托、藏玛然特、达克莱伊和魔幻假面喵提供的强大速度控制。所有前述的辅助宝可梦都受益于皮可西提供的可靠制胜点。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flamethrower",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Clefable",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire",
+            "Water",
+            "Steel"
+          ]
+        },
+        {
+          "name": "Unaware",
+          "description": "<p>Chinese Set: 纯朴皮可西||招式：冥想|月亮之力|月光|电磁波/拍落||道具：厚底靴||特性：纯朴||努力值：252 HP / 252 防御 / 4 特防||性格：大胆||太晶属性：毒 / 水 / 钢</p>\n<p>纯朴皮可西是应对许多危险强化型清场手的优秀盾牌，例如藏玛然特和铁武者，它能够阻止它们的攻势，有时甚至自身也能成为取胜手段。虽然其他纯朴宝可梦也可能满足这些需求，但皮可西凭借其扎实的妖精属性、多样化的辅助选项和出其不意的因素而脱颖而出。冥想用于增强皮可西的特防，使其能够轻松应对没有效果绝佳招式的特殊攻击手，如猛雷鼓和代欧奇希斯-速度形态。它还能强化月亮之力的威力，更有效地威慑对手，甚至提供清场的潜力。电磁波能为皮可西的队友提供有用的速度控制，特别是慢速破盾手如猛雷鼓和剑舞天蝎王，并在终盘一对一的对局中赋予其关键优势。 另一方面，拍落可以在钉攻队中发挥更大作用，并且对阵赛富豪时效果更好。隐形岩是另一个可能的辅助选项，适用于难以在其他位置配置该招式的队伍。标准的满防御努力值分配帮助皮可西承受常见攻击，例如进攻型雄伟牙的突飞猛扑和厄诡椪-水井面具的棘藤棒。对于那些寻求更高风险努力值分配的玩家，可以选择252 HP / 176 防御 / 80 速度配合大胆性格的替代方案。这使皮可西在对手麻痹后能够超过110种族值速度的宝可梦，如厄诡椪-水井面具和拉帝欧斯，并有可能击倒它们，从而限制再来一次和精神噪音等招式对皮可西的干扰。然而，耐久的下降非常明显，使得皮可西无法换入应对那么多威胁。如果皮可西主要用于处理对手的取胜手段，太晶水是首选，以帮助应对诡计赛富豪，并在紧急情况下抵抗厄诡椪-水井面具的棘藤棒和波荡水的水蒸气。另一方面，对于希望更积极利用纯朴皮可西清场潜力的队伍，太晶毒是首选，其使皮可西免疫会使其生命陷入倒计时的中毒状态，同时保持对格斗属性的关键抗性，使其能够击败藏玛然特。太晶钢是第三个选项，提供中毒免疫，同时获得对精神噪音、酋雷姆的冰冻光束和冰锥、以及天蝎王的硬撑等招式的抗性。</p>\n<p>纯朴皮可西最适合融入能提供场地伤害支持、与皮可西形成良好防御核心、并且需要硬性阻挡各种敌方威胁的受向队伍。天蝎王、古鼎鹿、洗翠大剑鬼和盐石巨灵都是擅长对平衡队铺设场地伤害的优秀队友，它们欣赏纯朴皮可西长期Check对手强化清场手的能力。与魔法防守配置不同，纯朴皮可西讨厌受到拍落，因为承受场地伤害会极大地限制其Check各种威胁的能力，天蝎王和钢铠鸦可以很好地帮助吸收这些拍落。专注于清除场地伤害的队友，如钢铠鸦、雄伟牙、铁辙迹和伽勒尔双弹瓦斯，也能提供帮助。此外，考虑到快龙和铁壁加扑击藏玛然特的威胁性，难以应对这些及其他强化威胁的队伍通常都会欣赏纯朴皮可西能够封锁它们的能力。然而，皮可西仍然需要提防快龙的爽朗飞行属性太晶爆发以及藏玛然特携带钢属性补盲招式的配置。其他拥有效果绝佳招式的宝可梦也威胁着皮可西，例如赛富豪、仆刀将军、铁毒蛾和达克莱伊。皮可西必须极度警惕能够使其中毒的对手如桃歹郎和伽勒尔呆呆王，因此不惧怕中毒的队友如钢铠鸦、伽勒尔呆呆王和盐石巨灵受到欢迎。另一种方法是使用太晶毒或太晶钢来扭转对这些威胁的局面，甚至可能将它们作为强化契机。天蝎王是应对纯朴皮可西的一个特别突出的答案，因为它用剧毒威胁皮可西，用地震击败太晶毒和太晶钢配置，不太在意电磁波和拍落，并且通常能够毫无困难地回复月亮之力造成的伤害。因此，能够给天蝎王施加压力的队友，如厄诡椪-水井面具、酋雷姆、达克莱伊和剑舞天蝎王受到欢迎。当试图作为取胜手段时，纯朴皮可西非常害怕来自厄诡椪-水井面具、快龙、巨锻将和铁武者等宝可梦的再来一次；来自拉帝欧斯、布莉姆温和西狮海壬的精神噪音也能阻止皮可西回复。所以能够换入抵挡这些招式的队友，如钢铠鸦、古鼎鹿和铁头壳受到欢迎，并以此维持皮可西的续航能力。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonlight",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Thunder Wave",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Clefable",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Water",
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ]
+}

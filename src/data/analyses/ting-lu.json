@@ -1,0 +1,165 @@
+{
+  "id": 1003,
+  "name": "ting-lu",
+  "nameZh": "古鼎鹿",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "<p>With an incredible typing, fantastic bulk, and an amazing ability in Vessel of Ruin, Ting-Lu is one of the best special walls in the tier, being able to check threats like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. With access to Stealth Rock, Spikes, and Whirlwind—compounded by its absurd bulk—it is one of the tier’s most reliable entry hazard setters and phazers. Ruination is used to apply consistent pressure and make progress by chipping down defensive Pokemon that lack access to recovery, like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>. Unfortunately, without any recovery moves outside of Rest, Ting-Lu is usually reliant on Leftovers for passive healing, making it especially weak to Knock Off, unlike similar bulky Ground-types like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Rest is an option, usually seen with Sleep Talk, but it is often tough to fit. Ting-Lu can choose to run other items like Rocky Helmet, particularly to punish Rapid Spin from Pokemon like Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and U-turn from Pokemon like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. Ting-Lu often runs Red Card, utilizing its gargantuan bulk to eat a hit and phaze out the opposing Pokemon. While it is an amazing defensive Pokemon, many foes Ting-Lu would otherwise beat run options to overcome it or shut it down, like Will-O-Wisp or Knock Off <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, Taunt <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and Solar Beam Raging Bolt. Its lack of reliable recovery also makes it highly susceptible to chip damage, so it can be overwhelmed by the number of strong special attackers it must face. Additionally, reliable hazard control options like Magic Bounce <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> and Defog <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> can prevent Ting-Lu from keeping hazards on the field. Bulky Water-types like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and Synthesis <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> can switch in on Ting-Lu comfortably and, in the latter's case, threaten it for significant damage in return.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Ting-Lu can utilize its bulk, above-average Attack stat, and solid offensive typing with a Weakness Policy set, activating it against Pokemon like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and Ice Spinner <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> before launching a +2 Earthquake, Stone Edge, Payback, or Heavy Slam in return. This set is most appreciated on faster-paced teams that would appreciate Ting-Lu trading with certain offensive or defensive Pokemon that could be problematic for the rest of your team, catching your opponent by surprise. In a similar sense, Custap Berry is an option on faster teams to lay an additional layer of Spikes or surprise your opponent with an attack like Ruination or Earthquake. Ting-Lu can run Attack investment to hit certain benchmarks, like 2HKOing <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and OHKOing maximum HP <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> with Earthquake. With Speed investment, Ting-Lu can run Taunt not only to prevent Pokemon like <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> from using Defog but also to prevent Pokemon like Corviknight and Clefable from using recovery moves; it also allows Ting-Lu to outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and hit it with Earthquake. Ting-Lu can use Tera Blast Poison, hitting common Fairy- and Grass-type Pokemon like Hatterene, <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, and Ogerpon-W. Ting-Lu sometimes runs Tera Grass to resist Ogerpon-W's attacks and get entry hazards up against it. Lastly, even with its lower Base Power, Ting-Lu can choose to run Throat Chop over Payback, since the latter does not deal its full damage if the opposing Pokemon switches out.</p>",
+      "movesets": [
+        {
+          "name": "Defensive Utility",
+          "description": "<p>Ting-Lu's titanic bulk and terrific typing not only make it the tier's premier special wall but also let it set entry hazards easily, with it being able to choose between Stealth Rock and Spikes depending on what its teammates lack. If a Stealth Rock setter is present on the team, then Ting-Lu can run Spikes instead, and vice versa; running Stealth Rock also makes Ting-Lu less passive, as it can use its other disruptive moves more freely without spending its turns stacking Spikes. Ruination allows Ting-Lu to apply immediate pressure, giving it a safe and consistent tool to wear down any foe, particularly those that resist or are immune to its Earthquake like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>. Whirlwind serves double duty, both allowing Ting-Lu to force out threatening boosted foes like Calm Mind <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Swords Dance <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> as well as making any foes lacking Heavy-Duty Boots that are forced in take hazard chip damage. As an alternative to Whirlwind, Ting-Lu can use Heavy Slam to hit threats like <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and Clefable that would otherwise be able to come in easily on it, as well as <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, which would otherwise reflect its hazards. Using both Stealth Rock and Spikes is also a good option, freeing up teamates like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and Gliscor. Leftovers allows Ting-Lu to constantly recover health, something greatly appreciated given its lack of reliable recovery, while Rocky Helmet lets it punish contact moves, particularly Rapid Spin, albeit costing Ting-Lu some of its longevity. Red Card is an alternative option on offensive teams that allows Ting-Lu to instantly force out boosted threats like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. It can also drag in Booster Energy users such as <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, wasting their Booster Energy. This also frees up the Whirlwind moveslot to more easily allow the use of both hazards. An alternate spread of 252 HP / 252 Def / 4 SpD with an Impish nature can be used to aid Ting-Lu's matchup against physical threats like <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, at the cost of its special bulk. Physical bulk is most effective on Red Card sets in order to make sure Ting-Lu survives boosted physical hits to force a sweeper out. Tera Water allows Ting-Lu to rid itself of its Water and Ice weaknesses, helping it deal with attacks like <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>'s Hydro Steam and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>'s Triple Axel. Tera Poison allows Ting-Lu to shed its Fairy and Fighting weaknesses, helping it deal with threats like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Enamorus, and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, as well as blocking Toxic from <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and Gliscor that would otherwise threaten to wear Ting-Lu down. Tera Ghost can be used instead to completely nullify any incoming Fighting-type attacks like boosted Body Press from Zamazenta as well as blocking Rapid Spin, allowing Ting-Lu to both set hazards and block hazard removal, albeit at the cost of losing the Fairy resistance Tera Poison gives.</p>\n<p>Ting-Lu is an incredibly versatile Pokemon that fits well on nearly every offense, bulky offense, or balance team. Ting-Lu's entry hazard-setting prowess allows it to pair with OU's resident removal blocker extraordinaire <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, ensuring that whatever hazards it sets stay up in the face of Rapid Spin and Defog. Other spinblockers like Pecharunt and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> also can pair with Ting-Lu nicely. Pecharunt in particular forms a good defensive core with Ting-Lu: Ting-Lu takes care of <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and Gholdengo, which would otherwise beat Pecharunt, while Pecharunt helps to manage Swords Dance Iron Valiant, Ogerpon-W, and Zamazenta that would otherwise use Ting-Lu as setup fodder. Ting-Lu’s hazards are greatly appreciated by any attacker, allowing it to pair well with powerful offensive allies like Darkrai and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. Ogerpon-W in particular benefits from hazards chipping down the few Pokemon that can face the power of its Ivy Cudgel, and Ting-Lu’s defensive traits allow it to take care of Pokemon like Dragapult, Iron Moth, and Raging Bolt that would otherwise check Ogerpon-W. Ting-Lu pairs nicely with physically defensive Pokemon like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, providing a bulwark against special threats that would otherwise tear through them such as Gholdengo, Iron Moth, and Raging Bolt. Ogerpon-W is an incredibly threatening foe for Ting-Lu, so Pokemon such as Dragonite and Zamazenta that can switch into and threaten it out are greatly appreciated, especially as Ting-Lu complements them by switching into foes that would threaten to wall them like Pecharunt for both or <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> for Zamazenta. Additional hazard-setting teammates like Garganacl, Gliscor, and Great Tusk can form a hazard-stacking core with Ting-Lu, allowing it to freely run Whirlwind. The prevalence of Heavy-Duty Boots means Ting-Lu also appreciates Knock Off users like Weavile, Ogerpon-W, and Gliscor to remove them, letting its hazards continuously chip down foes. Ting-Lu's reliance on Leftovers for health recovery can make it vulnerable to hazard chip damage, so it benefits greatly from hazard removal like Great Tusk's or <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>’s Rapid Spin as well as Galarian Weezing's or <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>'s Defog for teams that are willing to remove the hazards Ting-Lu sets. Galarian Weezing in particular also helps pressure out Gliscor, one of the most reliable switch-ins to Ting-Lu. Ting-Lu's aforementioned Leftovers reliance for recovery also means it greatly appreciates Knock Off absorbers like Gliscor and Corviknight, enabling it to keep its precious Leftovers to avoid being easily worn down. Status absorbers like Gliscor and Clefable are also greatly appreciated, helping Ting-Lu avoid any damaging status that could either nullify or outdamage its Leftovers recovery. Wish support from teammates like Clefable and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> greatly increases Ting-Lu's longevity, giving it extra healing besides Leftovers. Ting-Lu’s bulk, while enormous, can still struggle against powerful super effective attacks like Kyurem's Ice Beam and Enamorus's Moonblast, so teammates like Gholdengo and Galarian Slowking that can cover Ting-Lu’s weaknesses complement it well.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ruination",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Whirlwind",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ting-Lu",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Ghost",
+            "Poison"
+          ]
+        },
+        {
+          "name": "Resting-Lu",
+          "description": "<p>Ting-Lu is a solid defensive tank that can be used to answer threats like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Rest allows Ting-Lu to fully utilize its walling potential, giving it more longevity than it otherwise would have by making it much more consistent against foes such as <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and Will-O-Wisp Dragapult, hazards from the likes of <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and opposing Ting-Lu, and other chip damage such as <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>'s Salt Cure and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>'s Magma Storm. Ruination is used to chunk switch-ins such as <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and provide consistent damage. Payback, an alternative to Ruination, allows Ting-Lu to deal damage to foes weak to Dark, namely Dragapult and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>. Sleep Talk's reduced passivity makes Ting-Lu harder to set up on, creating fewer free turns for Pokemon such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. At the cost of being a bit more passive, Ting-Lu can forgo Sleep Talk to compress roles as the team's entry hazard setter by running Stealth Rock if it lacks one. Tera Water allows Ting-Lu to deal with moves from foes such as <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Tera Poison enables it to become immune to poison from foes it likes to switch into such as <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and Pecharunt while enabling it to come in and out to absorb Toxic Spikes. Furthermore, it allows Ting-Lu to now handle Fighting-types like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Grass-type moves from <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and Ogerpon-W.</p>\n<p>Ting-Lu fits on a variety of different balance and stall teams. Pokemon such as Gholdengo and Galarian Slowking appreciate Ting-Lu's presence, as it can check faster foes these Pokemon are weak to, such as Dragapult and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. In return, Gholdengo checks foes that it struggles against like Zamazenta, and Galarian Slowking checks special variants of Iron Valiant and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> for Ting-Lu while providing a safe entry point for Ting-Lu through Chilly Reception when baiting in foes like Dragapult. Spikes Gliscor can be used to wear down Ting-Lu checks like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>. Ting-Lu also struggles with Flying-types such as Dragonite, Landorus-T, and Gliscor because it has to rely on Ruination or Payback to damage them. Dragonite and Gliscor can also use it as setup fodder, so teammates that threaten these Pokemon, such as Kyurem and Ogerpon-W, are appreciated. Dragonite is also a good partner, as it appreciates a Pokemon that can handle Will-O-Wisp Dragapult in addition to checking foes like Ogerpon-W for Ting-Lu. These Pokemon help with Ting-Lu's passivity with the ability to muscle through foes such as Gliscor and Great Tusk. <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> is also a great partner on stall teams, stopping any setup attempts from physical threats like Low Kick Kingambit and Dragonite. Dondozo's walling attempts can get punished by Raging Bolt, so Ting-Lu's ability to answer Raging Bolt is appreciated. <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> is able to provide utility through Knock Off, which, in conjunction with Ting-Lu's Stealth Rock, helps wear down the opposition; in return, Ting-Lu handles Gholdengo for it.This set is easily worn down by entry hazards, so hazard removal through Defog from partners such as <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> is appreciated. Pokemon like Zamazenta appreciate Ting-Lu's ability to take on foes such as Will-O-Wisp Dragapult, being able to sponge status and force it out. This set is also used on pivot balance teams alongside Dragapult, Corviknight, and Galarian Slowking, as these Pokemon pivot on Pokemon Ting-Lu can force damage on or set up Stealth Rock against such as opposing Ting-Lu. These teams appreciate Ting-Lu being able to handle foes such as Dragapult, Raging Bolt, and Darkrai.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ruination",
+                "type": null
+              },
+              {
+                "move": "Payback",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ting-Lu",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Poison"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Rest",
+          "description": "<p>中文配置: 睡觉古鼎鹿 || 招式：地震|睡觉|大灾难/以牙还牙|梦话/隐形岩 || 道具：吃剩的东西 || 特性：灾祸之鼎 || 努力值：252 HP / 4 防御 / 252 特防 ||性格：慎重 || 太晶属性：水/毒</p>\n<p>古鼎鹿是一只坚实的物理盾牌，可用于应对多龙巴鲁托、赛富豪和猛雷鼓等威胁。睡觉让古鼎鹿能充分发挥其盾牌潜力，提供比平时更长的续航，这使它对抗如磷火多龙巴鲁托等对手时更加稳定，并在面对其他古鼎鹿等对手时帮助其在钉子消耗下维持生存。大灾难用于重创如土地云-灵兽等换入者并提供稳定伤害。作为大灾难的替代选项，以牙还牙允许古鼎鹿对恶属性弱点宝可梦造成更多伤害，即多龙巴鲁托。梦话降低了被动性，使古鼎鹿更难被当作强化起点，减少轰鸣月和快龙等宝可梦的免费回合。这也能防止如厄诡椪-水井面具等对手获得免费上场机会，因为它可能会抽到大灾难。以变得略微更被动为代价，古鼎鹿可以放弃梦话来携带隐形岩，与如撒菱天蝎王等宝可梦组成撒钉核心，并为快龙、厄诡椪-水井面具和藏玛然特等队友创造机会。太晶水让古鼎鹿能处理来自酋雷姆和洗翠大剑鬼等对手的招式。太晶毒使其免疫来自它喜欢换入的宝可梦如伽勒尔呆呆王的中毒状态，同时使其能够通过换入换出来吸收毒菱。此外，它允许古鼎鹿处理如藏玛然特和铁武者等格斗属性宝可梦，以及来自轰擂金刚猩和厄诡椪-水井面具的草属性招式。</p>\n<p>古鼎鹿适合多种不同的平衡队与受队。赛富豪和伽勒尔呆呆王等宝可梦欣赏古鼎鹿的存在，因为它能Check这些宝可梦所畏惧的高速对手如多龙巴鲁托和达克莱伊。作为回报，赛富豪Check它难以应对的对手如藏玛然特，而伽勒尔呆呆王为古鼎鹿Check铁武者和西狮海壬的特殊配置，并通过在引诱多龙巴鲁托等对手时使用冷笑话为古鼎鹿提供安全的入场机会。撒菱天蝎王可用于消耗古鼎鹿的Check如雄伟牙。古鼎鹿也难以应对飞行属性宝可梦如快龙、土地云-灵兽和天蝎王，因为它必须依赖大灾难或以牙还牙来伤害它们。快龙和天蝎王也能利用它进行强化，因此能威胁这些宝可梦的队友如酋雷姆和厄诡椪-水井面具是值得欢迎的。快龙也是一个好队友，因为它欣赏这一只能处理磷火多龙巴鲁托的宝可梦，同时快龙还能为古鼎鹿Check如厄诡椪-水井面具等对手。这些宝可梦帮助弥补了古鼎鹿的被动性，能够强行突破如天蝎王和雄伟牙等对手。吃吼霸在受队中也是一个极佳的伙伴，能阻止任何来自物理威胁如天蝎王、快龙和太晶飞行轰鸣月的强化尝试。吃吼霸的阻挡行为可能会被猛雷鼓惩罚，因此古鼎鹿应对猛雷鼓的能力受到欣赏。皮可西能够通过拍落，与古鼎鹿的隐形岩相结合，有助于消耗对手；作为回报，古鼎鹿为它处理赛富豪。此配置容易被场地伤害削弱，因此需要通过来自队友如钢铠鸦和伽勒尔双弹瓦斯的清除浓雾来扫钉。藏玛然特等宝可梦欣赏古鼎鹿应对如磷火多龙巴鲁托等对手的能力，古鼎鹿能够吸收状态并迫使它离场。此配置也用于轮转平衡队，与多龙巴鲁托、钢铠鸦和伽勒尔呆呆王搭档，因为这些宝可梦轮转于古鼎鹿能迫使受伤或针对其撒钉的宝可梦，如对方古鼎鹿。这些队伍欣赏古鼎鹿能够处理如多龙巴鲁托、猛雷鼓和达克莱伊等对手的能力。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ruination",
+                "type": null
+              },
+              {
+                "move": "Payback",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ting-Lu",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Water",
+            "Poison"
+          ]
+        }
+      ]
+    }
+  ]
+}

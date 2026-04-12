@@ -1,0 +1,149 @@
+{
+  "id": 1017,
+  "name": "ogerpon",
+  "nameZh": "厄诡椪",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Boots Attacker",
+          "description": "<p>Ogerpon's high Attack and Speed, particularly after Terastallizing, along with its bevy of utility moves make it a reliable pivot and speed control that can disrupt the opposition. Knock Off gives Ogerpon a complementary coverage option to Ivy Cudgel and hits would-be checks like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>; it also allows Ogerpon to support its team by permanently crippling its foes, particularly Stealth Rock-weak Pokemon like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> that rely on Heavy-Duty Boots. U-turn is a fantastic option that can maintain momentum and chip down checks like <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a> while safely bringing in one of Ogerpon's teammates safely. Encore shuts down walls like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and Terastallized <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> as well as setup sweepers like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>; after Terastallizing, its fast Encore is also helpful to shut down faster setup sweepers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>.</p>\n<p>Ogerpon should feel right at home on bulkier teams in need of a fast pivot. It struggles to make progress against Fire-types such as Moltres and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, often requiring them to be weakened or removed in order to start threatening teams. Thus, Garganacl and Gliscor make great teammates, as they manage to consistently switch into and threaten these Pokemon, set entry hazards for Ogerpon to take advantage of, and easily spread chip damage to wear down the opposing team. Ogerpon's ability to threaten Water-types like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> is also greatly appreciated by both Pokemon. <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> is another valuable teammate thanks to its high bulk, low Speed, and access to Flip Turn allowing it to safely and consistently bring Ogerpon onto the field, as well as being able to check the likes of Zamazenta and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Additionally, Ogerpon with another fast wallbreaker can make for an efficient and potent wallbreaking core; therefore, Pokemon such as <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> that help overwhelm Ogerpon's checks like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and Moltres make excellent teammates. It also enjoys having these Pokemon as naturally faster teammates as opposed to relying on Terastallization for speed control, and it likewise appreciates them for being able to threaten bulkier Dragon-types like Dragonite and Raging Bolt. Lastly, special tanks such as Galarian Slowking and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> can safely switch in on powerful special wallbreakers like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and they also appreciate Ogerpon's reliability in punishing switch-ins like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ogerpon",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "description": "<p>Choice Band Ogerpon whacks its way into the OU metagame with its nuclear Ivy Cudgel alongside the valuable Speed boost from Embody Aspect and great coverage options, letting it wallbreak while also revenge kill threats and potentially clean late-game as well. After Terastallization, Ogerpon can outrun and revenge kill Choice Scarf users like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> and foes like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> that outspeed it naturally as well as boosting Ivy Cudgel to 2HKO checks like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Knock Off allows Ogerpon to annoy many of its checks, such as <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, and <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, while taking out Grass-resistant foes like Gholdengo, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, and Dragapult. U-turn allows Ogerpon to chip its checks and bring a teammate in safely on its switchins while providing super effective coverage against Grass-types like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>, as well as opposing Ogerpon formes. Low Kick allows Ogerpon to break through foes that can shrug off Ivy Cudgel fairly well such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, while Rock Tomb drops Moltres, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and Zapdos, even doing so without risking an adverse contact effect like a Flame Body burn or Static paralysis.</p>\n<p>Ogerpon's main use is on balance and bulky offense teams as a wallbreaker and revenge killer, though it sees some play on offensive teams as a cleaner. Ogerpon is susceptible to entry hazard damage over the course of the game, so teammates like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> that can remove said hazards from Ogerpon's side of the field are especially valued. Cinderace and Great Tusk in particular pair well with Ogerpon, as both appreciate roadblocks like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> being taken down by Ogerpon, while they are able to deal with Gholdengo, Kingambit, and Heatran. Teammates that set hazards, such as Great Tusk, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, synergize very well with Ogerpon and its ability to remove Heavy-Duty Boots from foes like Moltres and Corviknight. Offensive teammates like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, Gholdengo, and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a> that threaten Ogerpon's checks like Galarian Weezing and Pecharunt are highly appreciated as well, while Ogerpon can bring them in on the aforementioned Poison-types with U-turn. Another great offensive teammate is Choice Specs <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, as it obliterates the likes of Moltres, Zapdos, and Corviknight, while Ogerpon smashes Ground-types like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Finally, slow pivots like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and Galarian Slowking work well with Ogerpon, as they give it free entry points to throw off its dangerous attacks without having to withstand powerful responses while checking threatening answers like Zamazenta.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ogerpon",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "description": "<p>Chinese Set: 讲究头带厄诡椪 || 道具：讲究头带 || 特性：不服输 || 努力值：252 攻击 / 4 防御 / 252 速度 || 太晶属性：草 || 性格：爽朗 || 招式：棘藤棒 | 拍落 | 急速折返 | 踢倒 / 岩石封锁</p>\n<p>凭借威力强大的棘藤棒、面影辉映带来的速度提升以及优秀的打击面，讲究头带厄诡椪在OU环境中强势登场。尽管它经常被其它携带面具的形态掩盖光芒，但厄诡椪能够携带其它道具，并在太晶化后超速环境中未强化的宝可梦，使它能击败分级中如吃吼霸、雄伟牙与保姆曼波等各种防御型宝可梦。拍落能干扰钢铠鸦、桃歹郎以及伽勒尔双弹瓦斯等Check，同时打击铁头壳、赛富豪和伽勒尔呆呆王等抵抗草属性的宝可梦。急速折返则让厄诡椪在面对部分Check时能将队友换上场，并打击轰擂金刚猩、魔幻假面喵以及其他形态厄诡椪。踢倒使厄诡椪可以突破如仆刀将军、酋雷姆以及席多蓝恩等能够承受棘藤棒攻击的宝可梦；岩石封锁则能打击火焰鸟、快龙、铁毒蛾与闪电鸟，并且避免接触类招式可能受到的火焰之躯灼伤或静电麻痹等负面效果。特性不服输能够反制土地云-灵兽和桃歹郎等试图降低厄诡椪攻击的对手，并在面对黏黏网时将原先惊人的攻击再次翻倍。而在发动太晶化后，凭借面影辉映提供的关键速度强化，厄诡椪能够超速洗翠大剑鬼和眷恋云等讲究围巾使用者，也能超速藏玛然特与多龙巴鲁托等原先速度较其更快的宝可梦，威力提升后的棘藤棒，也使厄诡椪能够2HKO进攻型赛富豪等对手。</p>\n<p>厄诡椪主要作为破盾手或复仇杀手进入平衡队与平衡攻队中，不过在部分进攻向队伍中，也能作为清场手登场。在对战过程中，厄诡椪容易受到场地伤害影响，因此雄伟牙、闪焰王牌与钢铠鸦等能够清除场地伤害的队友对厄诡椪来说尤其重要。其中，闪焰王牌和雄伟牙与厄诡椪的搭配格外出色，它们都受惠于厄诡椪突破吃吼霸等盾牌的能力，同时也能有效应对赛富豪、仆刀将军以及席多蓝恩。雄伟牙、洗翠大剑鬼以及盐石巨灵等能够布置场地伤害的队友，则与厄诡椪移除火焰鸟和钢铠鸦等宝可梦携带的厚底靴的能力形成绝佳配合。此外，代欧奇希斯-速度形态、赛富豪与铁头壳等宝可梦也是十分理想的队友，它们能够威胁伽勒尔双弹瓦斯和桃歹郎等厄诡椪Check，而厄诡椪则能在面对上述毒属性宝可梦时，通过急速折返将队友换至场上。另一位出色的进攻型队友是携带讲究眼镜的猛雷鼓，它能清除火焰鸟、闪电鸟与钢铠鸦等飞行属性宝可梦，而厄诡椪则能击溃如天蝎王等地面属性对手。最后，保姆曼波和伽勒尔呆呆王等慢速中转也能与厄诡椪形成良好搭配，提供良好的换入机会，使厄诡椪在不承受强力反击的情况下也能发动致命攻势，同时协助应对藏玛然特等威胁。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Ivy Cudgel",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "U-turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              },
+              {
+                "move": "Rock Tomb",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Ogerpon",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Grass"
+          ]
+        }
+      ]
+    }
+  ]
+}

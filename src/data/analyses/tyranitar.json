@@ -1,0 +1,148 @@
+{
+  "id": 248,
+  "name": "tyranitar",
+  "nameZh": "班基拉斯",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "description": "<p>Choice Band Tyranitar is a decent wallbreaker despite thorns in its side such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> thanks to its high Attack stat and access to high-powered STAB moves like Stone Edge and Knock Off. Knock Off is Tyranitar's most spammable move, threatening out key defensive staples <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and defensive <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. It also punishes Dark-resistant targets like Great Tusk and Zamazenta thanks to its crippling item removal effect, as they become vulnerable to entry hazards once their Heavy-Duty Boots are removed; Zamazenta also despises losing its Leftovers in sand, as they are its sole form of recovery. Low Kick hits key targets that can handle Tyranitar's STAB combination such as <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, and Zamazenta, as well as providing a safer option against <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>. Ice Punch provides a consistent hit against <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Tera Flying is the premier option on Tyranitar, allowing it to turn off its weaknesses to common moves that would usually force it out like Great Tusk's Headlong Rush and Zamazenta's Close Combat. Tera Ghost is another strong option that turns Tyranitar's Fighting weakness into an immunity, and it has an added bonus of blocking Great Tusk's and Iron Tread's Rapid Spin. Do note Tyranitar will take sand damage and lose out on the extra special bulk after Terastallizing, so it needs to be used with caution.</p>\n<p>Tyranitar finds itself on bulky offense and balance teams that benefit from its ability to punch holes in teams and provide sand. Sand Rush <a href=\"/dex/sv/pokemon/excadrill/ou/\" hreflang=\"en\">Excadrill</a> is a strong partner that provides support in the form of speed control and Rapid Spin; in return, Choice Band Tyranitar crushes the defensive Pokemon it struggles against such as <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>. <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/ou/\" hreflang=\"en\">Ogerpon-C</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> are strong partners that can help overwhelm shared checks such as Zamazenta and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, with the former appreciating Tyranitar's sand giving it a Special Defense boost, and the latter notably helping against <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, a soft check to Tyranitar on many teams. <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> is another strong offensive partner, as it provides Grassy Terrain support to mitigate Tyranitar's Earthquake weakness against foes like Gliscor and Iron Treads, and it appreciates Tyranitar's ability to deal with Zapdos and Moltres. Tyranitar's middling Speed tier and plethora of weaknesses mean it is forced out by faster offensive threats such as Ogerpon-W, Great Tusk, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, Landorus-T, and Zamazenta, so partners that can pivot into these foes such as <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>, Zamazenta, Corviknight, and Pecharunt are highly recommended, with the latter two even providing pivoting support to get Tyranitar on the field. Zamazenta and Corviknight are particularly good partners, as they can switch into Kingambit, which is important because it is capable of switching into both Stone Edge and Knock Off and then force Tyranitar out with Iron Head or Low Kick, although it must be careful of Tyranitar's own Low Kick. Iron Valiant is another major threat capable of pivoting in and forcing Tyranitar out, so partners that can handle it like Moltres, Gholdengo, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> are recommended.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Tyranitar",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Flying",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Defensive",
+          "description": "<p>With excellent all-around stats and a wide range of utility, Tyranitar offers good role compression to balance teams and is the cornerstone of sand teams. Stealth Rock allows teammates such as <a href=\"/dex/sv/pokemon/excadrill/ou/\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> to run other moves. Knock Off deals good damage and lets Tyranitar remove items from common switch-ins such as Great Tusk and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, causing them to lose their entry hazard-ignoring Heavy-Duty Boots; Great Tusk in particular losing its Heavy-Duty Boots means that the hazards Tyranitar sets become more difficult to remove. Ice Beam allows Tyranitar to deal heavy damage to <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and already-poisoned <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> attempting to switch into Knock Off while also denting common targets like <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Roar capitalizes on Tyranitar's bulk, allowing it to take a hit from the likes of <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>,  <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and phaze them out; this synergizes well with the Stealth Rock it sets. Thunder Wave lets it permanently shut down foes attempting to punish its passivity, like the aforementioned threats and other ones like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>. Smooth Rock is an option specifically for sand teams, letting it enable Sand Rush Excadrill more reliably. It can also run Heavy-Duty Boots on teams with little to no hazard control, but Leftovers can also be used on teams that do. 16 Defense EVs allow Tyranitar to live an uninvested Great Tusk's Headlong Rush after Stealth Rock. A Sassy nature is used to not compromise the damage of Ice Beam or Knock Off. Tyranitar generally does not want to Terastallize, since it removes its valuable Special Defense boost and causes it to take damage from its own sand. However, in the situations where it needs to, Tera Flying grants an immunity to Ground-type attacks like Great Tusk's Headlong Rush and Landorus-T's Earthquake and a resistance to Fighting-type attacks such as Close Combat from Great Tusk and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Body Press from <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>. Tera Ghost exchanges the Ground immunity for a Fighting immunity while allowing Tyranitar to deny Rapid Spin attempts from Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> to keep its own Stealth Rock and its teammate's hazards up.</p>\n<p>Tyranitar best fits on balance teams that appreciate its various tools such as the chip damage from Stealth Rock and sand along with its strong Knock Off. Excadrill is an excellent partner for Tyranitar, with its Sand Rush ability allowing it to sweep or provide speed control as long as sand is up. It also provides utility in Rapid Spin, clearing entry hazards that Tyranitar is vulnerable to and eliminating the Fairy- and Steel-types Tyranitar is afraid of such as Iron Valiant and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> without Air Balloon. Great Tusk is a similarly excellent partner; while it does not pack Sand Rush or Excadrill's Steel-type STAB move that defeats Fairy-types, its greater bulk and part Fighting typing allows it to be a sturdier check to the likes of <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and Iron Treads. Since Tyranitar has excellent special bulk, a complimentary physically defensive pivot such as Alomomola or <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> is much appreciated. Alomomola offers greater physical bulk and Wish support that heals up any damage Tyranitar may have taken, while Moltres spreads burn, forcing out or punishing checks to Tyranitar such as Zamazenta and Great Tusk. Zamazenta and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> are also excellent teammates that can provide speed control. Zamazenta provides a sweeper or fast attacker that can deal with some of Tyranitar's checks such as Kingambit and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Dragapult can spread status and pivot out in a similar vein to Moltres but with greater Speed while blocking Rapid Spin. <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and Gholdengo are also great teammates, as they spinblock, pack good bulk, and resist Fairy- and Fighting-type attacks such as <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>'s and Enamorus's Moonblast and Zamazenta's Close Combat.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roar",
+                "type": null
+              },
+              {
+                "move": "Thunder Wave",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Tyranitar",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Flying",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Band",
+          "description": "<p>Chinese Set:讲究头带班基拉斯 || 招式： 拍落|尖石攻击|踢倒|冰冻拳 || 道具：讲究头带 || 特性：扬沙 || 太晶属性：飞行/幽灵 ||努力值：252攻击/4特防/252速度 || 性格：固执</p>\n<p>尽管有着如雄伟牙和藏玛然特这样的棘手隐患，但是由于班基拉斯的高物攻种族值和像尖石攻击与拍落这样的高威力的属性一致招式，使得携带讲究头带的它成为一个不错的破盾手。拍落是班基拉斯贯穿性最强的招式，可以威胁桃歹郎和物耐赛富豪等防御主力。凭借它那可以造成重创的道具移除效果，这也可以用来惩罚抵抗恶属性的目标比如雄伟牙和藏玛然特，因为一旦它们的厚底靴被拍掉，它们将易受场地伤害削弱；藏玛然特也很讨厌在沙暴下被拍掉吃剩的东西，因为这是他唯一的回复手段。踢倒可以打那些能处理班基拉斯属性一致招式组合的宝可梦比如古鼎鹿、仆刀将军、铁辙迹和藏玛然特，以及提供了一个在对抗酋雷姆时的更安全的选择。冰冻拳能够重创天蝎王、土地云-灵兽和快龙。太晶飞行是班基拉斯的太晶最优选，消除了班基拉斯的许多弱点，让雄伟牙的突飞猛扑和藏玛然特的近身战等招式不再能逼换它。另一个不错的选择是太晶幽灵，它把班基拉斯的格斗弱点变成了免疫，并且它有一个能够阻挡雄伟牙和铁辙迹的高速旋转的额外红利。请注意，太晶化后班基拉斯将会受到沙暴的伤害，以及失去额外的特防增加，所以说这需要谨慎使用。</p>\n<p>班基拉斯将会依靠它的制造突破口的能力和扬沙特性给平衡攻和平衡队带来收益。拨沙龙头地鼠是一个很强大的队友，因为它提供了速度控制手段和高速旋转，相辅相成的，讲究头带班基拉斯则可以击溃那些龙头地鼠不好对抗的防御型宝可梦，比如火焰鸟和闪电鸟。厄诡椪-础石面具和厄诡椪-水井面具都是强大的队友，因为它们可以帮助过劳藏玛然特和钢铠鸦等共同的check，厄诡椪-础石面具可以在班基拉斯的沙暴下享受特防加成，而厄诡椪-水井面具对保姆曼波这个许多队伍中班基拉斯的软check的压制效果尤为显著。轰擂金刚猩是另一个强大的进攻搭档，因为它提供了青草场地来帮助班基拉斯减轻天蝎王和铁辙迹的地震的伤害，并且轰擂金刚猩和班基拉斯解决闪电鸟与火焰鸟的能力很适配。班基拉斯尴尬的中速与大量的弱点意味着它经常被厄诡椪-水井面具、雄伟牙、铁武者、土地云-灵兽以及藏玛然特这样的更快的高输出宝可梦威胁，所以队友应该选择那些可以轮转这些威胁的宝可梦，比如密集大蛇、来悲粗茶、藏玛然特、钢铠鸦和桃歹郎都是非常推荐的，并且这后两者甚至可以帮忙把班基拉斯轮转出来。藏玛然特和钢铠鸦都是非常好的队友，因为它们可以看住仆刀将军。这一点是非常重要的，因为仆刀将军能抵抗尖石攻击和拍落，然后通过铁头或者下踢逼换班基拉斯，尽管它也需要小心班基拉斯的下踢。铁武者是另一大威胁，它能够轮转班基拉斯并且切入逼退班基拉斯，因此推荐选用火焰鸟、赛富豪和伽勒尔呆呆王这类可以应对它的宝可梦作为队友。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stone Edge",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Punch",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Tyranitar",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Flying",
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ]
+}

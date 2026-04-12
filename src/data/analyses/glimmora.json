@@ -1,0 +1,188 @@
+{
+  "id": 970,
+  "name": "glimmora",
+  "nameZh": "晶光花",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Lead",
+          "description": "<p>Glimmora is one of the tier's premier leads thanks to its ability to set up Stealth Rock and deny opposing entry hazards with Mortal Spin, all while scaring foes from activating Toxic Debris in the process. Toxic Debris's potential to set up Toxic Spikes can prove lethal against certain teams, particularly more offensive ones due to the lack of offensive Poison-types in OU outside of <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> able to absorb them. Mortal Spin's side effect of inflicting poison detracts Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> from setting up entry hazards multiple times and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> from trying to deny Stealth Rock with Magic Bounce. Power Gem lets Glimmora hit most targets for decent damage, and notably chips at <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> that would otherwise wall Glimmora, with Corviknight also removing its entry hazards with Defog. Earth Power allows Glimmora to hit Steel-types such as <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, which otherwise are able to block Mortal Spin, with the former two also resisting Power Gem. Mud Shot is another option over Earth Power, as its side effect of lowering the foe's Speed allows Glimmora to win the mirror matchup against opposing Glimmora. Mud Shot can also slow down foes trying to use Glimmora as setup fodder, such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, preventing them from getting out of hand. Focus Sash allows Glimmora to survive any one hit and thus be able to set up Stealth Rock safely. Red Card can be used instead, allowing Glimmora to make use of its natural bulk and typing to take a hit and thus phaze setup sweepers like Iron Valiant and Iron Moth—which is notable in the hyper offense mirror—preventing its team from getting overrun by boosted offensive threats. Red Card is also useful to disrupt the opposing team, potentially forcing a foe out to take Stealth Rock or Toxic Spikes damage as well as phaze a setup sweeper. This variant prefers a bulkier EV spread instead, such as running 252 HP / 140 Def / 116 SpD with a Calm Nature; this allows Glimmora to survive two Psyshocks from Iron Valiant, with the remaining special bulk letting it take on +1 Protosynthesis <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>'s Thunderbolt as well. Tera Ghost grants Glimmora with an immunity to Rapid Spin from the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, denying their attempts from removing Glimmora's entry hazards.</p>\n<p>Glimmora finds its home on hyper offense teams that enjoy it starting the match strong by setting up Stealth Rock and Toxic Spikes from the beginning. Kingambit greatly appreciates this, as even Pokemon that resist Sucker Punch like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> can potentially get KOed by +2 Sucker Punch after a round or two of Stealth Rock, while physically defensive walls trying to switch in like Skarmory and Corviknight have to contend with not only Kingambit's attacks but also with the chip damage from Stealth Rock. Iron Valiant similarly enjoys Glimmora's entry hazards chipping at the foes for it and the rest of the team to win late-game, while it also provides Knock Off support to remove Heavy-Duty Boots from Pokemon like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, making them susceptible to its hazards. Gholdengo may be used alongside Glimmora, as its Ghost typing and Good as Gold ability let it block Rapid Spin and Defog attempts, thus making sure Glimmora's entry hazards stay up. Glimmora may also play a defensive role on occasion, as its good matchup against <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> lets it assist teammates like Iron Moth and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> that can struggle against it.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Glimmora",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "description": "<p>Due to a strong STAB Meteor Beam alongside decent offensive stats, Glimmora acts as a solid wallbreaker that can also compress roles as an entry hazard remover and setter. Moreover, Glimmora excels against opposing offense, as many of them struggle with Toxic Spikes, meaning the opponent must be careful with how they attack Glimmora. This careful play can be punished by breaking through common bulkier threats that fit well on offense, such as <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Earth Power deals with problematic Steel-types like Gholdengo, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, preventing them from spinblocking Glimmora safely. The move also helps pressure Poison-types like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, which can otherwise absorb its Toxic Spikes, more reliably, especially if its Power Herb has been consumed. On top of removing opposing hazards, Mortal Spin can also cripple checks like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Assault Vest <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. If the team has another Stealth Rock setter, then Glimmora can opt for Spikes instead. Dazzling Gleam alongside Tera Fairy is also an option, granting it super effective coverage against foes like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, Zamazenta, and Ting-Lu while gaining a good defensive typing against the likes of <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Kingambit's Sucker Punch. A Timid Nature is used to Speed tie opposing Glimmora and outspeed crucial targets like Gholdengo and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>, but a Modest nature—especially if Glimmora is ran on Sticky Web teams—is also an option for more power, notably letting it OHKO defensive <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> and having good odds to do so against <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. Tera Ghost lets it importantly spinblock Great Tusk and Iron Treads while letting it take on Zamazenta in a pinch.</p>\n<p>Glimmora's niche makes it a good fit on hyper offense teams. Gholdengo is a great partner, as it can block hazard removal to keep Glimmora's entry hazards up; it also provides good defensive utility by checking Galarian Slowking and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>. Kingambit is a great offensive partner that can take advantage of the entry hazards that Glimmora sets up and clean up late-game after Glimmora has broken through the opposing team. Other setup sweepers like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, Zamazenta, Great Tusk, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> are also similarly useful, as they can keep up the pressure against the opposition while making use of Glimmora's entry hazards. In return, they also appreciate Glimmora's ability to remove opposing hazards and absorb Toxic Spikes. Glimmora struggles against checks like Ting-Lu and bulkier teams that make use of Heavy-Duty Boots, particularly ones with <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>; as such, Glimmora appreciates the presence of Knock Off users such as <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and the aforementioned Great Tusk. Other entry hazards can also help wear them down over time, which the likes of Landorus-T and the aforementioned Ogerpon-W and Hisuian Samurott can provide, with Glimmora complementing them with its own hazard. Sticky Web variants of hyper offense teams anchored by <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a> or <a href=\"/dex/sv/pokemon/araquanid/ou/\" hreflang=\"en\">Araquanid</a> as the hazard setter can help compensate for Glimmora's average Speed tier.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              },
+              {
+                "move": "Spikes",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Glimmora",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Offensive",
+          "description": "<p>Chinese set: 流星光束晶光花||招式: 流星光束|大地之力|晶光转转|撒菱 / 隐形岩||道具: 强力香草||太晶属性: 幽灵||特性: 毒满地||性格: 胆小||努力值: 252 特攻 / 4 特防 / 252 速度</p>\n<p>有着流星光束这个强力的属性一致招式, 不错的特攻种族, 可作为不错的特攻手使用, 同时也兼任着除钉和撒钉手。它擅长对付攻队, 因攻队通常难以应对毒菱, 这意味着对手必须谨慎地攻击晶光花。这种畏首畏尾的打法容易让攻队自身常用的藏玛然特、赛富豪等高耐久宝可梦在面对晶光花时陷入危险。大地之力可打击赛富豪、仆刀将军、铁辙迹等钢属性对手, 让它们无法它们安全地阻止晶光花清钉。也能在强力香草被触发后更可靠地帮助向伽勒尔呆呆王、桃歹郎等毒属性施压, 否则它们将会吸收毒菱。晶光转转不仅能移除场地伤害, 还可削弱古鼎鹿和突击背心保姆曼波。如果队伍中有其他的隐形岩使用者, 晶光花就可以改用撒菱, 反之亦然。太晶幽灵可关键地封锁雄伟牙和铁辙迹的高速旋转, 还能让它在必要时挡住藏玛然特。</p>\n<p>晶光花的特点使它适合HO队。赛富豪是良好的搭档, 它能阻止对手除钉, 同时还有check伽勒尔呆呆王和布莉姆温的防御效用。仆刀将军也是优秀的进攻搭档, 它能从晶光花撒下的毒菱中受益, 并在晶光花突破对手联防后强化清场。相似地, 快龙、藏玛然特、雄伟牙和猛雷鼓等其他强化清场手也很有用, 它们都能持续向对手施压并充分利用晶光花的场地伤害。作为回报, 它们都感激晶光花除钉并吸收毒菱的能力。晶光花难以应对古鼎鹿之类的check以及大量使用厚底靴的平衡队, 尤其是有幸福蛋和土王的队伍。因此, 晶光花感激队伍中的厄诡椪-水井面具、洗翠大剑鬼、铁武者和前述的雄伟牙等拍落使用者。土地云-灵兽、前述的厄诡椪-水井面具和洗翠大剑鬼可提供其他类型的场地伤害, 这可削弱晶光花的check, 晶光花则能补全场地伤害。由蝶结萌虻、滴蛛霸作为撒网手的的黏黏网HO可弥补晶光花平庸的速度。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Meteor Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Spikes",
+                "type": null
+              },
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Glimmora",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Lead",
+          "description": "<p>Chinese Set: 晶光花 || 道具：气势披带 || 特性：毒满地 || 太晶属性：幽灵 || 努力值：4防御/252特攻/252速度 || 性格：胆小 || 招式：隐形岩 | 晶光转转 | 力量宝石 | 大地之力</p>\n<p>晶光花是本分级最优秀的首发之一，既能布置隐形岩，又能通过晶光转转阻止对手撒钉，同时还能威慑对手触发毒满地特性。毒满地特性提供的毒菱对特定队伍可能造成致命威胁，尤其是因为ou环境内缺乏毒属性攻击手导致无法吸收毒菱的攻队。晶光转转的中毒效果能有效干扰尝试多次撒钉的古鼎鹿和试图通过魔法镜反弹隐形岩的布莉姆温。力量宝石可对多数目标造成可观伤害，尤其能压制钢铠鸦、盔甲鸟和天蝎王等常规counter——其中钢铠鸦还能通过清除浓雾扫除隐形岩。大地之力则针对赛富豪、仆刀将军和席多蓝恩等钢属性宝可梦（前两者还抵抗力量宝石），防止它们阻挡晶光转转。也可选择泥巴射击替代大地之力，其降低速度的效果能帮助晶光花在内战中取胜，并限制铁武者和轰鸣月等试图将其作为强化起点的对手。气势披带保证晶光花能承受任意一击后安全完成撒钉。太晶幽灵可免疫雄伟牙与铁辙迹的高速旋转，确保钉子不被清除。</p>\n<p>晶光花常见于HO队，其开局快速布置隐形岩与毒菱的能力极受青睐。仆刀将军尤其受益于此——即便是抵抗突袭的轰鸣月与眷恋云，在承受1-2轮隐形岩伤害后也可能被+2突袭击杀；而盔甲鸟、钢铠鸦等物盾在换入时不仅要面对仆刀将军的攻势，还需承受隐形岩的持续消耗。轰鸣月与铁武者同样依赖晶光花的撒钉削弱对手，为终局清场创造条件；它们还能通过拍落移除吃吼霸、保姆曼波和土王的厚底靴，使其受到场地状态的威胁。赛富豪可作为晶光花的搭档，其幽灵属性与黄金之躯能封锁高速旋转和清除浓雾，保障场地状态持续生效。晶光花偶尔也能承担防御职责，其对骨纹巨声鳄的优势对位能弥补火神蛾、藏玛然特等队友的劣势。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Stealth Rock",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mortal Spin",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Power Gem",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earth Power",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Glimmora",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": 977,
+  "name": "dondozo",
+  "nameZh": "吃吼霸",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wall",
+          "description": "<p>With massive physical bulk and Unaware, Dondozo is a robust physical wall that is capable of checking some of the tier's most prevalent threats, such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. Waterfall is Dondozo's STAB move of choice, with high PP and lack of a drawback, and does decent damage to potential switch-ins like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> looking to scare Dondozo out, while Body Press can instead more effectively handle the likes of Kingambit and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and let Dondozo hit <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Curse can make Dondozo a potent threat, increasing both its offensive potential and defensive capabilities, including letting it better check potent threats like Tera Dark Kingambit. Avalanche can be run instead to threaten <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and punish Grass-types like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/serperior/ou/\" hreflang=\"en\">Serperior</a> that might otherwise fearlessly switch into Dondozo. RestTalk helps Dondozo stay healthy and avoid status while potentially continuing to make progress or set up, depending on the Sleep Talk rolls. The recovery from Leftovers is highly needed, but on teams that lack strong hazard removal then Heavy-Duty Boots can be considered instead. Tera Fighting powers up Dondozo's Body Press, allowing it to get more mileage out of its naturally high Defense and Curse boosts, and lets it more effectively check Kingambit, particularly Black Glasses + Tera Dark variants that can run through stall teams with enough Supreme Overlord boosts. Tera Dark can help Dondozo check special attackers like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Gholdengo, and <a href=\"/dex/sv/pokemon/hoopa-unbound/ou/\" hreflang=\"en\">Hoopa-U</a> in a pinch as well as non-Low Kick Kingambit variants. Tera Dragon can be used to check Ogerpon-W, which can give bulkier teams trouble while still keeping its Fire resistance; this variant should have either Body Press or Avalanche as to threaten Ogerpon-W through Water Absorb.</p>\n<p>Dondozo is generally found on bulkier teams, especially stall, that appreciate its ability to easily check a number of threatening setup sweepers and fearsome physical attackers while also capable of tolerating its passivity. Despite its enormous physical bulk, Dondozo's special bulk leaves much to be desired, so it pairs well with specially defensive walls like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> that can handle Pokemon like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and Dragapult. Entry hazard removers like <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> are necessary partners, even running both of them at once, letting Dondozo run Leftovers while also doubling as checks to Rillaboom and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>. Running Tera Grass on Galarian Weezing or Tera Dragon on Corviknight for the Ogerpon-W matchup gives Dondozo more freedom to run Tera Fighting or Tera Dark as well. Dondozo is a passive Pokemon that is checked by other bulky Pokemon like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, which can also use it as fodder to pass Wishes to Pokemon like <a href=\"/dex/sv/pokemon/ursaluna/ou/\" hreflang=\"en\">Ursaluna</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and so it benefits from teammates like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and Clefable that have more offensive presence and can make progress against them while also acting as Knock Off absorbers for it. Alomomola is a great partner for passing Wish to Dondozo, helping it be less reliant on Rest for recovery as well as potentially burning physical threats like Kingambit and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> to help it take as little damage as possible from stronger physical attackers. Ogerpon-W is particularly annoying for Dondozo thanks to Water Absorb and is difficult to check without using Tera, so teammates like <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a> and the niche <a href=\"/dex/sv/pokemon/amoonguss/ou/\" hreflang=\"en\">Amoonguss</a> that can handle it while also helping against threats like Rillaboom are appreciated, letting Dondozo forgo Tera Dragon. On balance teams, offensive partners like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> and Weavile help threaten Dondozo's offensive checks like Rillaboom and Raging Bolt, with the former further providing hazard control thanks to Court Change.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Curse",
+                "type": null
+              },
+              {
+                "move": "Avalanche",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dondozo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Dark",
+            "Dragon"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Wall",
+          "description": "<p>Chinese Set: 吃吼霸 || 招式：攀瀑/扑击|诅咒/雪崩|睡觉|梦话 || 特性：纯朴 || 努力值：252 HP / 252 防御 / 4 特防 || 性格：淘气 || 太晶属性：格斗/恶/草</p>\n<p>凭借巨大的物理耐久与纯朴特性，吃吼霸是一名坚实的物理盾牌，能够check分级中一些最普遍的威胁，如雄伟牙、轰鸣月和仆刀将军。攀瀑是吃吼霸选择的属性一致招式，拥有高PP且无副作用，并能对试图逼退吃吼霸的潜在换入者如赛富豪和铁武者造成可观伤害，而扑击则能更有效地应对仆刀将军和轰鸣月等宝可梦，并让吃吼霸打击厄诡椪-水井面具。诅咒能使吃吼霸成为一个强大的威胁，同时提升其攻击潜力与防御能力，包括让其更好地check太晶恶仆刀将军和讲究头带破空焰等强力威胁，而可以改用雪崩来打击草属性宝可梦如轰擂金刚猩和君主蛇，否则它们可能无所顾忌地对吃吼霸换入。睡觉梦话组合帮助吃吼霸保持健康状态并避免异常状态，同时根据梦话的随机结果可能继续创造进攻机会或进行强化。厚底靴让吃吼霸能反复安全换入强大的攻击手而无需承受场地伤害，而吃剩的东西可以作为替代品提供比睡觉更可靠的回复。太晶格斗增强吃吼霸的扑击威力，使其能更充分利用其天然的高防御和诅咒强化，并凭借其提供的恶属性抗性使其能更有效地check仆刀将军；太晶恶能帮助吃吼霸在紧急情况下check特攻手如多龙巴鲁托、赛富豪和辅助力量拉帝亚斯，以及未携带踢倒的仆刀将军；而太晶草可用于扭转其弱点，使其抵抗来自轰擂金刚猩和君主蛇的通常危险的攻击，并有效check通常给耐久型队伍带来麻烦的厄诡椪-水井面具。</p>\n<p>吃吼霸通常出现在更偏耐久的队伍中，这些队伍欣赏其轻松检查许多威胁性强化型清场手及其他可怕的物理攻击手如仆刀将军的能力。尽管拥有巨大的物理耐久，吃吼霸的特殊耐久却差强人意，因此它与特防型盾牌如能check特攻酋雷姆配置的幸福蛋，以及能处理猛雷鼓的土王配对良好。吃吼霸是一只被动的宝可梦，会被其他耐久型宝可梦如同样能利用它作为传递祈愿给月月熊等宝可梦的垫脚石的保姆曼波，以及皮可西所check，因此它受益于像天蝎王和皮可西这样更具攻击威胁并能对它们取得进展或为其充当拍落吸收者的队友。在平衡队中，攻击型搭档如火神蛾、雄伟牙和玛狃拉帮助威胁吃吼霸的check如轰擂金刚猩和猛雷鼓，同时反过来受益于其check仆刀将军的能力。厄诡椪-水井面具因储水特性而对吃吼霸来说特别烦人，且在不使用太晶的情况下难以check，因此能处理它同时也能帮助应对轰擂金刚猩等威胁的队友如败露球菇和蜜集大蛇——尽管后者会输给嬉闹配置——是值得携带的。如果吃吼霸携带吃剩的东西，那么撒菱清除手段如能在赛富豪面前清除浓雾的烈箭鹰，以及钢铠鸦是必要的搭档，以使吃吼霸反复换入时保持健康，同时兼具check轰擂金刚猩和魔幻假面喵的作用。保姆曼波是吃吼霸的绝佳搭档，能向其传许愿望，帮助其减少对睡觉回复的依赖，并可能灼伤物理威胁如轰鸣月和玛狃拉，以帮助其从更强的物理攻击手那里承受尽可能少的伤害。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Waterfall",
+                "type": null
+              },
+              {
+                "move": "Body Press",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Curse",
+                "type": null
+              },
+              {
+                "move": "Avalanche",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Rest",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sleep Talk",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dondozo",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Dark",
+            "Grass"
+          ]
+        }
+      ]
+    }
+  ]
+}

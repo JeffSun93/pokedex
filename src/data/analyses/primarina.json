@@ -1,0 +1,213 @@
+{
+  "id": 730,
+  "name": "primarina",
+  "nameZh": "西狮海壬",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "description": "<p>Assault Vest Primarina is a great special tank while being a remarkable offensive threat itself, capable of trading hits against offensive teams. It can check threats like <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and stomach even strong super effective hits from foes like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, all while having a decent matchup against common physical attackers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Psychic Noise hits <a href=\"/dex/sv/pokemon/toxapex/ou/\" hreflang=\"en\">Toxapex</a> super effectively and blocks healing from walls like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, allowing Primarina to chip them down for itself and its partners. It also lets Primarina pick off Zamazenta and Iron Moth behind a Substitute. Flip Turn turns Primarina into a pivot, letting it bring in a teammate in safely, either after being attacked or on predicted switches to gain momentum. Whirlpool can be used to stallbreak by trapping the likes of Blissey and Toxapex that may otherwise outlast Primarina, especially in conjunction with Psychic Noise to keep them low. While Torrent is preferred, Liquid Voice can be used on sets that forgo Surf to still maintain a strong STAB move from Psychic Noise; this also allows Primarina shut down even Tera Dark Blissey. Tera Poison and Steel improves its matchup against Iron Valiant, provides a poison immunity from foes like <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> and Clodsire, and flip Primarina's Poison and Grass weakness against moves like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>'s Wood Hammer and Iron Moth's Sludge Wave. Tera Poison lets Primarina maintain its decent matchup against Zamazenta and is better against Iron Moth and Focus Blast Darkrai, while Tera Steel lets it check <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> better and pivot more freely in the face of Stealth Rock. Tera Grass aids Primarina's matchup into <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and can help it against Raging Bolt in a pinch too. 176 Speed EVs let Primarina outspeed Adamant <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/ursaluna/ou/\" hreflang=\"en\">Ursaluna</a>, while the remaining HP EVs allow Primarina to reach feats such as surviving Protosynthesis Thunderbolt from Raging Bolt, +1 Speed Booster Energy Iron Moth's Sludge Wave, +2 <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>'s Earthquake, and two Heavy Slams from Zamazenta. However, a bulkier EV spread of 252 HP / 208 SpA / 48 SpD is also an option to survive two Tera Water Choice Specs Walking Wake's Hydro Steam under sun.</p>\n<p>Assault Vest Primarina is best used on bulky offense teams that appreciate a Pokemon that has both offensive and defensive prowess, generally teams that are particularly weak to special attackers. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> provides Intimidate and checks the physical attackers that Primarina struggles with like Kingambit and Great Tusk. Great Tusk is another great teammate, as it provides entry hazard removal and checks Galarian Slowking, which tends to threaten Primarina. In return, Primarina can handle threats like Darkrai and Walking Wake. Kingambit and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> appreciate support from Primarina that can switch in on and threaten Pokemon like Iron Valiant and Zamazenta. Furthermore, both of these Pokemon help check Galarian Slowking for Primarina, along with resisting Grass-type attacks. <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> appreciates Primarina's ability to check Fire-types like Cinderace and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, as well as Walking Wake. Primarina struggles with Grass-types like Ogerpon-W, <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, and Rillaboom, so it's essential to have checks to these such as Rillaboom, Cinderace, and Kingambit. Cinderace, aside from resisting Grass-type attacks, can also help with hazard removal with Court Change, allowing Primarina to switch in more often. Dragapult and Cinderace can form a great pivoting core with Primarina, and they can also spread burn in order to help improve Primarina's matchup against physical attackers like Great Tusk.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Whirlpool",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              },
+              {
+                "move": "Whirlpool",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Primarina",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Steel",
+            "Grass"
+          ]
+        },
+        {
+          "name": "Offensive Calm Mind",
+          "description": "<p>Primarina is a fierce sweeper that can use its STAB moves, combined with Calm Mind, to muscle through most enemies. Primarina can choose between Surf for perfect accuracy or Hydro Pump for greater power that lets it 2HKO <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> at +1. Substitute lets Primarina grab more Calm Mind boosts while slower Pokemon try to cripple Primarina with a status effect, like Toxic from <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, Thunder Wave from Galarian Slowking, or Salt Cure from <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, as well as easing prediction. It can use Psychic Noise to block healing from defensive Pokemon, including Slack Off from Galarian Slowking, Recover from Clodsire, and Wish from <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, thus making them easier to beat. Encore is a niche option that lets Primarina lock opposing Pokemon into moves they don't care for, which can be especially effective in shutting down <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and walls like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>, forcing switches that can give it more opportunities to boost or attack. As for items, Primarina has good choices as well; its item can be Leftovers to grab more healing, pairing well with Substitute, while Heavy-Duty Boots can be used on teams with no entry hazard removal. Custap Berry is an option that allows Primarina to get one last attack before fainting, compensating for its middling Speed tier to trade more reliably against offensive teams. 176 Speed EVs allow Primarina to outspeed Adamant Kingambit. Tera Steel lets Primarina stay in and tank attacks from Grass-, Poison-, and Steel-types and hit them back hard; examples of these moves include Wood Hammer from <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>, Sludge Wave from <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and Make It Rain from <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Its biggest claim to fame is being able to resist Galarian Slowking's STAB moves, turning one of its worst matchups into a setup opportunity. Tera Ghost gives it an immunity to <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>'s Seismic Toss, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>'s Extreme Speed, and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>'s Fighting-type moves.</p>\n<p>This Primarina set excels in hyper offensive structures as an early-game monster thanks to its good damage output and Calm Mind, which allow Primarina to destroy Kingambit, <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, Zamazenta, Clodsire, and many others. Kingambit loves the fact that Primarina can beat some of its counters like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. Kingambit, in return, can beat Galarian Slowking and Blissey. The same applies to <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, which appreciates Primarina's ability to counter Pokemon like Gholdengo and <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> that can otherwise give it trouble. Thanks to Primarina's good matchup against defensive Ground-types like Clodsire and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, Pokemon like Gholdengo and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> appreciate the help sweeping late-game. Primarina struggles against Pokemon that can either shut it down fast with super effective moves, like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Rillaboom, strong physical offense from the likes of offensive <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, or sturdy special walls such as Galarian Slowking and Blissey. Primarina loves the support from <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, which can scare away special walls with Earthquake, absorb Raging Bolt's Electric-type moves, support Primarina with Intimidate, allowing Primarina to take on strong physical offense, gain momentum from U-turn, which Landorus-T can easily obtain from common switch-ins like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, Alomomola, and Skarmory, and set up entry hazards to nab some good damage thresholds, like greatly improving the chance for Primarina to 2HKO bulky variants of Gholdengo and Kingambit with unboosted Surf. <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> is another Ground-type that Primarina appreciates for its ability to check Galarian Slowking; it also provides Stealth Rock support, as well as Rapid Spin to clear the field of hazards. Another great partner is Rillaboom, since it also scares away the aforementioned Galarian Slowking and Blissey, as well as Great Tusk, and provides Primarina with extra healing from Grassy Surge. <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> is also a good teammate for Primarina because of its ability to check Ogerpon-W, spread status that can help Primarina either tank or outspeed opposing Pokemon more easily, and use U-turn to bring Primarina safely into the battle. <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> makes a good pairing due to its ability to beat Galarian Slowking and really appreciates Primarina's ability to beat both Clodsire and Iron Valiant. Offensive hazard setters like <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> bring hazard pressure that can help Primarina break through walls more easily. Galarian Slowking provides pivoting with Chilly Reception and offensive pressure with Future Sight.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Hydro Pump",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Primarina",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Steel",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Bulky Calm Mind",
+          "description": "<p>Thanks to a great typing and solid overall bulk, Primarina is one of the most dangerous set up sweepers in OU, capable of checking and setting up on offensive Pokemon like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>. Calm Mind makes Primarina able to threaten the opposing team while also making itself harder to KO for potential revenge killers like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Psychic Noise can be used in combination with Liquid Voice to cripple defensive switch-ins that would be able to beat it one-on-one, such as <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, Unaware <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. Surf is also an option to put more pressure on offensive teams due to it's higher Base Power while being run with Torrent, which can power it up in a pinch. It notably is useful against <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> as well as threatening the 2HKO on bulky <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> after a Calm Mind. Substitute prevents Primarina from being affected by status moves such as Thunder Wave from Clefable and Toxic from Clodsire. It also punishes switches that Primarina forces and allows it to scout opposing Pokemon. Substitute is also useful to avoid being revenge killed by <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> while blocking Trick from Pokemon like Choice Scarf Gholdengo. It is also a safe way to bring Primarina to Torrent range. The 8 Special Defense EVs allow Primarina to avoid the 2HKO from Protosynthesis-boosted Choice Specs Walking Wake's Hydro Steam under sun. Both Tera Poison and Steel flip the matchup against Grass-types like Meowscarada, <a href=\"/dex/sv/pokemon/serperior/ou/\" hreflang=\"en\">Serperior</a>, and Rillaboom while also turning the tables on <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. With Tera Steel, Primarina resists Gholdengo's Make it Rain and can beat it one-on-one. It can also absorb Galarian Slowking's Future Sight and set up on <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> and Clefable.</p>\n<p>Primarina fits best on bulky offense teams that appreciate the natural defensive utility that Primarina brings to the table while also being a threatening sweeper itself. Primarina can support teammates such as Weavile, Rillaboom, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> by switching in on Zamazenta, Weavile, and Walking Wake. Rillaboom is particulary good, as Primarina covers threats to it like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> while appreciating the extra healing of Grassy Terrain. Great Tusk, Rillaboom, and Weavile can threaten Pokemon that would otherwise be annoying for Primarina, such as Galarian Slowking, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and Serperior, respectively. Due to Primarina's lack of reliable recovery, it struggles against entry hazards, especially hazard stacking teams. The aforementioned Great Tusk helps it by removing them with Rapid Spin while also being a switch-in to Kingambit that can threaten a weakened Primarina out. Pokemon like Ogerpon-W, Rillaboom, and Serperior can safely switch into Primarina and threaten it with powerful attacks, forcing it to Terastallize or switch out; Pokemon that can switch in on these threats like Kingambit, Rillaboom, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> make for great teammates. Kingambit is also a huge help, as it beats one of the most common checks to Primarina in Galarian Slowking while appreciating Primarina's ability to safely switch in and beat Zamazenta, Iron Valiant, and Skarmory.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              },
+              {
+                "move": "Surf",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Draining Kiss",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Substitute",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Primarina",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Steel"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "description": "<p>Chinese Set: 突击背心西狮海壬 || 招式：月爆|精神噪音|冲浪/潮旋|快速折返/潮旋 || 道具：突击背心 || 特性：激流/湿润之声 || 努力值：80 HP/248 特攻/176速度 || 性格：内敛 || 太晶属性：毒/钢/草\n携带突击背心的西狮海壬是一名出色的特耐宝可梦，同时自身也具备强大的攻向威胁，能够和攻队对攻。它可以check波荡水、多龙巴鲁托、达克莱伊和铁武者等威胁，甚至能吃下来自铁毒蛾和猛雷鼓等对手的强力效果绝佳攻击，同时在面对藏玛然特、雄伟牙和闪焰王牌等常见物理攻击手时也有着不错的对位。精神噪音能效果绝佳地打击超坏星，并阻止幸福蛋、土王和皮可西等特盾的回复，使西狮海壬能为自己和队友磨损它们。它还能让西狮海壬处理掉替身后的藏玛然特和铁毒蛾。快速折返使西狮海壬成为一个中转手，使其能在承受攻击后或在先读到换人时安全地换上队友以换取节奏。潮旋可通过抓住幸福蛋和超坏星这类本可以耗死西狮海壬的对手以破受,特别是在有能让它们保持低血线的精神噪音配合时。尽管首选特性是激流，但在未携带冲浪的配置中也可以使用湿润之声，这样精神噪音仍可作为强大的属性一致招式；这也使得西狮海壬甚至能阻止太晶恶属性的幸福蛋回复。太晶毒和太晶钢能改善其对铁武者的对位，提供对桃歹郎和土王等对手的毒属性免疫，并反转西狮海壬对毒和草属性的弱点，以应对轰擂金刚猩的木槌和铁毒蛾的污泥波等招式。太晶毒使西狮海壬能保持对藏玛然特的良好对位，并且在对抗铁毒蛾和携带真气弹的达克莱伊时表现更好；而太晶钢则使其能更好地check代欧奇希斯-速度形态、布莉姆温和伽勒尔呆呆王，并在面对隐形岩时更自由地进行中转。太晶草有助于改善西狮海壬对厄诡椪-水井面具的对位，并在紧要关头帮助它对抗猛雷鼓。176点速度努力值让西狮海壬能够超速固执性格的仆刀将军和月月熊，剩余的HP努力值则使西狮海壬能做到例如吃下猛雷鼓发动古代活性的十万伏特、+1特攻的驱劲能量加速铁毒蛾的污泥波、+2攻击天蝎王的地震，以及藏玛然特的两次重磅冲撞。此外，一种 252 HP / 208 特攻 / 48 特防 的更注重耐久的努力值分配也是一种选择，用以在大晴天下吃住两次携带讲究眼镜、太晶水属性的波荡水的水蒸气。</p>\n<p>突击背心西狮海壬最适合用于那些看重宝可梦兼具攻防能力的平衡攻队，尤其是那些特别害怕特攻手的队伍。土地云-灵兽形态能提供威吓特性，并check仆刀将军和雄伟牙等西狮海壬难以处理的物理攻击手。雄伟牙是另一个很棒的队友，它能清除场地伤害，并check往往会威胁到西狮海壬的伽勒尔呆呆王。作为回报，西狮海壬可以处理达克莱伊和波荡水等威胁。仆刀将军和玛狃拉很需要西狮海壬的支援，它可以换入场上并威胁铁武者和藏玛然特等宝可梦。此外，这两只宝可梦都能帮助西狮海壬check伽勒尔呆呆王，并且它们都抵抗草属性攻击。赛富豪很欣赏西狮海壬check闪焰王牌和席多蓝恩等火属性宝可梦以及波荡水的能力。西狮海壬难以应对厄诡椪-水井面具、魔幻假面喵和轰擂金刚猩等草属性宝可梦，因此，队伍中必须有像轰擂金刚猩、闪焰王牌和仆刀将军这样的宝可梦来check它们。闪焰王牌除了能抵抗草属性攻击外，还能用换场来清除场地伤害，让西狮海壬能更频繁地换入。多龙巴鲁托和闪焰王牌可以与西狮海壬组成一个出色的中转核心，它们还能散布灼伤，以帮助改善西狮海壬在面对雄伟牙等物理攻击手时的对位。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Moonblast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Surf",
+                "type": null
+              },
+              {
+                "move": "Whirlpool",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              },
+              {
+                "move": "Whirlpool",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Primarina",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Steel",
+            "Grass"
+          ]
+        }
+      ]
+    }
+  ]
+}

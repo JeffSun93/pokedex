@@ -1,0 +1,484 @@
+{
+  "id": 491,
+  "name": "darkrai",
+  "nameZh": "达克莱伊",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Nasty Plot",
+          "description": "<p>Darkrai is an excellent wallbreaker and cleaner, gaining many opportunities to use Nasty Plot due to its amazing base Speed and a diverse coverage movepool backed up with a good Special Attack stat and enough bulk to set up against passive Pokemon. Sludge Bomb hits Fairy-types like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> as well as Pokemon that commonly use Tera Fairy like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Ice Beam hits Dragon- and Ground-type Pokemon like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> that can take its Dark Pulse. Focus Blast tears through Dark-types like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, hitting the former harder than Ice Beam. Psyshock can be used to hit <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> hard, improving its matchup against stall teams. Leftovers give it general longevity and fits better on teams with entry hazard removal, but Heavy-Duty Boots can be used on teams that lack it. More offensive teams can opt for the power of Life Orb to wallbreak more easily, opening up fellow setup sweepers to clean late-game. Expert Belt is a niche alternative as a boosting item that makes use of Darkrai's ability to hit most of the metagame for super effective damage with its coverage moves, letting it pressure checks like Ting-Lu and Clefable more easily without cutting into its longevity. Tera Poison boosts Darkrai's Sludge Bomb and allows it to avoid revenge killing attempts from Iron Valiant and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> thanks to the Fairy- and Fighting-type resistances it gains. Tera Ghost is a niche option that gives a full immunity to Zamazenta's Fighting-type moves and is helpful to prevent Dragonite from revenge killing Darkrai with Extreme Speed. Tera Fighting can also be used to power up Focus Blast to extreme levels of power to become Darkrai's strongest viable move, notably being able to OHKO Ting-Lu at +2 after Stealth Rock.</p>\n<p>Darkrai's wallbreaking capabilities are useful on offensively oriented teams, having strong synergies with other Dark-types like Hisuian Samurott and Kingambit and other special attackers like Raging Bolt and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Hisuian Samurott and Kingambit pair with Darkrai to overwhelm or lure shared checks like Zamazenta and Iron Valiant while gaining opportunities to wallbreak by switching into each other's counters. Darkrai's Bad Dreams punishes <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>'s Rest, further enhancing its synergy with Kingambit and Hisuian Samurott as well as other physical attackers like Zamazenta, as switching into Darkrai as Dondozo comes in to wall them will result in Bad Dreams chip without burning a sleep turn. Raging Bolt and Dragapult appreciate Darkrai's ability to break through balance teams, tearing through walls like Ting-Lu and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, while mixed Dragapult and Raging Bolt, especially with Taunt, can help break through Clodsire. Dragapult provides a stop to Zamazenta and punishes Kingambit with Will-O-Wisp if Darkrai isn't running Focus Blast. Darkrai appreciates support from entry hazard setters like Hisuian Samurott, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, as their hazards, especially Spikes, make Darkrai much more threatening, wearing down switch-ins like Zamazenta, Ting-Lu, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>. Darkrai heavily pressures hazard removers like Great Tusk, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Hisuian Samurott and Landorus-T in particular have deeper synergy with Darkrai; Hisuian Samurott wears down Primarina, switches into Darkrai checks like Blissey and Clodsire to set up Spikes on forced switches, and can use Flip Turn to safely bring in Darkrai on physically defensive Pokemon like Corviknight, Dondozo, and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> to gain free turns. Landorus-T is an excellent physical blanket check and can switch into threatening Fighting-types like Zamazenta and Booster Energy Great Tusk that can threaten Darkrai, and it can use U-turn to bring in Darkrai safely on Pokemon like Gliscor and opposing Landorus-T. Gholdengo is an excellent teammate due to it providing a check to Fairy-types like Iron Valiant and Enamorus while being able to counter most Zamazenta variants if running a physically defensive set. <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> can threaten answers to Darkrai like Primarina, Ting-Lu, and Clodsire while being able to pivot Darkrai in on Pokemon like defensive Gholdengo, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and Corviknight to keep up momentum. Assault Vest Primarina is an excellent partner that blanket checks many special attackers including Iron Valiant and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, pivots Darkrai in on its checks like Galarian Slowking, and pressures shared walls such as Blissey and Terastallized Clodsire for Darkrai to break through.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "description": "<p>Darkrai, owing to its already impressive Speed stat, is among one of the tier's most consistent revenge killers and an outstanding piece of speed control. Outspeeding the entirety of OU's metagame, Choice Scarf Darkrai reliably threatens <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Sludge Bomb is mandatory to threaten Fairy-types like Enamorus, Iron Valiant, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>. Ice Beam effectively nails many foes like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>. Focus Blast is an option to smash Steel-types and Dark-types like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> as well as hitting Ting-Lu harder than Ice Beam. Trick allows Darkrai to incapacitate a sweeper, like Dragonite and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, or a wall, like <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, long-term and grants it the flexibility of being able to switch moves when the extra Speed isn't needed, such as against bulkier teams. Will-O-Wisp can be used to permanently cripple foes like Kingambit, Hisuian Samurott, and Dragonite while still keeping its Choice Scarf intact. Tera Poison is used to strengthen Sludge Bomb's damage output, allowing it to threaten the bulkier Clefable while also coming with the added benefit of resisting the many Fairy-types' Moonblast and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>'s STAB moves. Alternatively, Tera Dark is a solid offensive option, giving its boosted Dark Pulse an easier time to clean up weakened teams. Tera Ghost is an option to let it emergency check Extreme Speed Dragonite and IronPress Zamazenta. Tera Fighting is a niche option that can be used with Focus Blast, giving the move incredible power that allows Darkrai to 2HKO the mighty Ting-Lu.</p>\n<p>Darkrai fits best on offensive teams that necessitate its revenge killing talents. It’s important to note that Darkrai actually has issues revenge killing as a result of Terastallization, with many usually clean revenge kills being complicated by this mechanic. This issue is only compounded by the fact that all of Darkrai’s moves all have common switch-ins, so it’s very important to have other answers to the Pokemon Darkrai aims to revenge kill. As a result, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> is a solid partner, with its typing and firepower being able to check switch-ins to Dark Pulse like Iron Valiant, Enamrous, and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, safely scout for potential Terastallizations against them, and provide momentum with Flip Turn. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> is similarly a good partner, with its ability to check physical attackers that Darkrai can't safely revenge kill in the event of Terastallization, such as Dragonite and Great Tusk; it also provides momentum with U-turn and helps put Darkrai's victims into range of its attacks with Stealth Rock. Additionally, it can disrupt many of Darkrai switch-ins with Taunt, like Ting-Lu, Clodsire, and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>. On the topic of entry hazards, Great Tusk and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> are also good partners, as they provide hazard control that is seriously appreciated by Darkrai, which otherwise will get chipped down as it switches in and out of the field to apply pressure. Great Tusk checks many priority users that would otherwise deny Darkrai its ability to revenge kill, such as Kingambit, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and Dragonite. It also can pressure Clodsire, Ting-Lu, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, denying their hazards and threatening them with significant damage that prevents them from switching into Darkrai. Cinderace is effective as a result of its ability to remove entry hazards Court Change and spread burns to Pokemon that could otherwise outpace Darkrai, such as <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and Dragonite, while its U-turn dents Hisuian Samurott. <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> is also a great partner due to its anti-offensive nature, with its speedy Will-O-Wisp and Thunder Wave allowing it to be Darkrai's fallback line in the event of an unexpected Tera. It handles many switch-ins like Rillaboom, the <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> formes, and Zamazenta by debilitating them with status and providing pivoting with U-turn. Dragapult can also deconstruct stall, which Darkrai matches up poorly into. Kingambit also loves Darkrai's ability to outpace Iron Valiant, as Darkrai opens up Kingambit late-game by KOing or at least forcing chip damage on key targets, putting them in range of Sucker Punch. Furthermore, Darkrai can also cripple physical walls like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> with Trick, while Darkrai enjoys Kingambit's Sucker Punch putting targets in range of its attacks and Iron Head eliminating Clefable and Primarina. Raging Bolt is an effective partner, as Darkrai's ability to use Trick and shut down special walls like Blissey, <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a>, and Clodsire is great for opening it up against bulkier teams. Darkrai's coverage in Focus Blast can help simplify Raging Bolt's endgame, as it pressures Ting-Lu and Kingambit, notably simplifying the mindgames between it and Kingambit, while Ice Beam can also help eliminate Ground-types like Great Tusk, Landorus-T, and Gliscor for it to use Thunderclap late-game.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Dark"
+          ]
+        },
+        {
+          "name": "Boots Attacker",
+          "description": "<p>Darkrai's survivability due to its immunity to entry hazards alongside the combination of an excellent Speed tier, strong offensive pressure, and access to a bevy of utility options allow it to function quite effectively as a potent special attacker on longer games. Ice Beam complements Dark Pulse well with its excellent super effective coverage, reliably hitting <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> while greatly threatening the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Sludge Bomb rounds out Darkrai's coverage by hitting Fairy-types like <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> super effectively. Will-O-Wisp cripples physical attackers like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, making them more easily handled by Darkrai's teammates, and lets it slowly cripple walls like Ting-Lu, <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>, and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Knock Off allows Darkrai to remove items like Assault Vest from Alomomola, Leftovers from <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and Heavy-Duty Boots from a wide array of entry hazard-weak threats and support both itself and its teammates. Knock Off is particularly useful against bulkier teams or on hazard-stacking teams, as the chip damage from hazards can more than make up for Darkrai's reduced coverage and damage output. Its ability to threaten common Knock Off absorbers like Gliscor with Ice Beam and Clefable with Sludge Bomb further exacerbates its ability to spread Knock Off. Nasty Plot emphasizes its niche as a wallbreaker and potentially clean late-game more easily, especially in longer games when the foes are weakened enough from repeated chip damage. Tera Poison turns all of Darkrai's weaknesses into resistances, flipping otherwise poor matchups against Zamazenta, Iron Valiant, and Assault Vest <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> in its favor. Tera Poison also boosts the power of its Sludge Bomb and additionally allows Darkrai to absorb Toxic Spikes in a pinch.</p>\n<p>Darkrai fits well on a wide array of teams, ranging from offense to balance. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> is a great teammate that greatly appreciates Darkrai's ability to eliminate Ground-types like Gliscor and opposing Landorus-T and reliably pivots Darkrai in with U-turn, sets up Stealth Rock to support Darkrai and its teammates, and handles attacks like Zamazenta's Body Press that Darkrai often finds itself targeted by. <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and Ting-Lu are effective Spikes setters that pair well with Darkrai in spite of their shared Dark typings; Hisuian Samurott can further support Darkrai with Knock Off, Encore, and Flip Turn, while Ting-Lu can use Whirlwind to phaze faster threats like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Darkrai benefits immensely from the chip damage forced by hazards, as it becomes a terrific revenge killer and late-game cleaner once slower opponents are worn down into KO range. Zamazenta is a fantastic teammate that greatly appreciates Darkrai's ability to handle threats like <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a> that can prevent it from setting up an Iron Defense and sweeping. In return, Zamazenta handles Kingambit, which gives Darkrai trouble if it opts to run Lum Berry and/or Tera Fire to handle Will-O-Wisp. Gholdengo, too, is an excellent teammate; it reliably handles Tinkaton and most Zamazenta and Iron Valiant variants and can utilize the combination of Nasty Plot, Good as Gold, and its excellent typing to greatly threaten the defensive teams that Darkrai struggles against, while Darkrai can use its great Speed to pressure faster threats like Dragonite, Landorus-T, and Ogerpon-W that Gholdengo may struggle against. They can also collectively overwhelm Ting-Lu, with either Gholdengo or Darkrai weakening Ting-Lu enough for the other to break past it and put massive offensive pressure on the opponent's team. Other Ghost-types like Dragapult and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> can also check Zamazenta for Darkrai, and they can reliably pivot it in with U-turn and Parting Shot, respectively. Ogerpon-W is a great teammate that can punch holes in bulkier teams featuring specially bulky threats like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, Ting-Lu, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> that can wall Darkrai, provides Knock Off support to further assist Darkrai against bulkier teams, and hits Tinkaton extremely hard with Ivy Cudgel, while Darkrai can handle Dragonite, Pecharunt, and Sinistcha that can give Ogerpon-W trouble. Other powerful wallbreakers, like <a href=\"/dex/sv/pokemon/ogerpon-cornerstone/ou/\" hreflang=\"en\">Ogerpon-C</a>, Choice Specs <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, maximum Attack Booster Energy Great Tusk, and mixed Iron Valiant, can break down defensive cores and open up Darkrai to clean up late-game. Great Tusk can utilize an assortment of other sets to set up Stealth Rock and provide valuable Knock Off support to support Darkrai's ability to outspeed and 2HKO much of the offensive metagame, and it reliably handles Kingambit so that Darkrai doesn't need to rely on Will-O-Wisp against it. Tinkaton is another excellent teammate that, like Great Tusk, provides Stealth Rock and Knock Off support, but it can also provide Encore support or paralyze faster threats like Iron Valiant and Dragapult so that Darkrai can outspeed and eliminate them. <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> can reliably answer physical attackers like Kingambit and Zamazenta, taking pressure off Darkrai to land a Will-O-Wisp against them, and can also pivot Darkrai in safely with U-turn. Lastly, powerful priority attackers like <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, Dragonite, and Kingambit make for strong teammates that can answer foes that outspeed and threaten Darkrai, such as +1 Iron Valiant and Dragapult. In return, Darkrai can utilize its great Speed to put immediate pressure on threats like Landorus-T, Air Balloon Gholdengo, Zapdos, and Moltres.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              },
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "description": "<p>With Choice Specs, Darkrai can boost its already excellent Special Attack and fantastic Speed tier to become a devastating wallbreaker. Sludge Bomb helps to shred Fairy-types like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> that would switch into Darkrai’s deadly Dark Pulse, as well as common Tera Fairy users like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Focus Blast can tear through Dark-types that try to switch into Dark Pulse like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and is favored to 2HKO Ting-Lu even with Leftovers, while Ice Beam tears through the likes of <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Either of these, usually Ice Beam, can be eschewed for Trick, trading a coverage option for the ability to cripple a would-be wall or setup sweeper like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> or Dragonite, as well as allowing Darkrai to freely use its moves in matchups where its power is not needed. Tera Dark can be used to power up Dark Pulse, allowing Darkrai to secure the 2HKO on walls like Garganacl, as well as picking off weakened foes more easily, albeit at the cost of not changing its type defensively. Tera Poison doubles as a defensive Tera type to let Darkrai tank Fighting- and Fairy-type moves like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>’s Close Combat and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>’s Moonblast and soak up Toxic and Toxic Spikes while powering up Sludge Bomb to OHKO Clefable and non–Assault Vest Primarina.</p>\n<p>Choice Specs Darkrai fits best on bulky offense and balance teams looking for a strong wallbreaker that can still outspeed most offensive threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Darkrai appreciates slow pivots like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, and <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> that can bring it in easily and give it more entry points to wallbreak. These Pokemon also help form a strong defensive backbone to answer foes that could benefit from whatever move Darkrai is locked into to set up or revenge kill, with Pecharunt and Galarian Slowking helping with <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and Iron Valiant. Galarian Slowking, in particular, also helps with Primarina and Enamorus, while Moltres helps with Kingambit. Even with Darkrai’s coverage options and power, Ting-Lu still poses a large threat, forcing it to rely more on predictions rather than spamming Dark Pulse, so Pokemon like Ogerpon-W and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> that can switch into Ting-Lu and threaten it help in that regard. Darkrai also helps physical attackers like the aforementioned Ogerpon-W and Rillaboom, as well as Dragonite and Zamazenta, by blowing past physical walls like Pecharunt and bulky Gholdengo. Gholdengo is a great partner that can help overwhelm shared checks like Ting-Lu and Kingambit. It can also switch into and threaten Zamazenta and Iron Valiant, both of which are great at revenge killing Darkrai. With its Choice Scarf set, Gholdengo can cripple walls like Blissey with Trick and outspeed threats that naturally outpace Darkrai, such as <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and Zamazenta. Darkrai’s lack of Heavy-Duty Boots allows it to be chipped down easily by entry hazards, so hazard removal options like Great Tusk, <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, Cinderace, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> are paramount.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dark",
+            "Poison"
+          ]
+        },
+        {
+          "name": "All-Out Attacker",
+          "description": "<p>Leveraging its high Speed, impressive power, and access to a wide range of coverage moves, Darkrai is able to thrive in OU as a powerful wallbreaker and disruption tool. Ice Beam lets Darkrai OHKO <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> while being its strongest option against <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>. Sludge Bomb complements Darkrai's STAB Dark Pulse by targeting Fairy-types like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> while also giving Darkrai powerful coverage into <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>. Focus Blast enhances Darkrai's coverage further by targeting bulky Dark-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>. Darkrai can also become a mixed attacker by going for Knock Off + Sucker Punch; Knock Off can provide fantastic support by removing Heavy-Duty Boots and Assault Vest from switch-ins like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a>, while Sucker Punch can pick off foes like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> as well as other weakened ones like <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> that can otherwise revenge kill Darkrai. This variant should run Black Glasses + Tera Dark to propel all of its Dark-type moves to higher levels. Life Orb is a fantastic option that bolsters Darkrai's power even further, giving it a clean 2HKO on <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> after Stealth Rock along with OHKOs on max HP Great Tusk with Ice Beam and Ogerpon-W with Sludge Bomb after any entry hazard chip; with Life Orb, 29 HP IVs can be used to minimize recoil. Alternatively, Expert Belt takes advantage of Darkrai's excellent coverage without sacrificing its longevity, maintaining OHKOs on offensive <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Tera Poison boosts Sludge Bomb's damage and flips Darkrai's Fighting- and Fairy-type weaknesses into resistances, allowing it to take hits from <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and Choice Scarf Enamorus if necessary, as well as granting it a resistance to <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>'s Grassy Glide. Tera Ghost gives an outright immunity to Zamazenta's Fighting-type moves and blocks Extreme Speed Dragonite from picking Darkrai off. Tera Fighting can instead be considered to increase the power of Darkrai's Focus Blast to monstrous levels at the expense of not granting much defensive value; Tera-boosted Focus Blast allows Expert Belt Darkrai to 2HKO even <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and grants Life Orb Darkrai a roll in its favor to 2HKO Blissey. A spread of 4 Atk / 252 SpA / 252 Spe with a Naive nature is used on Knock Off + Sucker Punch variants, and it is chosen over Hasty to minimize damage from common priority moves like Dragonite's Extreme Speed and Rillaboom's Grassy Glide.</p>\n<p>Darkrai provides a huge amount of value to offense teams that appreciate its high Speed along with its ability to threaten <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, though even slower, more balanced teams can still find value in its ability to threaten a significant proportion of the tier and force switches to take advantage of entry hazards. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> is a strong partner that can not only set Stealth Rock but is also able to switch in on threats to Darkrai like Zamazenta and help to offset Darkrai's relative frailty by bringing it in safely with U-turn. Similarly, Gliscor makes a good pairing on bulkier structures with its ability to come in on both Zamazenta and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. As Darkrai typically makes its home on more offensive builds, partners that can handle Darkrai's checks without being momentum sinks are much appreciated; Assault Vest Primarina forms a great core with Darkrai, able to switch in on Iron Valiant and Enamorus and force them out. Primarina also appreciates Darkrai threatening Galarian Slowking. Offensively, special attackers like Iron Valiant and Raging Bolt that can help to overload shared checks like Clodsire and Blissey make great partners. Darkrai doesn't only work with special overload, though; Dark-type spam teams benefit greatly from Darkrai pressuring and being able to deal heavy damage to threats like Clefable, Ting-Lu, and Primarina, allowing for threats like Hisuian Samurott to later break through. In return, Hisuian Samurott and other Dark-type attackers like Kingambit are able to weaken Zamazenta for Darkrai while also being able to take advantage of Darkrai's more passive switch-ins like Clodsire and Blissey; Ogerpon-W is another powerful partner that can force damage onto Zamazenta and turn passive walls into setup fodder. Hisuian Samurott is another partner that benefits from this support in overloading shared checks while also setting up Spikes, which Darkrai appreciates greatly. Particularly when opting not to run Heavy-Duty Boots, Darkrai appreciates hazard removal to give it more turns on the field; Great Tusk is a natural pick that is also able to pressure Zamazenta and can invite in Iron Valiant to burn its Booster Energy. Another partner that can help Darkrai both defensively and offensively is Gholdengo, as Gholdengo can switch in on Fighting- and Fairy-type attacks from Iron Valiant, Zamazenta, and Clefable while Gholdengo in turn appreciates Darkrai's ability to weaken or eliminate opposing Dark-types like Ting-Lu, Kingambit, and Hisuian Samurott. Bulkier teams can opt to pair Galarian Slowking with Darkrai with its ability to pivot around Enamorus, Iron Valiant, and Zamazenta, and the Future Sight support it provides turns Darkrai into a devastating threat that Clodsire cannot switch into and Zamazenta cannot safely force out.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Knock Off",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Sucker Punch",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Ghost",
+            "Dark"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "description": "<p>Chinese set: 讲究眼镜达克莱伊||招式: 恶之波动|污泥炸弹|真气弹 / 戏法|冰冻光束 / 戏法||道具: 讲究眼镜||太晶属性: 恶 / 毒||特性: 噩梦||性格: 胆小||努力值: 252 特攻 / 4 防御 / 252 速度</p>\n<p>讲究眼镜在手，达克莱伊可增强它原本就很高的特攻，这与绝佳的速度相配合使得它成为了一名毁天灭地的破盾手。污泥炸弹可重创皮可西、西狮海壬等妖精属性宝可梦以及赛富豪、盐石巨灵等常见太晶妖精使用者，否则它们就能换挡达克莱伊致命的恶之波动。真气弹则能击破仆刀将军、古鼎鹿和洗翠大剑鬼等试图换挡恶之波动的恶属性对手，甚至有可能在2HKO吃剩的东西回复后的古鼎鹿。而冰冻光束可以突破快龙、雄伟牙、天蝎王等对手。上述的任意一个招式，通常是冰冻光束，可替换为戏法，用打击面换取削弱幸福蛋、快龙等潜在的换挡或清场手的能力。同时，也能在它不需要高力度时自由使用招式。尽管无法改变属性以供防御效用，太晶恶可用于增强恶之波动的威力，确保2HKO盐石巨灵等盾牌，同时也可更简单地解决已被削弱的对手。太晶毒则兼备了防御与攻击效用，让达克莱伊抵抗铁武者近身战和眷恋云月亮之力并吸收剧毒和毒菱的同时，也能增幅污泥炸弹的威力，以求OHKO皮可西和非突击背心西狮海壬。</p>\n<p>讲究眼镜达克莱伊最适合在需要能超速厄诡椪-水井面具、闪焰王牌等大多数攻向威胁的破盾手的平衡攻队和平衡队中使用。达克莱伊需要保姆曼波、伽勒尔呆呆王、钢铠鸦、火焰鸟等慢速中转，它们能轻易将达克莱伊带入战场，给它更多破盾机会。这些宝可梦还可形成坚实的防御支柱来应对能从达克莱伊锁招中受益的对手，如桃歹郎应对藏玛然特和伽勒尔呆呆王应对铁武者。特别是伽勒尔呆呆王，它也能挡住西狮海壬和眷恋云，而火焰鸟则能应对仆刀将军。尽管达克莱伊有不错的补盲招式和力度，古鼎鹿仍是一大威胁，使达克莱伊释放恶之波动时更依赖先读。因此，厄诡椪-水井面具、轰擂金刚猩等能换挡古鼎鹿的队友可在此情况下帮助达克莱伊解决它。达克莱伊还可帮助前文提到的厄诡椪-水井面具和轰擂金刚猩，以及快龙和藏玛然特等物攻手突破桃歹郎、耐久向赛富豪等物盾。赛富豪也是能与达克莱伊共同解决古鼎鹿、仆刀将军等共享check的绝佳搭档。它还能换入并威胁藏玛然特和铁武者，这两只宝可梦都能轻易复仇杀达克莱伊。如果使用讲究围巾配置，赛富豪还能用戏法削弱幸福蛋等盾牌，同时超速多龙巴鲁托、藏玛然特等本身就能快过达克莱伊的对手。没有厚底靴的达克莱伊极易被场地伤害磨损，所以雄伟牙、伽勒尔双弹瓦斯、闪焰王牌、铁辙迹等清钉手是极为重要的。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dark",
+            "Poison"
+          ]
+        },
+        {
+          "name": "Boots Attacker",
+          "description": "<p>中文配置：达克莱伊 || 招式：恶之波动|冰冻光束|污泥炸弹|磷火 || 道具：厚底靴 || 特性：梦魇 || 努力值：252 特攻 / 4 特防 / 252 速度 || 性格：胆小 || 太晶属性：毒/幽灵</p>\n<p>达克莱伊结合了出色的速度种族值、高特攻，搭配强力的恶属性属性一致招式和优秀的补盲选项以及磷火——对于这样一个以进攻为导向的威胁来说是不常见的选择——使其能够在对局中作为一名强力的特殊攻击手非常有效地发挥作用。冰冻光束以其出色的效果绝佳覆盖范围很好地补充了恶之波动，极大地威胁着雄伟牙、天蝎王、土地云-灵兽和快龙等宝可梦，同时比达克莱伊的其他招式更能重创古鼎鹿。污泥炸弹通过效果绝佳地打击妖精属性宝可梦，如西狮海壬、阿罗拉九尾、铁武者以及太晶妖精的猛雷鼓和仆刀将军来完善达克莱伊的打击面。磷火能重创物理攻击手，如大多数仆刀将军、藏玛然特和厄诡椪-水井面具，使它们成为达克莱伊队友可靠的强化起点，并允许达克莱伊本身惩罚过于激进的换人。它还有一个额外的好处，就是可以重创试图承受恶之波动或污泥炸弹并激活毒疗的天蝎王。达克莱伊可以根据情况选择放弃污泥炸弹或冰冻光束而选择拍落；虽然失去补盲招式的影响非常明显，尤其是在放弃冰冻光束时，但达克莱伊可以移除道具，如保姆曼波的突击背心、盐石巨灵的吃剩的东西，以及一系列惧怕场地伤害削弱的威胁的厚底靴，从而同时支援自身和队友。拍落对抗偏耐久型的队伍或是在撒钉队中尤其有用，因为来自场地伤害削弱的消耗伤害可以大大弥补达克莱伊减少的打击面。太晶毒将达克莱伊的所有弱点转化为抗性，扭转了原本对阵藏玛然特、铁武子和突击背心西狮海壬的不良MU，使其变得有利。太晶毒还允许达克莱伊在紧急情况下吸收毒菱，并极大地提高污泥炸弹的伤害输出，使其能够可靠地2HKO突击背心西狮海壬并总是OHKO眷恋云，同时使其成为达克莱伊威力最高有效果的攻击选项。太晶幽灵则为达克莱伊提供了令人垂涎的免疫，可以躲避快龙的神速、盔甲鸟和钢铠鸦的扑击以及藏玛然特的格斗属性攻击，同时允许它在紧急情况下阻挡雄伟牙和铁辙迹的高速旋转。</p>\n<p>达克莱伊非常适合进攻队，这些队伍欣赏其良好的速度、强大的打击面以及在整个对局中重创物理攻击手的能力。土地云-灵兽是一个伟大的队友，它非常欣赏达克莱伊消除地面属性宝可梦，如天蝎王和对方的土地云-灵兽的能力，并能用急速折返可靠地轮转达克莱伊上场，铺设隐形岩以支援达克莱伊及其队友，并处理达克莱伊经常成为目标的攻击，如藏玛然特的扑击。洗翠大剑鬼和古鼎鹿是有效的隐形岩撒钉手，尽管它们与达克莱伊都有恶属性，但仍能与它很好搭配；洗翠大剑鬼可以通过拍落、再来一次和快速折返进一步支援达克莱伊，而古鼎鹿可以使用吼叫来强制吹飞更快的威胁，如铁毒蛾和多龙巴鲁托。达克莱伊从场地伤害削弱造成的消耗伤害中受益匪浅，一旦速度较慢的对手被消耗到击杀范围内，它就成为了可怕的复仇杀手和终局清场手。藏玛然特是一个极好的队友，它非常欣赏达克莱伊处理威胁，如闪电鸟、赛富豪和来悲粗茶的能力，这些威胁会阻止它进行铁壁强化和清场。作为回报，藏玛然特处理仆刀将军，如果仆刀将军选择携带木子果和/或太晶火来应对磷火，它会给达克莱伊带来麻烦。赛富豪也是一个优秀的队友；它能可靠地处理巨锻匠以及大多数藏玛然特和铁武者变体，并能利用诡计、黄金之躯及其优秀属性组合的组合来极大地威胁达克莱伊难以应对的防御型队伍，而达克莱伊可以利用其高速度向更快的威胁，如快龙、轰鸣月、土地云-灵兽和厄诡椪-水井面具施加压力，这些是赛富豪可能难以应对的。它们还可以共同击垮古鼎鹿，由赛富豪或达克莱伊将古鼎鹿削弱到足够程度，让另一个突破它并对对手的队伍施加巨大的进攻压力。其他幽灵属性宝可梦，如多龙巴鲁托和桃歹郎，也可以为达克莱伊Check藏玛然特，并且它们可以分别用急速折返和抛下狠话可靠地轮转其上场。厄诡椪-水井面具是一个伟大的队友，它可以在以特耐见长的威胁，如幸福蛋、古鼎鹿和土王，它们能阻挡达克莱伊为特色的偏耐久型队伍中打开突破口，提供拍落支援以进一步协助达克莱伊对抗偏耐久型队伍，并用棘藤棒极重地打击巨锻匠，而达克莱伊可以处理给厄诡椪-水井面具带来麻烦的快龙、桃歹郎和来悲粗茶。其他强大的破盾手，如厄诡椪-础石面具、讲究眼镜酋雷姆、满攻击驱劲能量雄伟牙以及混合攻击型铁武者，可以击溃防御核心并为达克莱伊在终局清场打开局面。雄伟牙可以利用其他一系列配置来铺设隐形岩并提供宝贵的拍落支援，以支持达克莱伊的速度优势和2HKO大部分进攻型环境的能力，并且它能可靠地处理仆刀将军，因此达克莱伊不需要依赖磷火来对抗它。巨锻匠是另一个优秀的队友，它与雄伟牙一样，提供隐形岩和拍落支援，但它还可以提供再来一次支援或麻痹更快的威胁，如铁武者和多龙巴鲁托，以便达克莱伊能够超速并消灭它们。火焰鸟可以可靠地应对物理攻击手，如仆刀将军和藏玛然特，减轻达克莱伊必须对它们成功使用磷火的压力，并且还可以用急速折返安全地轮转达克莱伊上场。最后，强力的先制招式攻击手，如猛雷鼓、快龙和仆刀将军，是强大的队友，可以应对那些速度超过并威胁达克莱伊的敌人，例如+1速度太晶飞轰鸣月、+1速度铁武者和多龙巴鲁托。作为回报，达克莱伊可以利用其高速度向土地云-灵兽、气球赛富豪、闪电鸟和火焰鸟立即施加压力。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Will-O-Wisp",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Offensive",
+          "description": "<p>Chinese Set: 进攻型达克莱伊 || 招式：恶之波动|污泥炸弹|真气弹|冰冻光束 || 特性：梦魇 || 努力值：252 特攻 / 4 特防 / 252 速度 || 性格：胆小 || 太晶属性：毒/格斗</p>\n<p>凭借其高速度、出色的威力以及广泛的补盲招式，达克莱伊能在OU环境中作为强大的破盾手和干扰工具发挥出色。污泥炸弹可打击妖精属性宝可梦如皮可西、西狮海壬和布莉姆温来补盲达克莱伊的属性一致招式恶之波动，同时还是打击厄诡椪-水井面具的强大选择。真气弹针对耐久型恶属性宝可梦如仆刀将军、古鼎鹿和轰鸣月来进一步增强达克莱伊的打击面，而冰冻光束让达克莱伊能OHKO天蝎王和土地云-灵兽，同时也是其对雄伟牙、猛雷鼓和快龙的最强打击选项。达克莱伊深厚的招式池，使其可通过牺牲部分补盲招式来换取功能性，从而进一步扩大其对队伍的贡献。拍落可以通过移除土王和幸福蛋等换入的厚底靴来提供极佳的支援，倘若更加深入地挖掘它的功能性招式池，就会找到更强力地对付防御型换入的招式，例如磷火可永久削弱物理攻击手，挑衅可封锁幸福蛋和土王的回复招式和异常状态。最后，突袭是一个小众选项，能够收割被削弱的对手如多龙巴鲁托和代欧奇希斯-速度形态，否则它们能够复仇杀死达克莱伊；使用突袭时，采用4攻击 / 252特攻 / 252速度 努力值分配搭配天真性格是最佳的，以最小化来自常见先制招式如快龙的神速和轰擂金刚猩的青草滑梯的伤害，不过急躁性格可用于应对猛雷鼓的迅雷。生命宝珠是一个极佳的选择，能进一步提升达克莱伊的威力，能稳定2HKO被隐形岩削弱的进攻型破空焰和钢铠鸦，并在有任何场地状态削弱后用冰冻光束OHKO满HP雄伟牙、用污泥炸弹OHKO厄诡椪-水井面具；使用生命宝珠时，可以采用29HP个体值来最小化反伤。另一方面，达人带能利用达克莱伊出色的打击面而不牺牲其续航，仍然能OHKO进攻型赛富豪与眷恋云；厚底靴进一步改善了达克莱伊的续航，但威力的损失不仅牺牲了上述的关键斩杀线，还使达克莱伊无法稳定2HKO伽勒尔呆呆王。太晶毒对达克莱伊来说是一个攻防两端都极佳的选择。配合生命宝珠或达人带，太晶毒污泥炸弹能够OHKO皮可西、布莉姆温和阿罗拉九尾，并2HKO突击背心西狮海壬，即使没有增伤道具，它也能OHKO厄诡椪-水井面具和轰擂金刚猩。反过来，太晶毒将达克莱伊的格斗属性和妖精属性弱点转化为抗性，使其能在必要时承受来自铁武者、藏玛然特和讲究围巾眷恋云的攻击，并赋予其对轰擂金刚猩的青草滑梯的抗性。也可以考虑太晶格斗来将达克莱伊的真气弹威力提升至恐怖的水平，但代价是无法提供太多防御价值；太晶强化后的真气弹总能确保OHKO酋雷姆，让达人带达克莱伊甚至能2HKO古鼎鹿，若携带生命宝珠则有概率2HKO幸福蛋。</p>\n<p>达克莱伊为欣赏其高速度以及威胁伽勒尔呆呆王能力的攻击型队伍提供了巨大价值，不过即使是更偏平衡的队伍也能从其威胁环境中相当一部分宝可梦并迫使换人以利用场地状态的能力中获益。土地云-灵兽是一个强大的搭档，它不仅能布置隐形岩，还能换入威胁达克莱伊的宝可梦如藏玛然特，并通过急速折返安全地带入达克莱伊来帮助抵消其相对脆弱的缺点。类似地，天蝎王在更偏耐久的队伍结构中是一个好队友，因其能够换挡藏玛然特和土王。由于达克莱伊通常位于更偏向攻击型的构筑中，能够处理达克莱伊的check且不会损失节奏的搭档非常受欢迎；突击背心西狮海壬与达克莱伊形成强大的核心，能够换入铁武者和火神蛾并逼退它们。西狮海壬也青睐达克莱伊威胁伽勒尔呆呆王。在进攻端，火神蛾、铁武者和猛雷鼓等特攻手是优秀的搭档，能过劳土王、幸福蛋等共同的check。不过达克莱伊并非只在特攻端进行联攻；恶爆破队极大地受益于达克莱伊施压并重创皮可西、古鼎鹿和西狮海壬等威胁的能力，使得轰鸣月和玛狃拉等威胁能在后续突破。作为回报，轰鸣月、玛狃拉以及其他恶属性攻击手如仆刀将军能够为达克莱伊削弱藏玛然特，同时也能利用达克莱伊更被动的换入者如土王和幸福蛋；厄诡椪-水井面具是另一个强大的搭档，能磨血藏玛然特并将被动盾牌转化为强化垫脚石。洗翠大剑鬼是另一个优秀的搭档，二者可过劳共同的check，同时还能撒菱，这点达克莱伊非常欣赏。在不携带厚底靴时，达克莱伊急需场地伤害控制以提高其站场能力；雄伟牙是一个自然的选择，它也能压力藏玛然特，并能引诱铁武者上场消耗其驱劲能量。另一个能在攻防两端都帮助到达克莱伊的搭档是赛富豪，因为赛富豪可以换入来自铁武者、藏玛然特和皮可西的格斗属性和妖精属性攻击，而赛富豪反过来欣赏达克莱伊削弱或清除对手恶属性宝可梦如古鼎鹿、仆刀将军和洗翠的大剑鬼的能力。更偏耐久的队伍可以选择将伽勒尔呆呆王与达克莱伊搭档，因其换挡眷恋云、铁武者和藏玛然特，并且其提供的预知未来支援能将达克莱伊变成一个土王无法换入、藏玛然特无法安全逼退的毁灭性威胁。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Choice Scarf",
+          "description": "<p>Chinese Set: 达克莱伊 || 招式：恶之波动|污泥炸弹|真气弹/戏法|冰冻光束/戏法 || 特性：梦魇 || 努力值：252 特攻 / 4 特防 / 252 速度 || 性格：胆小 || 太晶属性：毒/恶/格斗</p>\n<p>达克莱伊凭借其本就令人惊叹的速度种族值，成为该分级中最稳定的复仇杀手之一，也是一个出色的速度控制手段。讲究围巾达克莱伊能够超速OU环境中的所有宝可梦，稳定地威胁铁武者、代欧奇希斯-速度形态和眷恋云。在有一定削弱的情况下，它也能威胁其他特防更高的宝可梦。污泥炸弹是必备招式，用于威胁妖精属性宝可梦如眷恋云和铁武者。真气弹用于重创钢属性和恶属性宝可梦，如洗翠大剑鬼、仆刀将军和铁辙迹。冰冻光束能有效逼退许多常见的地面属性宝可梦，如雄伟牙、土地云-灵兽和天蝎王，否则它们可以轻松在达克莱伊面前布置场地状态。戏法可以替代前两个招式使用，因为它允许达克莱伊完全残废一个清场手如快龙，或一个盾牌如土王，并赋予其切换招式的灵活性。太晶毒用于增强污泥炸弹的伤害输出，使其能够威胁耐久更高的皮可西，同时附带抵抗许多妖精属性宝可梦的月亮之力、藏玛然特的属性一致招式的好处，并在紧急情况下使其能承受轰擂金刚猩的青草滑梯攻击。太晶恶效果尚可，能将原本3HKO的宝可梦如破空焰、波荡水和酋雷姆，转变为2HKO。此外，在终局阶段，强化后的恶之波动可以轻松收割被削弱的队伍。太晶格斗也可与真气弹配合使用，赋予该招式难以置信的威力，使达克莱伊能OHKO轰鸣月和席多蓝恩，甚至能2HKO强大的古鼎鹿。</p>\n<p>达克莱伊最适合需要其复仇杀能力的攻击型队伍。需要注意的是，由于太晶化的存在，达克莱伊实际上复仇杀能力并没有那么出色，许多通常能稳定完成的复仇杀会因这个机制而变得复杂。这个问题因其所有招式都有常见的换挡而更加严重，因此它需要搭配其复仇杀目标的其他应对手段。因此，西狮海壬是一个坚实的搭档，其属性组合和火力能够check恶之波动的换入，如铁武者、眷恋云和席多蓝恩，安全地试探它们可能的太晶化，并通过快速折返提供节奏。土地云-灵兽也是一个好搭档，其能够Check那些因太晶化而达克莱伊无法安全复仇杀的物理攻击手，如轰鸣月、快龙和雄伟牙；它还能通过急速折返提供节奏，并借助隐形岩帮助将达克莱伊的目标削弱至斩杀线。此外，它还能用挑衅扰乱许多达克莱伊的换入，如古鼎鹿、土王和幸福蛋。关于场地伤害，雄伟牙和闪焰王牌也是好搭档，因为它们提供达克莱伊非常青睐的场地伤害控制，否则达克莱伊在轮转施压压时会被持续消耗。雄伟牙Check许多会威胁达克莱伊的先制招式使用者，如仆刀将军、猛雷鼓和快龙。它还能压力土王、古鼎鹿和盐石巨灵，阻止它们布置场地伤害，并用可以对它们造成显著伤害，使其不能再对达克莱伊换入。闪焰王牌因其能通过换场移除场地伤害，并可灼伤那些原本能超速达克莱伊的宝可梦如轰擂金刚猩和快龙，同时利用急速折返削弱洗翠大剑鬼。多龙巴鲁托也是一个伟大的搭档，它可以反制常见攻队，其快速的磷火和电磁波使其能在达克莱伊遭遇意外太晶化后充当后备防线。它通过用异常状态削弱许多换入如轰擂金刚猩、各形态厄诡椪和藏玛然特并用急速折返提供轮转来处理它们。多龙巴鲁托还能拆解受队，而达克莱伊对阵受队的MU很差。破空焰也是一个好搭档，其强大的耐久和属性组合赋予其应对许多达克莱伊counter的能力，如玛狃拉、轰擂金刚猩和厄诡椪-水井面具，使其能安全强化并清除这些达克莱伊无法可靠击败的宝可梦。破空焰迫使对手队伍使用太晶化，让达克莱伊能更轻松地复仇杀死对手。反过来，破空焰非常欣赏达克莱伊清除威胁它的目标的能力，如铁武者、轰鸣月和土地云-灵兽。仆刀将军也喜爱达克莱伊超速铁武者的能力，因为达克莱伊可KO或至少强行消耗关键目标，将它们打入突袭的斩杀线，从而为仆刀将军打开终局。此外，达克莱伊还能用戏法废掉物理盾牌如吃吼霸和盔甲鸟，而达克莱伊欣赏仆刀将军的突袭将目标打入其攻击斩杀线，以及铁头清除皮可西和西狮海壬。猛雷鼓是一个有效的搭档，因为达克莱伊使用戏法可封锁特防盾牌如幸福蛋、骨纹巨声鳄和土王，极大地帮助它在面对防御型队伍时打开局面。达克莱伊的真气弹补盲有助于简化猛雷鼓的终局，压力古鼎鹿、轰鸣月和仆刀将军，有效地简化了它与仆刀将军之间的博弈，而冰冻光束也能帮助清除地面属性宝可梦如雄伟牙、土地云-灵兽和天蝎王，以便它在终局使用迅雷。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Trick",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Dark",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "description": "<p>Chinese Set: 诡计达克莱伊 || 招式：诡计|恶之波动|冰冻光束/真气弹|污泥炸弹/真气弹 || 特性：梦魇 || 努力值：252 特攻 / 4 特防 / 252 速度 || 性格：胆小 || 太晶属性：毒/格斗</p>\n<p>达克莱伊是一名出色的破盾手与清场手。凭借其惊人的基础速度、多样化的补盲招式池、良好的特攻种族值以及足以在被动宝可梦面前强化的耐久，它能够获得许多使用诡计的机会。冰冻光束打击能够承受其恶之波动的龙属性和地面属性宝可梦，如猛雷鼓、轰鸣月、天蝎王和雄伟牙。污泥炸弹打击妖精属性宝可梦如皮可西、铁武者、西狮海壬和眷恋云，以及常见太晶化成妖精的宝可梦，如破空焰、赛富豪和盐石巨灵。真气弹能撕裂耐久型恶属性宝可梦如古鼎鹿和仆刀将军，以及幸福蛋。精神冲击可用于打击幸福蛋和土王；然而，土王在需要时可以通过太晶化来避免被KO。生命宝珠以牺牲续航为代价赋予达克莱伊巨大的威力，使其能用+2特攻的恶之波动OHKO破空焰，并用未强化的冰冻光束OHKO满HP雄伟牙。气势披带将达克莱伊转变为驱劲能量宝可梦如铁武者、铁磐岩和轰鸣月的紧急Check，前提是其气势披带未被破坏。太晶毒增强达克莱伊的污泥炸弹，并凭借其获得的妖精属性和格斗属性抗性，使其能避免被铁武者和藏玛然特复仇杀死。太晶格斗可用于将真气弹的威力提升至极致，使其成为达克莱伊最强力的可行招式，关键地能于+2特攻时OHKO隐形岩削弱的古鼎鹿，并且结合生命宝珠，它赋予达克莱伊在+2特攻时直接OHKO幸福蛋的机会。</p>\n<p>达克莱伊的破盾能力在进攻型队伍中非常有用，与其他恶属性宝可梦如轰鸣月和仆刀将军以及其他特殊攻击手如猛雷鼓和多龙巴鲁托能形成强大的配合。轰鸣月和仆刀将军与达克莱伊配对以压垮或引诱共享的Check如藏玛然特和铁武者，同时通过换入彼此的反制者来获得破盾机会。达克莱伊的梦魇特性惩罚吃吼霸的睡觉，进一步增强了其与仆刀将军和轰鸣月以及其他物理宝可梦如破空焰和藏玛然特的配合，因为当吃吼霸换挡它们时，换入达克莱伊将导致梦魇特性发动蹭血，且不消耗睡眠回合。猛雷鼓和多龙巴鲁托欣赏达克莱伊突破平衡队的能力，能撕裂古鼎鹿和伽勒尔呆呆王等盾牌，而双刀多龙巴鲁托和猛雷鼓，尤其是携带挑衅时，能帮助突破土王。如果达克莱伊未携带真气弹，多龙巴鲁托能抵御藏玛然特并用磷火惩罚仆刀将军。达克莱伊欣赏来自洗翠大剑鬼、土地云-灵兽和晶光花的场地伤害支援，因为它们的场地伤害，尤其是撒菱，使达克莱伊威胁更大，能消耗藏玛然特、古鼎鹿和席多蓝恩等换入。达克莱伊则能强烈压迫雄伟牙、钢铠鸦和闪焰王牌等清钉手。洗翠大剑鬼和土地云-灵兽尤其与达克莱伊配合无间；洗翠大剑鬼可削弱西狮海壬，对达克莱伊的Check如幸福蛋和土王换入，并在逼换对手时布置撒菱，使用快速折返安全地将达克莱伊换上对抗物理防御型宝可梦如钢铠鸦、吃吼霸和保姆曼波，以获得安全回合。土地云-灵兽是一名出色的物攻端全能Check，能够换入威胁达克莱伊的格斗属性宝可梦，如藏玛然特和驱劲能量雄伟牙，并能使用急速折返安全地将达克莱伊带上场面对天蝎王和对手的土地云-灵兽等宝可梦。赛富豪是一名优秀的队友，因为它能check妖精属性的铁武者和眷恋云，并且物防型配置的赛富还能counter大多数藏玛然特。轰擂金刚猩能威西狮海壬、古鼎鹿和土王等达克莱伊的对策，同时能够将达克莱伊对防御型赛富豪、盔甲鸟和钢铠鸦等对手换入以保持节奏。突击背心西狮海壬是一个极佳的搭档，可Check许多特攻手，包括铁武者和代欧奇希斯-速度形态，将达克莱伊轮转上场面对其Check者如伽勒尔呆呆王，并与达克莱伊共同施压盾牌如幸福蛋和太晶化后的土王以便其突破。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Dark Pulse",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Beam",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Sludge Bomb",
+                "type": null
+              },
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Darkrai",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Poison",
+            "Fighting"
+          ]
+        }
+      ]
+    }
+  ]
+}

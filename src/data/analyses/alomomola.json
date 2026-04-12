@@ -1,0 +1,193 @@
+{
+  "id": 594,
+  "name": "alomomola",
+  "nameZh": "保姆曼波",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "WishFish (Wish Passer)",
+          "description": "<p>Alomomola's gargantuan HP stat, good defensive typing, a slow Flip Turn, and Regenerator make it one of the best defensive pivots available that can reliably pass Wishes to its teammates. On top of reliably gaining recovery from Wish, Protect has many more applications for Alomomola; it allows Alomomola to scout Choice item users like <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, scout for potential double switches by the opponent, and potentially stall out an additional turn of burn damage from Scald. Scald immediately threatens <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>; bolsters Alomomola's defensive presence by crippling physical attackers such as <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>; punish foes like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> from switching in; and cut down the longevity of switch-ins like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a> and opposing Alomomola. Tickle is an alternative option that allows Alomomola to neutralize Dragon Dance Dragonite and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> without relying on Scald's as well as Curse <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> thanks to Tickle's higher PP. The Defense drop provided by Tickle may also allow one of Alomomola's teammates to beat foes that Alomomola itself may not, such as Calm Mind <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and Swords Dance <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>.</p>\n<p>Tera Ghost gives it an immunity to Fighting-type moves from Zamazenta, letting it reliably deal with IronPress variants; it can additionally be used to spinblock against Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. Tera Steel gives Alomomola a generally solid defensive typing to aid against Rillaboom, <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>, and Choice Band <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>. Heavy-Duty Boots allows it to function as a pivot effectively without getting worn down by entry hazards, but on teams with strong entry hazard removal, other items can be considered. Rocky Helmet enhances Alomomola's role as a physical wall by punishing foes like Zamazenta, Kingambit, and Great Tusk. Red Card is an alternative that allows Alomomola to act as a one-time phazer against setup sweepers like Zamazenta, Kingambit, Dragonite, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>. Covert Cloak is an option on teams weak to <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, as this allows Alomomola to switch into its Salt Cure safely. A Relaxed nature with 0 Speed IVs ensures that Alomomola is as slow as possible to bring in its teammates safely, with maximum Defense investment letting it check foes like Great Tusk, Zamazenta, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> more reliably.</p>\n<p>Alomomola performs best on balance and stall teams due to the sheer value of Wish for teammates that lack reliable recovery. Potent defensive Pokemon such as <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, and Great Tusk heavily appreciate Alomomola's gargantuan Wish to heal them reliably, as these walls often struggle to recover themselves after chip damage. Similarly, on stall, the likes of Dondozo and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> appreciate Alomomola's Wish help them better deal with chip damage while also letting them preserve Rest and Recover PP, respectively. Additionally, they appreciate Alomomola's effectiveness as a pivot, as it can let them switch in without taking any damage thanks to its relatively low Speed. Special walls such as <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, Clodsire, and <a href=\"/dex/sv/pokemon/skeledirge/ou/\" hreflang=\"en\">Skeledirge</a> can cover Alomomola's weaker Special Defense, handling the likes of <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and Heatran. Other Pokemon with Regenerator such as Galarian Slowking and <a href=\"/dex/sv/pokemon/tornadus-therian/ou/\" hreflang=\"en\">Tornadus-T</a> can form potent Regenerator cores, making them difficult to wear down in the face of entry hazards. All of these Pokemon also appreciate Alomomola's capability to take Knock Off rather well.</p>\n<p>Alomomola is deathly afraid of <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> because of Water Absorb. It can easily set up on and decimate Alomomola even after it Terastallizes. Thus, checks to Ogerpon-W such as Rillaboom and Zamazenta make for excellent partners. The former two also appreciate Alomomola's Wish supporting their otherwise shaky longevity. <a href=\"/dex/sv/pokemon/amoonguss/ou/\" hreflang=\"en\">Amoonguss</a>'s access to Toxic lets Alomomola have an easier time chipping down and stalling out foes with Flip Turn and Wish, respectively. Offensive Pokemon such as Dragapult, <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, and Landorus-T appreciate Alomomola's slow pivoting and ability to pass large Wishes to assist with their longevity.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              },
+              {
+                "move": "Tickle",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Alomomola",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "description": "<p>Alomomola can use Assault Vest to improve its poor Special Defense, becoming a specially defensive pivot at the expense of Wish. Alomomola can soak up most moves from special attackers like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> and pivot out with Flip Turn to the appropriate teammate, particularly frail offensive ones, with Regenerator recovering most of the damage taken. Scald is Alomomola's best move if it wants to stay in, fishing for burns that help pressure defensive switch-ins like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>; cripple opposing physical attackers like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>; and punishing would-be switch-ins like <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a> and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>. Mirror Coat makes use of its huge special bulk to retaliate against the plethora of attackers it can take hits from, like Dragapult, Iron Moth, and even <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Play Rough immediately dents Pokemon like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, Raging Bolt, <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>, and Dark-type special attackers like Darkrai that do not fear Mirror Coat at all. Body Slam allows Alomomola to spread paralysis, particularly against foes that don't mind its Scald burn, like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, especially as the latter might switch in attempting to block its Flip Turn. Aqua Jet lets it pick off severely weakened fast foes like Darkrai, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>.</p>\n<p>A Sassy nature completes the build to be as slow as possible, as it notably Speed ties opposing Alomomola as well as underspeed Hydrapple, Ting-Lu, and Clefable, allowing for Alomomola's teammates to enter safely. Tera Fairy is the primary option to help against rampaging Dragon- and Dark-types like Dragapult and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> while additionally boosting the damage from Play Rough to the point of securing a 2HKO against Hisuian Samurott and Iron Valiant. It also helps against Raging Bolt and Hydrapple, two special attackers that can boost past the threat of Mirror Coat and thus pose a major threat to Alomomola. Tera Normal leverages the lack of weaknesses to the tier's common special attackers and their coverage moves as well as letting it pivot into <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and Nasty Plot <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a> more reliably while also boosting the power of Body Slam. Tera Steel is an option that improves matchups against Calm Mind Iron Valiant and Grass-types like Rillaboom, Meowscarada, and <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> and lets it resist Stealth Rock. Alomomola can afford to run a mixed defensive EVs spread of 20 HP / 236 Def / 252 SpD to better handle mixed attackers like Iron Valiant and Dragapult, with the additional 20 HP EVs allowing Alomomola to survive Tera Ice Choice Specs Kyurem's Freeze-Dry after Stealth Rock.</p>\n<p>Assault Vest Alomomola fits best on bulky offense teams that appreciate its ability to tank hits and pivot but do not require the sustained healing from Wish. Strong and fast attackers like Darkrai, Dragapult, and Deoxys-S appreciate Alomomola's ability to provide them with a safe entrance after a slow Flip Turn while at the same time being able to switch in on potential revenge killers like Choice Scarf <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and Dragonite. Offensive pivots like Landorus-T, <a href=\"/dex/sv/pokemon/lokix/ou/\" hreflang=\"en\">Lokix</a>, Raging Bolt, and <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a> can form a VoltTurn core with Alomomola and appreciate it tanking hits and pivoting on Darkrai and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>. Physical walls like Pecharunt, Zamazenta, and <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a> can benefit from Alomomola handling special attackers like Iron Moth and Dragapult, allowing them to wall or set up on remaining physical threats that can threaten Alomomola such as Rillaboom and Ogerpon-W, the latter of which can even prevent Alomomola from pivoting around freely.</p>\n<p>Ground-type teammates like Ting-Lu, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> are a must to handle foes like Raging Bolt and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>; besides the threat of setup from Calm Mind Raging Bolt, they can also pivot out with Volt Switch, doing big damage and avoiding the answer of Mirror Coat by pivoting to a Dark-type like Kingambit or Ting-Lu. Alomomola is vulnerable to Toxic Spikes, so Poison-types like Iron Moth and the aforementioned Pecharunt can be a good fit. Similarly, Spikes and Stealth Rock can also wear down Alomomola due to the lack of Heavy-Duty Boots, preventing its ability to survive and pivot for longer and ruining the surprise of the Assault Vest. To handle this, teammates like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> can help to remove and prevent hazards. Corviknight can also help as a check to Grass-types like Hydrapple and Rillaboom.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              },
+              {
+                "move": "Body Slam",
+                "type": null
+              },
+              {
+                "move": "Aqua Jet",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Alomomola",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy",
+            "Normal"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Assault Vest",
+          "description": "<p>Chinese Set: 保姆曼波 || 招式：快速折返|热水|嬉闹|镜面反射 || 特性：再生力 || 努力值：20 HP / 236 防御 / 252 特防 || 性格：自大 || 太晶属性：妖精</p>\n<p>保姆曼波可以利用突击背心来改善其贫弱的特防，以牺牲祈愿为代价，成为一名混合防御型轮转手。保姆曼波能够吸收来自土地云-灵兽、多龙巴鲁托和铁毒蛾等宝可梦的特殊与物理招式，并通过快速折返进行轮转，同时依靠再生力回复大部分所受伤害。热水是保姆曼波希望留场时的最佳招式，通过尝试触发灼伤效果对伽勒尔呆呆王、古鼎鹿和土王等换入施压，并削弱如快龙、藏玛然特和仆刀将军等物理攻击手。嬉闹可打击那些通常能够换挡热水的宝可梦，如猛雷鼓、蜜集大蛇和波荡水，同时对厄诡椪-水井面具造成可观的削弱。嬉闹也有助于对抗冥想铁武者，否则铁武者可以用再来一次或反复使用冥想来惩罚保姆曼波的镜面反射，并且能威胁那些完全不惧怕镜面反射的恶属性特殊攻击手，如达克莱伊和甲贺忍蛙。最后，镜面反射利用保姆曼波的高HP种族值以及突击背心提供的特防来惩罚对手的特殊攻击手，如多龙巴鲁托和代欧奇希斯-速度形态。自大性格进一步完善构筑，使其至少也能与对手的保姆曼波拼速，并且速度低于蜜集大蛇、古鼎鹿和皮可西，从而让保姆曼波的队友安全上场。太晶妖精是首选太晶属性，有助于对抗强大的龙属性和恶属性宝可梦，如快龙、仆刀将军和轰鸣月，同时额外提升嬉闹的伤害，OHKO轰鸣月以及2HKO洗翠大剑鬼和铁武者。太晶钢是次要选项，能改善与冥想铁武者和草属性宝可梦如轰擂金刚猩、魔幻假面喵和厄诡椪的对位，并让其抵抗隐形岩。任何一种太晶属性也都有助于对抗猛雷鼓和蜜集大蛇，这两种特殊攻击手可以通过强化来规避镜面反射的威胁，成为保姆曼波的主要威胁。</p>\n<p>突击背心保姆曼波最适合平衡攻队伍，这些队伍欣赏其承受伤害与轮转的能力，但不需要祈愿提供的持续回复。强大且快速的攻击手如达克莱伊、多龙巴鲁托和代欧奇希斯-速度形态欣赏保姆曼波通过慢速快速折返为其提供安全上场机会的能力，同时保姆曼波也能换挡潜在的复仇杀手如讲究围巾土地云-灵兽、玛狃拉和轰鸣月。进攻型轮转手如土地云-灵兽、猛雷鼓和闪焰王牌可以与保姆曼波形成游击核心，并欣赏其承受伤害并换挡达克莱伊和波荡水的能力。物理盾牌如藏玛然特和盔甲鸟受益于保姆曼波处理铁毒蛾和多龙巴鲁托等特殊攻击手的能力，这使得它们能够阻挡仍然会威胁保姆曼波的物理打手，或对它们强化，如轰擂金刚猩和厄诡椪-水井面具，后者甚至能阻止保姆曼波自由轮转。地面属性队友如古鼎鹿、天蝎王和铁辙迹是必须的，用以处理猛雷鼓和闪电鸟等对手；除了冥想猛雷鼓的强化威胁外，它们还能用伏特替换进行轮转，造成大量伤害并换入恶属性宝可梦如仆刀将军或古鼎鹿来免疫镜面反射的攻击。保姆曼波易受毒菱影响，因此毒属性宝可梦如铁毒蛾和桃歹郎是良好的队友。类似地，保姆曼波也会因缺少厚底靴而易受隐形岩与撒菱消耗，减弱其续航与轮转能力，并破坏突击背心带来的出其不意效果。为了应对这一点，它需要队友如雄伟牙、钢铠鸦和布莉姆温等帮助清除和反弹场地伤害。钢铠鸦也能帮助它check草属性宝可梦如蜜集大蛇和轰擂金刚猩。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Play Rough",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Mirror Coat",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Alomomola",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Defensive Pivot",
+          "description": "<p>Chinese Set: 防御型中转保姆曼波 || 招式：热水 | 快速折返 | 祈愿 | 守住 || 道具：厚底靴 || 特性：再生力 || 努力值：252 HP / 252 防御 / 4 特防 或 4 HP / 252 防御 / 252 特防 || 个体值：0 速度 || 太晶属性：飞行 || 性格：悠闲</p>\n<p>保姆曼波极高的HP、优秀的防御属性以及再生力特性使其成为最顶级的防御型中转之一。祈愿、再生力和快速折返的组合使其成为OU中最出色的祈愿传递者，能为缺乏稳定回复的防御型队友，如吃吼霸和古鼎鹿，提供治疗。热水增强了保姆曼波的防御能力，其提供的概率灼伤效果可以威胁仆刀将军、轰鸣月、玛狃拉和魔幻假面喵等物理攻击手。快速折返使其区别于其他耐久型水属性宝可梦，作为低速中转，能在低速队伍中安全带入其他宝可梦并创造节奏。悠闲性格搭配0速度个体值确保保姆曼波速度尽可能低，以优化中转效果。太晶飞行将保姆曼波对草属性的弱点转化为抗性，使其更好地应对轰擂金刚猩。即使在被拍落失去道具后，太晶飞行也能避免撒菱伤害，使其成为优秀的拍落吸收者。太晶恶和太晶钢是可行的替代选择，前者让保姆曼波更有效地Check祸不单行多龙巴鲁托，后者是总体稳健的防御属性，辅助对抗魔幻假面喵，以及眷恋云等妖精属性宝可梦。这两种太晶属性还使保姆曼波能很好地吸收伽勒尔呆呆王的预知未来。结合其惊人的HP，极限防御和满特防的努力值分配使保姆曼波能有效承受祸不单行多龙巴鲁托和讲究眼镜眷恋云等特殊攻击手的打击。而满HP和极限防御的配置进一步增强其物理耐久，适合应对玛狃拉、铁磐岩和戽斗尖梭等物理威胁。凸凸头盔和红牌可替代厚底靴：凸凸头盔强化保姆曼波作为物理盾牌的角色，能换入并惩罚玛狃拉和魔幻假面喵的三旋击，同时削弱仆刀将军；红牌则使保姆曼波能一次性地迫使破空焰、仆刀将军和玛狃拉等强化清场手退场。</p>\n<p>保姆曼波在平衡队和受队中表现最佳，其祈愿为缺乏稳定回复的队友带来巨大价值。古鼎鹿、席多蓝恩和雄伟牙等强力防御型宝可梦极度依赖保姆曼波的巨量祈愿回复来获得稳定的治疗，因为这些盾牌在受到削弱后难以回复。同样，在受队中，吃吼霸和土王受益于保姆曼波的祈愿，回复削弱伤害并节省睡觉和自我再生的PP。此外，它们欣赏保姆曼波作为中转的高效性，其低速能让它们不受伤害地换入。幸福蛋、土王和骨纹巨声鳄等特殊盾牌可弥补保姆曼波较弱的特防，应对来自火神蛾、铁武者和席多蓝恩等特殊攻击手的威胁。其他拥有再生力的宝可梦，如伽勒尔呆呆王和龙卷云-灵兽，可与保姆曼波形成强大的再生力核心，在面对场地伤害的情况下难以被削弱。这些宝可梦也受益于保姆曼波出色地吸收拍落的能力。保姆曼波极度畏惧厄诡椪-水井面具的储水特性。它能轻松对着保姆曼波强化并摧毁它，即使太晶化也无济于事。因此，轰擂金刚猩和藏玛然特等可以Check厄诡椪-水井面具的宝可梦是极佳的搭档。这两者也依赖保姆曼波的祈愿来弥补其不稳定的续航。败露球菇的剧毒能帮助保姆曼波通过快速折返和祈愿更轻松地削弱并拖死对手。进攻型宝可梦如多龙巴鲁托、酋雷姆、魔幻假面喵和土地云-灵兽青睐保姆曼波的低速中转和传递巨量祈愿回复的能力，以增强它们的续航。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Scald",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Flip Turn",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Wish",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Protect",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Alomomola",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Flying"
+          ]
+        }
+      ]
+    }
+  ]
+}

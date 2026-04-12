@@ -1,0 +1,151 @@
+{
+  "id": 1025,
+  "name": "pecharunt",
+  "nameZh": "桃歹郎",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "description": "<p>Pecharunt's insanely high Defense, Ghost typing, and wide movepool make it a an excellent defensive pivot and support Pokemon for offensive teams. Malignant Chain is a powerful STAB move that, more importantly, can spread status, particularly against switch-ins like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and setup sweepers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, which Pecharunt can take advantage of with its Poison Puppeteer. Foul Play is an option to punish setup sweepers like Dragonite, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and Terastallized <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, though this should only be used with Tera Dark. Shadow Ball gives it a consistent Ghost-type STAB move that deal more damage to Pokemon immune to poison like <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>. Hex can be used over Shadow Ball, complementing its ability to spread poison. Parting Shot keeps up momentum for the team and is a great way to safely bring in its teammates, especially by weakening the opposition beforehand. Heavy-Duty Boots is a solid item choice to block residual damage from entry hazards that Pecharunt would have otherwise been susceptible to as it pivots in and out, particularly preferred on teams with lack of hazard removal. Rocky Helmet lets it chip physical attackers it's supposed to check, punishing pivoting attempts from <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, Ogerpon-W, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and improving its matchup against Zamazenta. Air Balloon is a good alternative to mitigate Pecharunt's Ground weakness, which is especially helpful for taking on <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, while providing an invaluable Spikes immunity similar to Heavy-Duty Boots. Tera Dark boosts Foul Play and completely flips most of Pecharunt's weaknesses, including Ghost, Dark, and Psychic, letting it check foes like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a> and deal with <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> in a pinch. Tera Ghost removes its Ground weakness to totally spinblock Great Tusk and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, with the added benefit of boosting its Ghost-type STAB move. Pecharunt can benefit greatly from two distinct EV spreads, with one maximizing Defense and the other Speed; a physically defensive spread allows it to take more hits from the likes of Zamazenta, Great Tusk, and Ogerpon-W, running enough Speed to get the jump on Jolly <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, but maximum Speed investment ensures that Pecharunt is fast enough to outspeed Great Tusk and Gholdengo as well as Speed tie opposing Pecharunt.</p>\n<p>The support provided by Pecharunt's ability to spread status and pivot to gain momentum makes it an excellent teammate for offensive teams. Pecharunt forms solid cores with Dark-type Pokemon, such as Kingambit, Hisuian Samurott, and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>; these Dark-type spam teams are extremely weak to Zamazenta, which Pecharunt can completely wall, and <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, which Pecharunt can switch in on and threaten with Malignant Chain. On the other hand, these exact same Dark-types are threats to Pecharunt itself; having Zamazenta and Iron Valiant as teammates can help deal with them. Pecharunt's Ghost typing allows it to block Rapid Spin from opposing Great Tusk and Iron Treads, providing support for teammates like Hisuian Samurott to spread their entry hazards and keep them up throughout the game. Bulky Ground-types like <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, Great Tusk, and Ting-Lu also synergize well with Pecharunt, taking advantage of its ability to block Rapid Spin to spread entry hazards of their own, and they help deal with <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, which is otherwise able to set up on Pecharunt quite easily. Pecharunt can also remove Toxic Spikes from the field, clearing the path for setup sweepers without Heavy-Duty Boots, such as Booster Energy Iron Valiant and Leftovers Zamazenta. Pecharunt struggles against some of the special attackers in the tier that can outspeed and prevent it from making any progress, such as Darkrai and Choice Scarf Gholdengo. Having powerful teammates like Iron Valiant and Kingambit can provide much needed offensive support while also taking advantage of Pecharunt's Parting Shot to switch in on foes and set up safely. Landorus-T and Iron Treads can threaten Pecharunt significantly with their Ground-type attacks, and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> can use Swords Dance to outpace the damage Pecharunt could do with Hex. Running Air Balloon, having a Ground-immune teammate like Landorus-T, or pivoting to a teammate like Kyurem or Ogerpon-W, can cover for this weakness and allow it to turn the matchup around in it favor. Pecharunt is also almost completely walled by Kingambit; Zamazenta and Great Tusk are great teammates to check Kingambit, and they can both be brought in safely with Parting Shot.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Malignant Chain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Foul Play",
+                "type": null
+              },
+              {
+                "move": "Shadow Ball",
+                "type": null
+              },
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Parting Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Pecharunt",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Dark",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "description": "<p>Pecharunt's good defensive typing, excellent physical bulk, and otherwise well-rounded stats make it a uniquely effective and highly disruptive wallbreaker with Nasty Plot. With maximum Special Attack investment, Pecharunt can 2HKO the majority of the tier with Malignant Chain, notably <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>. Recover provides longevity and ensures that Pecharunt can blanket check most physical attackers throughout a game. Alternatively, Destiny Bond can be run to trade Pecharunt for a KO, which can be especially useful after Pecharunt has already served its purpose and eliminated an opposing <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> or <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> beforehand. Heavy-Duty Boots lets Pecharunt switch in throughout a game without getting worn down by entry hazards. Air Balloon grants Pecharunt a temporary Ground immunity, making it a good spinblocker against Great Tusk and Iron Treads without needing to Terastallize and forcing threats like <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a> and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a> to pop Pecharunt's Air Balloon and tank an attack before threatening it with their Ground-type attacks. Shuca Berry can accomplish a similar goal of temporarily sponging Ground-type attacks by letting Pecharunt survive a single Headlong Rush from Great Tusk, an Earth Power from Choice Specs <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and Enamorus, or even a +2 Dragonite's Earthquake before hitting these threats back very hard. Shuca Berry also lets Pecharunt bluff Heavy-Duty Boots if entry hazards are not up, letting it more easily bait in Ground-type attacks and retaliate. The last two items have the added benefit of reducing Pecharunt's damage taken by <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>'s Knock Off after they are consumed, allowing Pecharunt to check it more easily. Covert Cloak is an option that lets Pecharunt set up freely on one of its greatest checks, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, while also being handy in preventing Zamazenta's repeated Crunch from overwhelming it with the drops. Tera Ghost boosts Shadow Ball's damage output, allowing Pecharunt to OHKO both Iron Treads and Great Tusk after a Nasty Plot. Tera Water grants Pecharunt a solid neutral typing to take on common threats like Great Tusk, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/ceruledge/ou/\" hreflang=\"en\">Ceruledge</a>. Tera Fighting alongside Tera Blast is a niche option to hit a majority of its checks in Kingambit, <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>, Garganacl, and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> super effectively, with the new typing granting it a helpful Dark resistance. A bulkier EV spread with maximum HP investment can be used instead; at the cost of no longer guaranteeing the OHKO on foes like bulky Gholdengo, Pecharunt, and Great Tusk after minor chip damage, Pecharunt is more adept at checking foes like Zamazenta, Iron Valiant, and <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> for its team and gains more setup opportunities.</p>\n<p>Nasty Plot Pecharunt fits reasonably well on bulky offensive teams, and its best teammates greatly appreciate its defensive utility and spinblocking capabilities. Teammates that struggle with Zamazenta and Iron Valiant, such as Kingambit, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, make for strong teammates. Kingambit appreciates Pecharunt softening up walls like Iron Defense <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, while Hisuian Samurott can utilize Ceaseless Edge's entry hazard support to make Pecharunt's wallbreaking capabilities even more fearsome or can itself serve as a secondary wallbreaker alongside Pecharunt. Teammates that check and force out the aforementioned Dark-types, like Enamorus, Iron Valiant, and Zamazenta itself makes for strong teammates. Iron Valiant and Zamazenta are especially useful against Kingambit, which Pecharunt struggles immensely against. Physically bulky Stealth Rock-setting Ground-types like Ting-Lu, Great Tusk, and <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> are great teammates that appreciate Pecharunt's ability to keep their entry hazards up, and in return, they tend to handle opposing Ground-type attacks well. Kyurem and Ogerpon-W are strong teammates that can handle bulkier, Poison-immune threats that Pecharunt struggles to break past, such as Garganacl, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>. Ogerpon-W and Kyurem greatly appreciate Pecharunt's ability to handle Zamazenta and Iron Valiant in return. Lastly, while it lacks Gholdengo's coveted Defog and Mortal Spin immunities, Pecharunt is a good alternative spinblocker for Sticky Web teams since it outspeeds and greatly threatens Great Tusk, ensuring that Sticky Web remains against teams that rely on it as their only form of hazard removal.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Nasty Plot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Malignant Chain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Shadow Ball",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Pecharunt",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Pivot",
+          "description": "<p>Chinese Set: 桃歹郎 || 招式：邪毒锁链 | 祸不单行 | 抛下狠话 | 自我再生 || 道具：厚底靴 / 气球 || 特性：毒傀儡 || 性格：胆小 / 大胆 || 努力值：252 HP / 4 防御 / 252 速度 或 252 HP / 228 防御 / 28 速度 || 个体值：0 攻击 || 太晶属性：幽灵 / 恶</p>\n<p>桃歹郎极高的防御、幽灵属性以及广泛的招式池，使其成为进攻队伍中优秀的防御型轮转手和辅助宝可梦。邪毒锁链是一个强力的属性一致招式，但更重要的是它能传播异常状态，桃歹郎可以利用这点与祸不单行配合。影子球是幽灵属性属性一致招式的另一个选择，它比祸不单行更稳定，并能对像赛富豪和伽勒尔呆呆王这样免疫中毒的宝可梦造成更多伤害，但代价是失去了与邪毒锁链联动的额外伤害。抛下狠话能为队伍维持轮转节奏，并且是一个安全轮转离场应对像酋雷姆和铁武者等强化型清场手的好方法，同时还能降低它们的攻击能力。厚底靴是一个可靠的道具选择，可以阻挡桃歹郎在频繁轮转进场离场时原本容易受到的入场伤害。但气球也是一个不错的替代选择，它能减轻桃歹郎的地面属性弱点，并为队伍提供另一个免疫地面属性的宝可梦，这对于应对雄伟牙尤其有帮助。太晶幽灵可以提升祸不单行的威力，从而确保OHKO陷入异常状态的目标，如多龙巴鲁托，同时消除了桃歹郎的地面属性弱点并保留了其阻挡高速旋转的能力，这对应对雄伟牙和铁辙迹非常有帮助。太晶恶完全改变了桃歹郎的弱点，包括赋予其超能力属性免疫，使其有机会在像代欧奇希斯-速度形态这样的对手面前回复体力或打出一发出其不意的邪毒锁链。桃歹郎可以从两种不同的努力值分配中极大受益，一种最大化速度，另一种最大化防御。胆小性格和252速度努力值确保桃歹郎的速度足够快，能超过雄伟牙和赛富豪，而仅需28点速度努力值就能使其超过爽朗性格的仆刀将军，将其余努力值投入防御并配以大胆性格则允许它承受更多来自雄伟牙和厄诡椪-水井面具等宝可梦的攻击。</p>\n<p>桃歹郎传播异常状态和通过轮转获取节奏的能力所提供的辅助，使其成为进攻队伍的绝佳队友。桃歹郎与恶属性宝可梦，如仆刀将军、洗翠大剑鬼、轰鸣月甚至达克莱伊，能形成坚实的核心；这些恶爆破队伍极度弱于藏玛然特，而桃歹郎可以完全挡住它，以及铁武者，桃歹郎可以换上场并用邪毒锁链威胁它。另一方面，这些同样的恶属性宝可梦也是桃歹郎本身的威胁；拥有藏玛然特和铁武者作为队友可以帮助应对它们。桃歹郎的幽灵属性使其能够阻挡对方雄伟牙和铁辙迹的高速旋转，为像洗翠大剑鬼这样的队友提供支持，让它们撒出入场伤害并在整场对战中保持这些钉子。耐久型地面属性宝可梦，如土地云-灵兽、雄伟牙和古鼎鹿，也与桃歹郎有良好的协同作用，利用其阻挡高速旋转的能力，辅助它们撒钉，并且它们帮助处理铁毒蛾，否则铁毒蛾可以很容易地在桃歹郎面前强化。桃歹郎还可以清除场上的毒菱，为没有厚底靴的强化型清场手，如加速能量铁武者和吃剩的东西藏玛然特扫清道路。桃歹郎难以应对分级中一些能超过其速度并阻止其取得任何进展的特殊攻击手，例如达克莱伊和讲究围巾赛富豪。像铁武者和仆刀将军这样强大的队友可以提供急需的进攻支持，同时也能利用桃歹郎的抛下狠话安全换上场并强化。土地云-灵兽和铁辙迹可以用它们的地面属性招式显著威胁桃歹郎，而天蝎王可以使用剑舞来超越桃歹郎用祸不单行可能造成的伤害。携带气球、拥有像土地云-灵兽这样的地面属性免疫队友，或轮转到像酋雷姆或厄诡椪-水井面具这样的队友，都可以弥补这个弱点，并使其能够改善对位。桃歹郎也几乎完全被仆刀将军挡住；藏玛然特和雄伟牙是Check仆刀将军的优秀队友，并且它们都可以通过抛下狠话安全换上场。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Malignant Chain",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Hex",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Parting Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Recover",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Pecharunt",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Ghost",
+            "Dark"
+          ]
+        }
+      ]
+    }
+  ]
+}

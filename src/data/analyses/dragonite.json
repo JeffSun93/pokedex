@@ -1,0 +1,467 @@
+{
+  "id": 149,
+  "name": "dragonite",
+  "nameZh": "快龙",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "<p>Dragonite stands out as one of the most dominant Pokemon in SV OU, able to wield a myriad of coverage moves, Tera type options, and items to threaten most teams with the right set while also possessing a remarkable defensive profile, essentially letting it fit onto an incredibly wide array of team archetypes. It is one of the tier's most potent setup sweepers, as Dragon Dance enables a variety of sweeping methods and couples with any mix of strong physical attacks and crafty utility moves that Dragonite pleases. Dragonite can also wallbreak and revenge kill foes more reliably with its Choice Band set. Furthermore, all of this is enabled by its natural bulk, typing, and potentially Roost, as not only do these give Dragonite easy setup opportunities, but they also allow it to check common threats like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>; furthermore, with Multiscale intact, it can also emergency check even threatening foes like <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, making it a menace against offensive teams. This also allows Dragonite to employ a utility-focused bulky attacking set that lets it act as a catch-all answer to most offensive threats of the tier while not being entirely passive like most walls. With all this variability, checking Dragonite can be a headache, but physically bulky Pokemon such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> can often break its Multiscale and force it to reveal its set, if not beat it in a one-on-one outright. <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> also stands out as a particularly good answer, ignoring any boosts from Dragon Dance that Dragonite may have accrued while having the bulk to take it on. Even after a Dragon Dance, Dragonite is still outsped by threats such as <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, Iron Valiant, Choice Scarf Enamorus, and Speed Booster Energy Great Tusk, particular if it's not running Extreme Speed, with Zamazenta and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> being added to the list if Dragonite is not running a Speed-boosting nature. While Dragonite's typing is incredible in most situations, it also presents a serious 4x weakness to Ice-type moves such as <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>'s Ice Beam, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>'s Freeze-Dry, and Great Tusk's Ice Spinner, meaning that Dragonite often will need to Terastallize to avoid being revenge killed and continue its sweep. Its Stealth Rock weakness also warrants strong hazard control from its teammates or the use of Heavy-Duty Boots, which presents another issue where foes like Rillaboom and Ogerpon-W that it wants to check often carry Knock Off as well.</p>",
+      "comments": "<h3>Other Options</h3>\n<p>Despite the wide variety of mainstream options, Dragonite's toolkit still manages to leave room for additional creativity. Hurricane can be a flex option on many Dragon Dance sweeper sets to surprise <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> while also being a usable tool to potentially 3HKO <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, preventing it from stalling Dragonite out with Curse + Rest; Sharp Beak + Tera Flying sets in particular can guarantee this matchup further, even 2HKOing Dondozo through Leftovers. On hyper offense teams, Life Orb + Outrage is an option on Dragon Dance sets to let Dragonite nuke neutral walls like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and Great Tusk. Iron Head can be used in conjunction with Tera Steel to gain resistances to incoming Ice-, Dragon-, and Fairy-type attacks while OHKOing <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>, as well as potentially flinching its way out of otherwise impossible situations. Many teams try to limit Dragonite via Will-O-Wisp or Flame Body, so Facade can be used on Tera Normal + Extreme Speed sets to surprise these teams thinking they're safe once Dragonite is burned. Defensive sets can be used alongside moves like Thunder Wave to long-term cripple dangerous threats and Ice Beam to hit <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, and opposing Dragonite hard. If the team has enough hazard control, this set can even employ Rocky Helmet to punish foes that rely on making contact to deal damage, like <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and Zamazenta, or Red Card to further make use of its hit-taking ability to act as an emergency check to boosted foes.</p>",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "description": "<p>Dragon Dance Dragonite is one of the tier's most formidable setup sweepers due to its plethora of coverage variations and defensive profile. Extreme Speed maximizes its matchup against offensive teams, compensating for Dragonite's subpar Speed tier by taking care of the archetype's frail or boosted foes like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> while also outprioritzing revenge killers like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>. Earthquake covers Pokemon like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, and Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. Ice Spinner dents foes like <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, <a href=\"/dex/sv/pokemon/sinistcha/ou/\" hreflang=\"en\">Sinistcha</a>, and opposing Dragonite while popping Air Balloon from Gholdengo, Pecharunt, and Tera Ghost Kingambit. Dragonite can forgo Extreme Speed, as Ice Spinner + Earthquake grants it with sufficient coverage to hit most of the metagame for at least neutral effectiveness. Either Roost or Encore gives it more setup opportunities; Roost lets it activate Multiscale repeatedly and is the preferred move on bulkier playstyles to emphasize its defensive utility further, while Encore punishes opposing setup and passive plays from threats and walls like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, Raging Bolt, Landorus-T, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>. A coverage move can be used instead; Rock Slide obliterates a would-be check in <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> and hits Zapdos without triggering Static, with the riskier but stronger Stone Edge being an alternative that has good chances to straight up OHKO the former and 2HKO the latter. Similar to Ice Spinner + Earthquake, either of the Rock-type moves + Earthquake can be used as the sole attacking moves so it can run Encore or Roost in its last moveslot. Fire Punch super effectively hits Corviknight, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and Air Balloon Steel-types like Kingambit, Gholdengo, and <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a>. Alongside a Naughty or Naive nature, Hurricane can be used to dent otherwise strong checks in Zamazenta, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, even ignoring their Defense boosts. Dragon Tail prevents IronPress users like non-Roar Zamazenta, Corviknight, and Skarmory from beating it one-on-one; stops opposing phazers like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Zamazenta if it's running a Jolly nature from forcing it out first; and lets it act as a sturdier emergency check against opposing setup sweepers that it can't immediately KO. While Heavy-Duty Boots is preferred to reliably keep its Multiscale intact even in the face of Stealth Rock, teams that commit to strong entry hazard removal can run other items; Leftovers improves its general longevity, while Lum Berry ignores crippling status from foes like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, Moltres, Pecharunt, and Gholdengo. More offensive choices like Silk Scarf and Soft Sand can be used with their appropriate Tera types at the cost of lower longevity and harder times setting up. An Adamant nature is preferred, but Jolly can be used to, at worst, Speed tie opposing Dragonite while outspeeding Dragapult and Zamazenta at +1. Tera Normal is only used on sets running Extreme Speed, as it importantly boosts the move while giving Dragonite a neutral typing against all of its weaknesses. Tera Ground can be used to boost its Earthquake instead and defensively grants Dragonite an immunity to Gholdengo's Thunder Wave and Raging Bolt's Thunderclap at the cost of being weaker against <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and maintaining its Ice weakness from Weavile, Kyurem, and Darkrai.</p>\n<p>Dragonite's sweeping potential and defensive utility makes it an exceptional pick for most playstyles, anything that ranges from hyper offense to balance. Physically offensive teammates like Ogerpon-W, Zamazenta, and Kingambit can either overwhelm, surprise, or pressure a majority of its checks, which include the likes of Pecharunt, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, Zapdos, and <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>. Special attackers like Darkrai, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, Raging Bolt, Gholdengo, and Iron Valiant are similarly great to immediately threaten Dragonite's checks, especially Defense-boosting users like Zamazenta, Corviknight, Dondozo, and Great Tusk looking to go one-on-one against Dragonite. Moreover, they're particularly capable of forcing damage onto Air Balloon users like Gholdengo, Kingambit, and Tinkaton, giving Dragonite an easier time against them later on. Leads like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and Landorus-T can also soften the opposition with their entry hazards so Dragonite can sweep more easily. The aforementioned Great Tusk and other hazard control options like <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>, and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>—even running a combination of them simultaneously—on offensive teams give Dragonite more freedom to forgo Heavy-Duty Boots. On bulkier teams, Dragonite immensely loves teammates like Galarian Weezing, Corviknight, Pecharunt, Sinistcha, and Alomomola that can switch into and check foes such as Iron Valiant, Zamazenta, and Weavile that force it out. Other walls like Ting-Lu, Gliscor, and Clefable are also great hazard setters for Dragonite's sweeping mission. The aformentioned Corviknight also provides Defog as extra insurance in case Dragonite's Heavy-Duty Boots is removed by Ogerpon-W, Great Tusk, and Hisuian Samurott, but Corviknight itself alongside Gliscor and Clefable are great Knock Off absorbers in the first place. In return, all of them appreciate Dragonite's defensive utility, such as checking Iron Moth for Corviknight, Tinkaton, and Galarian Weezing; <a href=\"/dex/sv/pokemon/ogerpon/ou/\" hreflang=\"en\">Ogerpon</a> and Rillaboom for Alomomola, Ting-Lu, and Garganacl; and Ogerpon-W for all of them. On top of providing these teams with a setup sweeper that they might lack, Dragonite's ability to emergency check most threats in general also alleviates the pressure against these walls, especially with its good matchup against offensive teams that can otherwise run them over.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              },
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal",
+            "Ground"
+          ]
+        },
+        {
+          "name": "Dragon Dance + Tera Blast",
+          "description": "<p>Tera Blast Dragonite is one of OU's most potent sweepers thanks to Dragon Dance, good natural bulk backed up by Multiscale, and a variety of Tera types that allow it to get past would-be checks to its usual coverage options. Tera Blast Flying is Dragonite's most powerful option, making it not only able to threaten Pokemon it hits super effectively such as <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, but also threatening to OHKO the likes of <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> after a Dragon Dance. Tera Blast Fairy is an alternative that still threatens Great Tusk, Zamazenta, Iron Valiant, and Dragapult while trading some power for the ability to OHKO <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> after a Dragon Dance. Earthquake threatens the likes of <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, Raging Bolt, <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Encore rounds out Dragonite's moveset, punishing recovery attempts such as <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>'s Roost, <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>'s Moonlight, and Garganacl's Recover; setup attempts from the likes of Curse <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, Curse Garganacl, and Iron Defense Corviknight and Zamazenta; revenge killing attempts from Kingambit's Sucker Punch and Raging Bolt's Thunderclap; and Protect from <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Furthermore, Encore may also lock foes into undesirable moves which Dragonite exploits when it Terastallizes, such as Dragapult's Draco Meteor and Dragon Darts in the case of Tera Fairy. Roost is an alternative to Encore that provides Dragonite with longevity, providing it with opportunities to set up multiple times per game and allowing it to outlast Garganacl, which may otherwise annoy it with Salt Cure's chip damage. Extreme Speed may also be considered to pick off weakened foes that Dragonite is slower than even after a Dragon Dance, such as Speed Booster Energy Iron Valiant and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and Choice Scarf Darkrai and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Roost and Encore may be used on the same set alongside Tera Blast Flying, preserving both of their benefits, particularly against more passive walls, at the cost of a coverage move and an overreliance on Terastallization. Rock Slide can be used as the last move on Tera Blast Fairy sets to surprise a would-be check in <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> before it can phaze or cripple Dragonite. A Jolly nature allows Dragonite to outspeed Dragapult and Zamazenta after a Dragon Dance, being able to OHKO the former with any of its Tera Blast options and lock the latter into Iron Defense with Encore. An Adamant nature may also be used if more power is desired, for instance letting Dragonite OHKO Raging Bolt with Earthquake after a Dragon Dance. Heavy-Duty Boots is used to preserve Dragonite's Multiscale, granting it more room to safely set up. On teams with strong hazard removal options and depending on the Tera type, Dragonite may also opt for Sharp Beak or Fairy Feather, providing extra power to notably OHKO offensive Zamazenta and Great Tusk with Tera Blast after a Dragon Dance. Lum Berry is another option that allows Dragonite to shrug off status such as Will-O-Wisp from <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>, Moltres, <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, and Dragapult; Thunder Wave from Clefable, <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>; Gliscor's Toxic; and the poison and confusion that comes with <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>'s Malignant Chain and Poison Puppeteer. Leftovers and Covert Cloak are two niche alternatives that can be used alongside Roost; the former provides Dragonite with extra longevity, while the latter's effect of ignoring the additional effects of Garganacl's Salt Cure, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>'s Nuzzle, Pecharunt's Malignant Chain, Alomomola's Scald, and <a href=\"/dex/sv/pokemon/araquanid/ou/\" hreflang=\"en\">Araquanid</a>'s Lunge allows Dragonite to potentially set up against these foes.</p>\n<p>Tera Blast Dragonite is found in offense and hyper offense teams, where the requirement of using Terastallization on it most of the time and the potential lack of Roost are not as severe. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> are often seen in these teams to set entry hazards, which soften up foes for Dragonite to sweep later in the game. These Pokemon can also prevent or remove opposing Stealth Rock with Taunt in the case of Deoxys-S, Landorus-T, and Ting-Lu and Mortal Spin in the case of Glimmora, preventing hazards from breaking Dragonite's Multiscale when not running Heavy-Duty Boots. Great Tusk and Hatterene also help prevent opposing Stealth Rock thanks to Rapid Spin and Magic Bounce, respectively. The aforementioned Ground-types appreciate Dragonite's resistance to Water and Grass, particularly Ogerpon-W's Ivy Cudgel and Power Whip, which grants Dragonite a window to safely set up. In return, they are able to take on Pecharunt, one of the most annoying Pokemon for Tera Blast Dragonite thanks to its high bulk and access to Foul Play and Malignant Chain. Similarly, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> can take on Pecharunt as well as physical walls like Alomomola, Dondozo, Corviknight, and Galarian Weezing that give Dragonite trouble, while Dragonite is able to deal with Gholdengo's answers such as Iron Moth and Cinderace. Swords Dance Ogerpon-W may also be used as a partner, allowing each other to overwhelm shared checks in Zapdos, Pecharunt, and Galarian Weezing, while Ogerpon-W also takes on Alomomola, Moltres, Gliscor, and Garganacl. Iron Valiant and Zamazenta may also be used alongside Dragonite to weaken Moltres for one another. The former removes Moltres's Heavy-Duty Boots with Knock Off so keep it weakened alongside Stealth Rock, while the latter can opt for either Stone Edge to lure it and open a path for Dragonite to sweep. Kingambit appreaciates Dragonite's ability to lure in and take out Great Tusk and Zamazenta, while it is able to handle Pecharunt and overwhelm physical walls like Alomomola and Corviknight alongside Dragonite. Sticky Web teams appreciate Dragonite's immunity to opposing Sticky Web, as well as its considerable bulk compared to fragile Pokemon featured in these teams such as Iron Moth, Iron Valiant, and Enamorus that are not capable of withstanding powerful attacks such as <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>'s Hydro Steam or Choice Band Dragapult's Tera Blast Ghost. Moreover, Sticky Web slows down foes that outspeed Dragonite after a Dragon Dance, such as Speed Booster Energy Iron Valiant and Iron Moth and Choice Scarf Darkrai. The aforementioned special attackers can handle physical walls that may trouble Dragonite, with Iron Moth in particular being able to handle Corviknight, <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, and Pecharunt.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Flying",
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Dragon Dance + Scale Shot",
+          "description": "<p>Utilizing Loaded Dice and Scale Shot, Dragonite speeds through OU, giving it a powerful STAB move to hit many threats at least neutrally, OHKOing its fellow Dragon-types like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> and, after a Dragon Dance, the likes of <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>. Furthermore, after a Speed boost from Scale Shot or Dragon Dance, Dragonite can outspeed almost the entirety of the unboosted metagame, excluding <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a>, and further usage of Scale Shot can make it extremely difficult to outspeed Dragonite without priority. Fire Punch slams the Steel-types that Scale Shot misses, like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, while letting it hit Fairy-types like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>. Finally, Encore shuts down both defensive and offensive Pokemon that dare to set up or recover on Dragonite, like Corviknight, Zamazenta, and <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>. Tera Fire boosts Fire Punch, pushing Corviknight into the 2HKO range and guaranteeing the 2HKO on <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, Gholdengo, and Kingambit, and nullifies <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>'s and <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a>'s Will-O-Wisp, allowing Dragonite to turn potential checks into setup opportunities. Tera Fire also flips its weakness to Ice and Fairy from Pokemon like <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and Clefable. Due to Scale Shot's Speed-boosting side effect, Dragonite can comfortably run an Adamant nature, guaranteeing the OHKO on threats like Kyurem.</p>\n<p>With its power and versatility, Dragonite finds itself on offense and hyper offense teams. Due to Dragonite's lack of Heavy-Duty Boots, entry hazard control is more important than ever to maintain both Multiscale and to avoid chip damage, so hazard control teammates like <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Hatterene are crucial, with the latter also serving as a status blocker from pesky defensive Pokemon like Moltres and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Speaking of status spreaders, Dragapult is a flight hazard for Dragonite, with a speedy Will-O-Wisp and devastating Dragon Darts, so partners like <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and Iron Valiant are solid picks to scare it away. An exceptional partner for Dragonite is <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, which brings hazard support in Stealth Rock, a fast Taunt that can deny Stealth Rock from setters like <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> and Ting Lu, and the ability to bring Dragonite in safely through U-turn. Other strong partners for Dragonite are Gholdengo and <a href=\"/dex/sv/pokemon/iron-crown/ou/\" hreflang=\"en\">Iron Crown</a>, as they can scare threats like Iron Valiant and Zamazenta, which Dragonite often struggles to switch into; the latter also works as a pivot through Volt Switch. Similarly, Dragonite also enjoys pairing with <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, which threatens Iron Valiant, Primarina, and other Fairy-types that halt Dragonite's attack and can also pivot with Chilly Reception. Dragonite alongside other physical attackers like Ogerpon-W can overwhelm physical walls like Gholdengo and Skarmory together, clearing the way for each other to wreak havoc. Dragonite can also take advantage of Water- and Grass-types like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and Ogerpon-W, covering for defensive partners like Primarina, Landorus-T, and Great Tusk. Kingambit also appreciates Dragonite as a teammate, as Dragonite can lure in checks like Cinderace and Moltres before flipping the tables with Tera Fire, allowing for an easier late-game sweep with Kingambit.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Bulky Attacker",
+          "description": "<p>Dragonite can fully lean into its defensive profile even more and complement it further with its strong STAB Dragon Tail and Extreme Speed to become a remarkable anti-offense tool. Its hit-taking ability allows it to emergency check and phaze even dangerous threats like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a>, <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> with Dragon Tail more reliably; the move is also helpful against other setup sweepers like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>, and Air Balloon <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> that can otherwise set up on and overwhelm Dragonite after enough boosts. Moreover, potentially forcing offensive staples like Zamazenta, <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a>, and Raging Bolt into the field when they're not ready to sweep yet essentially wastes their Dauntless Shield and Booster Energy. Once they're chipped enough, the offensive threats are picked off easily by Extreme Speed, especially frail ones like <a href=\"/dex/sv/pokemon/meowscarada/ou/\" hreflang=\"en\">Meowscarada</a>, <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>; Extreme Speed is also helpful to deal with priority moves from foes like Raging Bolt, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, and non-Tera Ghost variants of <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a> and <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>. On top of accumulating entry hazard damage to the opposition, Dragon Tail has the added benefit of forcing out walls and switch-ins like <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a> that it can't easily threaten, especially preventing the latter from passing Wish to the desired teammate. Earthquake rounds out its coverage to hit Steel-types like Kingambit, Gholdengo, and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. At the cost of no longer hitting Gholdengo, Low Kick is an alternative option that similarly hits the Steel-types hard, particularly Kingambit—OHKOing even bulky variants and doesn't care about Air Balloon sets—while also providing strong coverage against foes like <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and <a href=\"/dex/sv/pokemon/tyranitar/ou/\" hreflang=\"en\">Tyranitar</a>. Tera Normal boosts the power of its Extreme Speed, letting it reach crucial benchmarks such as 2HKOing Iron Valiant, Darkrai, and Hisuian Samurott. Additionally, it sheds all of Dragonite's weaknesses and grants it a solidly neutral typing, notably improving its matchup against threats like Enamorus, Weavile, and Dragapult. 16 Speed EVs are enough to let Dragonite outspeed Adamant Kingambit.</p>\n<p>Dragonite is used on balance and bulky offense teams that appreciate its defensive utility and decent pressure, especially against offensive teams. It pairs well with all manner of walls found on these archetypes; Steel-types like Gholdengo, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a> can cover most of its shortcomings by handling foes like <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, Weavile, Iron Valiant, and Enamorus, with Tinkaton and Gholdengo in particular being great as a stopgap to other Fairy-type setup sweepers like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a> that not only threaten Dragonite out but cannot be phazed by its Dragon Tail. In return, Dragonite can switch into Ground-type moves from the likes of <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> aimed at Gholdengo and Tinkaton. The aforementioned Corviknight and other Pokemon like Clefable and Gliscor are great Knock Off absorbers against Pokemon like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> and opposing Gliscor and Clefable, letting Dragonite keep its valuable Heavy-Duty Boots. However, Pokemon that Dragonite is supposed to switch into, like <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> and Hisuian Samurott, will inevitably hit it with a Knock Off; Great Tusk, <a href=\"/dex/sv/pokemon/weezing-galar/ou/\" hreflang=\"en\">Galarian Weezing</a>, and the aforementioned Corviknight are great as entry hazard removers to make sure Stealth Rock still won't be an issue. Additionally, Gliscor, Clefable, and other Pokemon like Ting-Lu and Skarmory are valuable as hazard setters themselves, letting the team rack up chip damage when paired with Dragonite's Dragon Tail, and notably put offensive threats like Enamorus and Iron Moth closer into Extreme Speed range, with Ting-Lu's Ruination forcing immediate progress in that regard for Dragonite to clean late-game more easily. Ting-Lu and Clefable are also great at switching into Dragapult, which otherwise cannot be revenge killed by and forces out Dragonite. In return, Dragonite covers threats such as Ogerpon-W and Iron Moth for all of them, with its ability to emergency check other offensive threats in general giving them more breathing room. Gliscor, Clefable, and more offensive Pokemon like Darkrai and Weavile are also great Knock Off users, removing Heavy-Duty Boots to synergize well with the team's entry hazards and Dragonite's Dragon Tail, softening up the opposition more effectively for Dragonite to clean late-game. The aforementioned Darkrai and Weavile alongside other offensive Pokemon like Zamazenta also match up well against offensive teams so Dragonite isn't overwhelmed defensively when facing against highly aggressive teams. On more bulky offensive teams, Dragonite can even employ an even wider range of offensive teammates, including Ogerpon-W, Kingambit, and Iron Valiant. Ogerpon-W in particular matches up well against the bulky teams that Dragonite struggles with, while Iron Valiant and its Encore can limit Fairy-type and Tera Fairy setup sweepers like Clefable and Raging Bolt that Dragonite cannot phaze. Moreover, Dragonite's propensity to force offensive threats like Iron Valiant, Darkrai, and Weavile to Terastallize into a Ghost-type to avoid its Extreme Speed allows Kingambit, Darkrai, and Weavile to deal with them more easily. While offensive, these threats also provide defensive utility for Dragonite; for instance, Kingambit checks Dragapult and Kyurem, Zamazenta handles Kingambit, and both of them deal with Weavile.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "description": "<p>Choice Band Dragonite is a strong wallbreaker and revenge killer for offensive teams. Extreme Speed enables Dragonite to revenge kill a myriad of threatening sweepers such as <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a> and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> while doing solid neutral damage to most of the tier with the use of Tera Normal. Tera Normal Extreme Speed notably OHKOes offensive variants of <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> after Stealth Rock and is favored to 2HKO even physically defensive <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a>. Ice Spinner OHKOes both <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a> and fast <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>, common physical answers that often switch in against Dragonite to stuff potential Dragon Dance sets. It also notably hits Dragon-types like opposing Dragonite, <a href=\"/dex/sv/pokemon/hydrapple/ou/\" hreflang=\"en\">Hydrapple</a>, and <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a> without the risk of locking into Outrage. Fire Punch is the ideal fourth move, being Dragonite's highest damage option against <a href=\"/dex/sv/pokemon/skarmory/ou/\" hreflang=\"en\">Skarmory</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, and Air Balloon <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, all of which are always 2HKOed after Stealth Rock. Earthquake is another option, providing a safer option into certain Pokemon like Raging Bolt and being a uniquely powerful option against <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>, but it leaves Dragonite walled by airborne Steel-types like Skarmory. An Adamant nature is chosen because Extreme Speed reduces the need for a Jolly nature and it importantly removes the need for good damage rolls against aforementioned Pokemon like Corviknight and Primarina. Tera Normal enables revenge killing with Extreme Speed while removing all of Dragonite's original weaknesses. This reduces damage from Stealth Rock and enables Dragonite to survive attacks like <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a>'s Dragon Darts and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>'s Triple Axel.</p>\n<p>Choice Band Dragonite needs specific support to thrive. As it is weak to Stealth Rock, wants to preserve Multiscale, and does not run Heavy-Duty Boots, it appreciates entry hazard control from the likes of <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> or <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>. Similarly, to preserve Multiscale and to find good opportunities to break, pivots are great teammates. <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, Landorus-T, and Primarina can all support the team defensively while using their pivot moves to safely get in Dragonite. Primarina additionally can switch into and force out threats like Dragapult, while Galarian Slowking can set up dangerous checkmate scenarios with Future Sight to limit defensive checks like Clefable and <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>. Hazards greatly help to set up consistent 2HKOs and the potential for a late-game Extreme Speed sweep, so Spikes setters like <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a> and <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> also fit in, as do Stealth Rock setters like Landorus-T and Great Tusk. Other offensive Pokemon fit best with Dragonite, with fast sweepers like Iron Valiant and Iron Moth especially appreciating Dragonite's breaking power and defensive utility in Multiscale and priority. Gholdengo and Iron Moth are strong teammates, as they take advantage of the Fairy- and Steel-types that threaten Dragonite while keeping up offensive pressure. As the set relies on a Choice item, Protect users like <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and Gliscor can greatly lessen the threat that Dragonite poses. <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> is a teammate that threatens all of them while also generally helping against the style of teams that those Pokemon find themselves on. <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> deserves a mention, as both it and Dragonite can wear down physical walls for each other and threaten to clean late-game with their strong priority attacks. <a href=\"/dex/sv/pokemon/tinkaton/ou/\" hreflang=\"en\">Tinkaton</a> is another option as a Stealth Rock setter that also helps to check opposing would-be revenge killers like Dragapult and <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> while spreading Thunder Wave paralysis to give Dragonite more opportunities to attack freely.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Dragon Dance",
+          "description": "<p>Chinese Set: 快龙||招式：龙之舞|地震|神速 / 羽栖|冰旋 / 羽栖 || 道具：厚底靴 || 特性：多重鳞片 || 努力值：252 攻击 / 4 防御 / 252 速度 ||性格：固执 || 太晶属性：一般 / 地面\n龙舞快龙凭借其出色的补盲招式、扎实的耐久：其优秀的防御属性组合和不可思议的特性多重鳞片进一步强化了这点、以及先制度高的神速，成为了该分级中最顶级的强化型清场手之一。神速极大地改善了快龙对阵铁武者、铁毒蛾、达克莱伊以及厄诡椪-水井面具等高速进攻威胁的MU。它还能抢先于猛雷鼓的迅雷出手，并提供了一个收掉像藏玛然特和龙之舞轰鸣月这样被削弱了的进攻威胁的选择。太晶一般让一段龙之舞强化后的快龙的神速经常能在隐形岩伤害后OHKO厄诡椪-水井面具、轰鸣月和铁武者，并2HKO猛雷鼓。太晶一般的加成也能帮助快龙在危急时刻收掉像仆刀将军、藏玛然特和酋雷姆这样被大幅削弱的威胁。一般属性赋予快龙一个幽灵免疫，使其能利用赛富豪和多龙巴鲁托，同时弱点较少也能让它结合羽栖更可靠地维持多重鳞片。然而，需要注意的是，铁壁藏玛然特会给这种配置带来巨大麻烦。太晶地面是一个可靠的选择，如果快龙放弃了神速就应该始终携带它，使其能强行突破耐久更高的仆刀将军。太晶地面还为快龙提供了对赛富豪的电磁波与铁头壳以及闪电鸟的伏特替换的免疫和对土地云-灵兽与藏玛然特的尖石攻击的抗性。太晶地面地震也是快龙最强的有效果攻击选择，使其有可能2HKO未强化的进攻型藏玛然特。冰旋与地震配合极佳，前者能打击像轰擂金刚猩和来悲粗茶这样的草属性宝可梦，以及像土地云-灵兽、天蝎王、闪电鸟和对方快龙这样的飞行属性宝可梦，而后者则能打击那些无视神速和冰旋的钢属性宝可梦，如赛富豪、仆刀将军和铁头壳。神速或冰旋都可以舍弃以选择羽栖。然而，失去神速的先制会导致快龙变得极度脆弱，容易被加速能量铁武者突破，因为后者即使在快龙+2速度时仍比它快。同样地，放弃冰旋会让快龙对阵土地云-灵兽、天蝎王和闪电鸟时表现差很多，并且会被气球赛富豪和桃歹郎完全挡住。可以考虑一系列其他太晶属性，尤其是与太晶爆发搭配时，但这可能会让快龙的补盲选择过度依赖太晶化。太晶飞行为快龙提供了极具破坏力的太晶爆发，能对藏玛然特效果绝佳，并且对雄伟牙的伤害远高于冰旋。太晶火为快龙提供了对闪焰王牌的灼伤和火焰鸟的免疫，一个宝贵的冰属性抗性以协助对抗酋雷姆和玛狃拉之类的宝可梦，以及一个能对气球赛富豪和仆刀将军效果绝佳的太晶爆发。最后，太晶仙为快龙提供了龙属性免疫和一个能对所有雄伟牙、藏玛然特、像酋雷姆和多龙巴鲁托这样的龙属性宝可梦、以及像洗翠大剑鬼和玛狃拉这样的恶属性宝可梦效果绝佳的太晶爆发。然而，羽栖带来的额外续航能力极其有用，它让快龙能进一步利用多重鳞片进行多次龙之舞强化。爽朗性格允许强化后的快龙超过并解决多龙巴鲁托，后者常被用来复仇杀害标准固执配置的快龙，但这会带来显著的力量损失。</p>\n<p>龙舞快龙适合多种进攻队伍，从采用多个强化型清场手的快节奏HO，到能随时间削弱对手、为快龙清场创造条件并利用其出色防御属性的平衡攻队伍。铁壁藏玛然特是快龙的最佳队友之一，能帮助应对像酋雷姆、达克莱伊和仆刀将军这些都会给快龙带来麻烦的威胁：藏玛然特拥有极高的速度种族值，并且能在像雄伟牙和前述仆刀将军这样的物理攻击手面前强化，而快龙无法可靠地在它们面前强化。仆刀将军是一个极好的队友，因为它对冰和岩石的抗性与快龙对火和格斗的抗性，及地面免疫配合得极好。二者组合可以压倒既容易被仆刀将军大将特性加成仆刀击溃的速度偏慢的队伍，也容易被他人的仆刀将军的突袭和快龙的神速压制的高速队伍。仆刀将军的突袭威胁足够大，以至于快龙也可以更容易地放弃神速而选择羽栖。赛富豪是一个特别出色的队友，它能极大地向像保姆曼波、钢铠鸦、盔甲鸟和盐石巨灵这样的盾牌施加压力。入场伤害的支持对于让快龙OHKO像轰鸣月、铁毒蛾和铁武者这样的高速威胁至关重要。快龙、赛富豪和古鼎鹿组成了一个非常强大的核心，能抵抗或免疫所有属性：古鼎鹿能可靠地撒出钉子，赛富豪能阻挡大多数清除钉子的手段，而快龙则利用那些钉子带来的消耗伤害在终局清场。洗翠大剑鬼除了用秘剑·千重涛撒菱外，还能以更多方式支持快龙的清场；再来一次为快龙创造了更多无代价龙之舞强化的机会，快速折返提供了轮转能力并给予快龙安全的上场和更容易的强化机会，而拍落则能废掉依赖厚底靴的威胁，如火焰鸟、闪电鸟、对方快龙和吃吼霸。洗翠大剑鬼甚至能携带剑舞进行破盾，为快龙的终局清场铺平道路。在HO队伍中，晶光花是一个优秀的首发，这得益于它扎实的速度种族值、容易撒出隐形岩的能力以及对阵火焰鸟和一些铁毒蛾的良好MU。强大的特殊攻击手，如达克莱伊和铁毒蛾，能强行突破像保姆曼波、钢铠鸦、盔甲鸟、吃吼霸和盐石巨灵这样快龙极难应对的物理耐久型威胁，并为其终局清场铺平道路。除了提供更多速度控制外，铁武者既能突破像吃吼霸这样的物理盾牌，也能用像拍落、再来一次和同命这样的选项干扰对方队伍，为快龙的终局清场创造条件。雄伟牙的冰旋可以打击像闪电鸟、对方快龙和天蝎王这样的威胁，这使得快龙可以放弃冰旋而选择羽栖。尽管它与快龙共享许多弱点，但轰鸣月可以利用挑衅和拍落严重干扰快龙难以应对的防御型队伍。快龙可以使用神速向能惩罚轰鸣月尝试龙之舞强化的高速威胁如铁武者、玛狃拉和对方轰鸣月施加压力。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal",
+            "Ground"
+          ]
+        },
+        {
+          "name": "Dragon Dance + Tera Blast",
+          "description": "<p>Chinese Set: 快龙||招式：龙之舞|太晶爆发|地震/踢倒|再来一次/羽栖/神速||道具：厚底靴||特性：多重鳞片||努力值：252 攻击 / 4 防御 / 252 速度||性格：爽朗 / 固执||太晶属性：飞行 / 妖精 / 幽灵</p>\n<p>太晶爆发快龙是OU分级中最强大的清场手之一，得益于龙之舞、由多重鳞片支撑的良好天然耐久以及多样的太晶属性，其能够突破常见补盲招式应对的Check。太晶爆发飞行是快龙威力最高的招式选择，不仅能够威胁效果绝佳的宝可梦如雄伟牙、厄诡椪-水井面具、铁武者和藏玛然特，还能在一次龙之舞后OHKO西狮海壬、达克莱伊和多龙巴鲁托等目标。太晶爆发妖精是另一种选择，仍然能威胁雄伟牙、藏玛然特、铁武者和多龙巴鲁托，同时用部分威力换取在一次龙之舞后OHKO酋雷姆和猛雷鼓的能力。太晶爆发幽灵也可能被使用，这要得益于极少宝可梦能抵抗它，同时也能极大威胁可能令人烦恼的气球赛富豪、布莉姆温和桃歹郎；与太晶飞行和妖精不同，它还能对钢铠鸦造成有效果的伤害。地震威胁仆刀将军、猛雷鼓、铁头壳和盐石巨灵等目标，它与太晶爆发飞行或妖精搭配使用，因为其能够威胁抵抗这两种招式的宝可梦如伽勒尔呆呆王和铁毒蛾。当使用太晶幽灵时，踢倒可以取代地震，以威胁少数抵抗幽灵属性的宝可梦如仆刀将军、达克莱伊、古鼎鹿、洗翠大剑鬼、盐石巨灵和玛狃拉。再来一次完善了快龙的招式组合，惩罚回复招式，如钢铠鸦的羽栖、皮可西的月光和盐石巨灵的自我再生；来自诅咒吃吼霸、诅咒盐石巨灵以及铁壁钢铠鸦和藏玛然特等宝可梦的强化招式；来自仆刀将军的突袭和猛雷鼓的迅雷等复仇杀尝试；以及保姆曼波和天蝎王的守住。此外，再来一次还可能将对手锁定在快龙太晶化后获得免疫的招式上，例如太晶妖精时多龙巴鲁托的流星群和龙箭，以及太晶幽灵时钢铠鸦、盔甲鸟和藏玛然特的扑击以及铁辙迹和雄伟牙的高速旋转。羽栖是再来一次的替代选择，为快龙提供续航能力，使其每局游戏有机会多次强化，并能够耗过盐石巨灵，否则后者可能通过盐腌的消耗伤害来骚扰它。神速也可能被考虑用于收掉即使在一次龙之舞后速度仍快于快龙的残血对手，例如驱劲能量铁武者和铁毒蛾，以及讲究围巾达克莱伊和眷恋云。羽栖和再来一次可以在同一配置中与太晶爆发飞行一起使用，保留了两者的好处，但代价是牺牲补盲招式和过度依赖太晶化。爽朗性格让快龙在一次龙之舞后得到能够超过多龙巴鲁托和藏玛然特的速度，能够用任何属性的太晶爆发OHKO前者，并用再来一次将后者锁定在铁壁上。如果需要更多力度，也可以使用固执性格，它让快龙在一次龙之舞后能用地震OHKO猛雷鼓。厚底靴用于保护快龙的多重鳞片，为其提供更多安全强化的空间。根据太晶属性，快龙也可以选择锐利鸟嘴、妖精之羽或诅咒之符，分别提供额外威力，在一次龙之舞后用太晶爆发飞行OHKO进攻型藏玛然特，在一次龙之舞后用太晶爆发妖精OHKO雄伟牙，以及在两次龙之舞强化后用太晶爆发幽灵OHKO桃歹郎。木子果是另一个选项，允许快龙免疫异常状态，如闪焰王牌、火焰鸟、伽勒尔双弹瓦斯和多龙巴鲁托的磷火；皮可西、闪电鸟和伽勒尔呆呆王的电磁波；天蝎王的剧毒；以及桃歹郎的邪毒锁链和毒傀儡带来的中毒和混乱。吃剩的东西和密探斗篷是两个可以与羽栖一起使用的特殊替代；前者为快龙提供额外的续航能力，而后者的忽略追加效果特性，可以无视盐石巨灵的盐腌、布莉姆温的蹭蹭脸颊、桃歹郎的邪毒锁链、保姆曼波的热水和滴蛛霸的猛扑的追加效果，使快龙有可能在这些对手面前强化。</p>\n<p>太晶爆发快龙常见于进攻队和HO队中，这些队伍对大多数时候需要使用太晶化的要求以及可能缺乏羽栖的问题并不那么严重。土地云-灵兽、古鼎鹿、代欧奇希斯-速度形态和晶光花经常出现在这些队伍中铺设场地伤害，为快龙在游戏后期清场而削弱对手。这些宝可梦还可以防止或清除对方的隐形岩，例如代欧奇希斯-速度形态、土地云-灵兽和古鼎鹿使用挑衅，晶光花使用晶光转转，在不携带厚底靴时防止场地伤害破坏快龙的多重鳞片。雄伟牙和布莉姆温也分别通过高速旋转和魔法镜帮助防止对方的隐形岩。上述地面属性宝可梦欣赏快龙对水和草属性的抗性，特别是厄诡椪-水井面具的棘藤棒和强力鞭打，这为快龙提供了安全强化的机会。作为回报，它们能够应对桃歹郎，这是太晶爆发快龙最烦恼的宝可梦之一，得益于其高耐久、欺诈和邪毒锁链。类似地，赛富豪可以应对桃歹郎以及给快龙带来麻烦的物理盾牌，如保姆曼波、吃吼霸、钢铠鸦和伽勒尔双弹瓦斯，而快龙能够处理赛富豪的Check，如铁毒蛾和闪焰王牌。剑舞厄诡椪-水井面具也可以作为伙伴使用，使彼此能够压倒共有的Check如闪电鸟、桃歹郎和伽勒尔双弹瓦斯，而厄诡椪-水井面具还可应对保姆曼波、火焰鸟、天蝎王和盐石巨灵。铁武者和藏玛然特也可以与快龙一起使用，相互削弱火焰鸟。前者用拍落移除火焰鸟的厚底靴，使其使其会被隐形岩严重削弱，而后者可以选择尖石攻击来引诱它并为快龙清场开辟道路。仆刀将军欣赏快龙引诱并消灭雄伟牙和藏玛然特的能力，而它能够处理桃歹并与快龙一起过劳物理盾牌如保姆曼波和钢铠鸦。黏黏网队欣赏快龙对对方黏黏网的免疫以及与其队伍中脆弱宝可梦如铁毒蛾、铁武者和振翼发相比相当不错的耐久，这些宝可梦无法承受波荡水的水蒸气或讲究头带多龙巴鲁托的幽灵属性太晶爆发等强大攻击。此外，黏黏网会减速速度超过一次龙之舞后的快龙的对手例如驱劲能量铁武者和铁毒蛾以及讲究围巾达克莱伊。上述特殊攻击手可以处理可能困扰快龙的物理盾牌，其中铁毒蛾特别能够应对钢铠鸦、盔甲鸟和桃歹郎。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tera Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              },
+              {
+                "move": "Low Kick",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              },
+              {
+                "move": "Roost",
+                "type": null
+              },
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Flying",
+            "Fairy",
+            "Ghost"
+          ]
+        },
+        {
+          "name": "Scale Shot",
+          "description": "<p>Chinese Set: 快龙||招式：龙之舞|鳞射|火焰拳|再来一次 || 道具：机变骰子 || 特性：多重鳞片 || 努力值：252 攻击 / 4 防御 / 252 速度 ||性格：固执 || 太晶属性：火</p>\n<p>利用机变骰子和鳞射，快龙在OU环境中飞速穿梭，让传统的快龙Check对象如钢铠鸦、藏玛然特和赛富豪难以应对。鳞射为快龙提供了强力的属性一致招式来打击众多威胁，OHKO其同类龙属性宝可梦如轰鸣月和猛雷鼓，并且在一次龙之舞后，也能OHKO厄诡椪-水井面具和达克莱伊等目标。此外，在获得鳞射或龙之舞的速度提升后，快龙可以超过几乎整个无强化环境中的宝可梦，除了多龙巴鲁托、藏玛然特和代欧奇希斯-速度形态，而进一步使用鳞射会使得没有先制招式的宝可梦极难超速快龙。火焰拳猛击那些鳞射无法有效打击的钢属性宝可梦，如钢铠鸦、赛富豪和仆刀将军。最后，再来一次可以封锁那些胆敢在快龙面前强化或回复的防御型和攻击型宝可梦，如钢铠鸦、藏玛然特和盐石巨灵。机变骰子确保了鳞射成为一个可靠的伤害性招式。太晶火提升了火焰拳的威力，将钢铠鸦推入2HKO范围，并保证2HKO盔甲鸟、赛富豪和仆刀将军，同时还能免疫闪焰王牌和火焰鸟的磷火，使快龙能够将潜在的Check转化为强化机会。由于鳞射具有提升速度的附加效果，快龙可以安心选择固执性格，保证OHKO像波荡水这样的威胁。</p>\n<p>凭借其威力和多功能性，鳞射快龙常见于平衡攻和HO队中。由于快龙没有携带厚底靴，场地伤害控制极为重要，以维持多重鳞片并避免血量损耗，因此清钉队友如铁辙迹、雄伟牙和布莉姆温至关重要，后者还能反弹来自烦人的防御型宝可梦如火焰鸟和天蝎王的异常状态。说到异常状态，多龙巴鲁托对快龙而言是一个威胁，拥有高速磷火和破坏性的龙箭，因此像西狮海壬和铁武者这样的伙伴是可靠的选择，可以逼退它。快龙一个非常优秀的搭档是土地云-灵兽，它能提供钉子，能用高速挑衅阻止撒钉手如晶光花和古鼎鹿布置隐形岩，并能通过急速折返安全换上快龙。其他快龙的强力伙伴是赛富豪和铁头壳，因为它们能威胁像铁武者和藏玛然特这样的快龙难以换入的威胁；后者还能通过伏特替换进行轮转。同样地，快龙也喜欢与伽勒尔呆呆王结伴，它能威胁铁武者、西狮海壬和其他能阻挡快龙进攻的妖精属性宝可梦，并且还能通过冷笑话进行轮转。快龙能击碎其同类龙属性宝可梦如轰鸣月，以及其他物理盾牌如赛富豪和盔甲鸟，为队友如厄诡椪-水井面具扫清道路，让其发挥。快龙还能利用水属性和草属性宝可梦如轰擂金刚猩和厄诡椪-水井面具，为防御型伙伴如西狮海壬、土地云-灵兽和雄伟牙提供掩护。仆刀将军也同样欣赏快龙作为队友，因为快龙可以引诱出像闪焰王牌和火焰鸟这样的Check对象，然后通过太晶火扭转局势，从而让仆刀将军在终局更容易清场。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Dance",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Scale Shot",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Punch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Encore",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Choice Band",
+          "description": "<p>Chinese Set: 快龙 || 招式：逆鳞|神速|冰旋|火焰拳/地震 || 特性：多重鳞片 || 努力值：252 攻击 / 4 防御 / 252 速度 || 性格：固执 || 太晶属性：一般</p>\n<p>讲究头带快龙是攻击型队伍中一名强力的破盾手与复仇杀手。神速使快龙能够复仇杀死众多危险的清场手，如铁武者和轰鸣月，同时借助太晶一般能对分级中的大部分宝可梦造成可观的中性伤害。太晶一般神速 能在隐形岩削弱后OHKO攻击型西狮海壬，即使是防御型的皮可西也有较高概率2HKO。冰旋能OHKO天蝎王和速耐土地云-灵兽，这两种常见的物攻手对策，它们通常换入快龙以应对潜在的龙之舞配置。它还能打击龙属性宝可梦如对手的快龙、轰鸣月和猛雷鼓，且没有锁招逆鳞的风险。火焰拳是理想的第四招式，是快龙对盔甲鸟、钢铠鸦和气球赛富豪的最高伤害选项，这些宝可梦在隐形岩削弱后均会被稳定2HKO。地震是另一个选项，为对抗某些宝可梦如猛雷鼓提供了更安全的选择，并且是对抗席多蓝恩时独特的强力选项，但这会使快龙被飘浮的钢属性宝可梦如盔甲鸟彻底阻挡。选择固执性格是因为神速降低了对爽朗性格的需求，并且它能关键地对前述宝可梦如钢铠鸦和西狮海壬造成更高伤害。太晶一般使得神速能够稳定复仇杀，同时移除了快龙的所有原始弱点。这降低了来自隐形岩的伤害，并使快龙能够承受多龙巴鲁托的龙箭和玛狃拉的三旋击等攻击。</p>\n<p>讲究头带快龙需要特定的支援才能发挥出色。由于它弱隐形岩、需要保护多重鳞片、且不携带厚底靴，它欣赏来自雄伟牙或布莉姆温等宝可梦的撒菱控制。类似地，为了保护多重鳞片并找到良好的突破机会，轮转手是优秀的队友。伽勒尔呆呆王、土地云-灵兽和西狮海壬都能在防御端支援队伍，同时使用它们的轮转招式安全换上快龙。西狮海壬额外能够换入并逼退多龙巴鲁托等威胁，而伽勒尔呆呆王则能用预知未来设置危险的将军局面，以限制皮可西和藏玛然特等防御型check。场地伤害极大地帮助快龙稳定2HKO以及终盘清场，因此撒菱手如洗翠大剑鬼和古鼎鹿也很适合，隐形岩布置者如土地云-灵兽和雄伟牙也是如此。其他攻击型宝可梦与快龙配合良好，快速的清场手如铁武者和轰鸣月尤其欣赏快龙的破盾能力及其多重鳞片和先制招式的防御效用。赛富豪和铁毒蛾是强大的队友，因为它们能利用威胁快龙的妖精属性和钢属性宝可梦，同时保持攻击压力。由于此配置依赖讲究类道具，保护使用者如保姆曼波、盐石巨灵和天蝎王能极大地限制快龙。厄诡椪-水井面具是一个能威胁这些宝可梦的队友，同时通常也能帮助对抗那些宝可梦所在的队伍风格。仆刀将军值得一提，因为它和快龙可以相互帮助消耗物理盾牌，并用它们强力的先制攻击在终局清场。巨锻匠是另一个选项，作为隐形岩布置者，它还能帮助check潜在的复仇杀手如多龙巴鲁托和达克莱伊，同时传播电磁波麻痹以给快龙更多自由攻击的机会。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Outrage",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Ice Spinner",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Fire Punch",
+                "type": null
+              },
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal"
+          ]
+        },
+        {
+          "name": "Bulky Attacker",
+          "description": "<p>Chinese Set: 耐久型物攻手快龙 || 招式：龙尾|神速|地震|羽栖 || 特性：多重鳞片 || 努力值：252 HP / 240 攻击 / 16 速度 || 性格：固执 || 太晶属性：一般</p>\n<p>快龙能更充分地发挥其防御特性，并结合强力的属性一致招式龙尾与神速，成为出色的反制攻击型队伍的工具。它利用自身属性组合、耐久以及可靠的回复招式羽栖，更稳定地换入并反击厄诡椪-水井面具、铁毒蛾和凯路迪欧等对手；此外，在多重鳞片生效的状态下，它甚至能紧急Check更广泛的威胁，通过承受强化后或效果绝佳的招式来应急，包括来自达克莱伊、猛雷鼓和对手快龙等宝可梦的攻击。这种承伤能力使其能更可靠地用龙尾将它们强制换下场，这对阵其他强化型清场手如藏玛然特、天蝎王和气球赛富豪时也很有帮助，否则它们在足够强化后可以在快龙面前强化并突破它。此外，在像藏玛然特、铁毒蛾和猛雷鼓这样的攻击型核心尚未准备好清场时迫使它们上场，实质上浪费了它们的不屈之盾特性和驱劲能量。一旦它们被消耗到足够程度，这些攻击型威胁就会被神速轻松收割，尤其是脆弱的魔幻假面喵、铁武者和眷恋云；神速也有助于处理来自猛雷鼓、洗翠大剑鬼以及非太晶幽灵玛狃拉和仆刀将军等对手的先制招式。除了配合场地伤害削弱对手外，龙尾还有额外好处，能够逼退它无法轻易威胁的盾牌和换入者如盔甲鸟、吃吼霸和保姆曼波，尤其能阻止后者向期望的队友传递许愿。地震完善了其打击面，用于打击钢属性宝可梦如仆刀将军、赛富豪和巨锻匠。太晶一般增强其神速的威力，达成关键KO，例如2HKO铁武者、达克莱伊和洗翠大剑鬼。此外，它摆脱了快龙的所有弱点并赋予其优秀的中性抗性，显著改善了其对阵眷恋云、玛狃拉和多龙巴鲁托等威胁的MU。16点速度努力值足以让快龙超速固执性格的仆刀将军。</p>\n<p>快龙被用于平衡队与平衡攻队伍中，这些队伍欣赏其防御效用和可观的压制力，尤其在对阵攻击型队伍时。它与这些构筑中出现的各类盾牌配对良好；钢属性宝可梦如赛富豪、钢铠鸦和巨锻匠可以通过处理酋雷姆、玛狃拉、铁武者和眷恋云等对手来弥补其大部分短板，其中巨锻匠和赛富豪尤为出色，能作为对其他妖精属性强化型清场手如皮可西和布莉姆温的临时防线，这些宝可梦不仅威胁逼退快龙，而且无法被其龙尾强制换下。作为回报，快龙可以换入来自土地云-灵兽等宝可梦针对赛富豪和巨锻匠的地面属性招式。前述的钢铠鸦和其他宝可梦如皮可西和天蝎王是优秀的拍落吸收者，应对雄伟牙、对手天蝎王和皮可西等宝可梦，让快龙能保住其宝贵的厚底靴。然而，快龙本应换入的宝可梦，如厄诡椪-水井面具和洗翠大剑鬼，将不可避免地用拍落攻击它；雄伟牙、伽勒尔双弹瓦斯和前述的钢铠鸦作为清钉手段表现优秀，能确保隐形岩仍然不构成问题。此外，天蝎王、皮可西和其他宝可梦如古鼎鹿和盔甲鸟自身作为撒钉手很有价值，让队伍在与快龙的龙尾配合时能积累消耗伤害，将眷恋云和铁毒蛾等关键目标HP压至更接近神速的斩杀线，其中古鼎鹿的大灾难能立即压制对手血线，让快龙更轻松地在终局清场。古鼎鹿和皮可西也擅长换入多龙巴鲁托，否则多龙巴鲁托无法被快龙复仇杀死且能逼退快龙。作为回报，快龙为它们抵御如厄诡椪-水井面具和铁毒蛾等威胁，其普遍能够紧急Check其他攻击型威胁的能力为它们提供了更多的喘息空间。天蝎王、皮可西以及更偏向攻击型的宝可梦如达克莱伊和玛狃拉也是优秀的拍落使用者，通过移除厚底靴与队伍的场地状态及快龙的龙尾良好协同，更有效地削弱对手以便快龙在终局清场。前述的达克莱伊和玛狃拉连同其他攻击型宝可梦如藏玛然特能压制进攻型队伍，因此快龙在面对极大进攻压力时不会被过劳。在更偏向平衡攻的队伍中，快龙甚至可以搭配更广泛范围的攻击型队友，包括厄诡椪-水井面具、仆刀将军和铁武者。厄诡椪-水井面具尤其能对阵快龙难以应对的耐久型队伍强烈施压，而铁武者及其再来一次可以限制皮可西和猛雷鼓这些快龙无法用龙尾强制换下的妖精属性和太晶妖精的强化清场手。而且，快龙倾向于迫使铁武者、达克莱伊和玛狃拉等打手太晶化为幽灵属性以规避其神速，这使得仆刀将军、达克莱伊和玛狃拉能更轻松地处理它们。虽然偏向进攻型，它们仍能为快龙提供防御效用；例如，仆刀将军Check多龙巴鲁托和酋雷姆，藏玛然特处理仆刀将军，而它们两者都能应对玛狃拉。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Dragon Tail",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Extreme Speed",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Earthquake",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Roost",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Dragonite",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Normal"
+          ]
+        }
+      ]
+    }
+  ]
+}

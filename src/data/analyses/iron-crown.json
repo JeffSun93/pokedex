@@ -1,0 +1,288 @@
+{
+  "id": 1023,
+  "name": "iron-crown",
+  "nameZh": "鐵頭殼",
+  "tier": "OU",
+  "en": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Choice Specs",
+          "description": "<p>Leveraging its high Special Attack and good coverage, Choice Specs Iron Crown is a strong wallbreaker that can 2HKO a number of the metagame's defensive options like <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a> and <a href=\"/dex/sv/pokemon/gliscor/ou/\" hreflang=\"en\">Gliscor</a>. Tachyon Cutter being a multi-hit move lets Iron Crown OHKO Focus Sash <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> without activating Toxic Debris, break Multiscale on <a href=\"/dex/sv/pokemon/dragonite/ou/\" hreflang=\"en\">Dragonite</a>, and deal significant damage to <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>. Psyshock is preferred to let Iron Crown take on specially defensive walls like <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, and <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, while Psychic Noise can be used instead to prevent Pokemon like <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/sv/pokemon/zapdos/ou/\" hreflang=\"en\">Zapdos</a> from healing in front of it. Volt Switch lets Iron Crown pivot out of Pokemon it would otherwise struggle against while also dealing significant damage to the likes of <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>. Focus Blast helps Iron Crown deal with Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a> and is its best option to damage <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>. Tera Steel increases the power of Tachyon Cutter, letting it 2HKO offensive <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a> variants and OHKO fully HP invested Landorus-T most of the time, while Tera Fighting Focus Blast guarantees a 2HKO on Ting-Lu, as well as OHKOes <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a> most of the time and guarantees an OHKO on <a href=\"/dex/sv/pokemon/cinderace/ou/\" hreflang=\"en\">Cinderace</a>. Both Tera types also remove Iron Crown's weakness to Dark-type moves, improving its matchup against offensive Dark-types like Kingambit and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>.</p>\n<p>Choice Specs Iron Crown needs physically offensive teammates like <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a> and Dragonite that can reliably remove specially defensive Pokemon like Ting-Lu and Blissey. In return, they benefit from Iron Crown being able to handle physical walls like <a href=\"/dex/sv/pokemon/clefable/ou/\" hreflang=\"en\">Clefable</a> and <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>. Because Iron Crown will be consistently locked into one move, it's easier to revenge kill, so it needs defensive teammates such as Primarina and Landorus-T that can switch into faster offensive Pokemon like <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> and Zamazenta while also providing pivot support for Iron Crown. Alomomola is another good teammate for Iron Crown, pivoting it into favorable matchups and keeping it healthy with Wish. Gholdengo is especially annoying for Iron Crown, as it resists both of its STAB moves and can easily heal off damage, so teammates like Kingambit and <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a> that can easily take care of it are useful. Finally, Iron Crown benefits from entry hazard setters like Hisuian Samurott that can soften up foes and allow it to clean them up easier.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Crown",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Steel",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "description": "<p>Assault Vest Iron Crown serves as a strong offensive pivot and sturdy check to a bevy of special attackers like Calm Mind <a href=\"/dex/sv/pokemon/iron-valiant/ou/\" hreflang=\"en\">Iron Valiant</a>, <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>. Tachyon Cutter's multi-hit properties allow it to bypass <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a>'s Focus Sash to OHKO it before it can set up any entry hazards. Future Sight's delayed damage puts a tremendous amount of pressure on the opposing team, since Dark-types switching in to block Future Sight or Steel-types and special walls trying to sponge the attack will have to survive powerful physical attacks from teammates like <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a>, <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>, <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>, and <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>; Psychic Noise offers lower but more immediate damage while simultaneously nullifying recovery attempts from <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>, <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a>, <a href=\"/dex/sv/pokemon/garganacl/ou/\" hreflang=\"en\">Garganacl</a>, and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a>, allowing Iron Crown and its teammates to force significant damage against these threats. Focus Blast rounds out Iron Crown's coverage by hitting Kingambit, <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a>, and Tera Steel Clodsire super effectively, and it is also its strongest attack against opposing Iron Crown. Volt Switch allows Iron Crown to capitalize on its ability to force out most special attackers and gain momentum for its team and has great synergy with Future Sight by safely pivoting in the aforementioned powerful physical attackers that can take advantage of the chip damage or switches it forces. Assault Vest greatly boosts Iron Crown's special bulk, allowing it to better handle special attackers like Calm Mind Iron Valiant and Enamorus. Tera Fighting turns Iron Crown's weakness to Dark-type attacks into a resistance, allowing it to survive Kingambit's Sucker Punch in a pinch while boosting its Focus Blast to 2HKO Ting-Lu and physically defensive Corviknight; Tera Fairy also offers a Dark resistance, but the Dragon immunity, Fighting resistance, and Fairy neutrality it provides allow Iron Crown to better check <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> and more reliably handle mixed and physical Iron Valiant sets without compromising its ability to check Calm Mind variants as heavily.</p>\n<p>Iron Crown is best run on bulky offense teams, which can both cover Iron Crown's defensive shortcomings and maintain a similar level of offensive pressure, often in the form of additional pivoting options to maintain momentum. Hisuian Samurott is a spectacular teammate; it can form a VoltTurn core with Iron Crown using Flip Turn, reliably set Spikes with Ceaseless Edge, and even remove Heavy-Duty Boots with its strong STAB Knock Off to allow the duo to rack up massive amounts of lasting damage through Spikes and Future Sight or Psychic Noise. The two share excellent defensive synergy, as Hisuian Samurott's Ghost and Dark resistances cover Dragapult, Gholdengo, and opposing Hisuian Samurott while Iron Crown's Grass and Fairy resistances cover <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a> and Iron Valiant. Ceaseless Edge and Knock Off have impeccable synergy with Future Sight, and Hisuian Samurott's Razor Shell hits Dark-types like Ting-Lu and Kingambit very hard, rendering Iron Crown's Future Sight much more difficult to switch in against. <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a> is another great teammate; it also forms a powerful VoltTurn core with Iron Crown, can blanket check most physical attackers with Intimidate and Rocky Helmet to complement Iron Crown's ability to blanket check most special attackers with Assault Vest, can set up Stealth Rock, and the two also boast impeccable defensive synergy courtesy of Iron Crown checking Ice Beam users like <a href=\"/dex/sv/pokemon/deoxys-speed/ou/\" hreflang=\"en\">Deoxys-S</a> and Landorus-T checking physical Iron Valiant and <a href=\"/dex/sv/pokemon/heatran/ou/\" hreflang=\"en\">Heatran</a>. Together, Iron Crown, Hisuian Samurott, and Landorus-T form an extremely powerful core that resists every type in the game, utilizes multiple pivoting options, sets up both Stealth Rock and Spikes, and can blanket check many physical and special attackers alike. Calm Mind <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a> is a good teammate that can run Psychic Noise itself, allowing Iron Crown to more freely run Future Sight, and can take advantage of Iron Crown's ability to wear down teams over time to set up for a late-game sweep once threats like Encore Iron Valiant are dealt with. Physically defensive <a href=\"/dex/sv/pokemon/moltres/ou/\" hreflang=\"en\">Moltres</a> is another solid teammate, as it can reliably check most physical attackers by spreading burn with Will-O-Wisp and Flame Body and heavily punishes Dark-types like Kingambit and Hisuian Samurott and Steel-types like Gholdengo aiming to switch into Future Sight, and appreciates Iron Crown's ability to temporarily keep special attackers like Deoxys-S and <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a> at bay. Kingambit itself makes for a strong teammate, as with Iron Crown's Future Sight support, Kingambit has a much easier time both finding opportunities to set up with Swords Dance and muscle past physical walls like <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a> and <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, which are quickly overwhelmed by the combination of Future Sight and powerful Dark-type attacks possibly boosted further by Black Glasses, Tera Dark, and Supreme Overlord. Kingambit additionally resists Ghost- and Dark-type attacks from the likes of Gholdengo and opposing Kingambit lacking Low Kick, which Iron Crown greatly appreciates. Zamazenta and Weavile also greatly appreciate both Iron Crown's Future Sight support and its pivoting capabilities, allowing them to be brought in safely and giving them opportunities to fire off a powerful Body Press or Knock Off that, when paired with Future Sight, can prove nearly impossible to switch in against.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Crown",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "description": "<p>With solid bulk, a one-time Speed boost, and near-perfect coverage, Calm Mind Iron Crown is a solid sweeper and late-game cleaner. Tachyon Cutter has the benefit of hitting twice, allowing Iron Crown to OHKO common Focus Sash leads in <a href=\"/dex/sv/pokemon/glimmora/ou/\" hreflang=\"en\">Glimmora</a> and <a href=\"/dex/sv/pokemon/ribombee/ou/\" hreflang=\"en\">Ribombee</a>, giving it an alternate use as an anti-lead that denies entry hazards. Tachyon Cutter also allows Iron Crown to break Substitutes while chipping the Pokemon hiding behind it; it can break <a href=\"/dex/sv/pokemon/zamazenta/ou/\" hreflang=\"en\">Zamazenta</a>’s Substitute after one Calm Mind and <a href=\"/dex/sv/pokemon/kyurem/ou/\" hreflang=\"en\">Kyurem</a>’s without any Calm Mind boosts. After one Calm Mind, Iron Crown can hit several important ranges with Tachyon Cutter such as an OHKO on Kyurem and a good chance to KO offensive <a href=\"/dex/sv/pokemon/landorus-therian/ou/\" hreflang=\"en\">Landorus-T</a>; it also secures a 2HKO against defensive Landorus-T variants while not being 2HKOed by Earth Power. The choice of Psychic-type STAB move depends on the team's needs: Psyshock targets the lower Defense of <a href=\"/dex/sv/pokemon/slowking-galar/ou/\" hreflang=\"en\">Galarian Slowking</a>, <a href=\"/dex/sv/pokemon/ogerpon-wellspring/ou/\" hreflang=\"en\">Ogerpon-W</a>, and <a href=\"/dex/sv/pokemon/primarina/ou/\" hreflang=\"en\">Primarina</a>, while Psychic Noise prevents walls such as <a href=\"/dex/sv/pokemon/dondozo/ou/\" hreflang=\"en\">Dondozo</a>, <a href=\"/dex/sv/pokemon/pecharunt/ou/\" hreflang=\"en\">Pecharunt</a>, <a href=\"/dex/sv/pokemon/alomomola/ou/\" hreflang=\"en\">Alomomola</a>, and <a href=\"/dex/sv/pokemon/corviknight/ou/\" hreflang=\"en\">Corviknight</a> from spamming recovery to outlast Iron Crown. Stored Power is an option that can reach astonishing power levels, capable of breaking past almost any non-immune wall; however, it requires several turns of setup and has no benefit other than raw damage. Focus Blast complements Iron Crown's STAB combination by providing excellent neutral and super effective coverage against everything in the metagame except <a href=\"/dex/sv/pokemon/gholdengo/ou/\" hreflang=\"en\">Gholdengo</a>. It is Iron Crown's best way of hitting <a href=\"/dex/sv/pokemon/ting-lu/ou/\" hreflang=\"en\">Ting-Lu</a> and Steel-types like <a href=\"/dex/sv/pokemon/kingambit/ou/\" hreflang=\"en\">Kingambit</a> and <a href=\"/dex/sv/pokemon/iron-treads/ou/\" hreflang=\"en\">Iron Treads</a>. The EV spread maximizes Iron Crown's offensive capabilities while letting Booster Energy enhance its Speed; the leftover EVs are invested into HP for increased survivability, notably allowing Iron Crown to survive a Choice Specs Kyurem Earth Power. Tera Fighting and Tera Fairy remove Iron Crown's original weaknesses, most notably both turning its weakness to Dark-type moves such as Kingambit and <a href=\"/dex/sv/pokemon/samurott-hisui/ou/\" hreflang=\"en\">Hisuian Samurott</a>’s Sucker Punch into a resistance to give it an easier time sweeping. Tera Fighting strengthens Iron Crown's Focus Blast, OHKOing <a href=\"/dex/sv/pokemon/darkrai/ou/\" hreflang=\"en\">Darkrai</a> 2HKOing on Ting-Lu at +1. Tera Fairy is a more defensive Tera type that, unlike Tera Fighting, gives it fewer weaknesses. It further improves Iron Crown’s matchups against <a href=\"/dex/sv/pokemon/walking-wake/ou/\" hreflang=\"en\">Walking Wake</a>, <a href=\"/dex/sv/pokemon/raging-bolt/ou/\" hreflang=\"en\">Raging Bolt</a>, and <a href=\"/dex/sv/pokemon/dragapult/ou/\" hreflang=\"en\">Dragapult</a> by turning the Dragon resistance into an immunity.</p>\n<p>Calm Mind Iron Crown best fits on offense teams that appreciate its unique traits as a sweeper. Due to its low initial damage output, Iron Crown will struggle against bulky threats such as Ting-Lu, Galarian Slowking, and Gholdengo, which require significant chip damage for it to break through them. Teammates such as Hisuian Samurott and Ogerpon-W significantly threaten these bulky foes, and in return, Iron Crown can deal with Kyurem and <a href=\"/dex/sv/pokemon/rillaboom/ou/\" hreflang=\"en\">Rillaboom</a>. Iron Crown is also extremely vulnerable to many offensive threats, many of which can survive almost any hit from an unboosted Iron Crown such as Hisuian Samurott, Landorus-T, and Kingambit; they can either force a Tera or outright KO Iron Crown. Ogerpon-W and <a href=\"/dex/sv/pokemon/iron-moth/ou/\" hreflang=\"en\">Iron Moth</a> also resist Tachyon Cutter and threaten a clean 2HKO on Iron Crown. As such, Iron Crown appreciates pivots such as Pecharunt, which walls Ogerpon-W and weakens it with Parting Shot, and Alomomola, which can take hits from <a href=\"/dex/sv/pokemon/weavile/ou/\" hreflang=\"en\">Weavile</a>, Hisuian Samurott, and other physical threats and threaten a burn with Scald to enable Iron Crown set up on them. Furthermore, special walls like <a href=\"/dex/sv/pokemon/blissey/ou/\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/sv/pokemon/clodsire/ou/\" hreflang=\"en\">Clodsire</a> using Tera Dark completely wall Iron Crown, as Focus Blast does insufficient damage. Because of this, Iron Crown appreciates physically offensive teammates, such as Hisuian Samurott, <a href=\"/dex/sv/pokemon/great-tusk/ou/\" hreflang=\"en\">Great Tusk</a>, and Zamazenta, that can deal with its checks; in return, they appreciate Iron Crown's removal of Fairy- and Fighting-type threats such as <a href=\"/dex/sv/pokemon/enamorus/ou/\" hreflang=\"en\">Enamorus</a>, <a href=\"/dex/sv/pokemon/hatterene/ou/\" hreflang=\"en\">Hatterene</a>, and Great Tusk. Hisuian Samurott and Great Tusk also set entry hazards to accumulate chip damage, which can compensate for this set's low initial power and allow Iron Crown to clean up or sweep earlier than expected.</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Crown",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ]
+        }
+      ]
+    }
+  ],
+  "cn": [
+    {
+      "format": "OU",
+      "overview": "",
+      "comments": "",
+      "movesets": [
+        {
+          "name": "Calm Mind",
+          "description": "<p>Chinese Set: 冥想铁头壳 || 招式：冥想|迅子利刃|精神冲击/精神噪音|真气弹 || 道具：驱劲能量 || 特性：夸克充能 || 努力值：84 HP/172 特攻/252 速度 || 性格：胆小 || 太晶属性：格斗/妖精 || 个体值：20 攻击</p>\n<p>凭借扎实的耐久、一次性的速度提升以及近乎完美的打击面，冥想铁头壳是一名强力的强化型终局清场手。迅子利刃拥有攻击两次的好处，使铁头壳能OHKO晶光花与蝶结萌虻等常见气势披带首发，可额外作为反钉首发使用。迅子利刃还允许铁头壳打破替身并削弱对手；它能在一次冥想后打破藏玛然特的替身，且无需任何冥想强化即可打破酋雷姆的替身。一次冥想后，铁头壳能用迅子利刃OHKO酋雷姆并有较大概率击倒进攻型土地云-灵兽；确保2HKO防御型土地云-灵兽，同时自身不会被大地之力2HKO。超能力属性一致招式的选择取决于队伍需求：精神冲击针对较低防御的伽勒尔呆呆王、厄诡椪-水井面具与西狮海壬，而精神噪音则阻止吃吼霸、桃歹郎、保姆曼波与钢铠鸦等盾牌通过频繁回复来消耗铁头壳。辅助力量是一个能达到惊人威力水平的选项，能够突破几乎任何非免疫盾牌；然而它需要多回合强化且除纯粹伤害外无其他收益。真气弹能至少对环境中除赛富豪外一切宝可梦造成一倍伤害，完善了铁头壳的打击面。它是铁头壳打击古鼎鹿及仆刀将军与铁辙迹等钢属性宝可梦的最佳手段。该努力值分配最大化铁头壳的进攻能力，同时让驱劲能量提升其速度；剩余努力值投入HP以增加生存能力，关键地使铁头壳能承受讲究眼镜酋雷姆的一次大地之力。太晶格斗与太晶妖精移除了铁头壳原有的弱点，最关键的是两者均将其对仆刀将军与洗翠大剑鬼的突袭等恶属性招式的弱点转变为抗性，使其更轻松地进行清场。太晶格斗强化铁头壳的真气弹，使其能在+1特攻时OHKO达克莱伊并对古鼎鹿实现2HKO。太晶妖精是更偏防御的太晶属性，与太晶格斗不同，它赋予铁头壳更少的弱点，提供龙属性免疫进一步改善了铁头壳与波荡水、猛雷鼓及多龙巴鲁托的对位。</p>\n<p>冥想铁头壳最适合欣赏其作为清场手独特特质的进攻队伍。由于其初始伤害输出较低，铁头壳将难以应对古鼎鹿、伽勒尔呆呆王与赛富豪等耐久型威胁，这些需要显著削弱后才能突破。洗翠大剑鬼与厄诡椪-水井面具等队友能威胁这些耐久型对手，而作为回报，铁头壳能处理酋雷姆与轰擂金刚猩。铁头壳也极度弱于许多进攻威胁，其中多数能承受未强化铁头壳的几乎任何攻击，例如轰鸣月、洗翠大剑鬼、土地云-灵兽与仆刀将军；它们要么迫使铁头壳太晶化，要么直接将其KO。厄诡椪-水井面具与铁毒蛾也抵抗迅子利刃并2HKO铁头壳，因此，铁头壳欣赏桃歹郎等轮转手的支援，前者能抵挡厄诡椪-水井面具并用抛下狠话削弱它，以及保姆曼波等轮转手，它能承受轰鸣月、洗翠大剑鬼及其他物理威胁的攻击并用热水灼伤对手，使铁头壳能在它们面前强化。此外，幸福蛋与太晶恶土王等特防盾牌能完全阻挡铁头壳，因为真气弹造成的伤害不足。因此，铁头壳欣赏洗翠大剑鬼、雄伟牙、藏玛然特与轰鸣月等物理进攻型队友，它们能处理其Check；作为回报，它们欣赏铁头壳移除眷恋云、布莉姆温与雄伟牙等妖精属性与格斗属性威胁。洗翠大剑鬼与雄伟牙还能布置场地伤害以积累消耗伤害，这可补偿该配置较低的初始威力，并使铁头壳能较预期更早地进行清场。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Calm Mind",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Crown",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Choice Specs",
+          "description": "<p>Chinese Set: 铁头壳||招式：迅子利刃|精神冲击|伏特替换|真气弹 || 特性：夸克充能 || 努力值：4 Def / 252 SpA / 252 Spe ||性格：内敛 || 太晶属性：钢/格斗</p>\n<p>凭借其高特攻和出色的打击面，讲究眼镜铁头壳是一个强力的破盾手，能够2HKO环境中众多的防御型对手，如盐石巨灵和天蝎王。迅子利刃作为多次攻击招式，让铁头壳能够在不触发晶光花的毒满地的情况下OHKO它，击破快龙的多重鳞片，稳定OHKO酋雷姆，并对土地云-灵兽造成显著伤害。选择精神冲击让铁头壳能够应对特防盾牌，如伽勒尔呆呆王、土王和幸福蛋，而亦可选择精神噪音来阻止像钢铠鸦和闪电鸟这样的宝可梦在它面前回复。伏特替换让铁头壳能够从它难以应对的宝可梦面前轮转走，同时也能对西狮海壬和保姆曼波这类宝可梦造成可观伤害。真气弹帮助铁头壳处理钢属性宝可梦，如仆刀将军和铁辙迹，也是它伤害古鼎鹿的最佳手段。太晶钢提升了迅子利刃的威力，使其大多数时候能2HKO攻击型的赛富豪并OHKO拉满HP努力值的土地云-灵兽，而太晶格斗的真气弹则能保证2HKO古鼎鹿，同时大多数时候能OHKO厄诡椪-水井面具并保证OHKO闪焰王牌。两种太晶属性也都移除了铁头壳对恶属性招式的弱点，改善了它对抗攻击型恶属性宝可梦如仆刀将军和洗翠大剑鬼的MU。</p>\n<p>讲究眼镜铁头壳需要物理输出型队友，如藏玛然特和多龙巴鲁托，它们能可靠地清除特防型宝可梦，如古鼎鹿和幸福蛋。作为回报，它们也受益于铁头壳处理物理盾牌如皮可西和吃吼霸的能力。由于铁头壳会持续被锁在一个招式上，它更容易被复仇杀，因此它需要防御型队友，如西狮海壬和土地云-灵兽，它们能换入更快的攻击型宝可梦如达克莱伊和轰鸣月，同时也能为铁头壳提供轮转支援。保姆曼波是铁头壳的另一位好队友，能将它轮转入有利的MU并通过祈愿保持其HP健康。赛富豪对铁头壳而言尤其烦人，因为它抵抗其两个属性一致招式并能轻松回复所受伤害，因此能轻松处理它的队友如仆刀将军和雄伟牙就很有用。最后，铁头壳受益于撒钉手，如洗翠大剑鬼，它们能削弱对手并让铁头壳更轻松地完成清场。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Psyshock",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Crown",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Steel",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Assault Vest",
+          "description": "<p>Chinese Set: 突击背心铁头壳 || 招式：迅子利刃|预知未来/精神噪音|真气弹|伏特替换 || 道具：突击背心 || 特性：夸克充能 || 努力值：252 特攻/4 特防/252 速度 || 性格：胆小 || 太晶属性：格斗/妖精 || 个体值：20 攻击</p>\n<p>突击背心铁头壳凭借其均衡的种族值、良好的防御属性、扎实的进攻招式池以及伏特替换这一出色的轮转手段，成为强力的进攻型轮转手并能稳定Check酋雷姆和冥想铁武者等大量特攻手。迅子利刃的多重打击特性使其能同时打破酋雷姆的替身并随后对其造成显著伤害，还能绕过晶光花的气势披带在其布置任何场地伤害前将其OHKO。预知未来的延迟伤害对对手队伍施加巨大压力，因为换入阻挡预知未来的恶属性宝可梦或试图承受该攻击的钢属性宝可梦及特防盾牌将必须承受雄伟牙、仆刀将军、洗翠大剑鬼、藏玛然特和玛狃拉等队友的强大物理攻击；精神噪音提供较低但更即时的伤害，同时阻止赛富豪、幸福蛋、钢铠鸦、盐石巨灵和土王回复，使铁头壳及其队友能对这些对手造成显著磨损。真气弹通过效果拔群地打击仆刀将军、古鼎鹿、轰鸣月和太晶钢土王来完善铁头壳的打击面，并且它也是打击对方铁头壳的最强招式。伏特替换允许铁头壳逼退大多数特攻手并为队伍争取节奏，并与预知未来有极佳协同，能安全轮转上场前述能利用其造成的持续伤害或所迫使换入的强力物理攻击手。突击背心极大提升铁头壳的特防，使其能更好应对酋雷姆、冥想铁武者和眷恋云等特攻手。讲究眼镜是更进攻向队伍的可行替代选择，能将铁头壳的输出提升至惊人水平，使其甚至能用太晶格斗真气弹直接2HKO幸福蛋。然而这以极大牺牲其特防为代价，导致其易被讲究眼镜酋雷姆的反复攻击消耗，并在隐形岩后可能被铁武者的暗影球2HKO；它还会锁招。太晶格斗将铁头壳恶属性弱点转变为抗性，使其能在紧急情况下承受仆刀将军的突袭，同时使其能用真气弹2HKO古鼎鹿和物防型钢铠鸦；太晶妖精也提供恶属性抗性，但其提供的龙属性免疫、格斗属性抗性及妖精属性中性相性使铁头壳能更好Check多龙巴鲁托，并更可靠地应对双刀或物攻铁武者而不严重影响其Check冥想配置的能力。</p>\n<p>铁头壳最适合在平衡攻队中使用，这些队伍既能弥补铁头壳的防御短板又能保持相近的进攻压力，还通常附加轮转手段维持节奏。洗翠大剑鬼是极佳的队友；它能与铁头壳使用快速折返形成游击核心，用秘剑・千重涛稳定撒菱，甚至能用其强力的属性一致拍落移除厚底靴，使二者能通过撒菱和预知未来或精神噪音积累大量持续伤害。两者拥有出色的防御互补，洗翠大剑鬼的幽灵属性和恶属性抗性覆盖多龙巴鲁托、赛富豪和对位洗翠大剑鬼，而铁头壳的草属性和妖精属性抗性覆盖轰擂金刚猩和铁武者。秘剑・千重涛与拍落和预知未来具有完美协同性，且洗翠大剑鬼的贝壳刃能重击古鼎鹿和仆刀将军等恶属性宝可梦，使得铁头壳的预知未来极难被安全换入抵抗。土地云-灵兽是另一位优秀队友；它同样能与铁头壳形成强力的游击核心，能用威吓和凸凸头盔Check大多数物理攻击手以补充铁头壳用突击背心Check大多数特攻手的能力，能布置隐形岩，且铁头壳Check代欧奇希斯-速度形态等冰冻光束使用者，土地云-灵兽Check物攻铁武者和席多蓝恩。铁头壳、洗翠大剑鬼与土地云-灵兽共同构成极其强大的核心，能抵抗游戏中所有属性的招式，运用多种轮转手段，布置隐形岩与撒菱，并能广泛Check许多物理与特攻攻击手。冥想西狮海壬是优秀队友，其自身能携带精神噪音，使铁头壳更自由地选择预知未来，并能利用铁头壳长线消耗对手的能力，一旦再来一次铁武者等威胁被处理，便可进行强化清场。物防型火焰鸟是另一位可靠队友，它能通过磷火与火焰之躯散布灼伤来稳固Check大多数物攻手，并严重惩罚试图换入预知未来的仆刀将军和洗翠大剑鬼等恶属性宝可梦及赛富豪等钢属性宝可梦，同时欣赏铁头壳暂时阻挡酋雷姆、代欧奇希斯-速度形态和波荡水等特攻手的能力。仆刀将军本身也是铁头壳的强大队友，在铁头壳的预知未来支援下，仆刀将军能更轻松地找到机会使用剑舞强化并突破吃吼霸和保姆曼波等物理盾牌，这些盾牌会迅速被预知未来与可能因黑色眼镜、太晶恶及大将进一步强化的强力恶属性攻击组合压垮。仆刀将军额外抵抗来自赛富豪及缺乏踢倒的对位仆刀将军的幽灵属性与恶属性攻击，这是铁头壳所青睐的。藏玛然特与玛狃拉也极为欣赏铁头壳的预知未来支援及其轮转能力，这使它们安全换入并获得机会使出强力的扑击或拍落，当与预知未来配合时几乎无法被安全换入抵抗。</p>",
+          "moveslots": [
+            [
+              {
+                "move": "Tachyon Cutter",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Future Sight",
+                "type": null
+              },
+              {
+                "move": "Psychic Noise",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Focus Blast",
+                "type": null
+              }
+            ],
+            [
+              {
+                "move": "Volt Switch",
+                "type": null
+              }
+            ]
+          ],
+          "pokemon": "Iron Crown",
+          "ability": [],
+          "item": [],
+          "nature": [],
+          "evs": {},
+          "ivs": {},
+          "teratypes": [
+            "Fighting",
+            "Fairy"
+          ]
+        }
+      ]
+    }
+  ]
+}
