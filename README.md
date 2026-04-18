@@ -1,73 +1,85 @@
-# React + TypeScript + Vite
+# Pokédex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Smogon-style Pokédex built with React, TypeScript, and Vite. Covers all 1025 Pokémon with Chinese/English bilingual support and locally hosted images.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **1025 Pokémon** — full National Dex coverage
+- **Bilingual UI** — Chinese (简体) and English names & descriptions
+- **Tier browser** — browse Pokémon by Smogon usage tier (OU, UU, RU, NU, PU, Ubers, etc.)
+- **Strategy analyses** — per-Pokémon Smogon analysis viewer
+- **Filtering & search** — filter by type, tier, or name
+- **Local images** — no external image requests at runtime
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Layer | Technology |
+|-------|-----------|
+| Framework | React 19 + TypeScript |
+| Build | Vite 8 |
+| Routing | React Router v7 |
+| HTTP | Axios |
+| Lint | ESLint + typescript-eslint |
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install
+npm run dev        # starts dev server on http://localhost:5173
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Available Scripts
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+| Script | Description |
+|--------|-------------|
+| `npm run dev` | Start dev server (port 5173) |
+| `npm run build` | Type-check and build for production |
+| `npm run preview` | Preview production build locally |
+| `npm run lint` | Run ESLint |
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Data Scripts
+
+Run these to refresh the local data files under `src/data/`:
+
+```bash
+npm run data:all        # run all fetch/patch steps in sequence
+npm run data:fetch      # fetch base Pokémon data from PokéAPI
+npm run data:zh         # patch in Chinese names
+npm run data:abilities  # patch in ability data
+npm run data:tiers      # patch in Smogon tier assignments
+npm run data:analyses   # fetch Smogon strategy analyses
 ```
+
+## Project Structure
+
+```
+src/
+├── components/       # Reusable UI components
+│   ├── AnalysisView  # Smogon strategy text display
+│   ├── FilterBar     # Type/tier/name filters
+│   ├── Header        # Site navigation
+│   ├── PokemonCard   # Grid card view
+│   ├── PokemonListRow# List row view
+│   ├── PokemonModal  # Detail modal
+│   ├── StatBar       # Base stat visualisation
+│   ├── TierBadge     # Tier label chip
+│   └── TypeBadge     # Type label chip
+├── pages/
+│   ├── PokedexPage       # / — main Pokédex grid/list
+│   ├── TiersIndexPage    # /tiers — tier overview
+│   └── TierPage          # /tiers/:slug — per-tier Pokémon list
+├── data/
+│   ├── pokemon.json      # All Pokémon data (generated)
+│   └── analyses/         # Smogon analyses (generated)
+├── hooks/
+├── types/
+└── utils/
+```
+
+## Routes
+
+| Path | Page |
+|------|------|
+| `/` | Main Pokédex (search, filter, browse) |
+| `/tiers` | Tier index |
+| `/tiers/:slug` | Pokémon list for a specific tier |
